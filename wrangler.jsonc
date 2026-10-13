@@ -1,0 +1,10 @@
+{
+  // Tên phải TRÙNG tên Worker trên dashboard Cloudflare (Workers & Pages → tên project).
+  "name": "muscle-sensei",
+  "compatibility_date": "2026-10-13",
+  "assets": {
+    // Thư mục Vite build ra (npm run build). Không phục vụ thư mục mã nguồn.
+    "directory": "./dist/",
+    "not_found_handling": "single-page-application"
+  }
+}
