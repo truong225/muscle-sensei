@@ -1,0 +1,305 @@
+{
+ "demote": {
+  "reverse-nordic": [
+   "vasti"
+  ]
+ },
+ "addSources": {
+  "assisted-knee-copenhagen-plank": [
+   "https://julielohre.com/copenhagen-plank/",
+   "https://www.strengthlog.com/copenhagen-plank/"
+  ],
+  "knee-copenhagen-plank": [
+   "https://julielohre.com/copenhagen-plank/"
+  ],
+  "copenhagen-plank-with-movement": [
+   "https://www.caliverse.app/exercises/copenhagen-plank-with-movement-136",
+   "https://julielohre.com/copenhagen-plank/"
+  ],
+  "assisted-squat": [
+   "https://www.strengthlog.com/air-squat/"
+  ],
+  "bodyweight-calf-raise": [
+   "https://www.strengthlog.com/standing-calf-raise/"
+  ],
+  "single-leg-calf-raise": [
+   "https://blog.dynamofitness.com.au/exercise-videos/single-leg-calf-raise",
+   "https://www.strengthlog.com/standing-calf-raise/"
+  ],
+  "eccentric-heel-drop": [
+   "https://www.sportsinjuryclinic.net/?p=1225"
+  ],
+  "banded-complex-heel-raise": [
+   "https://blog.dynamofitness.com.au/exercise-videos/single-leg-calf-raise"
+  ],
+  "bodyweight-romanian-deadlift": [
+   "https://www.liftosaur.com/exercises/bodyweight-romanian-deadlift",
+   "https://www.strengthlog.com/romanian-deadlift/"
+  ],
+  "hamstring-slide": [
+   "https://www.trainwell.net/exercises/slider-hamstring-curl",
+   "https://rowingstronger.substack.com/p/exercise-spotlight-slider-hamstring"
+  ],
+  "negative-hamstring-slide": [
+   "https://rowingstronger.substack.com/p/exercise-spotlight-slider-hamstring"
+  ],
+  "single-leg-hamstring-slide": [
+   "https://www.trainwell.net/exercises/single-leg-slider-hamstring-curl",
+   "https://www.muscleandstrength.com/node/49668"
+  ],
+  "nordic-curl": [
+   "https://ucalgary.ca/shred-injuries/all-sports/rugby/nordic-hamstring-curl"
+  ],
+  "fire-hydrant": [
+   "https://www.adamkempfitness.com/?p=23275",
+   "https://akuaku.org/Sarco+/exercise-fire-hydrant.html"
+  ],
+  "deficit-tibialis-raise": [
+   "https://www.strengthlog.com/tibialis-raise/"
+  ],
+  "side-lying-hip-adduction": [
+   "https://www.puregym.com/exercises/legs/inner-outer-thigh/side-lying-hip-adduction/"
+  ],
+  "cable-hip-abduction": [
+   "https://brookbushinstitute.com/articles/electromyographic-analysis-gluteus-maximus-gluteus-medius-tensor-fascia-latae-during-therapeutic-exercises-with-without-elastic-resistance"
+  ],
+  "hip-abduction-machine": [
+   "https://www.researchsquare.com/article/rs-8523653/latest"
+  ],
+  "leg-extension": [
+   "https://www.jssm.org/jssm-20-56.xml-Fulltext"
+  ],
+  "side-lunge": [
+   "https://world.physio/congress-proceeding/impulse-and-emg-leading-limb-during-backward-and-lateral-lunges-also-trailing"
+  ],
+  "cossack-squat": [
+   "https://world.physio/congress-proceeding/impulse-and-emg-leading-limb-during-backward-and-lateral-lunges-also-trailing"
+  ],
+  "reverse-lunge": [
+   "https://ojs.ub.uni-konstanz.de/cpa/article/view/6941/6236"
+  ],
+  "split-squat": [
+   "https://nih.brage.unit.no/nih-xmlui/handle/11250/2602541?show=full",
+   "https://www.strengthlog.com/bulgarian-split-squat/"
+  ],
+  "bulgarian-split-squat": [
+   "https://nih.brage.unit.no/nih-xmlui/handle/11250/2602541?show=full"
+  ],
+  "dumbbell-bulgarian-split-squat": [
+   "https://nih.brage.unit.no/nih-xmlui/handle/11250/2602541?show=full"
+  ],
+  "shrimp-squat": [
+   "https://www.liftosaur.com/exercises/bodyweight-shrimp-squat"
+  ]
+ },
+ "removeSources": {},
+ "sourcesRegistry": {
+  "https://www.adamkempfitness.com/?p=23275": {
+   "title": "Fire Hydrant Exercise: Benefits, Muscles Worked, How to Do",
+   "publisher": "Adam Kemp Fitness",
+   "checked": "2026-10-12",
+   "supports": "Fire hydrant (quỳ bốn điểm dạng chân sang ngang) 'primarily targets the gluteus medius'; cơ mông lớn được huy động phụ, cơ mông bé cùng tham gia; có hướng dẫn kỹ thuật."
+  },
+  "https://akuaku.org/Sarco+/exercise-fire-hydrant.html": {
+   "title": "Fire Hydrant · Sarco+ Data",
+   "publisher": "SARCO+ (akuaku.org)",
+   "checked": "2026-10-12",
+   "supports": "Fire hydrant: cơ chính là cơ mông nhỡ (gluteus medius); cơ phụ: mông lớn, mông bé."
+  },
+  "https://brookbushinstitute.com/articles/electromyographic-analysis-gluteus-maximus-gluteus-medius-tensor-fascia-latae-during-therapeutic-exercises-with-without-elastic-resistance": {
+   "title": "Electromyographic Analysis of Gluteus Maximus, Gluteus Medius, and Tensor Fascia Latae During Therapeutic Exercises With and Without Elastic Resistance (tóm tắt Bishop 2018)",
+   "publisher": "Brookbush Institute",
+   "checked": "2026-10-12",
+   "supports": "Tóm tắt Bishop và cs. 2018 (IJSPT, EMG 13 bài): dạng hông đứng có kháng lực ở chân chuyển động có chỉ số GTA thấp (29,6) – cơ căng mạc đùi hoạt động cao so với cơ mông; clamshell có TFL thấp nhất."
+  },
+  "https://www.researchsquare.com/article/rs-8523653/latest": {
+   "title": "Not All Hip Abductions Are Equal: The 45° Paradox Between Gluteus Medius and Tensor Fasciae Latae (bản thảo, 2026)",
+   "publisher": "Research Square (preprint, chưa bình duyệt)",
+   "checked": "2026-10-12",
+   "supports": "EMG trên máy dạng hông ngồi ở 45°, 90°, 135° gập hông: cơ mông nhỡ và cơ căng mạc đùi đều hoạt động mạnh; tỉ lệ mông nhỡ/căng mạc đùi ≈0,82 ở 45° và ≈1,33 ở 90° (căng mạc đùi ngang hoặc cao hơn mông nhỡ), chỉ giảm rõ ở 135°. Lưu ý: bản thảo chưa bình duyệt."
+  },
+  "https://www.sportsinjuryclinic.net/?p=1225": {
+   "title": "Achilles Tendonitis Exercises (eccentric heel drops)",
+   "publisher": "Sports Injury Clinic",
+   "checked": "2026-10-12",
+   "supports": "Hạ gót lệch tâm một chân trên bậc, hạ chậm, quay lên bằng chân lành; gối thẳng tập cơ bụng chân (gastrocnemius), gối gập tăng tải cơ dép (soleus); làm cả hai để tập cả hai cơ."
+  },
+  "https://www.puregym.com/exercises/legs/inner-outer-thigh/side-lying-hip-adduction/": {
+   "title": "Side Lying Hip Adduction",
+   "publisher": "PureGym",
+   "checked": "2026-10-12",
+   "supports": "Nằm nghiêng, chân trên co đặt trước, nâng chân dưới lên; tăng sức nhóm khép đùi: khép lớn, khép dài, cơ thon."
+  },
+  "https://www.liftosaur.com/exercises/bodyweight-romanian-deadlift": {
+   "title": "How to perform Bodyweight Romanian Deadlift with proper form",
+   "publisher": "Liftosaur",
+   "checked": "2026-10-12",
+   "supports": "Kỹ thuật RDL tự trọng (gập hông, lưng phẳng, gối hơi chùng); cơ mục tiêu: mông lớn; cơ hiệp đồng: đùi sau, khép lớn, dựng sống."
+  },
+  "https://www.trainwell.net/exercises/slider-hamstring-curl": {
+   "title": "Slider Hamstring Curl",
+   "publisher": "trainwell",
+   "checked": "2026-10-12",
+   "supports": "Nằm ngửa, gót trên miếng trượt, nâng hông, kéo gót về rồi duỗi ra giữ hông cao; bài tập cho đùi sau (hamstrings)."
+  },
+  "https://www.trainwell.net/exercises/single-leg-slider-hamstring-curl": {
+   "title": "Single Leg Slider Hamstring Curl",
+   "publisher": "trainwell",
+   "checked": "2026-10-12",
+   "supports": "Bản một chân: một gót trên miếng trượt, hông nâng, duỗi rồi kéo gót về; 'focuses on building your hamstring muscles'."
+  },
+  "https://www.muscleandstrength.com/node/49668": {
+   "title": "Single Leg Valslide Leg Curl",
+   "publisher": "Muscle & Strength",
+   "checked": "2026-10-12",
+   "supports": "Cuốn đùi trượt một chân nằm ngửa: nhóm cơ mục tiêu đùi sau (hamstrings); phụ: bụng, bắp chân, mông."
+  },
+  "https://rowingstronger.substack.com/p/exercise-spotlight-slider-hamstring": {
+   "title": "Exercise Spotlight: Slider Hamstring Curls",
+   "publisher": "Rowing Stronger (Will Ruth)",
+   "checked": "2026-10-12",
+   "supports": "Cuốn đùi trượt nằm ngửa tập trung đùi sau và mông; có cách tiến dần dùng một chân cho pha hạ (duỗi) và hai chân cho pha co."
+  },
+  "https://ucalgary.ca/shred-injuries/all-sports/rugby/nordic-hamstring-curl": {
+   "title": "Nordic hamstring curl",
+   "publisher": "University of Calgary – SHRed Injuries",
+   "checked": "2026-10-12",
+   "supports": "Quỳ, người khác giữ cẳng chân, thân thẳng từ đầu đến gối, ngả chậm về trước đến khi không giữ được rồi chống tay; phát triển sức mạnh đùi sau."
+  },
+  "https://julielohre.com/copenhagen-plank/": {
+   "title": "Copenhagen Plank Exercise",
+   "publisher": "Julie Lohre (huấn luyện viên chứng chỉ)",
+   "checked": "2026-10-12",
+   "supports": "Copenhagen plank: cơ mục tiêu chính là nhóm khép (cùng chéo bụng, vuông thắt lưng); bản dễ đặt gối/đùi trên ghế (đòn bẩy ngắn), có thể để chân dưới đỡ nhẹ trên sàn; bản khó đặt bàn chân, có biến thể chuyển động."
+  },
+  "https://www.caliverse.app/exercises/copenhagen-plank-with-movement-136": {
+   "title": "Copenhagen Plank With Movement",
+   "publisher": "Caliverse",
+   "checked": "2026-10-12",
+   "supports": "Copenhagen plank giữ hông cao, chân dưới nâng chạm mặt dưới ghế rồi co ra trước và trở lại; bài thách thức nhóm khép (háng), chéo bụng, vai."
+  },
+  "https://www.jssm.org/jssm-20-56.xml-Fulltext": {
+   "title": "Electromyographic Comparison of Five Lower-Limb Muscles between Single- and Multi-Joint Exercises among Trained Men (Stien và cs. 2021)",
+   "publisher": "Journal of Sports Science and Medicine",
+   "checked": "2026-10-12",
+   "supports": "Duỗi gối trên máy (90°→180°) so với đạp đùi: cơ rộng trong hoạt động tương đương, cơ rộng ngoài thấp hơn 17,6%, cơ thẳng đùi cao hơn 24,3% – các cơ rộng và cơ thẳng đùi đều được kích hoạt mạnh khi duỗi gối."
+  },
+  "https://world.physio/congress-proceeding/impulse-and-emg-leading-limb-during-backward-and-lateral-lunges-also-trailing": {
+   "title": "Impulse and EMG of the leading limb during backward and lateral lunges (Cerny & Adams, WCPT 2017)",
+   "publisher": "World Physiotherapy Congress proceedings",
+   "checked": "2026-10-12",
+   "supports": "Lunge ngang kích hoạt cơ rộng ngoài 47,2% MVIC – cao nhất trong các bài đo, cao hơn đáng kể cơ bụng chân, cơ dép và mông lớn phần dưới."
+  },
+  "https://ojs.ub.uni-konstanz.de/cpa/article/view/6941/6236": {
+   "title": "Comparative Analysis of Lunge Techniques: Forward, Reverse, Walking Lunge (Park và cs. 2016)",
+   "publisher": "ISBS Proceedings Archive",
+   "checked": "2026-10-12",
+   "supports": "So sánh lunge tiến, lùi, đi bộ: cơ rộng ngoài và rộng trong (cơ chủ vận) có hoạt động trung bình cao hơn ở lunge lùi."
+  },
+  "https://nih.brage.unit.no/nih-xmlui/handle/11250/2602541?show=full": {
+   "title": "Muscle Activation in Unilateral Barbell Exercises: Implications for Strength Training and Rehabilitation (Mausehund, Skard, Krosshaug)",
+   "publisher": "Journal of Strength and Conditioning Research (kho NIH Na Uy)",
+   "checked": "2026-10-12",
+   "supports": "EMG split squat, rear-foot-elevated (Bulgarian) split squat và squat một chân: cơ mông lớn và cơ rộng ngoài được kích thích tương tự ở cả ba bài ('similar training stimuli of the gluteus maximus and quadriceps femoris'); Bulgarian tăng đùi sau, squat một chân tăng mông nhỡ."
+  },
+  "https://www.liftosaur.com/exercises/bodyweight-shrimp-squat": {
+   "title": "How to perform Bodyweight Shrimp Squat with proper form",
+   "publisher": "Liftosaur",
+   "checked": "2026-10-12",
+   "supports": "Kỹ thuật shrimp squat (cầm bàn chân sau, hạ gối sau chạm sàn); cơ mục tiêu: mông lớn; hiệp đồng: tứ đầu, khép lớn, dép."
+  },
+  "https://www.liftosaur.com/programs/recommended-routine": {
+   "title": "Recommended Routine (by r/bodyweightfitness)",
+   "publisher": "Liftosaur",
+   "checked": "2026-10-12",
+   "supports": "Thứ tự các bậc trong chuỗi Kéo xà, Dips, Row, Push-up; chuỗi Squat (assisted squat → squat → split squat → Bulgarian → shrimp → pistol); chuỗi Gập hông (RDL tự trọng → deadlift một chân → Nordic curl); bài duỗi lưng (superman → reverse hyperextension → back extension) của r/bodyweightfitness RR"
+  }
+ },
+ "newExercises": [],
+ "exceptions": {},
+ "audit": {
+  "assisted-knee-copenhagen-plank": "sửa: thêm nguồn ngoài reddit (Julie Lohre: bản gối trên ghế, chân dưới đỡ; StrengthLog) xác nhận kỹ thuật và cơ khép là cơ chính",
+  "assisted-squat": "sửa: thêm StrengthLog air squat xác nhận mông là cơ chính (vasti đã có e3rehab/Kubo 2019)",
+  "bodyweight-calf-raise": "sửa: heel-raise chỉ ghi 'Calves'; thêm StrengthLog standing calf raise nêu rõ bài đứng tập cả cơ bụng chân và cơ dép",
+  "bodyweight-romanian-deadlift": "sửa: thêm Liftosaur RDL tự trọng (kỹ thuật, mông lớn mục tiêu) và StrengthLog RDL (đùi sau, mông chính)",
+  "bodyweight-squat": "ok",
+  "bulgarian-split-squat": "sửa: thêm Mausehund (EMG Bulgarian split squat: mông lớn, rộng ngoài)",
+  "clamshell": "ok",
+  "copenhagen-plank": "ok",
+  "copenhagen-plank-with-movement": "sửa: thêm Caliverse (kỹ thuật chân dưới co ra trước) và Julie Lohre (cơ khép chính) – nguồn reddit bị chặn với trình kiểm",
+  "cossack-squat": "sửa: thêm Cerny & Adams 2017 (lunge ngang, biến thể gần) cho vasti; mông theo StrengthLog",
+  "deficit-tibialis-raise": "sửa: trainwell chỉ ghi 'shin muscles'; thêm StrengthLog tibialis raise nêu cơ chày trước là cơ chính",
+  "donkey-kick": "ok",
+  "eccentric-heel-drop": "sửa: StrengthLog chỉ ghi 'Calves'; thêm Sports Injury Clinic nêu gối thẳng tập cơ bụng chân, gối gập tập cơ dép",
+  "fire-hydrant": "sửa: StrengthLog chỉ ghi 'Glutes'; thêm Adam Kemp + SARCO+ nêu cơ mông nhỡ là cơ chính",
+  "glute-bridge": "ok",
+  "hamstring-slide": "sửa: thêm trainwell + Rowing Stronger (kỹ thuật cuốn đùi trượt, cơ đùi sau)",
+  "heel-walk": "ok",
+  "hip-hitch": "ok",
+  "knee-copenhagen-plank": "sửa: thêm Julie Lohre xác nhận bản đòn bẩy ngắn (gối trên ghế) và cơ khép là mục tiêu chính",
+  "negative-hamstring-slide": "sửa: thêm Rowing Stronger (cuốn đùi trượt, đùi sau; tiến dần bằng pha hạ)",
+  "nordic-curl": "sửa: thêm ĐH Calgary (kỹ thuật Nordic, phát triển đùi sau)",
+  "nordic-hamstring-eccentric": "ok",
+  "pistol-squat": "ok",
+  "reverse-hyperextension-bodyweight": "ok",
+  "reverse-lunge": "sửa: thêm Park 2016 (lunge lùi: cơ rộng ngoài/trong hoạt động cao nhất)",
+  "reverse-nordic": "sửa: hạ vasti xuống cơ phụ – nguồn (StrengthLog 'Quads', e3rehab) chỉ xác nhận cơ thẳng đùi, không nêu riêng các cơ rộng",
+  "shrimp-squat": "sửa: thêm Liftosaur shrimp squat (kỹ thuật, mông lớn mục tiêu); vasti theo PLOS (squat một chân)",
+  "side-lunge": "sửa: StrengthLog chỉ ghi 'Quads'; thêm Cerny & Adams 2017 (lunge ngang: cơ rộng ngoài 47% MVIC) cho vasti",
+  "side-lying-hip-abduction": "ok",
+  "side-lying-hip-adduction": "sửa: ACE không nêu cơ; thêm PureGym nêu khép lớn, khép dài, cơ thon",
+  "side-plank-hip-abduction": "ok",
+  "single-leg-calf-raise": "sửa: e3rehab peroneal không nêu cơ bắp chân; thêm Dynamo Fitness + StrengthLog nêu cơ bụng chân và cơ dép",
+  "single-leg-deficit-calf-raise": "ok",
+  "single-leg-glute-bridge": "ok",
+  "single-leg-hamstring-slide": "sửa: thêm trainwell một chân + Muscle & Strength (đùi sau là nhóm mục tiêu)",
+  "single-leg-hip-thrust": "ok",
+  "single-leg-romanian-deadlift": "ok",
+  "soleus-raise": "ok",
+  "split-squat": "sửa: thêm Mausehund (EMG split squat: mông lớn và rộng ngoài) + StrengthLog Bulgarian (biến thể gần) cho mông",
+  "step-up": "ok",
+  "wall-tibialis-raise": "ok",
+  "band-ankle-dorsiflexion": "ok",
+  "band-hip-adduction": "ok",
+  "banded-clamshell": "ok",
+  "banded-complex-heel-raise": "sửa: nguồn e3rehab chỉ nêu cơ mác; thêm Dynamo Fitness (nhón gót một chân, biến thể gốc) nêu cơ bụng chân là cơ chính",
+  "barbell-back-squat": "ok",
+  "barbell-deadlift": "ok",
+  "barbell-front-squat": "ok",
+  "barbell-good-morning": "ok",
+  "barbell-hip-thrust": "ok",
+  "barbell-seated-calf-raise": "ok",
+  "barbell-standing-calf-raise": "ok",
+  "barbell-sumo-squat": "ok",
+  "cable-glute-kickback": "ok",
+  "cable-hip-abduction": "sửa: thêm tóm tắt Bishop 2018 (dạng hông đứng có kháng lực: TFL hoạt động cao so với cơ mông) cho cơ căng mạc đùi",
+  "cable-hip-adduction": "ok",
+  "cable-pull-through": "ok",
+  "calf-raise-in-leg-press": "ok",
+  "dumbbell-bulgarian-split-squat": "sửa: thêm Mausehund (EMG Bulgarian split squat: mông lớn, rộng ngoài)",
+  "dumbbell-lunge": "ok",
+  "dumbbell-romanian-deadlift": "ok",
+  "dumbbell-step-up": "ok",
+  "goblet-squat": "ok",
+  "hip-abduction-machine": "sửa: StrengthLog không nhắc TFL; thêm EMG trên máy dạng hông ngồi (bản thảo 2026) cho thấy TFL hoạt động ngang mông nhỡ",
+  "hip-adduction-machine": "ok",
+  "kettlebell-single-leg-romanian-deadlift": "ok",
+  "kettlebell-swing": "ok",
+  "kettlebell-tibialis-raise": "ok",
+  "lateral-band-walk": "ok",
+  "leg-extension": "sửa: thêm Stien 2021 (JSSM) EMG duỗi gối nêu riêng cơ rộng trong/ngoài và cơ thẳng đùi",
+  "leg-press": "ok",
+  "lying-leg-curl": "ok",
+  "machine-glute-kickback": "ok",
+  "reverse-hyperextension": "ok",
+  "romanian-deadlift": "ok",
+  "seated-calf-raise": "ok",
+  "seated-leg-curl": "ok",
+  "side-lying-hip-abduction-ankle-weight": "ok",
+  "single-leg-bent-knee-calf-raise": "ok",
+  "single-leg-dumbbell-calf-raise": "ok",
+  "standing-calf-raise": "ok",
+  "sumo-deadlift": "ok",
+  "tib-bar-tibialis-raise": "ok"
+ }
+}

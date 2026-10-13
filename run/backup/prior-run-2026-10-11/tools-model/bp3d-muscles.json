@@ -1,0 +1,654 @@
+[
+ {
+  "id": "adductor-brevis",
+  "nameEn": "Adductor brevis",
+  "fma": "FMA22442",
+  "laterality": "paired",
+  "regions": [
+   "knee"
+  ],
+  "groups": [
+   "adductors"
+  ]
+ },
+ {
+  "id": "adductor-longus",
+  "nameEn": "Adductor longus",
+  "fma": "FMA22441",
+  "laterality": "paired",
+  "regions": [
+   "knee"
+  ],
+  "groups": [
+   "adductors"
+  ]
+ },
+ {
+  "id": "adductor-magnus",
+  "nameEn": "Adductor magnus",
+  "fma": "FMA22443",
+  "laterality": "paired",
+  "regions": [
+   "knee"
+  ],
+  "groups": [
+   "adductors"
+  ]
+ },
+ {
+  "id": "biceps-brachii",
+  "nameEn": "Biceps brachii",
+  "fma": "FMA37682",
+  "laterality": "paired",
+  "regions": [
+   "elbow-forearm"
+  ],
+  "groups": [
+   "primary"
+  ]
+ },
+ {
+  "id": "biceps-femoris",
+  "nameEn": "Biceps femoris",
+  "fma": "FMA45881",
+  "laterality": "paired",
+  "regions": [
+   "knee"
+  ],
+  "groups": [
+   "primary",
+   "hamstrings"
+  ]
+ },
+ {
+  "id": "brachioradialis",
+  "nameEn": "Brachioradialis",
+  "fma": "FMA38485",
+  "laterality": "paired",
+  "regions": [
+   "elbow-forearm"
+  ],
+  "groups": null
+ },
+ {
+  "id": "deltoid",
+  "nameEn": "Deltoid",
+  "fma": "FMA34676",
+  "laterality": "paired",
+  "regions": [
+   "shoulder"
+  ],
+  "groups": [
+   "primary"
+  ]
+ },
+ {
+  "id": "erector-spinae",
+  "nameEn": "Erector spinae",
+  "fma": "FMA77177",
+  "laterality": "paired",
+  "regions": [
+   "spine-trunk"
+  ],
+  "groups": [
+   "erector-spinae"
+  ]
+ },
+ {
+  "id": "extensor-carpi-radialis-brevis",
+  "nameEn": "Extensor carpi radialis brevis",
+  "fma": "FMA38497",
+  "laterality": "paired",
+  "regions": [
+   "elbow-forearm"
+  ],
+  "groups": null
+ },
+ {
+  "id": "extensor-carpi-radialis-longus",
+  "nameEn": "Extensor carpi radialis longus",
+  "fma": "FMA38494",
+  "laterality": "paired",
+  "regions": [
+   "elbow-forearm"
+  ],
+  "groups": null
+ },
+ {
+  "id": "extensor-carpi-ulnaris",
+  "nameEn": "Extensor carpi ulnaris",
+  "fma": "FMA38506",
+  "laterality": "paired",
+  "regions": [
+   "wrist-hand"
+  ],
+  "groups": null
+ },
+ {
+  "id": "extensor-digitorum",
+  "nameEn": "Extensor digitorum",
+  "fma": "FMA38500",
+  "laterality": "paired",
+  "regions": [
+   "elbow-forearm"
+  ],
+  "groups": null
+ },
+ {
+  "id": "extensor-digitorum-longus",
+  "nameEn": "Extensor digitorum longus",
+  "fma": "FMA22534",
+  "laterality": "paired",
+  "regions": [
+   "ankle-foot"
+  ],
+  "groups": null
+ },
+ {
+  "id": "external-oblique",
+  "nameEn": "External oblique",
+  "fma": "FMA13335",
+  "laterality": "paired",
+  "regions": [
+   "spine-trunk"
+  ],
+  "groups": [
+   "abdominals"
+  ]
+ },
+ {
+  "id": "fibularis-brevis",
+  "nameEn": "Fibularis brevis",
+  "fma": "FMA22540",
+  "laterality": "paired",
+  "regions": [
+   "ankle-foot"
+  ],
+  "groups": null
+ },
+ {
+  "id": "fibularis-longus",
+  "nameEn": "Fibularis longus",
+  "fma": "FMA22539",
+  "laterality": "paired",
+  "regions": [
+   "ankle-foot"
+  ],
+  "groups": null
+ },
+ {
+  "id": "finger-flexors",
+  "nameEn": "Finger flexors",
+  "fma": "FMA38469",
+  "laterality": "paired",
+  "regions": [
+   "wrist-hand"
+  ],
+  "groups": null
+ },
+ {
+  "id": "flexor-carpi-radialis",
+  "nameEn": "Flexor carpi radialis",
+  "fma": "FMA38459",
+  "laterality": "paired",
+  "regions": [
+   "elbow-forearm"
+  ],
+  "groups": null
+ },
+ {
+  "id": "flexor-digitorum-brevis",
+  "nameEn": "Flexor digitorum brevis",
+  "fma": "FMA37450",
+  "laterality": "paired",
+  "regions": [
+   "ankle-foot"
+  ],
+  "groups": null
+ },
+ {
+  "id": "flexor-digitorum-longus",
+  "nameEn": "Flexor digitorum longus",
+  "fma": "FMA51071",
+  "laterality": "paired",
+  "regions": [
+   "ankle-foot"
+  ],
+  "groups": null
+ },
+ {
+  "id": "gastrocnemius",
+  "nameEn": "Gastrocnemius",
+  "fma": "FMA45950",
+  "laterality": "paired",
+  "regions": [
+   "ankle-foot"
+  ],
+  "groups": [
+   "primary",
+   "triceps-surae"
+  ]
+ },
+ {
+  "id": "gluteus-maximus",
+  "nameEn": "Gluteus maximus",
+  "fma": "FMA22314",
+  "laterality": "paired",
+  "regions": [
+   "hip-pelvis"
+  ],
+  "groups": [
+   "primary"
+  ]
+ },
+ {
+  "id": "gluteus-medius",
+  "nameEn": "Gluteus medius",
+  "fma": "FMA22315",
+  "laterality": "paired",
+  "regions": [
+   "hip-pelvis"
+  ],
+  "groups": null
+ },
+ {
+  "id": "gluteus-minimus",
+  "nameEn": "Gluteus minimus",
+  "fma": "FMA22317",
+  "laterality": "paired",
+  "regions": [
+   "hip-pelvis"
+  ],
+  "groups": null
+ },
+ {
+  "id": "gracilis",
+  "nameEn": "Gracilis",
+  "fma": "FMA43882",
+  "laterality": "paired",
+  "regions": [
+   "knee"
+  ],
+  "groups": [
+   "primary",
+   "adductors"
+  ]
+ },
+ {
+  "id": "iliacus",
+  "nameEn": "Iliacus",
+  "fma": "FMA22310",
+  "laterality": "paired",
+  "regions": [
+   "hip-pelvis"
+  ],
+  "groups": null
+ },
+ {
+  "id": "infraspinatus",
+  "nameEn": "Infraspinatus",
+  "fma": "FMA32546",
+  "laterality": "paired",
+  "regions": [
+   "shoulder"
+  ],
+  "groups": [
+   "rotator-cuff"
+  ]
+ },
+ {
+  "id": "internal-oblique",
+  "nameEn": "Internal oblique",
+  "fma": "FMA13334",
+  "laterality": "variable",
+  "regions": [
+   "spine-trunk"
+  ],
+  "groups": [
+   "abdominals"
+  ]
+ },
+ {
+  "id": "latissimus-dorsi",
+  "nameEn": "Latissimus dorsi",
+  "fma": "FMA13357",
+  "laterality": "variable",
+  "regions": [
+   "spine-trunk"
+  ],
+  "groups": [
+   "back"
+  ]
+ },
+ {
+  "id": "levator-scapulae",
+  "nameEn": "Levator scapulae",
+  "fma": "FMA32519",
+  "laterality": "paired",
+  "regions": [
+   "shoulder"
+  ],
+  "groups": null
+ },
+ {
+  "id": "multifidus",
+  "nameEn": "Multifidus",
+  "fma": null,
+  "laterality": "variable",
+  "regions": [
+   "spine-trunk"
+  ],
+  "groups": null
+ },
+ {
+  "id": "obturator-internus",
+  "nameEn": "Obturator internus",
+  "fma": "FMA22298",
+  "laterality": "paired",
+  "regions": [
+   "hip-pelvis"
+  ],
+  "groups": null
+ },
+ {
+  "id": "palmaris-longus",
+  "nameEn": "Palmaris longus",
+  "fma": "FMA38462",
+  "laterality": "paired",
+  "regions": [
+   "wrist-hand"
+  ],
+  "groups": null
+ },
+ {
+  "id": "pectoralis-major",
+  "nameEn": "Pectoralis major",
+  "fma": "FMA34686",
+  "laterality": "paired",
+  "regions": [
+   "spine-trunk"
+  ],
+  "groups": [
+   "pectorals"
+  ]
+ },
+ {
+  "id": "pectoralis-minor",
+  "nameEn": "Pectoralis minor",
+  "fma": "FMA13109",
+  "laterality": "paired",
+  "regions": [
+   "spine-trunk"
+  ],
+  "groups": [
+   "pectorals"
+  ]
+ },
+ {
+  "id": "piriformis",
+  "nameEn": "Piriformis",
+  "fma": "FMA19082",
+  "laterality": "paired",
+  "regions": [
+   "hip-pelvis"
+  ],
+  "groups": null
+ },
+ {
+  "id": "plantaris",
+  "nameEn": "Plantaris",
+  "fma": "FMA22543",
+  "laterality": "paired",
+  "regions": [
+   "ankle-foot"
+  ],
+  "groups": [
+   "triceps-surae"
+  ]
+ },
+ {
+  "id": "popliteus",
+  "nameEn": "Popliteus",
+  "fma": "FMA22590",
+  "laterality": "paired",
+  "regions": [
+   "knee"
+  ],
+  "groups": null
+ },
+ {
+  "id": "pronator-quadratus",
+  "nameEn": "Pronator quadratus",
+  "fma": "FMA38453",
+  "laterality": "paired",
+  "regions": [
+   "elbow-forearm"
+  ],
+  "groups": null
+ },
+ {
+  "id": "psoas-major",
+  "nameEn": "Psoas major",
+  "fma": "FMA18060",
+  "laterality": "paired",
+  "regions": [
+   "hip-pelvis"
+  ],
+  "groups": null
+ },
+ {
+  "id": "quadriceps",
+  "nameEn": "Quadriceps",
+  "fma": "FMA22429",
+  "laterality": "paired",
+  "regions": [
+   "knee"
+  ],
+  "groups": [
+   "primary"
+  ]
+ },
+ {
+  "id": "rectus-abdominis",
+  "nameEn": "Rectus abdominis",
+  "fma": "FMA9628",
+  "laterality": "variable",
+  "regions": [
+   "spine-trunk"
+  ],
+  "groups": [
+   "abdominals"
+  ]
+ },
+ {
+  "id": "rhomboid-major",
+  "nameEn": "Rhomboid major",
+  "fma": "FMA13379",
+  "laterality": "paired",
+  "regions": [
+   "shoulder"
+  ],
+  "groups": null
+ },
+ {
+  "id": "sartorius",
+  "nameEn": "Sartorius",
+  "fma": "FMA22353",
+  "laterality": "paired",
+  "regions": [
+   "knee"
+  ],
+  "groups": [
+   "primary"
+  ]
+ },
+ {
+  "id": "semimembranosus",
+  "nameEn": "Semimembranosus",
+  "fma": "FMA22438",
+  "laterality": "paired",
+  "regions": [
+   "knee"
+  ],
+  "groups": [
+   "hamstrings"
+  ]
+ },
+ {
+  "id": "semitendinosus",
+  "nameEn": "Semitendinosus",
+  "fma": "FMA22357",
+  "laterality": "paired",
+  "regions": [
+   "knee"
+  ],
+  "groups": [
+   "hamstrings"
+  ]
+ },
+ {
+  "id": "serratus-anterior",
+  "nameEn": "Serratus anterior",
+  "fma": "FMA13397",
+  "laterality": "paired",
+  "regions": [
+   "shoulder"
+  ],
+  "groups": null
+ },
+ {
+  "id": "soleus",
+  "nameEn": "Soleus",
+  "fma": "FMA22542",
+  "laterality": "paired",
+  "regions": [
+   "ankle-foot"
+  ],
+  "groups": [
+   "primary",
+   "triceps-surae"
+  ]
+ },
+ {
+  "id": "sternocleidomastoid",
+  "nameEn": "Sternocleidomastoid",
+  "fma": "FMA13407",
+  "laterality": "variable",
+  "regions": [
+   "head-neck"
+  ],
+  "groups": null
+ },
+ {
+  "id": "subscapularis",
+  "nameEn": "Subscapularis",
+  "fma": "FMA13413",
+  "laterality": "paired",
+  "regions": [
+   "shoulder"
+  ],
+  "groups": [
+   "rotator-cuff"
+  ]
+ },
+ {
+  "id": "supinator",
+  "nameEn": "Supinator",
+  "fma": "FMA38512",
+  "laterality": "paired",
+  "regions": [
+   "wrist-hand"
+  ],
+  "groups": null
+ },
+ {
+  "id": "supraspinatus",
+  "nameEn": "Supraspinatus",
+  "fma": "FMA9629",
+  "laterality": "paired",
+  "regions": [
+   "shoulder"
+  ],
+  "groups": [
+   "rotator-cuff"
+  ]
+ },
+ {
+  "id": "teres-major",
+  "nameEn": "Teres major",
+  "fma": "FMA32549",
+  "laterality": "paired",
+  "regions": [
+   "shoulder"
+  ],
+  "groups": null
+ },
+ {
+  "id": "teres-minor",
+  "nameEn": "Teres minor",
+  "fma": "FMA32550",
+  "laterality": "paired",
+  "regions": [
+   "shoulder"
+  ],
+  "groups": [
+   "rotator-cuff"
+  ]
+ },
+ {
+  "id": "tibialis-anterior",
+  "nameEn": "Tibialis anterior",
+  "fma": "FMA22532",
+  "laterality": "paired",
+  "regions": [
+   "ankle-foot"
+  ],
+  "groups": null
+ },
+ {
+  "id": "tibialis-posterior",
+  "nameEn": "Tibialis posterior",
+  "fma": "FMA51099",
+  "laterality": "paired",
+  "regions": [
+   "ankle-foot"
+  ],
+  "groups": null
+ },
+ {
+  "id": "transversus-abdominis",
+  "nameEn": "Transversus abdominis",
+  "fma": "FMA13870",
+  "laterality": "variable",
+  "regions": [
+   "spine-trunk"
+  ],
+  "groups": [
+   "abdominals"
+  ]
+ },
+ {
+  "id": "trapezius",
+  "nameEn": "Trapezius",
+  "fma": "FMA32529",
+  "laterality": "paired",
+  "regions": [
+   "shoulder"
+  ],
+  "groups": [
+   "primary"
+  ]
+ },
+ {
+  "id": "triceps-brachii",
+  "nameEn": "Triceps brachii",
+  "fma": "FMA37692",
+  "laterality": "paired",
+  "regions": [
+   "elbow-forearm"
+  ],
+  "groups": [
+   "primary"
+  ]
+ }
+]

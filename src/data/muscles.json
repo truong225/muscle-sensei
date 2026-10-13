@@ -1,0 +1,1877 @@
+{
+  "groups": [
+    {
+      "id": "nguc",
+      "nameVi": "Ngực",
+      "order": 1
+    },
+    {
+      "id": "vai",
+      "nameVi": "Vai",
+      "order": 2
+    },
+    {
+      "id": "lung-tren",
+      "nameVi": "Lưng trên",
+      "order": 3
+    },
+    {
+      "id": "lung-xo",
+      "nameVi": "Lưng xô",
+      "order": 4
+    },
+    {
+      "id": "tay-truoc",
+      "nameVi": "Cánh tay trước",
+      "order": 5
+    },
+    {
+      "id": "tay-sau",
+      "nameVi": "Cánh tay sau",
+      "order": 6
+    },
+    {
+      "id": "cang-tay",
+      "nameVi": "Cẳng tay",
+      "order": 7
+    },
+    {
+      "id": "bung",
+      "nameVi": "Bụng",
+      "order": 8
+    },
+    {
+      "id": "lung-duoi",
+      "nameVi": "Lưng dưới",
+      "order": 9
+    },
+    {
+      "id": "mong",
+      "nameVi": "Mông và hông ngoài",
+      "order": 10
+    },
+    {
+      "id": "gap-hong",
+      "nameVi": "Gấp hông",
+      "order": 11
+    },
+    {
+      "id": "khep-dui",
+      "nameVi": "Đùi trong (nhóm cơ khép)",
+      "order": 12
+    },
+    {
+      "id": "dui-truoc",
+      "nameVi": "Đùi trước",
+      "order": 13
+    },
+    {
+      "id": "dui-sau",
+      "nameVi": "Đùi sau",
+      "order": 14
+    },
+    {
+      "id": "cang-chan",
+      "nameVi": "Cẳng chân",
+      "order": 15
+    },
+    {
+      "id": "co",
+      "nameVi": "Cổ",
+      "order": 16
+    }
+  ],
+  "muscles": [
+    {
+      "id": "pectoralis-major-clavicular",
+      "nameVi": "Cơ ngực lớn – phần đòn (ngực trên)",
+      "nameLa": "Pars clavicularis musculi pectoralis majoris",
+      "nameEn": "Pectoralis major, clavicular head (upper chest)",
+      "group": "nguc",
+      "view": "front",
+      "functionVi": [
+        "Gập cánh tay ra trước và lên trên (như khi đẩy ngực dốc lên).",
+        "Cùng cả cơ ngực lớn khép và xoay trong cánh tay."
+      ],
+      "fma": {
+        "L": [
+          "FMA34691"
+        ],
+        "R": [
+          "FMA34690"
+        ],
+        "C": []
+      },
+      "sources": [
+        {
+          "url": "https://www.kenhub.com/en/library/anatomy/major-pectoralis-muscle",
+          "supports": "function",
+          "checked": "2026-10-12"
+        },
+        {
+          "url": "https://teachmeanatomy.info/upper-limb/muscles/pectoral-region/",
+          "supports": "function",
+          "checked": "2026-10-12"
+        }
+      ]
+    },
+    {
+      "id": "pectoralis-major-sternal",
+      "nameVi": "Cơ ngực lớn – phần ức sườn và phần bụng (ngực giữa–dưới)",
+      "nameLa": "Pars sternocostalis et pars abdominalis musculi pectoralis majoris",
+      "nameEn": "Pectoralis major, sternocostal & abdominal parts (mid–lower chest)",
+      "group": "nguc",
+      "view": "front",
+      "functionVi": [
+        "Khép cánh tay và xoay trong cánh tay, kéo tay ngang qua ngực.",
+        "Kéo cánh tay đang giơ cao xuống và ra sau về tư thế giải phẫu (như ở xà kép)."
+      ],
+      "fma": {
+        "L": [
+          "FMA79980",
+          "FMA45875"
+        ],
+        "R": [
+          "FMA79979",
+          "FMA45874"
+        ],
+        "C": []
+      },
+      "sources": [
+        {
+          "url": "https://www.kenhub.com/en/library/anatomy/major-pectoralis-muscle",
+          "supports": "function",
+          "checked": "2026-10-12"
+        },
+        {
+          "url": "https://teachmeanatomy.info/upper-limb/muscles/pectoral-region/",
+          "supports": "function",
+          "checked": "2026-10-12"
+        }
+      ]
+    },
+    {
+      "id": "pectoralis-minor",
+      "nameVi": "Cơ ngực bé",
+      "nameLa": "Musculus pectoralis minor",
+      "nameEn": "Pectoralis minor",
+      "group": "nguc",
+      "view": "front",
+      "functionVi": [
+        "Kéo xương bả vai ra trước và xuống dưới, áp sát vào thành ngực.",
+        "Nhờ đó giữ vững xương bả vai."
+      ],
+      "fma": {
+        "L": [
+          "FMA13376"
+        ],
+        "R": [
+          "FMA13375"
+        ],
+        "C": []
+      },
+      "sources": [
+        {
+          "url": "https://teachmeanatomy.info/upper-limb/muscles/pectoral-region/",
+          "supports": "function",
+          "checked": "2026-10-12"
+        }
+      ]
+    },
+    {
+      "id": "serratus-anterior",
+      "nameVi": "Cơ răng cưa trước",
+      "nameLa": "Musculus serratus anterior",
+      "nameEn": "Serratus anterior",
+      "group": "nguc",
+      "view": "front",
+      "functionVi": [
+        "Đẩy xương bả vai ra trước (đưa vai về phía trước) và giữ bả vai áp sát lồng ngực.",
+        "Xoay xương bả vai lên trên, giúp giơ tay cao quá đầu."
+      ],
+      "fma": {
+        "L": [
+          "FMA13399"
+        ],
+        "R": [
+          "FMA13398"
+        ],
+        "C": []
+      },
+      "sources": [
+        {
+          "url": "https://teachmeanatomy.info/upper-limb/muscles/pectoral-region/",
+          "supports": "function",
+          "checked": "2026-10-12"
+        }
+      ]
+    },
+    {
+      "id": "deltoid-anterior",
+      "nameVi": "Cơ delta trước",
+      "nameLa": "Pars clavicularis musculi deltoidei",
+      "nameEn": "Anterior deltoid",
+      "group": "vai",
+      "view": "front",
+      "functionVi": [
+        "Gập cánh tay ra trước (nâng tay phía trước).",
+        "Xoay trong cánh tay."
+      ],
+      "fma": {
+        "L": [
+          "FMA34681"
+        ],
+        "R": [
+          "FMA34680"
+        ],
+        "C": []
+      },
+      "sources": [
+        {
+          "url": "https://kenhub.com/en/library/anatomy/the-deltoid-muscle",
+          "supports": "function",
+          "checked": "2026-10-12"
+        },
+        {
+          "url": "https://teachmeanatomy.info/upper-limb/muscles/shoulder/intrinsic/",
+          "supports": "function",
+          "checked": "2026-10-12"
+        }
+      ]
+    },
+    {
+      "id": "deltoid-lateral",
+      "nameVi": "Cơ delta giữa",
+      "nameLa": "Pars acromialis musculi deltoidei",
+      "nameEn": "Lateral (middle) deltoid",
+      "group": "vai",
+      "view": "both",
+      "functionVi": [
+        "Dạng cánh tay (nâng tay sang ngang), là cơ dạng chính sau khoảng 15° đầu tiên."
+      ],
+      "fma": {
+        "L": [
+          "FMA34683"
+        ],
+        "R": [
+          "FMA34682"
+        ],
+        "C": []
+      },
+      "sources": [
+        {
+          "url": "https://kenhub.com/en/library/anatomy/the-deltoid-muscle",
+          "supports": "function",
+          "checked": "2026-10-12"
+        },
+        {
+          "url": "https://teachmeanatomy.info/upper-limb/muscles/shoulder/intrinsic/",
+          "supports": "function",
+          "checked": "2026-10-12"
+        }
+      ]
+    },
+    {
+      "id": "deltoid-posterior",
+      "nameVi": "Cơ delta sau",
+      "nameLa": "Pars spinalis musculi deltoidei",
+      "nameEn": "Posterior deltoid",
+      "group": "vai",
+      "view": "back",
+      "functionVi": [
+        "Duỗi cánh tay (kéo tay ra sau) và xoay ngoài cánh tay.",
+        "Tham gia các động tác kéo và mở tay ra sau theo phương ngang."
+      ],
+      "fma": {
+        "L": [
+          "FMA34685"
+        ],
+        "R": [
+          "FMA34684"
+        ],
+        "C": []
+      },
+      "sources": [
+        {
+          "url": "https://kenhub.com/en/library/anatomy/the-deltoid-muscle",
+          "supports": "function",
+          "checked": "2026-10-12"
+        },
+        {
+          "url": "https://teachmeanatomy.info/upper-limb/muscles/shoulder/intrinsic/",
+          "supports": "function",
+          "checked": "2026-10-12"
+        }
+      ]
+    },
+    {
+      "id": "rotator-cuff",
+      "nameVi": "Nhóm cơ chóp xoay (trên gai, dưới gai, tròn bé, dưới vai)",
+      "nameLa": "Musculi supraspinatus, infraspinatus, teres minor et subscapularis",
+      "nameEn": "Rotator cuff",
+      "group": "vai",
+      "view": "back",
+      "functionVi": [
+        "Giữ chỏm xương cánh tay ổn định trong ổ khớp vai.",
+        "Cơ trên gai khởi động dạng tay; cơ dưới gai và tròn bé xoay ngoài; cơ dưới vai xoay trong cánh tay."
+      ],
+      "fma": {
+        "L": [
+          "FMA32545",
+          "FMA32548",
+          "FMA32554",
+          "FMA13415"
+        ],
+        "R": [
+          "FMA32544",
+          "FMA32547",
+          "FMA32553",
+          "FMA13414"
+        ],
+        "C": []
+      },
+      "sources": [
+        {
+          "url": "https://teachmeanatomy.info/upper-limb/muscles/shoulder/intrinsic/",
+          "supports": "function",
+          "checked": "2026-10-12"
+        }
+      ]
+    },
+    {
+      "id": "trapezius-upper",
+      "nameVi": "Cơ thang trên",
+      "nameLa": "Pars descendens musculi trapezii",
+      "nameEn": "Upper trapezius",
+      "group": "lung-tren",
+      "view": "both",
+      "functionVi": [
+        "Nâng xương bả vai (nhún vai) và giữ vai ngang khi mang vật nặng.",
+        "Cùng cơ thang dưới xoay bả vai lên trên khi giơ tay; duỗi và nghiêng đầu cổ."
+      ],
+      "fma": {
+        "L": [
+          "FMA33587"
+        ],
+        "R": [
+          "FMA33586"
+        ],
+        "C": []
+      },
+      "sources": [
+        {
+          "url": "https://www.kenhub.com/en/library/anatomy/trapezius-muscle",
+          "supports": "function",
+          "checked": "2026-10-12"
+        },
+        {
+          "url": "https://teachmeanatomy.info/back/muscles/superficial/",
+          "supports": "function",
+          "checked": "2026-10-12"
+        }
+      ]
+    },
+    {
+      "id": "trapezius-middle",
+      "nameVi": "Cơ thang giữa",
+      "nameLa": "Pars transversa musculi trapezii",
+      "nameEn": "Middle trapezius",
+      "group": "lung-tren",
+      "view": "back",
+      "functionVi": [
+        "Kéo hai xương bả vai về phía cột sống (khép bả vai), như khi kéo ngang."
+      ],
+      "fma": {
+        "L": [
+          "FMA33585"
+        ],
+        "R": [
+          "FMA33584"
+        ],
+        "C": []
+      },
+      "sources": [
+        {
+          "url": "https://www.kenhub.com/en/library/anatomy/trapezius-muscle",
+          "supports": "function",
+          "checked": "2026-10-12"
+        },
+        {
+          "url": "https://teachmeanatomy.info/back/muscles/superficial/",
+          "supports": "function",
+          "checked": "2026-10-12"
+        }
+      ]
+    },
+    {
+      "id": "trapezius-lower",
+      "nameVi": "Cơ thang dưới",
+      "nameLa": "Pars ascendens musculi trapezii",
+      "nameEn": "Lower trapezius",
+      "group": "lung-tren",
+      "view": "back",
+      "functionVi": [
+        "Kéo xương bả vai xuống dưới (hạ vai).",
+        "Phối hợp với cơ thang trên xoay bả vai lên trên để giơ tay qua đầu."
+      ],
+      "fma": {
+        "L": [
+          "FMA33583"
+        ],
+        "R": [
+          "FMA33581"
+        ],
+        "C": []
+      },
+      "sources": [
+        {
+          "url": "https://www.kenhub.com/en/library/anatomy/trapezius-muscle",
+          "supports": "function",
+          "checked": "2026-10-12"
+        },
+        {
+          "url": "https://teachmeanatomy.info/back/muscles/superficial/",
+          "supports": "function",
+          "checked": "2026-10-12"
+        }
+      ]
+    },
+    {
+      "id": "rhomboids",
+      "nameVi": "Cơ trám (trám lớn và trám bé)",
+      "nameLa": "Musculi rhomboidei major et minor",
+      "nameEn": "Rhomboids (major & minor)",
+      "group": "lung-tren",
+      "view": "back",
+      "functionVi": [
+        "Khép xương bả vai về phía cột sống và xoay xương bả vai."
+      ],
+      "fma": {
+        "L": [
+          "FMA13382",
+          "FMA13384"
+        ],
+        "R": [
+          "FMA13381",
+          "FMA13383"
+        ],
+        "C": []
+      },
+      "sources": [
+        {
+          "url": "https://teachmeanatomy.info/back/muscles/superficial/",
+          "supports": "function",
+          "checked": "2026-10-12"
+        }
+      ]
+    },
+    {
+      "id": "levator-scapulae",
+      "nameVi": "Cơ nâng vai",
+      "nameLa": "Musculus levator scapulae",
+      "nameEn": "Levator scapulae",
+      "group": "lung-tren",
+      "view": "back",
+      "functionVi": [
+        "Nâng xương bả vai (cùng cơ thang trên khi nhún vai)."
+      ],
+      "fma": {
+        "L": [
+          "FMA32541"
+        ],
+        "R": [
+          "FMA32540"
+        ],
+        "C": []
+      },
+      "sources": [
+        {
+          "url": "https://teachmeanatomy.info/back/muscles/superficial/",
+          "supports": "function",
+          "checked": "2026-10-12"
+        },
+        {
+          "url": "https://www.kenhub.com/en/library/anatomy/trapezius-muscle",
+          "supports": "anatomy",
+          "checked": "2026-10-12"
+        }
+      ]
+    },
+    {
+      "id": "latissimus-dorsi",
+      "nameVi": "Cơ lưng xô (cơ lưng rộng)",
+      "nameLa": "Musculus latissimus dorsi",
+      "nameEn": "Latissimus dorsi (lats)",
+      "group": "lung-xo",
+      "view": "back",
+      "functionVi": [
+        "Duỗi, khép và xoay trong cánh tay (như khi kéo xà, kéo cáp xuống)."
+      ],
+      "fma": {
+        "L": [
+          "FMA13359"
+        ],
+        "R": [
+          "FMA13358"
+        ],
+        "C": []
+      },
+      "sources": [
+        {
+          "url": "https://teachmeanatomy.info/back/muscles/superficial/",
+          "supports": "function",
+          "checked": "2026-10-12"
+        }
+      ]
+    },
+    {
+      "id": "teres-major",
+      "nameVi": "Cơ tròn lớn",
+      "nameLa": "Musculus teres major",
+      "nameEn": "Teres major",
+      "group": "lung-xo",
+      "view": "back",
+      "functionVi": [
+        "Khép và duỗi cánh tay tại khớp vai, đồng thời xoay trong cánh tay.",
+        "Hỗ trợ cơ lưng xô trong các động tác kéo."
+      ],
+      "fma": {
+        "L": [
+          "FMA32552"
+        ],
+        "R": [
+          "FMA32551"
+        ],
+        "C": []
+      },
+      "sources": [
+        {
+          "url": "https://teachmeanatomy.info/upper-limb/muscles/shoulder/intrinsic/",
+          "supports": "function",
+          "checked": "2026-10-12"
+        }
+      ]
+    },
+    {
+      "id": "biceps-brachii",
+      "nameVi": "Cơ nhị đầu cánh tay",
+      "nameLa": "Musculus biceps brachii",
+      "nameEn": "Biceps brachii",
+      "group": "tay-truoc",
+      "view": "front",
+      "functionVi": [
+        "Gập khuỷu tay và ngửa cẳng tay (xoay lòng bàn tay lên).",
+        "Hỗ trợ một phần gập cánh tay tại khớp vai."
+      ],
+      "fma": {
+        "L": [
+          "FMA37687",
+          "FMA37685"
+        ],
+        "R": [
+          "FMA37686",
+          "FMA37684"
+        ],
+        "C": []
+      },
+      "sources": [
+        {
+          "url": "https://www.physio-pedia.com/Biceps_brachii",
+          "supports": "function",
+          "checked": "2026-10-12"
+        },
+        {
+          "url": "https://teachmeanatomy.info/upper-limb/muscles/upper-arm/",
+          "supports": "function",
+          "checked": "2026-10-12"
+        }
+      ]
+    },
+    {
+      "id": "brachialis",
+      "nameVi": "Cơ cánh tay",
+      "nameLa": "Musculus brachialis",
+      "nameEn": "Brachialis",
+      "group": "tay-truoc",
+      "view": "front",
+      "functionVi": [
+        "Gập khuỷu tay."
+      ],
+      "fma": {
+        "L": [
+          "FMA37669"
+        ],
+        "R": [
+          "FMA37668"
+        ],
+        "C": []
+      },
+      "sources": [
+        {
+          "url": "https://teachmeanatomy.info/upper-limb/muscles/upper-arm/",
+          "supports": "function",
+          "checked": "2026-10-12"
+        }
+      ]
+    },
+    {
+      "id": "triceps-brachii",
+      "nameVi": "Cơ tam đầu cánh tay",
+      "nameLa": "Musculus triceps brachii",
+      "nameEn": "Triceps brachii",
+      "group": "tay-sau",
+      "view": "back",
+      "functionVi": [
+        "Duỗi khuỷu tay (như khi đẩy, chống xà kép).",
+        "Đầu dài bám vào xương bả vai nên bắt qua cả khớp vai."
+      ],
+      "fma": {
+        "L": [
+          "FMA37700",
+          "FMA37698",
+          "FMA37696"
+        ],
+        "R": [
+          "FMA37699",
+          "FMA37697",
+          "FMA37695"
+        ],
+        "C": []
+      },
+      "sources": [
+        {
+          "url": "https://teachmeanatomy.info/upper-limb/muscles/upper-arm/",
+          "supports": "function",
+          "checked": "2026-10-12"
+        }
+      ]
+    },
+    {
+      "id": "brachioradialis",
+      "nameVi": "Cơ cánh tay quay",
+      "nameLa": "Musculus brachioradialis",
+      "nameEn": "Brachioradialis",
+      "group": "cang-tay",
+      "view": "front",
+      "functionVi": [
+        "Gập khuỷu tay.",
+        "Góp phần ngửa cẳng tay."
+      ],
+      "fma": {
+        "L": [
+          "FMA38487"
+        ],
+        "R": [
+          "FMA38486"
+        ],
+        "C": []
+      },
+      "sources": [
+        {
+          "url": "https://teachmeanatomy.info/upper-limb/muscles/posterior-forearm/",
+          "supports": "function",
+          "checked": "2026-10-12"
+        }
+      ]
+    },
+    {
+      "id": "forearm-flexors",
+      "nameVi": "Nhóm cơ gấp cẳng tay (gấp cổ tay, gấp ngón, sấp tròn)",
+      "nameLa": "Musculi flexores antebrachii et musculus pronator teres",
+      "nameEn": "Forearm flexors (wrist & finger flexors, pronator teres)",
+      "group": "cang-tay",
+      "view": "front",
+      "functionVi": [
+        "Gập cổ tay và gập các ngón tay (sức nắm khi bám xà, cầm tạ).",
+        "Cơ sấp tròn xoay sấp cẳng tay."
+      ],
+      "fma": {
+        "L": [
+          "FMA38461",
+          "FMA38464",
+          "FMA38618",
+          "FMA38620",
+          "FMA38639",
+          "FMA38641",
+          "FMA38480",
+          "FMA38484",
+          "FMA38561",
+          "FMA38563"
+        ],
+        "R": [
+          "FMA38460",
+          "FMA38463",
+          "FMA38617",
+          "FMA38619",
+          "FMA38638",
+          "FMA38640",
+          "FMA38479",
+          "FMA38482",
+          "FMA38560",
+          "FMA38562"
+        ],
+        "C": []
+      },
+      "sources": [
+        {
+          "url": "https://teachmeanatomy.info/upper-limb/muscles/anterior-forearm/",
+          "supports": "function",
+          "checked": "2026-10-12"
+        }
+      ]
+    },
+    {
+      "id": "forearm-extensors",
+      "nameVi": "Nhóm cơ duỗi cẳng tay (duỗi cổ tay, duỗi ngón)",
+      "nameLa": "Musculi extensores carpi et digitorum",
+      "nameEn": "Forearm extensors (wrist & finger extensors)",
+      "group": "cang-tay",
+      "view": "back",
+      "functionVi": [
+        "Duỗi cổ tay (ngửa mu bàn tay lên) và duỗi các ngón tay.",
+        "Cơ duỗi cổ tay quay dạng cổ tay; cơ duỗi cổ tay trụ khép cổ tay."
+      ],
+      "fma": {
+        "L": [
+          "FMA38496",
+          "FMA38499",
+          "FMA38502",
+          "FMA38505",
+          "BP44",
+          "BP46"
+        ],
+        "R": [
+          "FMA38495",
+          "FMA38498",
+          "FMA38501",
+          "FMA38504",
+          "BP45",
+          "BP47"
+        ],
+        "C": []
+      },
+      "sources": [
+        {
+          "url": "https://teachmeanatomy.info/upper-limb/muscles/posterior-forearm/",
+          "supports": "function",
+          "checked": "2026-10-12"
+        }
+      ]
+    },
+    {
+      "id": "rectus-abdominis",
+      "nameVi": "Cơ thẳng bụng (cơ bụng 6 múi)",
+      "nameLa": "Musculus rectus abdominis",
+      "nameEn": "Rectus abdominis",
+      "group": "bung",
+      "view": "front",
+      "functionVi": [
+        "Gập thân về phía trước (cuộn cột sống, kéo lồng ngực về phía chậu).",
+        "Kiểm soát độ nghiêng của khung chậu và cùng các cơ bụng khác ép ổ bụng."
+      ],
+      "fma": {
+        "L": [
+          "FMA13378"
+        ],
+        "R": [
+          "FMA13377"
+        ],
+        "C": []
+      },
+      "sources": [
+        {
+          "url": "https://www.kenhub.com/en/library/anatomy/rectus-abdominis-muscle",
+          "supports": "function",
+          "checked": "2026-10-12"
+        },
+        {
+          "url": "https://teachmeanatomy.info/abdomen/muscles/abdominal-wall/",
+          "supports": "anatomy",
+          "checked": "2026-10-12"
+        }
+      ]
+    },
+    {
+      "id": "external-oblique",
+      "nameVi": "Cơ chéo bụng ngoài",
+      "nameLa": "Musculus obliquus externus abdominis",
+      "nameEn": "External oblique",
+      "group": "bung",
+      "view": "front",
+      "functionVi": [
+        "Xoay thân sang bên đối diện và nghiêng thân sang cùng bên.",
+        "Khi hai bên cùng co: gập thân và tăng áp lực ổ bụng."
+      ],
+      "fma": {
+        "L": [
+          "FMA13337"
+        ],
+        "R": [
+          "FMA13336"
+        ],
+        "C": []
+      },
+      "sources": [
+        {
+          "url": "https://www.kenhub.com/en/library/anatomy/external-abdominal-oblique-muscle",
+          "supports": "function",
+          "checked": "2026-10-12"
+        },
+        {
+          "url": "https://teachmeanatomy.info/abdomen/muscles/abdominal-wall/",
+          "supports": "function",
+          "checked": "2026-10-12"
+        }
+      ]
+    },
+    {
+      "id": "internal-oblique",
+      "nameVi": "Cơ chéo bụng trong",
+      "nameLa": "Musculus obliquus internus abdominis",
+      "nameEn": "Internal oblique",
+      "group": "bung",
+      "view": "front",
+      "functionVi": [
+        "Xoay và nghiêng thân về cùng bên.",
+        "Khi hai bên cùng co: gập thân và ép ổ bụng."
+      ],
+      "fma": {
+        "L": [
+          "FMA13893"
+        ],
+        "R": [
+          "FMA13892"
+        ],
+        "C": []
+      },
+      "sources": [
+        {
+          "url": "https://www.kenhub.com/en/library/anatomy/internal-abdominal-oblique-muscle",
+          "supports": "function",
+          "checked": "2026-10-12"
+        },
+        {
+          "url": "https://teachmeanatomy.info/abdomen/muscles/abdominal-wall/",
+          "supports": "function",
+          "checked": "2026-10-12"
+        }
+      ]
+    },
+    {
+      "id": "transversus-abdominis",
+      "nameVi": "Cơ ngang bụng",
+      "nameLa": "Musculus transversus abdominis",
+      "nameEn": "Transversus abdominis",
+      "group": "bung",
+      "view": "front",
+      "functionVi": [
+        "Ép các tạng trong ổ bụng, tạo áp lực ổ bụng giúp giữ vững thân mình (như khi siết bụng, hóp bụng)."
+      ],
+      "fma": {
+        "L": [
+          "FMA22345"
+        ],
+        "R": [
+          "FMA22344"
+        ],
+        "C": []
+      },
+      "sources": [
+        {
+          "url": "https://teachmeanatomy.info/abdomen/muscles/abdominal-wall/",
+          "supports": "function",
+          "checked": "2026-10-12"
+        }
+      ]
+    },
+    {
+      "id": "erector-spinae",
+      "nameVi": "Cơ dựng sống",
+      "nameLa": "Musculus erector spinae (iliocostalis, longissimus, spinalis)",
+      "nameEn": "Erector spinae",
+      "group": "lung-duoi",
+      "view": "back",
+      "functionVi": [
+        "Hai bên cùng co: duỗi cột sống và đầu.",
+        "Một bên co: nghiêng cột sống sang cùng bên."
+      ],
+      "fma": {
+        "L": [
+          "FMA22745",
+          "FMA22743",
+          "FMA22741",
+          "FMA22756",
+          "FMA22758",
+          "FMA22753",
+          "FMA22782",
+          "FMA22780"
+        ],
+        "R": [
+          "FMA22744",
+          "FMA22742",
+          "FMA22740",
+          "FMA22754",
+          "FMA22757",
+          "FMA22751",
+          "FMA22781",
+          "FMA22779"
+        ],
+        "C": []
+      },
+      "sources": [
+        {
+          "url": "https://teachmeanatomy.info/back/muscles/intrinsic/",
+          "supports": "function",
+          "checked": "2026-10-12"
+        }
+      ]
+    },
+    {
+      "id": "quadratus-lumborum",
+      "nameVi": "Cơ vuông thắt lưng",
+      "nameLa": "Musculus quadratus lumborum",
+      "nameEn": "Quadratus lumborum",
+      "group": "lung-duoi",
+      "view": "back",
+      "functionVi": [
+        "Nghiêng cột sống thắt lưng sang bên và giữ vững vùng thắt lưng–chậu.",
+        "Hỗ trợ duỗi cột sống thắt lưng."
+      ],
+      "fma": {
+        "L": [
+          "FMA22349"
+        ],
+        "R": [
+          "FMA22348"
+        ],
+        "C": []
+      },
+      "sources": [
+        {
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK535407/",
+          "supports": "function",
+          "checked": "2026-10-12"
+        }
+      ]
+    },
+    {
+      "id": "gluteus-maximus",
+      "nameVi": "Cơ mông lớn",
+      "nameLa": "Musculus gluteus maximus",
+      "nameEn": "Gluteus maximus",
+      "group": "mong",
+      "view": "back",
+      "functionVi": [
+        "Cơ duỗi đùi chính tại khớp hông, dùng nhiều khi cần lực lớn (leo dốc, chạy).",
+        "Xoay ngoài đùi."
+      ],
+      "fma": {
+        "L": [
+          "FMA22329"
+        ],
+        "R": [
+          "FMA22328"
+        ],
+        "C": []
+      },
+      "sources": [
+        {
+          "url": "https://teachmeanatomy.info/lower-limb/muscles/gluteal-region/",
+          "supports": "function",
+          "checked": "2026-10-12"
+        }
+      ]
+    },
+    {
+      "id": "gluteus-medius-minimus",
+      "nameVi": "Cơ mông nhỡ và cơ mông bé",
+      "nameLa": "Musculi gluteus medius et gluteus minimus",
+      "nameEn": "Gluteus medius & minimus",
+      "group": "mong",
+      "view": "back",
+      "functionVi": [
+        "Dạng đùi (đưa chân sang ngang) và xoay trong đùi.",
+        "Giữ khung chậu thăng bằng khi đứng một chân, đi bộ, chạy."
+      ],
+      "fma": {
+        "L": [
+          "FMA22331",
+          "FMA22333"
+        ],
+        "R": [
+          "FMA22330",
+          "FMA22332"
+        ],
+        "C": []
+      },
+      "sources": [
+        {
+          "url": "https://teachmeanatomy.info/lower-limb/muscles/gluteal-region/",
+          "supports": "function",
+          "checked": "2026-10-12"
+        }
+      ]
+    },
+    {
+      "id": "tensor-fasciae-latae",
+      "nameVi": "Cơ căng mạc đùi",
+      "nameLa": "Musculus tensor fasciae latae",
+      "nameEn": "Tensor fasciae latae (TFL)",
+      "group": "mong",
+      "view": "front",
+      "functionVi": [
+        "Hỗ trợ cơ mông nhỡ và mông bé dạng và xoay trong đùi.",
+        "Hỗ trợ chu kỳ dáng đi."
+      ],
+      "fma": {
+        "L": [
+          "FMA22426"
+        ],
+        "R": [
+          "FMA22425"
+        ],
+        "C": []
+      },
+      "sources": [
+        {
+          "url": "https://teachmeanatomy.info/lower-limb/muscles/gluteal-region/",
+          "supports": "function",
+          "checked": "2026-10-12"
+        }
+      ]
+    },
+    {
+      "id": "iliopsoas",
+      "nameVi": "Cơ thắt lưng chậu (thắt lưng lớn và cơ chậu)",
+      "nameLa": "Musculus iliopsoas (musculus psoas major et musculus iliacus)",
+      "nameEn": "Iliopsoas (psoas major & iliacus)",
+      "group": "gap-hong",
+      "view": "front",
+      "functionVi": [
+        "Gập hông mạnh nhất (nâng đùi lên phía trước).",
+        "Giữ vững khớp hông và cột sống thắt lưng."
+      ],
+      "fma": {
+        "L": [
+          "FMA22343",
+          "FMA22323"
+        ],
+        "R": [
+          "FMA22342",
+          "FMA22322"
+        ],
+        "C": []
+      },
+      "sources": [
+        {
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK531508/",
+          "supports": "function",
+          "checked": "2026-10-12"
+        },
+        {
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK535418/",
+          "supports": "function",
+          "checked": "2026-10-12"
+        },
+        {
+          "url": "https://teachmeanatomy.info/lower-limb/muscles/thigh/anterior-compartment/",
+          "supports": "function",
+          "checked": "2026-10-12"
+        }
+      ]
+    },
+    {
+      "id": "hip-adductors",
+      "nameVi": "Nhóm cơ khép đùi",
+      "nameLa": "Musculi adductores (adductor longus, brevis, magnus, minimus; pectineus; gracilis)",
+      "nameEn": "Hip adductors",
+      "group": "khep-dui",
+      "view": "front",
+      "functionVi": [
+        "Khép đùi (kéo chân vào đường giữa).",
+        "Một số phần hỗ trợ gập hông (khép dài, lược) hoặc duỗi hông (phần gân kheo của cơ khép lớn); cơ thon gập gối."
+      ],
+      "fma": {
+        "L": [
+          "FMA22457",
+          "FMA22454",
+          "FMA22460",
+          "FMA43887",
+          "FMA22451",
+          "FMA43884"
+        ],
+        "R": [
+          "FMA22456",
+          "FMA22452",
+          "FMA22459",
+          "FMA43886",
+          "FMA22450",
+          "FMA43883"
+        ],
+        "C": []
+      },
+      "sources": [
+        {
+          "url": "https://www.kenhub.com/en/library/anatomy/the-hip-adductors",
+          "supports": "function",
+          "checked": "2026-10-12"
+        },
+        {
+          "url": "https://teachmeanatomy.info/lower-limb/muscles/thigh/medial-compartment/",
+          "supports": "function",
+          "checked": "2026-10-12"
+        }
+      ]
+    },
+    {
+      "id": "rectus-femoris",
+      "nameVi": "Cơ thẳng đùi",
+      "nameLa": "Musculus rectus femoris",
+      "nameEn": "Rectus femoris",
+      "group": "dui-truoc",
+      "view": "front",
+      "functionVi": [
+        "Duỗi gối và gập hông – cơ duy nhất của nhóm tứ đầu bắt qua cả khớp hông lẫn khớp gối."
+      ],
+      "fma": {
+        "L": [
+          "FMA38929"
+        ],
+        "R": [
+          "FMA38928"
+        ],
+        "C": []
+      },
+      "sources": [
+        {
+          "url": "https://teachmeanatomy.info/lower-limb/muscles/thigh/anterior-compartment/",
+          "supports": "function",
+          "checked": "2026-10-12"
+        }
+      ]
+    },
+    {
+      "id": "vasti",
+      "nameVi": "Nhóm cơ rộng đùi (rộng ngoài, rộng trong, rộng giữa)",
+      "nameLa": "Musculi vastus lateralis, vastus medialis et vastus intermedius",
+      "nameEn": "Vasti (vastus lateralis, medialis, intermedius)",
+      "group": "dui-truoc",
+      "view": "front",
+      "functionVi": [
+        "Duỗi gối (như khi đứng lên từ squat, lunge).",
+        "Giữ xương bánh chè ổn định."
+      ],
+      "fma": {
+        "L": [
+          "FMA38931",
+          "FMA38933",
+          "FMA38935"
+        ],
+        "R": [
+          "FMA38930",
+          "FMA38932",
+          "FMA38934"
+        ],
+        "C": []
+      },
+      "sources": [
+        {
+          "url": "https://teachmeanatomy.info/lower-limb/muscles/thigh/anterior-compartment/",
+          "supports": "function",
+          "checked": "2026-10-12"
+        }
+      ]
+    },
+    {
+      "id": "hamstrings",
+      "nameVi": "Nhóm cơ đùi sau (hamstring)",
+      "nameLa": "Musculi ischiocrurales (biceps femoris, semitendinosus, semimembranosus)",
+      "nameEn": "Hamstrings",
+      "group": "dui-sau",
+      "view": "back",
+      "functionVi": [
+        "Gập gối và duỗi hông.",
+        "Cơ nhị đầu đùi xoay ngoài, cơ bán gân và bán màng xoay trong cẳng chân khi gối gập."
+      ],
+      "fma": {
+        "L": [
+          "FMA45889",
+          "FMA45892",
+          "FMA22359",
+          "FMA22449"
+        ],
+        "R": [
+          "FMA45888",
+          "FMA45891",
+          "FMA22358",
+          "FMA22448"
+        ],
+        "C": []
+      },
+      "sources": [
+        {
+          "url": "https://teachmeanatomy.info/lower-limb/muscles/thigh/hamstrings/",
+          "supports": "function",
+          "checked": "2026-10-12"
+        }
+      ]
+    },
+    {
+      "id": "gastrocnemius",
+      "nameVi": "Cơ bụng chân",
+      "nameLa": "Musculus gastrocnemius",
+      "nameEn": "Gastrocnemius",
+      "group": "cang-chan",
+      "view": "back",
+      "functionVi": [
+        "Gập gan bàn chân (nhón gót) và gập gối.",
+        "Bắt qua cả khớp gối lẫn khớp cổ chân."
+      ],
+      "fma": {
+        "L": [
+          "FMA45961",
+          "FMA45958"
+        ],
+        "R": [
+          "FMA45960",
+          "FMA45957"
+        ],
+        "C": []
+      },
+      "sources": [
+        {
+          "url": "https://teachmeanatomy.info/lower-limb/muscles/leg/posterior-compartment/",
+          "supports": "function",
+          "checked": "2026-10-12"
+        }
+      ]
+    },
+    {
+      "id": "soleus",
+      "nameVi": "Cơ dép",
+      "nameLa": "Musculus soleus",
+      "nameEn": "Soleus",
+      "group": "cang-chan",
+      "view": "back",
+      "functionVi": [
+        "Gập gan bàn chân (nhón gót).",
+        "Chỉ tác động ở khớp cổ chân, không bắt qua gối."
+      ],
+      "fma": {
+        "L": [
+          "FMA22559"
+        ],
+        "R": [
+          "FMA22558"
+        ],
+        "C": []
+      },
+      "sources": [
+        {
+          "url": "https://teachmeanatomy.info/lower-limb/muscles/leg/posterior-compartment/",
+          "supports": "function",
+          "checked": "2026-10-12"
+        }
+      ]
+    },
+    {
+      "id": "tibialis-anterior",
+      "nameVi": "Cơ chày trước",
+      "nameLa": "Musculus tibialis anterior",
+      "nameEn": "Tibialis anterior",
+      "group": "cang-chan",
+      "view": "front",
+      "functionVi": [
+        "Gập mu bàn chân (kéo mũi chân lên) và nghiêng trong bàn chân."
+      ],
+      "fma": {
+        "L": [
+          "FMA22545"
+        ],
+        "R": [
+          "FMA22544"
+        ],
+        "C": []
+      },
+      "sources": [
+        {
+          "url": "https://teachmeanatomy.info/lower-limb/muscles/leg/anterior-compartment/",
+          "supports": "function",
+          "checked": "2026-10-12"
+        }
+      ]
+    },
+    {
+      "id": "sternocleidomastoid",
+      "nameVi": "Cơ ức đòn chũm",
+      "nameLa": "Musculus sternocleidomastoideus",
+      "nameEn": "Sternocleidomastoid",
+      "group": "co",
+      "view": "front",
+      "functionVi": [
+        "Một bên co: nghiêng đầu cùng bên và xoay mặt sang bên đối diện.",
+        "Hai bên cùng co: gập cổ, đưa đầu ra trước; hỗ trợ hít vào."
+      ],
+      "fma": {
+        "L": [
+          "FMA13409"
+        ],
+        "R": [
+          "FMA13408"
+        ],
+        "C": []
+      },
+      "sources": [
+        {
+          "url": "https://www.kenhub.com/en/library/anatomy/sternocleidomastoid-muscle",
+          "supports": "function",
+          "checked": "2026-10-12"
+        }
+      ]
+    },
+    {
+      "id": "splenius",
+      "nameVi": "Cơ gối (gối đầu và gối cổ)",
+      "nameLa": "Musculi splenius capitis et splenius cervicis",
+      "nameEn": "Splenius capitis & cervicis",
+      "group": "co",
+      "view": "back",
+      "functionVi": [
+        "Hai bên cùng co: duỗi đầu và cổ (ngửa đầu ra sau).",
+        "Một bên co: xoay đầu về cùng bên."
+      ],
+      "fma": {
+        "L": [
+          "FMA22729",
+          "FMA22727"
+        ],
+        "R": [
+          "FMA22728",
+          "FMA22726"
+        ],
+        "C": []
+      },
+      "sources": [
+        {
+          "url": "https://teachmeanatomy.info/back/muscles/intrinsic/",
+          "supports": "function",
+          "checked": "2026-10-12"
+        }
+      ]
+    }
+  ],
+  "context": {
+    "muscles": [
+      "FMA37464",
+      "FMA37397",
+      "FMA37463",
+      "FMA37396",
+      "FMA46305",
+      "FMA46304",
+      "FMA46768",
+      "FMA46111",
+      "FMA46110",
+      "FMA49005",
+      "FMA49004",
+      "FMA13295",
+      "FMA21930",
+      "FMA9756",
+      "FMA37718",
+      "FMA37717",
+      "FMA37746",
+      "FMA37745",
+      "FMA37472",
+      "FMA37399",
+      "FMA37471",
+      "FMA37398",
+      "FMA37484",
+      "FMA37483",
+      "FMA46288",
+      "FMA46287",
+      "FMA9758",
+      "FMA9757",
+      "FMA45974",
+      "FMA45973",
+      "FMA37460",
+      "FMA37387",
+      "FMA38517",
+      "FMA37706",
+      "FMA46836",
+      "FMA264844",
+      "FMA81753",
+      "FMA46444",
+      "FMA37666",
+      "FMA46797",
+      "FMA46830",
+      "FMA46818",
+      "FMA55609",
+      "FMA51143",
+      "FMA22549",
+      "FMA51145",
+      "FMA22547",
+      "FMA38526",
+      "FMA38520",
+      "FMA38523",
+      "FMA22555",
+      "FMA22553",
+      "FMA22551",
+      "FMA37466",
+      "FMA37462",
+      "FMA65017",
+      "FMA65015",
+      "FMA46760",
+      "FMA22337",
+      "FMA22335",
+      "FMA46327",
+      "FMA45859",
+      "FMA58777",
+      "FMA264840",
+      "FMA46824",
+      "FMA46807",
+      "FMA46804",
+      "FMA46310",
+      "FMA23090",
+      "FMA49013",
+      "FMA46827",
+      "FMA22879",
+      "FMA46322",
+      "FMA55607",
+      "FMA32537",
+      "FMA32535",
+      "FMA22327",
+      "FMA22325",
+      "FMA46762",
+      "FMA13349",
+      "FMA37391",
+      "FMA22341",
+      "FMA22561",
+      "FMA45740",
+      "FMA22592",
+      "FMA55611",
+      "FMA38455",
+      "FMA45855",
+      "FMA45857",
+      "FMA22347",
+      "FMA22339",
+      "FMA46314",
+      "FMA46318",
+      "FMA32531",
+      "FMA32533",
+      "FMA46840",
+      "FMA22355",
+      "FMA13393",
+      "FMA13391",
+      "FMA13389",
+      "FMA22877",
+      "FMA22875",
+      "FMA22873",
+      "FMA13406",
+      "FMA13404",
+      "FMA13347",
+      "FMA13351",
+      "FMA45827",
+      "FMA13411",
+      "FMA38514",
+      "FMA49008",
+      "FMA46764",
+      "FMA13353",
+      "FMA65019",
+      "FMA9762",
+      "FMA46813",
+      "FMA46815",
+      "FMA11336",
+      "FMA49023",
+      "FMA49022",
+      "FMA45972",
+      "FMA45971",
+      "FMA46019",
+      "FMA46122",
+      "FMA46018",
+      "FMA46121",
+      "FMA86035",
+      "FMA37401",
+      "FMA86034",
+      "FMA37400",
+      "FMA46841",
+      "FMA46783",
+      "FMA46782",
+      "FMA46786",
+      "FMA46785",
+      "FMA46307",
+      "FMA46306",
+      "FMA37459",
+      "FMA37386",
+      "FMA38516",
+      "FMA37705",
+      "FMA46835",
+      "FMA258847",
+      "FMA81752",
+      "FMA46443",
+      "FMA37665",
+      "FMA46796",
+      "FMA46829",
+      "FMA46817",
+      "FMA55608",
+      "FMA51142",
+      "FMA22548",
+      "FMA51144",
+      "FMA22546",
+      "FMA38525",
+      "FMA38519",
+      "FMA38522",
+      "FMA22554",
+      "FMA22552",
+      "FMA22550",
+      "FMA37465",
+      "FMA37461",
+      "FMA65016",
+      "FMA65014",
+      "FMA46759",
+      "FMA22336",
+      "FMA22334",
+      "FMA46326",
+      "FMA45858",
+      "FMA58776",
+      "FMA258850",
+      "FMA46823",
+      "FMA46806",
+      "FMA46803",
+      "FMA46309",
+      "FMA23089",
+      "FMA49012",
+      "FMA46826",
+      "FMA22878",
+      "FMA46321",
+      "FMA55606",
+      "FMA32536",
+      "FMA32534",
+      "FMA22326",
+      "FMA22324",
+      "FMA46761",
+      "FMA13348",
+      "FMA37390",
+      "FMA22340",
+      "FMA22560",
+      "FMA45739",
+      "FMA22591",
+      "FMA55610",
+      "FMA38454",
+      "FMA45854",
+      "FMA45856",
+      "FMA22346",
+      "FMA22338",
+      "FMA46313",
+      "FMA46317",
+      "FMA32530",
+      "FMA32532",
+      "FMA46839",
+      "FMA22354",
+      "FMA13392",
+      "FMA13390",
+      "FMA13388",
+      "FMA22876",
+      "FMA22874",
+      "FMA22872",
+      "FMA13405",
+      "FMA13403",
+      "FMA13346",
+      "FMA13350",
+      "FMA45826",
+      "FMA13412",
+      "FMA38513",
+      "FMA49007",
+      "FMA46763",
+      "FMA13352",
+      "FMA65018",
+      "FMA9761",
+      "FMA46812",
+      "FMA46814",
+      "FMA37720",
+      "FMA37719",
+      "FMA37744",
+      "FMA37743",
+      "FMA71442",
+      "FMA74141",
+      "FMA42405",
+      "FMA74140",
+      "FMA42404",
+      "FMA71309",
+      "FMA71307",
+      "FMA71308",
+      "FMA71444",
+      "FMA74078",
+      "FMA74076",
+      "FMA42399",
+      "FMA42398",
+      "FMA76775",
+      "FMA42403",
+      "FMA42402",
+      "FMA71443",
+      "FMA74077",
+      "FMA74075",
+      "FMA65199",
+      "FMA65198",
+      "FMA49002",
+      "FMA49001",
+      "FMA46284",
+      "FMA46283",
+      "FMA37486",
+      "FMA37485",
+      "FMA37742",
+      "FMA37741",
+      "FMA23083",
+      "FMA46021",
+      "FMA46124",
+      "FMA46020",
+      "FMA46123",
+      "FMA49025",
+      "FMA49024",
+      "FMA46286",
+      "FMA46285"
+    ],
+    "bones": [
+      "FMA12519",
+      "FMA12520",
+      "BP24",
+      "BP28",
+      "FMA7487",
+      "FMA32651",
+      "FMA32657",
+      "FMA23953",
+      "FMA23959",
+      "FMA32659",
+      "FMA23955",
+      "FMA23957",
+      "FMA32653",
+      "FMA32655",
+      "FMA23951",
+      "FMA32650",
+      "FMA32656",
+      "FMA24460",
+      "FMA24463",
+      "FMA32658",
+      "FMA24461",
+      "FMA24462",
+      "FMA32652",
+      "FMA32654",
+      "FMA24459",
+      "FMA9991",
+      "FMA10059",
+      "FMA52740",
+      "FMA12523",
+      "FMA13076",
+      "FMA9922",
+      "FMA13072",
+      "FMA9165",
+      "FMA12522",
+      "FMA13075",
+      "FMA9248",
+      "FMA52734",
+      "FMA52749",
+      "FMA25058",
+      "FMA13505",
+      "FMA13508",
+      "FMA13898",
+      "FMA16037",
+      "FMA13502",
+      "FMA16033",
+      "FMA10458",
+      "FMA13897",
+      "FMA16036",
+      "FMA13501",
+      "FMA13506",
+      "FMA16034",
+      "FMA13495",
+      "FMA13900",
+      "FMA13504",
+      "FMA13899",
+      "FMA13503",
+      "FMA13507",
+      "FMA13896",
+      "FMA16035",
+      "FMA13500",
+      "FMA13509",
+      "FMA24498",
+      "FMA24447",
+      "FMA13323",
+      "FMA24529",
+      "FMA8310",
+      "FMA8532",
+      "FMA24475",
+      "FMA24481",
+      "FMA8112",
+      "FMA24473",
+      "FMA24516",
+      "FMA8093",
+      "FMA8005",
+      "FMA24465",
+      "FMA24508",
+      "FMA7987",
+      "FMA8167",
+      "FMA24471",
+      "FMA24514",
+      "FMA8148",
+      "FMA24449",
+      "FMA16587",
+      "FMA23131",
+      "FMA54738",
+      "FMA24524",
+      "FMA53646",
+      "FMA24526",
+      "FMA24438",
+      "FMA53650",
+      "FMA24522",
+      "FMA53648",
+      "FMA8391",
+      "FMA53656",
+      "FMA52789",
+      "FMA24487",
+      "FMA24442",
+      "FMA23465",
+      "FMA24436",
+      "FMA13396",
+      "FMA8031",
+      "FMA24467",
+      "FMA24510",
+      "FMA8012",
+      "FMA8275",
+      "FMA8256",
+      "FMA8221",
+      "FMA8202",
+      "FMA24483",
+      "FMA52739",
+      "FMA8472",
+      "FMA8058",
+      "FMA24469",
+      "FMA24512",
+      "FMA8039",
+      "FMA24478",
+      "FMA24444",
+      "FMA24445",
+      "FMA24440",
+      "FMA8534",
+      "FMA23468",
+      "FMA52893",
+      "FMA52748",
+      "FMA7486",
+      "FMA32647",
+      "FMA23938",
+      "FMA23944",
+      "FMA230988",
+      "FMA23940",
+      "FMA23942",
+      "FMA32643",
+      "FMA32645",
+      "FMA32646",
+      "FMA24455",
+      "FMA24458",
+      "FMA230986",
+      "FMA24456",
+      "FMA24457",
+      "FMA32642",
+      "FMA32644",
+      "FMA24501",
+      "FMA24500",
+      "FMA10014",
+      "FMA52735",
+      "FMA43254",
+      "FMA32639",
+      "FMA71915",
+      "FMA66791",
+      "FMA32641",
+      "FMA71908",
+      "FMA71916",
+      "FMA32635",
+      "FMA32637",
+      "FMA65470",
+      "FMA43253",
+      "FMA32638",
+      "FMA24451",
+      "FMA24454",
+      "FMA32640",
+      "FMA24452",
+      "FMA24453",
+      "FMA32634",
+      "FMA32636",
+      "FMA24450",
+      "FMA24497",
+      "FMA24446",
+      "FMA13322",
+      "FMA24528",
+      "FMA8283",
+      "FMA8531",
+      "FMA24474",
+      "FMA24480",
+      "FMA8070",
+      "FMA24472",
+      "FMA24515",
+      "FMA8066",
+      "FMA7875",
+      "FMA24464",
+      "FMA24507",
+      "FMA7857",
+      "FMA7976",
+      "FMA24470",
+      "FMA24513",
+      "FMA7957",
+      "FMA24448",
+      "FMA16586",
+      "FMA23130",
+      "FMA54737",
+      "FMA24523",
+      "FMA53645",
+      "FMA24525",
+      "FMA24437",
+      "FMA53649",
+      "FMA24521",
+      "FMA53647",
+      "FMA8364",
+      "FMA53655",
+      "FMA52788",
+      "FMA24486",
+      "FMA24441",
+      "FMA23464",
+      "FMA24435",
+      "FMA13395",
+      "FMA7886",
+      "FMA24466",
+      "FMA24509",
+      "FMA7882",
+      "FMA8248",
+      "FMA8229",
+      "FMA8194",
+      "FMA8175",
+      "FMA24482",
+      "FMA52738",
+      "FMA8445",
+      "FMA7913",
+      "FMA24468",
+      "FMA24511",
+      "FMA7909",
+      "FMA24477",
+      "FMA24443",
+      "FMA23725",
+      "FMA24439",
+      "FMA8533",
+      "FMA23467",
+      "FMA52892",
+      "FMA16202",
+      "FMA13073",
+      "FMA9187",
+      "FMA45098",
+      "FMA45097",
+      "FMA12525",
+      "FMA9968",
+      "FMA12524",
+      "FMA9945",
+      "FMA52736",
+      "FMA10037",
+      "FMA12521",
+      "FMA13074",
+      "FMA9209",
+      "FMA10081",
+      "FMA9710",
+      "FMA7488"
+    ]
+  }
+}

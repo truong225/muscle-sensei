@@ -1,0 +1,321 @@
+{
+ "sampled": 44,
+ "results": [
+  {
+   "url": "https://www.strengthlog.com/dumbbell-horizontal-external-shoulder-rotation/",
+   "exists": "yes",
+   "supports": "yes",
+   "evidence": "Primary muscles worked: 'Rotator Cuff (posterior)'; phần bình luận nêu cơ dưới gai và tròn bé. Kỹ thuật: đứng nghiêng cạnh thanh đòn đặt thấp hơn vai một chút, cánh tay trên tì lên thanh, khuỷu 90°, xoay cẳng tay lên.",
+   "note": "Khớp với bài 90-90 external rotation (rotator-cuff)."
+  },
+  {
+   "url": "https://breakingmuscle.com/4-drills-to-strengthen-and-injury-proof-your-neck/",
+   "exists": "yes",
+   "supports": "yes",
+   "evidence": "Mô tả wrestler's bridge có tay đỡ: 'press up until the top of your head is resting on the ground', hông đẩy cao giữ theo thời gian; tiến cấp: giữ được vài phút thì bỏ tay; khuyên dùng thảm/khăn cuộn kê đầu, 'ease into these moves slowly'.",
+   "note": "Nguồn kỹ thuật đúng như registry. Trang KHÔNG nêu splenius hay cơ cổ cụ thể (chỉ nói 'the spine and all of the back musculature') — cơ chính splenius phải dựa nguồn khác."
+  },
+  {
+   "url": "https://www.garagegymreviews.com/suitcase-deadlift",
+   "exists": "yes",
+   "supports": "partial",
+   "evidence": "Muscles worked: 'Hamstrings, glutes, quadriceps, latissimus dorsi, spinal erectors, core'. Cơ chéo bụng chỉ xuất hiện ở FAQ (tải một bên buộc core chống xoay/chống nghiêng). Bước 1: đặt một tạ cạnh bàn chân.",
+   "note": "Kỹ thuật khớp registry. Bài suitcase-deadlift ghi cơ chính quadratus-lumborum + obliques; trang KHÔNG nhắc cơ vuông thắt lưng, và danh sách cơ chính của trang thiên về đùi sau/mông/đùi trước — không hỗ trợ việc xếp QL là cơ chính."
+  },
+  {
+   "url": "https://www.physio-pedia.com/Gluteus_Minimus",
+   "exists": "yes",
+   "supports": "yes",
+   "evidence": "'Its main action is hip abduction'; bài tăng sức phần sau gồm 'side lie abduction', single leg bridge, single leg squat.",
+   "note": "Hỗ trợ cơ mông bé là cơ dạng hông chính cho các bài dạng hông (cáp, máy, band walk, nằm nghiêng)."
+  },
+  {
+   "url": "https://doctoryessis.com/2013/01/01/the-dumbbell-shrug/",
+   "exists": "yes",
+   "supports": "yes",
+   "evidence": "Major Muscles Involved: 'the uppermost trapezius, levator scapulae and rhomboid muscles'. Training tips: 'If you use a barbell, the hands will be placed in front of the body...'",
+   "note": "Khớp cơ chính levator-scapulae + trapezius-upper cho cả bản tạ đơn và tạ đòn (trang khuyên dùng tạ đơn hơn tạ đòn nhưng có nêu bản tạ đòn)."
+  },
+  {
+   "url": "https://www.strengthlog.com/bulgarian-split-squat/",
+   "exists": "yes",
+   "supports": "yes",
+   "evidence": "Primary muscles worked: Quads, Glutes, Adductors; có biến thể dùng tạ đơn thay tạ đòn.",
+   "note": "Quads bao gồm vasti → khớp gluteus-maximus + vasti. Split squat dùng trang Bulgarian theo suy rộng (cùng mẫu chuyển động), chấp nhận được."
+  },
+  {
+   "url": "https://www.nasm.org/resource-center/exercise-library/pike-push-up",
+   "exists": "yes",
+   "supports": "yes",
+   "evidence": "Anterior deltoid là 'primary mover for vertical pressing in pike position'; kỹ thuật từ tư thế downward-dog; khuyên xây sức bằng 'traditional and incline push-ups' trước.",
+   "note": "Khớp cả pike push-up và bản kê chân (cùng cơ chính delta trước); trang không mô tả bản kê chân."
+  },
+  {
+   "url": "https://www.strengthlog.com/dumbbell-front-raise/",
+   "exists": "yes",
+   "supports": "yes",
+   "evidence": "Primary: 'Front Deltoid'; Secondary: 'Lateral Deltoid'.",
+   "note": ""
+  },
+  {
+   "url": "https://www.strengthlog.com/sumo-deadlift/",
+   "exists": "yes",
+   "supports": "yes",
+   "evidence": "Primary: Glutes, Lower Back; Secondary: Quads, Hamstrings, Adductors, Trapezius, Forearm Flexors.",
+   "note": "Khớp gluteus-maximus + erector-spinae."
+  },
+  {
+   "url": "https://fitnessvolt.com/brachioradialis/",
+   "exists": "yes",
+   "supports": "yes",
+   "evidence": "Mục 'Best Brachioradialis Exercises' liệt kê 'Overhand reverse curls' và 'Hammer/neutral grip curls'; giáo án mẫu gồm reverse barbell curl và hammer curl.",
+   "note": ""
+  },
+  {
+   "url": "https://www.physio-pedia.com/Supraspinatus",
+   "exists": "yes",
+   "supports": "yes",
+   "evidence": "'Supraspinatus is commonly thought to be instrumental in the initiation of shoulder abduction'; là cơ chủ vận 0–15° và 'Assists deltoid to produce abduction beyond this range up to 90 degrees'.",
+   "note": "Trang giải phẫu; không nêu bài scaption/full can (chỉ có Full Can Test). Dùng cho lateral raise/scaption như nguồn chức năng là hợp lý."
+  },
+  {
+   "url": "https://www.strengthlog.com/heel-walks/",
+   "exists": "yes",
+   "supports": "yes",
+   "evidence": "Primary muscles worked: 'Tibialis Anterior'.",
+   "note": ""
+  },
+  {
+   "url": "https://ctsq.qc.ca/wp-content/uploads/2018/01/Neck-Strengthening-Protocol.pdf",
+   "exists": "yes",
+   "supports": "yes",
+   "evidence": "Fisher và cs. 2016 (J Trainology): máy cổ 4 hướng nạp đĩa; gập, duỗi, nghiêng phải/trái; 1 set tới thất bại 8–15 lần; nhịp 3 s lên/5 s xuống; tăng tải khi >15 lần; 2 buổi/tuần x 8 tuần.",
+   "note": "Nguồn kỹ thuật/giáo án đúng registry. Tài liệu không nêu tên cơ cụ thể (splenius/SCM/levator) — cơ chính phải dựa nguồn khác."
+  },
+  {
+   "url": "https://www.strengthlog.com/hanging-windshield-wiper/",
+   "exists": "yes",
+   "supports": "yes",
+   "evidence": "Primary: Obliques, Abs; Secondary: Forearm Flexors; phần Commentary gọi là 'an advanced core exercise'.",
+   "note": ""
+  },
+  {
+   "url": "https://www.physio-pedia.com/Teres_Major",
+   "exists": "yes",
+   "supports": "yes",
+   "evidence": "Cơ tròn lớn 'acts in synergy to extend, adduct and internally rotate the shoulder' cùng cơ xô; bài tăng sức: seated row với dây, lat pulldown, chin-up.",
+   "note": "Straight-arm pulldown không được liệt kê nhưng khớp chức năng duỗi vai nêu trên."
+  },
+  {
+   "url": "https://www.strengthlog.com/pull-ups-with-a-neutral-grip/",
+   "exists": "yes",
+   "supports": "partial",
+   "evidence": "Primary: 'Lats'; Secondary: Biceps, Rear Deltoids, Forearm Flexors, Rotator Cuffs. 'With a neutral grip... you make it possible to focus even more on your arm flexors'.",
+   "note": "Registry (dồn thêm vào nhóm gấp khuỷu) được hỗ trợ, nhưng bài neutral-grip-pull-up ghi brachioradialis là cơ CHÍNH; trang không nhắc brachioradialis và xếp nhóm gấp tay vào cơ phụ."
+  },
+  {
+   "url": "https://akuaku.org/Sarco+/exercise-planche-lean.html",
+   "exists": "yes",
+   "supports": "yes",
+   "evidence": "Primary: anterior deltoid ('Straight-arm forward-lean load'), serratus anterior ('Strong protraction hold'); Secondary: pec major, pec minor; cues 'Shoulders ahead of the wrists', 'Protract and round the upper back', 'Arms locked straight'.",
+   "note": ""
+  },
+  {
+   "url": "https://www.nasm.org/exercise-library/bird-dog",
+   "exists": "yes",
+   "supports": "yes",
+   "evidence": "Target: 'Core, Erector Spinae, Multifidi'; kỹ thuật bốn điểm, duỗi tay và chân đối bên, giữ cột sống trung tính.",
+   "note": "Khớp erector-spinae."
+  },
+  {
+   "url": "https://github.com/yuhonas/free-exercise-db",
+   "exists": "yes",
+   "supports": "yes",
+   "evidence": "Repo free-exercise-db (Unlicense), >800 bài JSON với trường level, equipment, mechanic, force, category, primaryMuscles, secondaryMuscles, instructions.",
+   "note": "Nguồn dữ liệu nhãn độ khó, không phải nguồn cơ/kỹ thuật — khớp registry. README ghi force/mechanic/equipment thiếu ở một số file."
+  },
+  {
+   "url": "https://doaj.org/article/1baf665988994d63ac2c8697dc5cd2a2",
+   "exists": "yes",
+   "supports": "yes",
+   "evidence": "Martín-Fuentes, Oliva-Lozano, Muyor, PLoS ONE 2020;15(2):e0229507. Abstract: 'Erector spinae and quadriceps muscles reported greater activation than gluteus maximus'; deadlift 'greater activation of the quadriceps muscles than the gluteus maximus and hamstring muscles'.",
+   "note": "Hỗ trợ claim registry (tứ đầu + dựng sống). Lưu ý: abstract báo mông lớn hoạt động THẤP hơn dựng sống và tứ đầu — hơi căng với việc xếp gluteus-maximus là cơ chính, nhưng không phải claim mà registry dùng nguồn này để chứng minh. Abstract không cho số liệu riêng của vastus."
+  },
+  {
+   "url": "https://theclimbingdoctor.com/?p=12729",
+   "exists": "yes",
+   "supports": "yes",
+   "evidence": "'Place a rubber-band around the tips of your fingers while maintaining a straight wrist. Spread your fingers without bending your wrist.'",
+   "note": "Khớp forearm-extensors (cơ duỗi ngón)."
+  },
+  {
+   "url": "https://us.physitrack.com/home-exercise-video/sidelying-hip-hike-%2528quadratus-lumborum%2529",
+   "exists": "yes",
+   "supports": "yes",
+   "evidence": "Tên bài 'Sidelying Hip Hike (Quadratus Lumborum)'; 'Tighten your side muscles to bring your hip towards your shoulder'.",
+   "note": ""
+  },
+  {
+   "url": "https://us.physitrack.com/home-exercise-video/scapula-push-up---wall-push-up-plus",
+   "exists": "yes",
+   "supports": "yes",
+   "evidence": "Wall push-up plus/scapula push-up: 'Keep your elbows straight'; 'Press through your hands while feeling a widening of your upper back... as you move away from the wall'.",
+   "note": "Nguồn kỹ thuật; không nêu tên cơ (serratus anterior phải dựa nguồn khác, vd. Ludewig 2004)."
+  },
+  {
+   "url": "https://dieringe.com/exercises/support-hold",
+   "exists": "yes",
+   "supports": "yes",
+   "evidence": "Primary: triceps, front delts; Secondary: chest, side delts; cues 'Stretch arms completely', 'Keep shoulders low (depression)', 'Consciously activate your torso and buttocks'.",
+   "note": ""
+  },
+  {
+   "url": "https://www.liftosaur.com/exercises/bodyweight-romanian-deadlift",
+   "exists": "yes",
+   "supports": "yes",
+   "evidence": "Target: Gluteus Maximus; Synergists: Adductor Magnus, Erector Spinae, Hamstrings; hip hinge, lưng phẳng, gối hơi chùng.",
+   "note": "Bài ghi hamstrings là cơ chính trong khi trang xếp là hiệp đồng — chấp nhận được vì RDL nổi tiếng nhắm đùi sau; không mâu thuẫn."
+  },
+  {
+   "url": "https://www.strengthlog.com/back-extension/",
+   "exists": "yes",
+   "supports": "yes",
+   "evidence": "Primary: Glutes, Lower Back; Secondary: Hamstrings; 'Hold a weight plate against your chest...'",
+   "note": ""
+  },
+  {
+   "url": "https://leicspart.nhs.uk/wp-content/uploads/2022/07/475-Shoulder-exercises.pdf",
+   "exists": "yes",
+   "supports": "yes",
+   "evidence": "Mục 2: Shoulder abduction (wall push), external rotation (wall push), internal rotation (doorway push): 'Hold for 10 seconds. Repeat 10-20 times.'",
+   "note": "Leaflet không dùng chữ 'isometric' và không nêu tên cơ; bản chất là gồng tĩnh. Đúng claim kỹ thuật."
+  },
+  {
+   "url": "https://www.racgp.org.au/FSDEDEV/media/documents/Clinical%20Resources/HANDI/Physiotherapy-lateral-epicondylitis.pdf",
+   "exists": "yes",
+   "supports": "yes",
+   "evidence": "Isometric: 'without bending the wrist, the patient resists downward pressure applied (by the other hand, physiotherapist or GP)'; dynamic: 'Load is applied using a resistance band or small weight'.",
+   "note": ""
+  },
+  {
+   "url": "https://akuaku.org/Sarco+/exercise-scapular-pull-up.html",
+   "exists": "yes",
+   "supports": "yes",
+   "evidence": "Primary: lower trapezius ('Scapular depression'); Secondary: latissimus dorsi, rhomboids ('Retraction'); cues 'Keep the elbows locked; only the shoulders move'.",
+   "note": ""
+  },
+  {
+   "url": "https://www.strengthlog.com/landmine-rotation/",
+   "exists": "yes",
+   "supports": "yes",
+   "evidence": "Primary: Obliques, Abs; Secondary: Front deltoids.",
+   "note": ""
+  },
+  {
+   "url": "https://www.strengthlog.com/close-grip-bench-press/",
+   "exists": "yes",
+   "supports": "yes",
+   "evidence": "Primary: Triceps; Secondary: Chest, Front Deltoid.",
+   "note": ""
+  },
+  {
+   "url": "https://www.ovid.com/journals/ajsm/pdf/00000475-200403000-00029~relative-balance-of-serratus-anterior-and-upper-trapezius",
+   "exists": "yes",
+   "supports": "yes",
+   "evidence": "Ludewig và cs., AJSM 2004: 'The standard push-up plus demonstrated the highest activation of the serratus (to 123%)'; 'The wall push-up plus ... demonstrated higher upper trapezius/serratus ratios (to 2.0)'.",
+   "note": "Hỗ trợ serratus-anterior. Nghiên cứu chỉ đo răng cưa trước và thang trên — không hỗ trợ rotator-cuff mà bài push-up-plus cũng ghi là cơ chính (registry không claim điều này)."
+  },
+  {
+   "url": "https://www.physio-pedia.com/Brachioradialis",
+   "exists": "yes",
+   "supports": "yes",
+   "evidence": "'The brachioradialis flexes the forearm at the elbow'; tư thế trung tính 'thought to result in the strongest brachioradialis activation'; một nghiên cứu khác thấy 'increased activity ... in elbow flexion from forearm pronation position'.",
+   "note": "Lưu ý sắc thái: trang cũng dẫn nghiên cứu thấy EMG cao nhất 'regardless of forearm position' — claim registry hơi mạnh hơn nguồn nhưng vẫn được nêu trong trang."
+  },
+  {
+   "url": "https://www.barbellmedicine.com/blog/best-cable-chest-exercises/",
+   "exists": "yes",
+   "supports": "partial",
+   "evidence": "Flat bench cable fly 'seems to increase muscle excitation in the sternocostal head'; 'a high-to-low variation – will activate the lower chest'; low-to-high 'may put more of the load on the clavicular head'; cable fly là 'great alternative to the dumbbell fly'.",
+   "note": "Claim registry đúng. Nhưng bài pec-deck dựa vào nguồn này cho cơ chính phần ức sườn trong khi trang KHÔNG nhắc pec deck; dumbbell fly chỉ được nhắc như bài thay thế (không có dữ liệu phần ức sườn cho DB fly)."
+  },
+  {
+   "url": "https://brookbushinstitute.com/article/more-glute-less-tfl",
+   "exists": "yes",
+   "supports": "partial",
+   "evidence": "Tóm tắt Selkowitz, Beneck & Powers 2013 (fine-wire EMG, 11 bài): side-lying hip abduction có 'significantly lower Sup Glut Max activity as compared to TFL' nhưng glut med > TFL; hip hike cũng Sup Glut Max < TFL, glut med ≈ TFL.",
+   "note": "Hỗ trợ đúng cho hip-hitch và side-lying-hip-abduction. Nhưng cable-hip-abduction (đứng) và hip-abduction-machine không nằm trong các bài được nghiên cứu — việc dùng nguồn này cho TFL là cơ chính ở hai bài đó là suy rộng, trang không hỗ trợ trực tiếp."
+  },
+  {
+   "url": "https://fitnessvolt.com/barbell-side-bends-guide/",
+   "exists": "unchecked",
+   "supports": "unchecked",
+   "evidence": "",
+   "note": "Chưa kiểm được: WebFetch báo 'You've hit your session limit · resets 6:20pm (UTC)' cả lần đầu và lần thử lại; proxy chặn curl (connect_rejected). Đây là giới hạn của công cụ, KHÔNG phải trang chặn bot — cần audit lại sau khi reset."
+  },
+  {
+   "url": "https://www.strengthlog.com/dumbbell-side-bend/",
+   "exists": "unchecked",
+   "supports": "unchecked",
+   "evidence": "",
+   "note": "Chưa kiểm được: WebFetch báo 'You've hit your session limit · resets 6:20pm (UTC)' cả lần đầu và lần thử lại; proxy chặn curl (connect_rejected). Đây là giới hạn của công cụ, KHÔNG phải trang chặn bot — cần audit lại sau khi reset."
+  },
+  {
+   "url": "https://www.strengthlog.com/reverse-barbell-curl/",
+   "exists": "yes",
+   "supports": "partial",
+   "evidence": "Primary: 'Biceps'; Secondary: 'Forearm Flexors'. Không nhắc brachioradialis hay brachialis.",
+   "note": "Claim registry (kỹ thuật; cơ gấp khuỷu và cẳng tay) được hỗ trợ, nhưng bài reverse-barbell-curl ghi brachioradialis (đứng đầu) và brachialis là cơ chính — trang không nêu hai cơ này."
+  },
+  {
+   "url": "https://www.strengthlog.com/towel-pull-up/",
+   "exists": "unchecked",
+   "supports": "unchecked",
+   "evidence": "",
+   "note": "Chưa kiểm được: WebFetch báo 'You've hit your session limit · resets 6:20pm (UTC)' cả lần đầu và lần thử lại; proxy chặn curl (connect_rejected). Đây là giới hạn của công cụ, KHÔNG phải trang chặn bot — cần audit lại sau khi reset."
+  },
+  {
+   "url": "https://teachmeanatomy.info/lower-limb/muscles/leg/anterior-compartment/",
+   "exists": "unchecked",
+   "supports": "unchecked",
+   "evidence": "",
+   "note": "Chưa kiểm được: WebFetch báo 'You've hit your session limit · resets 6:20pm (UTC)' cả lần đầu và lần thử lại; proxy chặn curl (connect_rejected). Đây là giới hạn của công cụ, KHÔNG phải trang chặn bot — cần audit lại sau khi reset."
+  },
+  {
+   "url": "https://www.strengthlog.com/internal-shoulder-rotations/",
+   "exists": "unchecked",
+   "supports": "unchecked",
+   "evidence": "",
+   "note": "Chưa kiểm được: WebFetch báo 'You've hit your session limit · resets 6:20pm (UTC)' cả lần đầu và lần thử lại; proxy chặn curl (connect_rejected). Đây là giới hạn của công cụ, KHÔNG phải trang chặn bot — cần audit lại sau khi reset."
+  },
+  {
+   "url": "https://oliverfinlay.com/assets/pdf/escamilla%20%26%20andrews%20(2009)%20shoulder%20muscle%20activity%20%26%20function%20in%20common%20shoulder%20rehabilitation%20exercises%20(abstract).pdf",
+   "exists": "unchecked",
+   "supports": "unchecked",
+   "evidence": "",
+   "note": "Chưa kiểm được: WebFetch báo 'You've hit your session limit · resets 6:20pm (UTC)' cả lần đầu và lần thử lại; proxy chặn curl (connect_rejected). Đây là giới hạn của công cụ, KHÔNG phải trang chặn bot — cần audit lại sau khi reset."
+  },
+  {
+   "url": "https://www.physio-pedia.com/Extensor_Carpi_Ulnaris",
+   "exists": "unchecked",
+   "supports": "unchecked",
+   "evidence": "",
+   "note": "Chưa kiểm được: WebFetch báo 'You've hit your session limit · resets 6:20pm (UTC)' cả lần đầu và lần thử lại; proxy chặn curl (connect_rejected). Đây là giới hạn của công cụ, KHÔNG phải trang chặn bot — cần audit lại sau khi reset."
+  },
+  {
+   "url": "https://www.strengthlog.com/dumbbell-shrug/",
+   "exists": "unchecked",
+   "supports": "unchecked",
+   "evidence": "",
+   "note": "Chưa kiểm được: WebFetch báo 'You've hit your session limit · resets 6:20pm (UTC)' cả lần đầu và lần thử lại; proxy chặn curl (connect_rejected). Đây là giới hạn của công cụ, KHÔNG phải trang chặn bot — cần audit lại sau khi reset."
+  }
+ ],
+ "summary": {
+  "yes": 31,
+  "partial": 5,
+  "no": 0,
+  "blocked": 0,
+  "notFound": 0,
+  "unchecked": 8
+ }
+}

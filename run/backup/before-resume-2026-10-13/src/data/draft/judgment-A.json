@@ -1,0 +1,2287 @@
+{
+  "replace": {
+    "push-up": {
+      "pectoralis-major": {
+        "primary": [
+          "pectoralis-major-sternal"
+        ],
+        "secondary": [
+          "pectoralis-major-clavicular"
+        ]
+      },
+      "deltoid": {
+        "primary": [],
+        "secondary": [
+          "deltoid-anterior"
+        ]
+      }
+    },
+    "wall-push-up": {
+      "pectoralis-major": {
+        "primary": [
+          "pectoralis-major-sternal"
+        ],
+        "secondary": [
+          "pectoralis-major-clavicular"
+        ]
+      },
+      "deltoid": {
+        "primary": [],
+        "secondary": [
+          "deltoid-anterior"
+        ]
+      }
+    },
+    "incline-push-up": {
+      "pectoralis-major": {
+        "primary": [
+          "pectoralis-major-sternal"
+        ],
+        "secondary": [
+          "pectoralis-major-clavicular"
+        ]
+      },
+      "deltoid": {
+        "primary": [],
+        "secondary": [
+          "deltoid-anterior"
+        ]
+      }
+    },
+    "ring-push-up": {
+      "pectoralis-major": {
+        "primary": [
+          "pectoralis-major-sternal"
+        ],
+        "secondary": [
+          "pectoralis-major-clavicular"
+        ]
+      },
+      "deltoid": {
+        "primary": [],
+        "secondary": [
+          "deltoid-anterior"
+        ]
+      }
+    },
+    "archer-push-up": {
+      "pectoralis-major": {
+        "primary": [
+          "pectoralis-major-sternal"
+        ],
+        "secondary": [
+          "pectoralis-major-clavicular"
+        ]
+      },
+      "deltoid": {
+        "primary": [],
+        "secondary": [
+          "deltoid-anterior"
+        ]
+      }
+    },
+    "diamond-push-up": {
+      "pectoralis-major": {
+        "primary": [
+          "pectoralis-major-sternal"
+        ],
+        "secondary": []
+      },
+      "deltoid": {
+        "primary": [],
+        "secondary": [
+          "deltoid-anterior"
+        ]
+      }
+    },
+    "close-grip-push-up": {
+      "pectoralis-major": {
+        "primary": [],
+        "secondary": [
+          "pectoralis-major-sternal"
+        ]
+      },
+      "deltoid": {
+        "primary": [],
+        "secondary": [
+          "deltoid-anterior"
+        ]
+      }
+    },
+    "fingertip-push-up": {
+      "pectoralis-major": {
+        "primary": [],
+        "secondary": [
+          "pectoralis-major-sternal"
+        ]
+      },
+      "deltoid": {
+        "primary": [],
+        "secondary": [
+          "deltoid-anterior"
+        ]
+      }
+    },
+    "pseudo-planche-push-up": {
+      "pectoralis-major": {
+        "primary": [
+          "pectoralis-major-sternal"
+        ],
+        "secondary": [
+          "pectoralis-major-clavicular"
+        ]
+      },
+      "deltoid": {
+        "primary": [
+          "deltoid-anterior"
+        ],
+        "secondary": []
+      }
+    },
+    "push-up-plus": {
+      "pectoralis-major": {
+        "primary": [],
+        "secondary": [
+          "pectoralis-major-sternal"
+        ]
+      },
+      "deltoid": {
+        "primary": [],
+        "secondary": [
+          "deltoid-anterior"
+        ]
+      }
+    },
+    "wall-push-up-plus": {
+      "pectoralis-major": {
+        "primary": [],
+        "secondary": [
+          "pectoralis-major-sternal"
+        ]
+      },
+      "deltoid": {
+        "primary": [],
+        "secondary": [
+          "deltoid-anterior"
+        ]
+      }
+    },
+    "mountain-climber": {
+      "deltoid": {
+        "primary": [],
+        "secondary": [
+          "deltoid-anterior"
+        ]
+      }
+    },
+    "decline-push-up": {
+      "pectoralis-major": {
+        "primary": [
+          "pectoralis-major-clavicular"
+        ],
+        "secondary": [
+          "pectoralis-major-sternal"
+        ]
+      },
+      "deltoid": {
+        "primary": [],
+        "secondary": [
+          "deltoid-anterior"
+        ]
+      }
+    },
+    "barbell-bench-press": {
+      "pectoralis-major": {
+        "primary": [
+          "pectoralis-major-sternal"
+        ],
+        "secondary": [
+          "pectoralis-major-clavicular"
+        ]
+      },
+      "deltoid": {
+        "primary": [],
+        "secondary": [
+          "deltoid-anterior"
+        ]
+      }
+    },
+    "dumbbell-bench-press": {
+      "pectoralis-major": {
+        "primary": [
+          "pectoralis-major-sternal"
+        ],
+        "secondary": [
+          "pectoralis-major-clavicular"
+        ]
+      },
+      "deltoid": {
+        "primary": [],
+        "secondary": [
+          "deltoid-anterior"
+        ]
+      }
+    },
+    "machine-chest-press": {
+      "pectoralis-major": {
+        "primary": [
+          "pectoralis-major-sternal"
+        ],
+        "secondary": [
+          "pectoralis-major-clavicular"
+        ]
+      },
+      "deltoid": {
+        "primary": [],
+        "secondary": [
+          "deltoid-anterior"
+        ]
+      }
+    },
+    "close-grip-bench-press": {
+      "pectoralis-major": {
+        "primary": [],
+        "secondary": [
+          "pectoralis-major-sternal",
+          "pectoralis-major-clavicular"
+        ]
+      },
+      "deltoid": {
+        "primary": [],
+        "secondary": [
+          "deltoid-anterior"
+        ]
+      }
+    },
+    "incline-dumbbell-press": {
+      "pectoralis-major": {
+        "primary": [
+          "pectoralis-major-clavicular"
+        ],
+        "secondary": [
+          "pectoralis-major-sternal"
+        ]
+      },
+      "deltoid": {
+        "primary": [
+          "deltoid-anterior"
+        ],
+        "secondary": []
+      }
+    },
+    "dumbbell-fly": {
+      "pectoralis-major": {
+        "primary": [
+          "pectoralis-major-sternal"
+        ],
+        "secondary": [
+          "pectoralis-major-clavicular"
+        ]
+      },
+      "deltoid": {
+        "primary": [],
+        "secondary": [
+          "deltoid-anterior"
+        ]
+      }
+    },
+    "cable-crossover": {
+      "pectoralis-major": {
+        "primary": [
+          "pectoralis-major-sternal"
+        ],
+        "secondary": [
+          "pectoralis-major-clavicular"
+        ]
+      },
+      "deltoid": {
+        "primary": [],
+        "secondary": [
+          "deltoid-anterior"
+        ]
+      }
+    },
+    "pec-deck": {
+      "pectoralis-major": {
+        "primary": [
+          "pectoralis-major-sternal"
+        ],
+        "secondary": [
+          "pectoralis-major-clavicular"
+        ]
+      },
+      "deltoid": {
+        "primary": [],
+        "secondary": [
+          "deltoid-anterior"
+        ]
+      }
+    },
+    "parallel-bar-dip": {
+      "pectoralis-major": {
+        "primary": [
+          "pectoralis-major-sternal"
+        ],
+        "secondary": [
+          "pectoralis-major-clavicular"
+        ]
+      },
+      "deltoid": {
+        "primary": [],
+        "secondary": [
+          "deltoid-anterior"
+        ]
+      }
+    },
+    "ring-dip": {
+      "pectoralis-major": {
+        "primary": [
+          "pectoralis-major-sternal"
+        ],
+        "secondary": [
+          "pectoralis-major-clavicular"
+        ]
+      },
+      "deltoid": {
+        "primary": [],
+        "secondary": [
+          "deltoid-anterior"
+        ]
+      }
+    },
+    "negative-dip": {
+      "pectoralis-major": {
+        "primary": [
+          "pectoralis-major-sternal"
+        ],
+        "secondary": [
+          "pectoralis-major-clavicular"
+        ]
+      },
+      "deltoid": {
+        "primary": [],
+        "secondary": [
+          "deltoid-anterior"
+        ]
+      }
+    },
+    "weighted-dip": {
+      "pectoralis-major": {
+        "primary": [
+          "pectoralis-major-sternal"
+        ],
+        "secondary": [
+          "pectoralis-major-clavicular"
+        ]
+      },
+      "deltoid": {
+        "primary": [],
+        "secondary": [
+          "deltoid-anterior"
+        ]
+      }
+    },
+    "machine-assisted-dip": {
+      "pectoralis-major": {
+        "primary": [
+          "pectoralis-major-sternal"
+        ],
+        "secondary": [
+          "pectoralis-major-clavicular"
+        ]
+      },
+      "deltoid": {
+        "primary": [],
+        "secondary": [
+          "deltoid-anterior"
+        ]
+      }
+    },
+    "bench-dip": {
+      "pectoralis-major": {
+        "primary": [],
+        "secondary": [
+          "pectoralis-major-sternal",
+          "pectoralis-major-clavicular"
+        ]
+      },
+      "deltoid": {
+        "primary": [],
+        "secondary": [
+          "deltoid-anterior"
+        ]
+      }
+    },
+    "dumbbell-pullover": {
+      "pectoralis-major": {
+        "primary": [
+          "pectoralis-major-sternal"
+        ],
+        "secondary": []
+      }
+    },
+    "barbell-overhead-press": {
+      "deltoid": {
+        "primary": [
+          "deltoid-anterior",
+          "deltoid-lateral"
+        ],
+        "secondary": []
+      }
+    },
+    "seated-dumbbell-shoulder-press": {
+      "deltoid": {
+        "primary": [
+          "deltoid-anterior",
+          "deltoid-lateral"
+        ],
+        "secondary": []
+      }
+    },
+    "machine-shoulder-press": {
+      "deltoid": {
+        "primary": [
+          "deltoid-anterior",
+          "deltoid-lateral"
+        ],
+        "secondary": []
+      }
+    },
+    "push-press": {
+      "deltoid": {
+        "primary": [
+          "deltoid-anterior",
+          "deltoid-lateral"
+        ],
+        "secondary": []
+      }
+    },
+    "arnold-press": {
+      "deltoid": {
+        "primary": [
+          "deltoid-anterior",
+          "deltoid-lateral"
+        ],
+        "secondary": []
+      }
+    },
+    "cuban-press": {
+      "deltoid": {
+        "primary": [
+          "deltoid-anterior",
+          "deltoid-lateral"
+        ],
+        "secondary": [
+          "deltoid-posterior"
+        ]
+      }
+    },
+    "pike-push-up": {
+      "deltoid": {
+        "primary": [
+          "deltoid-anterior",
+          "deltoid-lateral"
+        ],
+        "secondary": []
+      },
+      "pectoralis-major": {
+        "primary": [],
+        "secondary": [
+          "pectoralis-major-clavicular"
+        ]
+      }
+    },
+    "elevated-pike-push-up": {
+      "deltoid": {
+        "primary": [
+          "deltoid-anterior",
+          "deltoid-lateral"
+        ],
+        "secondary": []
+      },
+      "pectoralis-major": {
+        "primary": [],
+        "secondary": [
+          "pectoralis-major-clavicular"
+        ]
+      }
+    },
+    "wall-handstand-push-up": {
+      "deltoid": {
+        "primary": [
+          "deltoid-anterior",
+          "deltoid-lateral"
+        ],
+        "secondary": []
+      },
+      "pectoralis-major": {
+        "primary": [],
+        "secondary": [
+          "pectoralis-major-clavicular"
+        ]
+      }
+    },
+    "wall-handstand-hold": {
+      "deltoid": {
+        "primary": [
+          "deltoid-anterior"
+        ],
+        "secondary": [
+          "deltoid-lateral"
+        ]
+      }
+    },
+    "wall-walk": {
+      "deltoid": {
+        "primary": [
+          "deltoid-anterior"
+        ],
+        "secondary": [
+          "deltoid-lateral"
+        ]
+      },
+      "pectoralis-major": {
+        "primary": [],
+        "secondary": [
+          "pectoralis-major-clavicular"
+        ]
+      }
+    },
+    "dumbbell-lateral-raise": {
+      "deltoid": {
+        "primary": [
+          "deltoid-lateral"
+        ],
+        "secondary": [
+          "deltoid-anterior"
+        ]
+      }
+    },
+    "barbell-upright-row": {
+      "deltoid": {
+        "primary": [
+          "deltoid-lateral"
+        ],
+        "secondary": [
+          "deltoid-anterior"
+        ]
+      }
+    },
+    "dumbbell-front-raise": {
+      "deltoid": {
+        "primary": [
+          "deltoid-anterior"
+        ],
+        "secondary": [
+          "deltoid-lateral"
+        ]
+      },
+      "pectoralis-major": {
+        "primary": [],
+        "secondary": [
+          "pectoralis-major-clavicular"
+        ]
+      }
+    },
+    "dumbbell-scaption": {
+      "deltoid": {
+        "primary": [
+          "deltoid-anterior",
+          "deltoid-lateral"
+        ],
+        "secondary": []
+      }
+    },
+    "full-can-raise": {
+      "deltoid": {
+        "primary": [],
+        "secondary": [
+          "deltoid-anterior",
+          "deltoid-lateral"
+        ]
+      }
+    },
+    "barbell-overhead-shrug": {
+      "deltoid": {
+        "primary": [],
+        "secondary": [
+          "deltoid-anterior",
+          "deltoid-lateral"
+        ]
+      }
+    },
+    "isometric-shoulder-abduction": {
+      "deltoid": {
+        "primary": [],
+        "secondary": [
+          "deltoid-lateral"
+        ]
+      }
+    },
+    "bent-over-reverse-dumbbell-fly": {
+      "deltoid": {
+        "primary": [
+          "deltoid-posterior"
+        ],
+        "secondary": [
+          "deltoid-lateral"
+        ]
+      }
+    },
+    "reverse-machine-fly": {
+      "deltoid": {
+        "primary": [
+          "deltoid-posterior"
+        ],
+        "secondary": [
+          "deltoid-lateral"
+        ]
+      }
+    },
+    "face-pull": {
+      "deltoid": {
+        "primary": [
+          "deltoid-posterior"
+        ],
+        "secondary": [
+          "deltoid-lateral"
+        ]
+      }
+    },
+    "band-pull-apart": {
+      "deltoid": {
+        "primary": [
+          "deltoid-posterior"
+        ],
+        "secondary": []
+      }
+    },
+    "prone-t-raise-bodyweight": {
+      "deltoid": {
+        "primary": [
+          "deltoid-posterior",
+          "deltoid-lateral"
+        ],
+        "secondary": []
+      }
+    },
+    "prone-t-raise": {
+      "deltoid": {
+        "primary": [],
+        "secondary": [
+          "deltoid-posterior",
+          "deltoid-lateral"
+        ]
+      }
+    },
+    "prone-w-raise": {
+      "deltoid": {
+        "primary": [],
+        "secondary": [
+          "deltoid-posterior"
+        ]
+      }
+    },
+    "prone-y-raise": {
+      "deltoid": {
+        "primary": [],
+        "secondary": [
+          "deltoid-posterior",
+          "deltoid-lateral"
+        ]
+      }
+    },
+    "prone-y-raise-bodyweight": {
+      "deltoid": {
+        "primary": [],
+        "secondary": [
+          "deltoid-posterior",
+          "deltoid-lateral"
+        ]
+      }
+    },
+    "wall-angel": {
+      "deltoid": {
+        "primary": [],
+        "secondary": [
+          "deltoid-posterior"
+        ]
+      }
+    },
+    "bent-over-barbell-row": {
+      "deltoid": {
+        "primary": [],
+        "secondary": [
+          "deltoid-posterior"
+        ]
+      }
+    },
+    "chest-supported-dumbbell-row": {
+      "deltoid": {
+        "primary": [],
+        "secondary": [
+          "deltoid-posterior"
+        ]
+      }
+    },
+    "one-arm-dumbbell-row": {
+      "deltoid": {
+        "primary": [],
+        "secondary": [
+          "deltoid-posterior"
+        ]
+      }
+    },
+    "seated-cable-row": {
+      "deltoid": {
+        "primary": [],
+        "secondary": [
+          "deltoid-posterior"
+        ]
+      }
+    },
+    "inverted-row": {
+      "deltoid": {
+        "primary": [],
+        "secondary": [
+          "deltoid-posterior"
+        ]
+      }
+    },
+    "underhand-inverted-row": {
+      "deltoid": {
+        "primary": [],
+        "secondary": [
+          "deltoid-posterior"
+        ]
+      }
+    },
+    "vertical-row": {
+      "deltoid": {
+        "primary": [],
+        "secondary": [
+          "deltoid-posterior"
+        ]
+      }
+    },
+    "archer-row": {
+      "deltoid": {
+        "primary": [],
+        "secondary": [
+          "deltoid-posterior"
+        ]
+      }
+    },
+    "tuck-front-lever-row": {
+      "deltoid": {
+        "primary": [],
+        "secondary": [
+          "deltoid-posterior"
+        ]
+      }
+    },
+    "wide-row": {
+      "deltoid": {
+        "primary": [
+          "deltoid-posterior"
+        ],
+        "secondary": [
+          "deltoid-lateral"
+        ]
+      }
+    },
+    "lat-pulldown": {
+      "deltoid": {
+        "primary": [],
+        "secondary": [
+          "deltoid-posterior"
+        ]
+      }
+    },
+    "pull-up": {
+      "deltoid": {
+        "primary": [],
+        "secondary": [
+          "deltoid-posterior"
+        ]
+      }
+    },
+    "weighted-pull-up": {
+      "deltoid": {
+        "primary": [],
+        "secondary": [
+          "deltoid-posterior"
+        ]
+      }
+    },
+    "archer-pull-up": {
+      "deltoid": {
+        "primary": [],
+        "secondary": [
+          "deltoid-posterior"
+        ]
+      }
+    },
+    "arch-hang": {
+      "deltoid": {
+        "primary": [],
+        "secondary": [
+          "deltoid-posterior"
+        ]
+      }
+    },
+    "front-lever": {
+      "deltoid": {
+        "primary": [],
+        "secondary": [
+          "deltoid-posterior"
+        ]
+      }
+    },
+    "tuck-front-lever": {
+      "deltoid": {
+        "primary": [],
+        "secondary": [
+          "deltoid-posterior"
+        ]
+      }
+    },
+    "straight-arm-pulldown": {
+      "deltoid": {
+        "primary": [],
+        "secondary": [
+          "deltoid-posterior"
+        ]
+      }
+    },
+    "muscle-up": {
+      "deltoid": {
+        "primary": [],
+        "secondary": [
+          "deltoid-anterior",
+          "deltoid-posterior"
+        ]
+      },
+      "pectoralis-major": {
+        "primary": [],
+        "secondary": [
+          "pectoralis-major-sternal",
+          "pectoralis-major-clavicular"
+        ]
+      }
+    },
+    "cable-external-rotation": {
+      "deltoid": {
+        "primary": [],
+        "secondary": [
+          "deltoid-posterior"
+        ]
+      }
+    },
+    "side-lying-dumbbell-external-rotation": {
+      "deltoid": {
+        "primary": [],
+        "secondary": [
+          "deltoid-posterior"
+        ]
+      }
+    },
+    "side-lying-external-rotation": {
+      "deltoid": {
+        "primary": [],
+        "secondary": [
+          "deltoid-posterior"
+        ]
+      }
+    },
+    "dumbbell-90-90-external-rotation": {
+      "deltoid": {
+        "primary": [],
+        "secondary": [
+          "deltoid-posterior"
+        ]
+      }
+    },
+    "isometric-shoulder-external-rotation": {
+      "deltoid": {
+        "primary": [],
+        "secondary": [
+          "deltoid-posterior"
+        ]
+      }
+    },
+    "cable-internal-rotation": {
+      "pectoralis-major": {
+        "primary": [],
+        "secondary": [
+          "pectoralis-major-sternal",
+          "pectoralis-major-clavicular"
+        ]
+      }
+    },
+    "side-lying-dumbbell-internal-rotation": {
+      "pectoralis-major": {
+        "primary": [],
+        "secondary": [
+          "pectoralis-major-sternal",
+          "pectoralis-major-clavicular"
+        ]
+      }
+    },
+    "isometric-shoulder-internal-rotation": {
+      "pectoralis-major": {
+        "primary": [],
+        "secondary": [
+          "pectoralis-major-sternal",
+          "pectoralis-major-clavicular"
+        ]
+      }
+    },
+    "dumbbell-90-90-internal-rotation": {
+      "pectoralis-major": {
+        "primary": [],
+        "secondary": [
+          "pectoralis-major-sternal",
+          "pectoralis-major-clavicular"
+        ]
+      },
+      "deltoid": {
+        "primary": [],
+        "secondary": [
+          "deltoid-anterior"
+        ]
+      }
+    },
+    "band-dynamic-hug": {
+      "pectoralis-major": {
+        "primary": [],
+        "secondary": [
+          "pectoralis-major-sternal",
+          "pectoralis-major-clavicular"
+        ]
+      },
+      "deltoid": {
+        "primary": [],
+        "secondary": [
+          "deltoid-anterior"
+        ]
+      }
+    },
+    "supine-dumbbell-serratus-punch": {
+      "pectoralis-major": {
+        "primary": [],
+        "secondary": [
+          "pectoralis-major-sternal",
+          "pectoralis-major-clavicular"
+        ]
+      },
+      "deltoid": {
+        "primary": [],
+        "secondary": [
+          "deltoid-anterior"
+        ]
+      }
+    },
+    "cable-high-serratus-punch": {
+      "deltoid": {
+        "primary": [],
+        "secondary": [
+          "deltoid-anterior"
+        ]
+      }
+    },
+    "wall-slide": {
+      "deltoid": {
+        "primary": [],
+        "secondary": [
+          "deltoid-anterior"
+        ]
+      }
+    },
+    "planche-lean": {
+      "deltoid": {
+        "primary": [
+          "deltoid-anterior"
+        ],
+        "secondary": []
+      },
+      "pectoralis-major": {
+        "primary": [],
+        "secondary": [
+          "pectoralis-major-sternal",
+          "pectoralis-major-clavicular"
+        ]
+      }
+    },
+    "tuck-planche": {
+      "deltoid": {
+        "primary": [
+          "deltoid-anterior"
+        ],
+        "secondary": []
+      },
+      "pectoralis-major": {
+        "primary": [],
+        "secondary": [
+          "pectoralis-major-sternal",
+          "pectoralis-major-clavicular"
+        ]
+      }
+    },
+    "parallel-bar-support-hold": {
+      "pectoralis-major": {
+        "primary": [],
+        "secondary": [
+          "pectoralis-major-sternal",
+          "pectoralis-major-clavicular"
+        ]
+      }
+    },
+    "ring-support-hold": {
+      "pectoralis-major": {
+        "primary": [],
+        "secondary": [
+          "pectoralis-major-sternal",
+          "pectoralis-major-clavicular"
+        ]
+      }
+    },
+    "l-sit": {
+      "deltoid": {
+        "primary": [],
+        "secondary": [
+          "deltoid-anterior"
+        ]
+      },
+      "pectoralis-major": {
+        "primary": [],
+        "secondary": [
+          "pectoralis-major-sternal",
+          "pectoralis-major-clavicular"
+        ]
+      }
+    },
+    "tuck-l-sit": {
+      "deltoid": {
+        "primary": [],
+        "secondary": [
+          "deltoid-anterior"
+        ]
+      },
+      "pectoralis-major": {
+        "primary": [],
+        "secondary": [
+          "pectoralis-major-sternal",
+          "pectoralis-major-clavicular"
+        ]
+      }
+    },
+    "bird-dog": {
+      "deltoid": {
+        "primary": [],
+        "secondary": [
+          "deltoid-anterior"
+        ]
+      }
+    },
+    "wrist-roller": {
+      "deltoid": {
+        "primary": [],
+        "secondary": [
+          "deltoid-anterior"
+        ]
+      }
+    },
+    "landmine-rotation": {
+      "deltoid": {
+        "primary": [],
+        "secondary": [
+          "deltoid-anterior"
+        ]
+      }
+    },
+    "cable-wood-chop": {
+      "deltoid": {
+        "primary": [],
+        "secondary": [
+          "deltoid-posterior"
+        ]
+      }
+    },
+    "farmers-walk": {
+      "deltoid": {
+        "primary": [],
+        "secondary": [
+          "deltoid-lateral"
+        ]
+      }
+    }
+  },
+  "addSources": {
+    "push-up": [
+      {
+        "url": "https://www.lookgreatnaked.com/articles/biomechanics_of_the_Pushup.pdf",
+        "checked": "2026-10-12"
+      },
+      {
+        "url": "https://www.mdpi.com/1660-4601/17/19/7339",
+        "checked": "2026-10-12"
+      }
+    ],
+    "wall-push-up": [
+      {
+        "url": "https://www.lookgreatnaked.com/articles/biomechanics_of_the_Pushup.pdf",
+        "checked": "2026-10-12"
+      },
+      {
+        "url": "https://www.mdpi.com/1660-4601/17/19/7339",
+        "checked": "2026-10-12"
+      }
+    ],
+    "incline-push-up": [
+      {
+        "url": "https://www.lookgreatnaked.com/articles/biomechanics_of_the_Pushup.pdf",
+        "checked": "2026-10-12"
+      },
+      {
+        "url": "https://www.mdpi.com/1660-4601/17/19/7339",
+        "checked": "2026-10-12"
+      }
+    ],
+    "ring-push-up": [
+      {
+        "url": "https://www.lookgreatnaked.com/articles/biomechanics_of_the_Pushup.pdf",
+        "checked": "2026-10-12"
+      },
+      {
+        "url": "https://www.mdpi.com/1660-4601/17/19/7339",
+        "checked": "2026-10-12"
+      }
+    ],
+    "archer-push-up": [
+      {
+        "url": "https://www.lookgreatnaked.com/articles/biomechanics_of_the_Pushup.pdf",
+        "checked": "2026-10-12"
+      },
+      {
+        "url": "https://www.mdpi.com/1660-4601/17/19/7339",
+        "checked": "2026-10-12"
+      }
+    ],
+    "diamond-push-up": [
+      {
+        "url": "https://www.lookgreatnaked.com/articles/biomechanics_of_the_Pushup.pdf",
+        "checked": "2026-10-12"
+      }
+    ],
+    "close-grip-push-up": [
+      {
+        "url": "https://www.lookgreatnaked.com/articles/biomechanics_of_the_Pushup.pdf",
+        "checked": "2026-10-12"
+      }
+    ],
+    "fingertip-push-up": [
+      {
+        "url": "https://www.lookgreatnaked.com/articles/biomechanics_of_the_Pushup.pdf",
+        "checked": "2026-10-12"
+      }
+    ],
+    "pseudo-planche-push-up": [
+      {
+        "url": "https://www.lookgreatnaked.com/articles/biomechanics_of_the_Pushup.pdf",
+        "checked": "2026-10-12"
+      },
+      {
+        "url": "https://www.kenhub.com/en/library/anatomy/major-pectoralis-muscle",
+        "checked": "2026-10-12"
+      },
+      {
+        "url": "https://kenhub.com/en/library/anatomy/the-deltoid-muscle",
+        "checked": "2026-10-12"
+      }
+    ],
+    "push-up-plus": [
+      {
+        "url": "https://www.lookgreatnaked.com/articles/biomechanics_of_the_Pushup.pdf",
+        "checked": "2026-10-12"
+      }
+    ],
+    "wall-push-up-plus": [
+      {
+        "url": "https://www.lookgreatnaked.com/articles/biomechanics_of_the_Pushup.pdf",
+        "checked": "2026-10-12"
+      }
+    ],
+    "mountain-climber": [
+      {
+        "url": "https://www.lookgreatnaked.com/articles/biomechanics_of_the_Pushup.pdf",
+        "checked": "2026-10-12"
+      },
+      {
+        "url": "https://kenhub.com/en/library/anatomy/the-deltoid-muscle",
+        "checked": "2026-10-12"
+      }
+    ],
+    "decline-push-up": [
+      {
+        "url": "https://www.nasm.org/resource-center/exercise-library/decline-push-up",
+        "checked": "2026-10-12"
+      },
+      {
+        "url": "https://www.barbellmedicine.com/blog/best-upper-chest-exercises-for-bigger-pecs/",
+        "checked": "2026-10-12"
+      }
+    ],
+    "barbell-bench-press": [
+      {
+        "url": "https://www.mdpi.com/1660-4601/17/19/7339",
+        "checked": "2026-10-12"
+      }
+    ],
+    "dumbbell-bench-press": [
+      {
+        "url": "https://www.mdpi.com/1660-4601/17/19/7339",
+        "checked": "2026-10-12"
+      }
+    ],
+    "machine-chest-press": [
+      {
+        "url": "https://www.mdpi.com/1660-4601/17/19/7339",
+        "checked": "2026-10-12"
+      }
+    ],
+    "close-grip-bench-press": [
+      {
+        "url": "https://www.mdpi.com/1660-4601/17/19/7339",
+        "checked": "2026-10-12"
+      }
+    ],
+    "incline-dumbbell-press": [
+      {
+        "url": "https://www.mdpi.com/1660-4601/17/19/7339",
+        "checked": "2026-10-12"
+      },
+      {
+        "url": "https://www.barbellmedicine.com/blog/best-upper-chest-exercises-for-bigger-pecs/",
+        "checked": "2026-10-12"
+      }
+    ],
+    "dumbbell-fly": [
+      {
+        "url": "https://www.barbellmedicine.com/blog/best-upper-chest-exercises-for-bigger-pecs/",
+        "checked": "2026-10-12"
+      },
+      {
+        "url": "https://www.kenhub.com/en/library/anatomy/major-pectoralis-muscle",
+        "checked": "2026-10-12"
+      },
+      {
+        "url": "https://www.physio-pedia.com/Deltoid",
+        "checked": "2026-10-12"
+      }
+    ],
+    "cable-crossover": [
+      {
+        "url": "https://www.barbellmedicine.com/blog/best-upper-chest-exercises-for-bigger-pecs/",
+        "checked": "2026-10-12"
+      },
+      {
+        "url": "https://www.kenhub.com/en/library/anatomy/major-pectoralis-muscle",
+        "checked": "2026-10-12"
+      },
+      {
+        "url": "https://www.physio-pedia.com/Deltoid",
+        "checked": "2026-10-12"
+      }
+    ],
+    "pec-deck": [
+      {
+        "url": "https://www.barbellmedicine.com/blog/best-upper-chest-exercises-for-bigger-pecs/",
+        "checked": "2026-10-12"
+      },
+      {
+        "url": "https://www.kenhub.com/en/library/anatomy/major-pectoralis-muscle",
+        "checked": "2026-10-12"
+      },
+      {
+        "url": "https://www.physio-pedia.com/Deltoid",
+        "checked": "2026-10-12"
+      }
+    ],
+    "parallel-bar-dip": [
+      {
+        "url": "https://learn.athleanx.com/articles/are-you-doing-dips-properly-avoid-mistakes",
+        "checked": "2026-10-12"
+      },
+      {
+        "url": "https://www.kenhub.com/en/library/anatomy/major-pectoralis-muscle",
+        "checked": "2026-10-12"
+      },
+      {
+        "url": "https://kenhub.com/en/library/anatomy/the-deltoid-muscle",
+        "checked": "2026-10-12"
+      }
+    ],
+    "ring-dip": [
+      {
+        "url": "https://learn.athleanx.com/articles/are-you-doing-dips-properly-avoid-mistakes",
+        "checked": "2026-10-12"
+      },
+      {
+        "url": "https://www.kenhub.com/en/library/anatomy/major-pectoralis-muscle",
+        "checked": "2026-10-12"
+      },
+      {
+        "url": "https://kenhub.com/en/library/anatomy/the-deltoid-muscle",
+        "checked": "2026-10-12"
+      }
+    ],
+    "negative-dip": [
+      {
+        "url": "https://learn.athleanx.com/articles/are-you-doing-dips-properly-avoid-mistakes",
+        "checked": "2026-10-12"
+      },
+      {
+        "url": "https://www.kenhub.com/en/library/anatomy/major-pectoralis-muscle",
+        "checked": "2026-10-12"
+      },
+      {
+        "url": "https://kenhub.com/en/library/anatomy/the-deltoid-muscle",
+        "checked": "2026-10-12"
+      }
+    ],
+    "weighted-dip": [
+      {
+        "url": "https://learn.athleanx.com/articles/are-you-doing-dips-properly-avoid-mistakes",
+        "checked": "2026-10-12"
+      },
+      {
+        "url": "https://www.kenhub.com/en/library/anatomy/major-pectoralis-muscle",
+        "checked": "2026-10-12"
+      },
+      {
+        "url": "https://kenhub.com/en/library/anatomy/the-deltoid-muscle",
+        "checked": "2026-10-12"
+      }
+    ],
+    "machine-assisted-dip": [
+      {
+        "url": "https://learn.athleanx.com/articles/are-you-doing-dips-properly-avoid-mistakes",
+        "checked": "2026-10-12"
+      },
+      {
+        "url": "https://www.kenhub.com/en/library/anatomy/major-pectoralis-muscle",
+        "checked": "2026-10-12"
+      },
+      {
+        "url": "https://kenhub.com/en/library/anatomy/the-deltoid-muscle",
+        "checked": "2026-10-12"
+      }
+    ],
+    "bench-dip": [
+      {
+        "url": "https://www.kenhub.com/en/library/anatomy/major-pectoralis-muscle",
+        "checked": "2026-10-12"
+      },
+      {
+        "url": "https://kenhub.com/en/library/anatomy/the-deltoid-muscle",
+        "checked": "2026-10-12"
+      }
+    ],
+    "dumbbell-pullover": [
+      {
+        "url": "https://www.kenhub.com/en/library/anatomy/major-pectoralis-muscle",
+        "checked": "2026-10-12"
+      }
+    ],
+    "barbell-overhead-press": [
+      {
+        "url": "https://musculoskeletalkey.com/biomechanical-implications-in-shoulder-and-knee-rehabilitation/",
+        "checked": "2026-10-12"
+      },
+      {
+        "url": "https://kenhub.com/en/library/anatomy/the-deltoid-muscle",
+        "checked": "2026-10-12"
+      }
+    ],
+    "seated-dumbbell-shoulder-press": [
+      {
+        "url": "https://musculoskeletalkey.com/biomechanical-implications-in-shoulder-and-knee-rehabilitation/",
+        "checked": "2026-10-12"
+      },
+      {
+        "url": "https://kenhub.com/en/library/anatomy/the-deltoid-muscle",
+        "checked": "2026-10-12"
+      }
+    ],
+    "machine-shoulder-press": [
+      {
+        "url": "https://musculoskeletalkey.com/biomechanical-implications-in-shoulder-and-knee-rehabilitation/",
+        "checked": "2026-10-12"
+      },
+      {
+        "url": "https://kenhub.com/en/library/anatomy/the-deltoid-muscle",
+        "checked": "2026-10-12"
+      }
+    ],
+    "push-press": [
+      {
+        "url": "https://musculoskeletalkey.com/biomechanical-implications-in-shoulder-and-knee-rehabilitation/",
+        "checked": "2026-10-12"
+      },
+      {
+        "url": "https://kenhub.com/en/library/anatomy/the-deltoid-muscle",
+        "checked": "2026-10-12"
+      }
+    ],
+    "arnold-press": [
+      {
+        "url": "https://musculoskeletalkey.com/biomechanical-implications-in-shoulder-and-knee-rehabilitation/",
+        "checked": "2026-10-12"
+      },
+      {
+        "url": "https://kenhub.com/en/library/anatomy/the-deltoid-muscle",
+        "checked": "2026-10-12"
+      }
+    ],
+    "cuban-press": [
+      {
+        "url": "https://musculoskeletalkey.com/biomechanical-implications-in-shoulder-and-knee-rehabilitation/",
+        "checked": "2026-10-12"
+      },
+      {
+        "url": "https://kenhub.com/en/library/anatomy/the-deltoid-muscle",
+        "checked": "2026-10-12"
+      }
+    ],
+    "pike-push-up": [
+      {
+        "url": "https://musculoskeletalkey.com/biomechanical-implications-in-shoulder-and-knee-rehabilitation/",
+        "checked": "2026-10-12"
+      },
+      {
+        "url": "https://kenhub.com/en/library/anatomy/the-deltoid-muscle",
+        "checked": "2026-10-12"
+      },
+      {
+        "url": "https://www.kenhub.com/en/library/anatomy/major-pectoralis-muscle",
+        "checked": "2026-10-12"
+      }
+    ],
+    "elevated-pike-push-up": [
+      {
+        "url": "https://musculoskeletalkey.com/biomechanical-implications-in-shoulder-and-knee-rehabilitation/",
+        "checked": "2026-10-12"
+      },
+      {
+        "url": "https://kenhub.com/en/library/anatomy/the-deltoid-muscle",
+        "checked": "2026-10-12"
+      },
+      {
+        "url": "https://www.kenhub.com/en/library/anatomy/major-pectoralis-muscle",
+        "checked": "2026-10-12"
+      }
+    ],
+    "wall-handstand-push-up": [
+      {
+        "url": "https://musculoskeletalkey.com/biomechanical-implications-in-shoulder-and-knee-rehabilitation/",
+        "checked": "2026-10-12"
+      },
+      {
+        "url": "https://kenhub.com/en/library/anatomy/the-deltoid-muscle",
+        "checked": "2026-10-12"
+      },
+      {
+        "url": "https://www.kenhub.com/en/library/anatomy/major-pectoralis-muscle",
+        "checked": "2026-10-12"
+      }
+    ],
+    "wall-handstand-hold": [
+      {
+        "url": "https://kenhub.com/en/library/anatomy/the-deltoid-muscle",
+        "checked": "2026-10-12"
+      }
+    ],
+    "wall-walk": [
+      {
+        "url": "https://kenhub.com/en/library/anatomy/the-deltoid-muscle",
+        "checked": "2026-10-12"
+      },
+      {
+        "url": "https://www.kenhub.com/en/library/anatomy/major-pectoralis-muscle",
+        "checked": "2026-10-12"
+      }
+    ],
+    "dumbbell-lateral-raise": [
+      {
+        "url": "https://musculoskeletalkey.com/biomechanical-implications-in-shoulder-and-knee-rehabilitation/",
+        "checked": "2026-10-12"
+      },
+      {
+        "url": "https://kenhub.com/en/library/anatomy/the-deltoid-muscle",
+        "checked": "2026-10-12"
+      },
+      {
+        "url": "https://www.strengthlog.com/dumbbell-lateral-raise/",
+        "checked": "2026-10-12"
+      }
+    ],
+    "barbell-upright-row": [
+      {
+        "url": "https://musculoskeletalkey.com/biomechanical-implications-in-shoulder-and-knee-rehabilitation/",
+        "checked": "2026-10-12"
+      },
+      {
+        "url": "https://www.strengthlog.com/barbell-upright-row/",
+        "checked": "2026-10-12"
+      }
+    ],
+    "dumbbell-front-raise": [
+      {
+        "url": "https://musculoskeletalkey.com/biomechanical-implications-in-shoulder-and-knee-rehabilitation/",
+        "checked": "2026-10-12"
+      },
+      {
+        "url": "https://www.strengthlog.com/dumbbell-front-raise/",
+        "checked": "2026-10-12"
+      },
+      {
+        "url": "https://www.kenhub.com/en/library/anatomy/major-pectoralis-muscle",
+        "checked": "2026-10-12"
+      }
+    ],
+    "dumbbell-scaption": [
+      {
+        "url": "https://musculoskeletalkey.com/biomechanical-implications-in-shoulder-and-knee-rehabilitation/",
+        "checked": "2026-10-12"
+      }
+    ],
+    "full-can-raise": [
+      {
+        "url": "https://musculoskeletalkey.com/biomechanical-implications-in-shoulder-and-knee-rehabilitation/",
+        "checked": "2026-10-12"
+      }
+    ],
+    "barbell-overhead-shrug": [
+      {
+        "url": "https://kenhub.com/en/library/anatomy/the-deltoid-muscle",
+        "checked": "2026-10-12"
+      }
+    ],
+    "isometric-shoulder-abduction": [
+      {
+        "url": "https://kenhub.com/en/library/anatomy/the-deltoid-muscle",
+        "checked": "2026-10-12"
+      },
+      {
+        "url": "https://www.physio-pedia.com/Deltoid",
+        "checked": "2026-10-12"
+      }
+    ],
+    "bent-over-reverse-dumbbell-fly": [
+      {
+        "url": "https://musculoskeletalkey.com/biomechanical-implications-in-shoulder-and-knee-rehabilitation/",
+        "checked": "2026-10-12"
+      },
+      {
+        "url": "https://www.physio-pedia.com/Deltoid",
+        "checked": "2026-10-12"
+      }
+    ],
+    "reverse-machine-fly": [
+      {
+        "url": "https://musculoskeletalkey.com/biomechanical-implications-in-shoulder-and-knee-rehabilitation/",
+        "checked": "2026-10-12"
+      },
+      {
+        "url": "https://www.lookgreatnaked.com/articles/effect_of_hand_position_on_EMG_activity_of_the_posterior_shoulder_musculature.pdf",
+        "checked": "2026-10-12"
+      }
+    ],
+    "face-pull": [
+      {
+        "url": "https://musculoskeletalkey.com/biomechanical-implications-in-shoulder-and-knee-rehabilitation/",
+        "checked": "2026-10-12"
+      },
+      {
+        "url": "https://www.physio-pedia.com/Deltoid",
+        "checked": "2026-10-12"
+      }
+    ],
+    "band-pull-apart": [
+      {
+        "url": "https://musculoskeletalkey.com/biomechanical-implications-in-shoulder-and-knee-rehabilitation/",
+        "checked": "2026-10-12"
+      },
+      {
+        "url": "https://www.physio-pedia.com/Deltoid",
+        "checked": "2026-10-12"
+      }
+    ],
+    "prone-t-raise-bodyweight": [
+      {
+        "url": "https://musculoskeletalkey.com/biomechanical-implications-in-shoulder-and-knee-rehabilitation/",
+        "checked": "2026-10-12"
+      },
+      {
+        "url": "https://oliverfinlay.com/assets/pdf/escamilla%20%26%20andrews%20(2009)%20shoulder%20muscle%20activity%20%26%20function%20in%20common%20shoulder%20rehabilitation%20exercises%20(abstract).pdf",
+        "checked": "2026-10-12"
+      }
+    ],
+    "prone-t-raise": [
+      {
+        "url": "https://musculoskeletalkey.com/biomechanical-implications-in-shoulder-and-knee-rehabilitation/",
+        "checked": "2026-10-12"
+      }
+    ],
+    "prone-w-raise": [
+      {
+        "url": "https://musculoskeletalkey.com/biomechanical-implications-in-shoulder-and-knee-rehabilitation/",
+        "checked": "2026-10-12"
+      },
+      {
+        "url": "https://www.physio-pedia.com/Deltoid",
+        "checked": "2026-10-12"
+      }
+    ],
+    "prone-y-raise": [
+      {
+        "url": "https://blogcontent.summit-education.com/wp-content/uploads/Reinold-et-al-current-concepts-in-the-scientific-and-clinical-rationale-behind-exercises-for-GH-and-ST-musculature.pdf",
+        "checked": "2026-10-12"
+      }
+    ],
+    "prone-y-raise-bodyweight": [
+      {
+        "url": "https://blogcontent.summit-education.com/wp-content/uploads/Reinold-et-al-current-concepts-in-the-scientific-and-clinical-rationale-behind-exercises-for-GH-and-ST-musculature.pdf",
+        "checked": "2026-10-12"
+      }
+    ],
+    "wall-angel": [
+      {
+        "url": "https://julielohre.com/wall-angels/",
+        "checked": "2026-10-12"
+      }
+    ],
+    "bent-over-barbell-row": [
+      {
+        "url": "https://musculoskeletalkey.com/biomechanical-implications-in-shoulder-and-knee-rehabilitation/",
+        "checked": "2026-10-12"
+      },
+      {
+        "url": "https://kenhub.com/en/library/anatomy/the-deltoid-muscle",
+        "checked": "2026-10-12"
+      }
+    ],
+    "chest-supported-dumbbell-row": [
+      {
+        "url": "https://musculoskeletalkey.com/biomechanical-implications-in-shoulder-and-knee-rehabilitation/",
+        "checked": "2026-10-12"
+      },
+      {
+        "url": "https://kenhub.com/en/library/anatomy/the-deltoid-muscle",
+        "checked": "2026-10-12"
+      }
+    ],
+    "one-arm-dumbbell-row": [
+      {
+        "url": "https://musculoskeletalkey.com/biomechanical-implications-in-shoulder-and-knee-rehabilitation/",
+        "checked": "2026-10-12"
+      },
+      {
+        "url": "https://kenhub.com/en/library/anatomy/the-deltoid-muscle",
+        "checked": "2026-10-12"
+      }
+    ],
+    "seated-cable-row": [
+      {
+        "url": "https://musculoskeletalkey.com/biomechanical-implications-in-shoulder-and-knee-rehabilitation/",
+        "checked": "2026-10-12"
+      },
+      {
+        "url": "https://kenhub.com/en/library/anatomy/the-deltoid-muscle",
+        "checked": "2026-10-12"
+      }
+    ],
+    "inverted-row": [
+      {
+        "url": "https://musculoskeletalkey.com/biomechanical-implications-in-shoulder-and-knee-rehabilitation/",
+        "checked": "2026-10-12"
+      },
+      {
+        "url": "https://kenhub.com/en/library/anatomy/the-deltoid-muscle",
+        "checked": "2026-10-12"
+      }
+    ],
+    "underhand-inverted-row": [
+      {
+        "url": "https://musculoskeletalkey.com/biomechanical-implications-in-shoulder-and-knee-rehabilitation/",
+        "checked": "2026-10-12"
+      },
+      {
+        "url": "https://kenhub.com/en/library/anatomy/the-deltoid-muscle",
+        "checked": "2026-10-12"
+      }
+    ],
+    "vertical-row": [
+      {
+        "url": "https://musculoskeletalkey.com/biomechanical-implications-in-shoulder-and-knee-rehabilitation/",
+        "checked": "2026-10-12"
+      },
+      {
+        "url": "https://kenhub.com/en/library/anatomy/the-deltoid-muscle",
+        "checked": "2026-10-12"
+      }
+    ],
+    "archer-row": [
+      {
+        "url": "https://musculoskeletalkey.com/biomechanical-implications-in-shoulder-and-knee-rehabilitation/",
+        "checked": "2026-10-12"
+      },
+      {
+        "url": "https://kenhub.com/en/library/anatomy/the-deltoid-muscle",
+        "checked": "2026-10-12"
+      }
+    ],
+    "tuck-front-lever-row": [
+      {
+        "url": "https://musculoskeletalkey.com/biomechanical-implications-in-shoulder-and-knee-rehabilitation/",
+        "checked": "2026-10-12"
+      },
+      {
+        "url": "https://kenhub.com/en/library/anatomy/the-deltoid-muscle",
+        "checked": "2026-10-12"
+      }
+    ],
+    "wide-row": [
+      {
+        "url": "https://musculoskeletalkey.com/biomechanical-implications-in-shoulder-and-knee-rehabilitation/",
+        "checked": "2026-10-12"
+      },
+      {
+        "url": "https://www.strengthlog.com/inverted-row/",
+        "checked": "2026-10-12"
+      }
+    ],
+    "lat-pulldown": [
+      {
+        "url": "https://musculoskeletalkey.com/biomechanical-implications-in-shoulder-and-knee-rehabilitation/",
+        "checked": "2026-10-12"
+      },
+      {
+        "url": "https://kenhub.com/en/library/anatomy/the-deltoid-muscle",
+        "checked": "2026-10-12"
+      }
+    ],
+    "pull-up": [
+      {
+        "url": "https://musculoskeletalkey.com/biomechanical-implications-in-shoulder-and-knee-rehabilitation/",
+        "checked": "2026-10-12"
+      },
+      {
+        "url": "https://kenhub.com/en/library/anatomy/the-deltoid-muscle",
+        "checked": "2026-10-12"
+      }
+    ],
+    "weighted-pull-up": [
+      {
+        "url": "https://musculoskeletalkey.com/biomechanical-implications-in-shoulder-and-knee-rehabilitation/",
+        "checked": "2026-10-12"
+      },
+      {
+        "url": "https://kenhub.com/en/library/anatomy/the-deltoid-muscle",
+        "checked": "2026-10-12"
+      }
+    ],
+    "archer-pull-up": [
+      {
+        "url": "https://musculoskeletalkey.com/biomechanical-implications-in-shoulder-and-knee-rehabilitation/",
+        "checked": "2026-10-12"
+      },
+      {
+        "url": "https://kenhub.com/en/library/anatomy/the-deltoid-muscle",
+        "checked": "2026-10-12"
+      }
+    ],
+    "arch-hang": [
+      {
+        "url": "https://musculoskeletalkey.com/biomechanical-implications-in-shoulder-and-knee-rehabilitation/",
+        "checked": "2026-10-12"
+      },
+      {
+        "url": "https://kenhub.com/en/library/anatomy/the-deltoid-muscle",
+        "checked": "2026-10-12"
+      }
+    ],
+    "front-lever": [
+      {
+        "url": "https://musculoskeletalkey.com/biomechanical-implications-in-shoulder-and-knee-rehabilitation/",
+        "checked": "2026-10-12"
+      },
+      {
+        "url": "https://kenhub.com/en/library/anatomy/the-deltoid-muscle",
+        "checked": "2026-10-12"
+      }
+    ],
+    "tuck-front-lever": [
+      {
+        "url": "https://musculoskeletalkey.com/biomechanical-implications-in-shoulder-and-knee-rehabilitation/",
+        "checked": "2026-10-12"
+      },
+      {
+        "url": "https://kenhub.com/en/library/anatomy/the-deltoid-muscle",
+        "checked": "2026-10-12"
+      }
+    ],
+    "straight-arm-pulldown": [
+      {
+        "url": "https://kenhub.com/en/library/anatomy/the-deltoid-muscle",
+        "checked": "2026-10-12"
+      },
+      {
+        "url": "https://www.strengthlog.com/straight-arm-lat-pulldown/",
+        "checked": "2026-10-12"
+      }
+    ],
+    "muscle-up": [
+      {
+        "url": "https://kenhub.com/en/library/anatomy/the-deltoid-muscle",
+        "checked": "2026-10-12"
+      },
+      {
+        "url": "https://www.kenhub.com/en/library/anatomy/major-pectoralis-muscle",
+        "checked": "2026-10-12"
+      }
+    ],
+    "cable-external-rotation": [
+      {
+        "url": "https://musculoskeletalkey.com/biomechanical-implications-in-shoulder-and-knee-rehabilitation/",
+        "checked": "2026-10-12"
+      },
+      {
+        "url": "https://www.physio-pedia.com/Deltoid",
+        "checked": "2026-10-12"
+      }
+    ],
+    "side-lying-dumbbell-external-rotation": [
+      {
+        "url": "https://musculoskeletalkey.com/biomechanical-implications-in-shoulder-and-knee-rehabilitation/",
+        "checked": "2026-10-12"
+      },
+      {
+        "url": "https://www.physio-pedia.com/Deltoid",
+        "checked": "2026-10-12"
+      }
+    ],
+    "side-lying-external-rotation": [
+      {
+        "url": "https://musculoskeletalkey.com/biomechanical-implications-in-shoulder-and-knee-rehabilitation/",
+        "checked": "2026-10-12"
+      },
+      {
+        "url": "https://www.physio-pedia.com/Deltoid",
+        "checked": "2026-10-12"
+      }
+    ],
+    "dumbbell-90-90-external-rotation": [
+      {
+        "url": "https://musculoskeletalkey.com/biomechanical-implications-in-shoulder-and-knee-rehabilitation/",
+        "checked": "2026-10-12"
+      },
+      {
+        "url": "https://www.physio-pedia.com/Deltoid",
+        "checked": "2026-10-12"
+      }
+    ],
+    "isometric-shoulder-external-rotation": [
+      {
+        "url": "https://musculoskeletalkey.com/biomechanical-implications-in-shoulder-and-knee-rehabilitation/",
+        "checked": "2026-10-12"
+      },
+      {
+        "url": "https://www.physio-pedia.com/Deltoid",
+        "checked": "2026-10-12"
+      }
+    ],
+    "cable-internal-rotation": [
+      {
+        "url": "https://www.kenhub.com/en/library/anatomy/major-pectoralis-muscle",
+        "checked": "2026-10-12"
+      }
+    ],
+    "side-lying-dumbbell-internal-rotation": [
+      {
+        "url": "https://www.kenhub.com/en/library/anatomy/major-pectoralis-muscle",
+        "checked": "2026-10-12"
+      }
+    ],
+    "isometric-shoulder-internal-rotation": [
+      {
+        "url": "https://www.kenhub.com/en/library/anatomy/major-pectoralis-muscle",
+        "checked": "2026-10-12"
+      }
+    ],
+    "dumbbell-90-90-internal-rotation": [
+      {
+        "url": "https://www.kenhub.com/en/library/anatomy/major-pectoralis-muscle",
+        "checked": "2026-10-12"
+      },
+      {
+        "url": "https://www.physio-pedia.com/Deltoid",
+        "checked": "2026-10-12"
+      }
+    ],
+    "band-dynamic-hug": [
+      {
+        "url": "https://www.kenhub.com/en/library/anatomy/major-pectoralis-muscle",
+        "checked": "2026-10-12"
+      },
+      {
+        "url": "https://www.physio-pedia.com/Deltoid",
+        "checked": "2026-10-12"
+      }
+    ],
+    "supine-dumbbell-serratus-punch": [
+      {
+        "url": "https://www.kenhub.com/en/library/anatomy/major-pectoralis-muscle",
+        "checked": "2026-10-12"
+      },
+      {
+        "url": "https://kenhub.com/en/library/anatomy/the-deltoid-muscle",
+        "checked": "2026-10-12"
+      }
+    ],
+    "cable-high-serratus-punch": [
+      {
+        "url": "https://kenhub.com/en/library/anatomy/the-deltoid-muscle",
+        "checked": "2026-10-12"
+      }
+    ],
+    "wall-slide": [
+      {
+        "url": "https://kenhub.com/en/library/anatomy/the-deltoid-muscle",
+        "checked": "2026-10-12"
+      }
+    ],
+    "planche-lean": [
+      {
+        "url": "https://kenhub.com/en/library/anatomy/the-deltoid-muscle",
+        "checked": "2026-10-12"
+      },
+      {
+        "url": "https://www.kenhub.com/en/library/anatomy/major-pectoralis-muscle",
+        "checked": "2026-10-12"
+      }
+    ],
+    "tuck-planche": [
+      {
+        "url": "https://kenhub.com/en/library/anatomy/the-deltoid-muscle",
+        "checked": "2026-10-12"
+      },
+      {
+        "url": "https://www.kenhub.com/en/library/anatomy/major-pectoralis-muscle",
+        "checked": "2026-10-12"
+      }
+    ],
+    "parallel-bar-support-hold": [
+      {
+        "url": "https://www.kenhub.com/en/library/anatomy/major-pectoralis-muscle",
+        "checked": "2026-10-12"
+      }
+    ],
+    "ring-support-hold": [
+      {
+        "url": "https://www.kenhub.com/en/library/anatomy/major-pectoralis-muscle",
+        "checked": "2026-10-12"
+      }
+    ],
+    "l-sit": [
+      {
+        "url": "https://kenhub.com/en/library/anatomy/the-deltoid-muscle",
+        "checked": "2026-10-12"
+      },
+      {
+        "url": "https://www.kenhub.com/en/library/anatomy/major-pectoralis-muscle",
+        "checked": "2026-10-12"
+      }
+    ],
+    "tuck-l-sit": [
+      {
+        "url": "https://kenhub.com/en/library/anatomy/the-deltoid-muscle",
+        "checked": "2026-10-12"
+      },
+      {
+        "url": "https://www.kenhub.com/en/library/anatomy/major-pectoralis-muscle",
+        "checked": "2026-10-12"
+      }
+    ],
+    "bird-dog": [
+      {
+        "url": "https://kenhub.com/en/library/anatomy/the-deltoid-muscle",
+        "checked": "2026-10-12"
+      }
+    ],
+    "wrist-roller": [
+      {
+        "url": "https://kenhub.com/en/library/anatomy/the-deltoid-muscle",
+        "checked": "2026-10-12"
+      }
+    ],
+    "landmine-rotation": [
+      {
+        "url": "https://www.strengthlog.com/landmine-rotation/",
+        "checked": "2026-10-12"
+      }
+    ],
+    "cable-wood-chop": [
+      {
+        "url": "https://oliverfinlay.com/assets/pdf/escamilla%20%26%20andrews%20(2009)%20shoulder%20muscle%20activity%20%26%20function%20in%20common%20shoulder%20rehabilitation%20exercises%20(abstract).pdf",
+        "checked": "2026-10-12"
+      },
+      {
+        "url": "https://kenhub.com/en/library/anatomy/the-deltoid-muscle",
+        "checked": "2026-10-12"
+      }
+    ],
+    "farmers-walk": [
+      {
+        "url": "https://www.strengthlog.com/farmers-walk/",
+        "checked": "2026-10-12"
+      }
+    ]
+  },
+  "newExercises": [
+    {
+      "id": "incline-barbell-bench-press",
+      "nameVi": "Đẩy ngực dốc lên với tạ đòn (incline barbell bench press)",
+      "nameEn": "Incline Barbell Bench Press",
+      "type": "gym",
+      "equipment": [
+        "tạ đòn",
+        "ghế dốc có giá đỡ"
+      ],
+      "primaryMuscles": [
+        "pectoralis-major-clavicular",
+        "deltoid-anterior"
+      ],
+      "secondaryMuscles": [
+        "pectoralis-major-sternal",
+        "triceps-brachii"
+      ],
+      "difficulty": 2,
+      "order": 0,
+      "difficultyBasis": "Mức 2 – Cơ bản: free-exercise-db xếp 'beginner'; tạ tự do đa khớp có ghế tựa, tương đương đẩy ngực tạ đòn ghế phẳng (mức 2).",
+      "steps": [
+        "Chỉnh ghế dốc khoảng 30°, nằm tựa để mắt ở ngay dưới thanh đòn trên giá.",
+        "Nắm thanh rộng hơn vai một chút, khép và hạ bả vai, hai bàn chân đặt chắc trên sàn.",
+        "Nhấc thanh ra khỏi giá, giữ tay thẳng phía trên vai.",
+        "Hít vào, hạ thanh có kiểm soát chạm nhẹ phần ngực trên (dưới xương đòn), khuỷu chếch khoảng 45–70° so với thân.",
+        "Thở ra, đẩy thanh lên theo đường hơi chéo về phía trên vai đến khi tay thẳng."
+      ],
+      "safety": [
+        "Tập với người hỗ trợ hoặc thanh chắn an toàn khi dùng tạ nặng.",
+        "Không nảy thanh trên ngực và không nhấc mông khỏi ghế.",
+        "Ghế dốc quá 45° sẽ chuyển phần lớn tải sang vai trước."
+      ],
+      "fedbId": "Barbell_Incline_Bench_Press_-_Medium_Grip",
+      "sources": [
+        {
+          "url": "https://www.strengthlog.com/incline-bench-press/",
+          "checked": "2026-10-12"
+        },
+        {
+          "url": "https://www.mdpi.com/1660-4601/17/19/7339",
+          "checked": "2026-10-12"
+        },
+        {
+          "url": "https://www.barbellmedicine.com/blog/best-upper-chest-exercises-for-bigger-pecs/",
+          "checked": "2026-10-12"
+        }
+      ]
+    },
+    {
+      "id": "incline-dumbbell-fly",
+      "nameVi": "Bay ngực dốc lên với tạ đơn (incline dumbbell fly)",
+      "nameEn": "Incline Dumbbell Fly",
+      "type": "gym",
+      "equipment": [
+        "tạ đơn",
+        "ghế dốc"
+      ],
+      "primaryMuscles": [
+        "pectoralis-major-clavicular"
+      ],
+      "secondaryMuscles": [
+        "deltoid-anterior",
+        "pectoralis-major-sternal",
+        "biceps-brachii"
+      ],
+      "difficulty": 2,
+      "order": 0,
+      "difficultyBasis": "Mức 2 – Cơ bản: free-exercise-db xếp 'beginner'; một khớp với tạ tự do trên ghế tựa nhưng vai chịu lực lớn ở điểm thấp, như bay ngực ghế phẳng (mức 2).",
+      "steps": [
+        "Chỉnh ghế dốc khoảng 30–45°, nằm tựa, đưa hai tạ lên phía trên ngực trên, lòng bàn tay hướng vào nhau.",
+        "Khép bả vai, giữ khuỷu hơi cong và cố định góc này trong suốt bài.",
+        "Hít vào, mở hai tay sang hai bên theo vòng cung đến khi tạ ngang ngực và ngực căng vừa phải.",
+        "Thở ra, khép hai tay lại theo đúng vòng cung về vị trí trên ngực."
+      ],
+      "safety": [
+        "Dùng tạ nhẹ hơn bài đẩy; không hạ sâu quá mức vai cho phép.",
+        "Giữ đầu, vai và mông tựa trên ghế, không gập khuỷu thêm để biến bài thành động tác đẩy."
+      ],
+      "fedbId": "Incline_Dumbbell_Flyes",
+      "sources": [
+        {
+          "url": "https://fitbod.me/exercises/dumbbell-incline-fly",
+          "checked": "2026-10-12"
+        },
+        {
+          "url": "https://www.barbellmedicine.com/blog/best-upper-chest-exercises-for-bigger-pecs/",
+          "checked": "2026-10-12"
+        }
+      ]
+    },
+    {
+      "id": "ring-reverse-fly",
+      "nameVi": "Bay ngược trên vòng treo (ring reverse fly)",
+      "nameEn": "Ring Reverse Fly",
+      "type": "calisthenics",
+      "equipment": [
+        "vòng treo"
+      ],
+      "primaryMuscles": [
+        "deltoid-posterior"
+      ],
+      "secondaryMuscles": [
+        "trapezius-middle",
+        "rhomboids",
+        "deltoid-lateral"
+      ],
+      "difficulty": 2,
+      "order": 0,
+      "difficultyBasis": "Mức 2 – Cơ bản: bài tự trọng một khớp, chỉnh tải dễ bằng cách bước chân gần/xa điểm treo; cần giữ thân thẳng trên vòng không ổn định nhưng sức mạnh tối thiểu thấp.",
+      "steps": [
+        "Hạ vòng ngang ngực, nắm hai vòng với lòng bàn tay hướng vào nhau, tay duỗi thẳng ra trước.",
+        "Bước chân lên trước và ngả người ra sau cho thân thẳng một đường từ đầu tới gót, siết bụng và mông.",
+        "Giữ khuỷu hơi cong, mở hai tay sang ngang cho tới khi tay thẳng hàng với vai, thân được kéo lên.",
+        "Hạ người về chậm theo đường cũ; đứng gần thẳng hơn để dễ, ngả nhiều hơn để khó."
+      ],
+      "safety": [
+        "Không nhún vai hay ưỡn lưng để lấy đà; hông không được sụp.",
+        "Bắt đầu ở tư thế gần thẳng đứng, chỉ tăng độ ngả khi giữ được kỹ thuật."
+      ],
+      "sources": [
+        {
+          "url": "https://www.muscleandstrength.com/node/49220",
+          "checked": "2026-10-12"
+        },
+        {
+          "url": "https://musculoskeletalkey.com/biomechanical-implications-in-shoulder-and-knee-rehabilitation/",
+          "checked": "2026-10-12"
+        }
+      ]
+    }
+  ],
+  "sourcesRegistry": {
+    "https://www.mdpi.com/1660-4601/17/19/7339": {
+      "title": "Effect of Five Bench Inclinations on the Electromyographic Activity of the Pectoralis Major, Anterior Deltoid, and Triceps Brachii during the Bench Press Exercise (Rodríguez-Ridao và cs., IJERPH 2020;17(19):7339)",
+      "publisher": "MDPI – International Journal of Environmental Research and Public Health",
+      "checked": "2026-10-12",
+      "supports": "EMG đẩy ngực ở 0°–60°: phần đòn (ngực trên) cao nhất ở ghế dốc 30°; phần ức sườn và phần dưới cao nhất ở ghế phẳng 0° và giảm khi tăng độ dốc; delta trước hoạt động rõ ở mọi góc và tăng mạnh khi dốc ≥45°."
+    },
+    "https://musculoskeletalkey.com/biomechanical-implications-in-shoulder-and-knee-rehabilitation/": {
+      "title": "Biomechanical Implications in Shoulder and Knee Rehabilitation – Bảng 10-1 tóm tắt EMG của Townsend, Jobe, Pink & Perry (Am J Sports Med 1991;19:264–272)",
+      "publisher": "Musculoskeletal Key",
+      "checked": "2026-10-12",
+      "supports": "EMG từng phần cơ delta: delta trước cao ở scaption (71–72% MMT), gập vai (69%), đẩy qua đầu (62%); delta giữa cao ở scaption (83%), dang ngang khi nằm sấp (79–80%), gập vai (73%), chèo (72%), đẩy qua đầu (72%), dạng vai (64%); delta sau cao nhất ở dang ngang khi nằm sấp (92–93%), chèo (88%), duỗi vai (71%), xoay ngoài (64%)."
+    },
+    "https://www.barbellmedicine.com/blog/best-upper-chest-exercises-for-bigger-pecs/": {
+      "title": "Best Upper Chest Exercises for Bigger Pecs",
+      "publisher": "Barbell Medicine",
+      "checked": "2026-10-12",
+      "supports": "Các bài nhấn phần ngực trên (phần đòn): đẩy ngực ghế dốc, bay ngực tạ đơn ghế dốc, bay cáp từ thấp lên cao, chống đẩy dốc xuống (kê chân); ròng rọc càng thấp thì càng nhấn phần ngực trên (ngược lại, kéo từ cao xuống nhấn phần dưới); trích nghiên cứu EMG Rodríguez-Ridao 2020."
+    },
+    "https://www.nasm.org/resource-center/exercise-library/decline-push-up": {
+      "title": "Decline Push-Up",
+      "publisher": "NASM (National Academy of Sports Medicine) – Exercise Library",
+      "checked": "2026-10-12",
+      "supports": "Chống đẩy dốc xuống (kê chân): cơ ngực lớn là cơ chính, nhấn phần ngực trên; delta trước tham gia nhiều do góc dốc; phụ tam đầu, ngực bé, răng cưa trước; mức trung cấp–nâng cao."
+    },
+    "https://www.kenhub.com/en/library/anatomy/major-pectoralis-muscle": {
+      "title": "Pectoralis major muscle",
+      "publisher": "Kenhub",
+      "checked": "2026-10-12",
+      "supports": "Chức năng cơ ngực lớn: phần đòn tự gập cánh tay tới 90°; phần ức sườn duỗi cánh tay từ tư thế gập về lại; cả cơ khép và xoay trong cánh tay mạnh."
+    },
+    "https://kenhub.com/en/library/anatomy/the-deltoid-muscle": {
+      "title": "Deltoid muscle",
+      "publisher": "Kenhub",
+      "checked": "2026-10-12",
+      "supports": "Chức năng từng phần cơ delta: phần đòn (trước) gập và xoay trong cánh tay; phần cùng vai (giữa) là cơ dạng cánh tay chính (sau ~15° đầu); phần gai vai (sau) duỗi cánh tay cùng cơ lưng rộng và hỗ trợ xoay ngoài."
+    },
+    "https://www.physio-pedia.com/Deltoid": {
+      "title": "Deltoid",
+      "publisher": "Physiopedia",
+      "checked": "2026-10-12",
+      "supports": "Delta trước chủ yếu gập vai, xoay trong và khép ngang; delta sau chủ yếu duỗi vai, xoay ngoài và dang ngang; cơ delta nói chung dạng vai và giữ vững chỏm xương cánh tay."
+    },
+    "https://learn.athleanx.com/articles/are-you-doing-dips-properly-avoid-mistakes": {
+      "title": "Are You Doing Dips Properly? Avoid These Mistakes",
+      "publisher": "ATHLEAN-X",
+      "checked": "2026-10-12",
+      "supports": "Dips (xà kép) cùng đẩy ngực dốc xuống là các bài hiệu quả cho phần ngực dưới (phần bụng của cơ ngực lớn); phần ức cũng cần tham gia đúng khi dips."
+    },
+    "https://www.muscleandstrength.com/node/49220": {
+      "title": "Reverse Flys on Rings",
+      "publisher": "Muscle & Strength",
+      "checked": "2026-10-12",
+      "supports": "Bay ngược trên vòng treo: kỹ thuật (vòng ngang ngực, người ngả ra sau thân thẳng, kéo tay sang hai bên); cơ chính delta sau, có sự tham gia của lưng trên và cơ thang."
+    },
+    "https://www.strengthlog.com/incline-bench-press/": {
+      "title": "How to Do Incline Bench Press: Muscles Worked & Proper Form",
+      "publisher": "StrengthLog",
+      "checked": "2026-10-12",
+      "supports": "Đẩy ngực ghế dốc với tạ đòn: cơ chính ngực (phần trên) và delta trước, phụ tam đầu; kỹ thuật hạ thanh về ngực rồi đẩy lên."
+    },
+    "https://fitbod.me/exercises/dumbbell-incline-fly": {
+      "title": "Dumbbell Incline Fly",
+      "publisher": "Fitbod",
+      "checked": "2026-10-12",
+      "supports": "Bay ngực tạ đơn trên ghế dốc: nhấn phần ngực trên; phụ vai; kỹ thuật hạ tạ theo vòng cung, khuỷu hơi cong, giữ đầu–vai–mông trên ghế."
+    },
+    "https://www.lookgreatnaked.com/articles/biomechanics_of_the_Pushup.pdf": {
+      "title": "The Biomechanics of the Push-up: Implications for Resistance Training Programs (Contreras, Schoenfeld và cs.)",
+      "publisher": "Bret Contreras / Strength & Conditioning Journal (bản chấp nhận đăng)",
+      "checked": "2026-10-12",
+      "supports": "Tổng quan chống đẩy: delta trước là cơ chủ vận (~42% MVC); chống đẩy tay hẹp tăng kích hoạt phần ức của cơ ngực lớn; phần đòn là cơ gập vai, việc tách riêng nó trong chống đẩy chưa được nghiên cứu; delta sau chỉ là cơ ổn định (~17%)."
+    },
+    "https://www.lookgreatnaked.com/articles/effect_of_hand_position_on_EMG_activity_of_the_posterior_shoulder_musculature.pdf": {
+      "title": "Effect of hand position on EMG activity of the posterior shoulder musculature during a horizontal abduction exercise (Schoenfeld và cs.)",
+      "publisher": "Brad Schoenfeld (bản chấp nhận đăng, lookgreatnaked.com)",
+      "checked": "2026-10-12",
+      "supports": "Bay ngược trên máy (dang ngang): EMG delta sau và delta giữa đều được đo; tay trung tính làm delta sau hoạt động cao hơn tay sấp."
+    }
+  },
+  "exceptions": {
+    "pectoralis-minor": {
+      "gym": {
+        "reason": "Cơ ngực bé là cơ sâu nằm dưới cơ ngực lớn, chủ yếu kéo xương bả vai ra trước và xuống để giữ vững nó. Trong các bài gym (dips có tạ, dips trên máy trợ lực, pullover, serratus punch, dynamic hug) cơ này chỉ đóng vai trò phụ. Nghiên cứu EMG kim luồn đo được mức hoạt động thấp (khoảng 13–18% MVIC) trong các bài vai, và tài liệu phục hồi chức năng còn chủ động giảm hoạt động của nó để ưu tiên cơ răng cưa trước. Vì vậy không có bài gym nào lấy cơ ngực bé làm cơ chính một cách đáng tin; cơ này được ghi là cơ phụ ở các bài trên. Bên calisthenics đã có các bài giữ chống và dips bả vai lấy nó làm cơ chính.",
+        "sources": [
+          "https://www.physio-pedia.com/Pectoralis_Minor",
+          "https://journals.sagepub.com/doi/10.1177/03635465211025002",
+          "https://en.wikipedia.org/wiki/Serratus_punch"
+        ]
+      }
+    },
+    "pectoralis-major-clavicular": {
+      "calisthenics": {
+        "reason": "Với phần đòn (ngực trên), chỉ có chống đẩy dốc xuống (kê chân) là bài tự trọng được nguồn uy tín ghi rõ là nhấn ngực trên. Kê chân làm hướng đẩy giống đẩy ngực ghế dốc, mà ghế dốc khoảng 30° là góc kích hoạt phần đòn cao nhất trong nghiên cứu EMG. Tổng quan cơ sinh học về chống đẩy cho biết việc tách riêng phần đòn trong các kiểu chống đẩy khác chưa được nghiên cứu. Các bài pike push-up hay trồng chuối đẩy có góc đẩy quá cao (gần thẳng đứng), khi đó delta trước gánh phần lớn tải, nên phần đòn chỉ được ghi là cơ phụ. Có trang cho rằng dips nhấn ngực trên, nhưng nguồn khác lại xếp dips vào nhóm bài cho ngực dưới. Vì các nguồn mâu thuẫn, dips chỉ ghi phần đòn là cơ phụ. Vì vậy không thêm bài cho đủ 3.",
+        "sources": [
+          "https://www.nasm.org/resource-center/exercise-library/decline-push-up",
+          "https://www.barbellmedicine.com/blog/best-upper-chest-exercises-for-bigger-pecs/",
+          "https://www.lookgreatnaked.com/articles/biomechanics_of_the_Pushup.pdf",
+          "https://www.mdpi.com/1660-4601/17/19/7339"
+        ]
+      }
+    }
+  }
+}

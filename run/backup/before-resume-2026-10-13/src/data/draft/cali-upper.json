@@ -1,0 +1,2780 @@
+[
+  {
+    "id": "wall-push-up",
+    "nameVi": "Chống đẩy vào tường",
+    "nameEn": "Wall Push-Up",
+    "type": "calisthenics",
+    "equipment": [
+      "tường"
+    ],
+    "primary": [
+      "pectoralis-major"
+    ],
+    "secondary": [
+      "deltoid",
+      "triceps-brachii",
+      "serratus-anterior"
+    ],
+    "difficulty": 1,
+    "order": 1,
+    "difficultyBasis": "Mức 1 – Nhập môn: bậc 1/5 chuỗi Đẩy của r/bodyweightfitness RR; đứng chống tay vào tường, chỉ đẩy một phần nhỏ trọng lượng cơ thể.",
+    "steps": [
+      "Đứng cách tường khoảng một cánh tay, đặt hai lòng bàn tay lên tường ngang vai, rộng hơn vai một chút.",
+      "Siết nhẹ bụng và mông để người thẳng một đường từ đầu tới gót.",
+      "Gập khuỷu, đưa ngực lại gần tường; khuỷu chếch khoảng 45° so với thân, không bè ngang.",
+      "Đẩy tường để duỗi thẳng tay về vị trí đầu, thở ra khi đẩy."
+    ],
+    "safety": [
+      "Không để hông võng hay đẩy mông ra sau.",
+      "Lùi chân xa tường hơn khi đã làm dễ dàng 3×8, rồi chuyển sang chống đẩy dốc lên."
+    ],
+    "fedbId": null,
+    "image": null,
+    "sources": [
+      "https://www.strengthlog.com/push-up-against-wall/",
+      "https://lr.in.psf.lt/r/bodyweightfitness/wiki/exercises/pushup",
+      "https://www.liftosaur.com/programs/recommended-routine"
+    ]
+  },
+  {
+    "id": "incline-push-up",
+    "nameVi": "Chống đẩy dốc lên (tay kê cao)",
+    "nameEn": "Incline Push-Up",
+    "type": "calisthenics",
+    "equipment": [
+      "ghế/bục"
+    ],
+    "primary": [
+      "pectoralis-major"
+    ],
+    "secondary": [
+      "deltoid",
+      "triceps-brachii",
+      "serratus-anterior",
+      "rectus-abdominis"
+    ],
+    "difficulty": 1,
+    "order": 2,
+    "difficultyBasis": "Mức 1 – Nhập môn: bậc 2/5 chuỗi Đẩy của r/bodyweightfitness RR; tay kê cao nên chỉ đẩy một phần trọng lượng cơ thể.",
+    "steps": [
+      "Đặt hai tay lên mép ghế, bục hoặc bàn chắc chắn, rộng hơn vai một chút.",
+      "Lùi chân ra sau tới khi thân thẳng như tấm ván, bụng siết nhẹ.",
+      "Hạ ngực về phía mép ghế, khuỷu hướng chéo về sau.",
+      "Đẩy lên tới khi tay thẳng; khi đạt 3×8 thì hạ thấp bề mặt kê tay."
+    ],
+    "safety": [
+      "Kiểm tra ghế/bục không trượt trước khi tập.",
+      "Giữ cổ thẳng theo thân, không chúi đầu xuống trước."
+    ],
+    "fedbId": "Incline_Push-Up",
+    "image": null,
+    "sources": [
+      "https://www.strengthlog.com/incline-push-up/",
+      "https://lr.in.psf.lt/r/bodyweightfitness/wiki/exercises/pushup",
+      "https://www.liftosaur.com/programs/recommended-routine"
+    ]
+  },
+  {
+    "id": "push-up",
+    "nameVi": "Chống đẩy",
+    "nameEn": "Push-Up",
+    "type": "calisthenics",
+    "equipment": [
+      "không cần dụng cụ"
+    ],
+    "primary": [
+      "pectoralis-major"
+    ],
+    "secondary": [
+      "deltoid",
+      "triceps-brachii",
+      "serratus-anterior",
+      "rectus-abdominis"
+    ],
+    "difficulty": 2,
+    "order": 3,
+    "difficultyBasis": "Mức 2 – Cơ bản: bậc 3/5 chuỗi Đẩy của r/bodyweightfitness RR; đẩy khoảng 70% trọng lượng cơ thể, thân giữ như tấm ván.",
+    "steps": [
+      "Chống hai tay xuống sàn rộng hơn vai một chút, mũi chân chạm sàn, người thẳng từ đầu tới gót.",
+      "Siết bụng và mông, kéo bả vai xuống xa tai.",
+      "Hạ người tới khi ngực gần chạm sàn, khuỷu khép chếch về sau.",
+      "Đẩy sàn để duỗi thẳng tay, ở trên cùng đẩy thêm cho bả vai tách ra."
+    ],
+    "safety": [
+      "Không để hông võng hoặc chổng mông; nếu không giữ được thân thẳng thì quay lại bản dốc lên.",
+      "Đau cổ tay thì chống trên nắm đấm hoặc tay cầm chống đẩy để cổ tay thẳng."
+    ],
+    "fedbId": "Pushups",
+    "image": null,
+    "sources": [
+      "https://www.strengthlog.com/push-up/",
+      "https://lr.in.psf.lt/r/bodyweightfitness/wiki/exercises/pushup",
+      "https://www.liftosaur.com/programs/recommended-routine"
+    ]
+  },
+  {
+    "id": "close-grip-push-up",
+    "nameVi": "Chống đẩy tay hẹp",
+    "nameEn": "Close-Grip Push-Up",
+    "type": "calisthenics",
+    "equipment": [
+      "không cần dụng cụ"
+    ],
+    "primary": [
+      "triceps-brachii"
+    ],
+    "secondary": [
+      "pectoralis-major",
+      "deltoid",
+      "rectus-abdominis"
+    ],
+    "difficulty": 2,
+    "order": 4,
+    "difficultyBasis": "Mức 2 – Cơ bản: suy theo tiêu chí (T = 4), nằm giữa chống đẩy và chống đẩy kim cương trong chuỗi Đẩy; tay rộng bằng vai, dồn tải vào tam đầu.",
+    "steps": [
+      "Vào tư thế chống đẩy nhưng đặt hai tay rộng đúng bằng vai, ngón tay hướng về trước.",
+      "Giữ thân thẳng, bụng siết nhẹ.",
+      "Hạ người xuống, khuỷu áp sát hai bên sườn và hướng về sau.",
+      "Đẩy lên tới khi khuỷu duỗi hẳn."
+    ],
+    "safety": [
+      "Không để khuỷu bè ra ngoài; nếu đau khuỷu thì nới tay rộng hơn một chút.",
+      "Giữ cổ tay thẳng hàng dưới vai."
+    ],
+    "fedbId": "Push-Ups_-_Close_Triceps_Position",
+    "image": null,
+    "sources": [
+      "https://www.strengthlog.com/close-grip-push-up/",
+      "https://lr.in.psf.lt/r/bodyweightfitness/wiki/exercises/pushup"
+    ]
+  },
+  {
+    "id": "diamond-push-up",
+    "nameVi": "Chống đẩy kim cương",
+    "nameEn": "Diamond Push-Up",
+    "type": "calisthenics",
+    "equipment": [
+      "không cần dụng cụ"
+    ],
+    "primary": [
+      "triceps-brachii",
+      "pectoralis-major"
+    ],
+    "secondary": [
+      "deltoid",
+      "rectus-abdominis"
+    ],
+    "difficulty": 3,
+    "order": 5,
+    "difficultyBasis": "Mức 3 – Trung cấp: bậc 4/5 chuỗi Đẩy của r/bodyweightfitness RR, sau chống đẩy chuẩn; tay chụm làm tăng tải lên tam đầu.",
+    "steps": [
+      "Vào tư thế chống đẩy, đặt hai tay dưới ngực sao cho ngón cái và ngón trỏ chạm nhau thành hình thoi.",
+      "Giữ thân thẳng như tấm ván, bả vai hạ xuống.",
+      "Hạ ngực về phía bàn tay, khuỷu khép sát thân.",
+      "Đẩy lên tới khi tay thẳng; nếu quá khó thì đặt tay hẹp hơn bình thường một chút rồi chụm dần."
+    ],
+    "safety": [
+      "Dừng nếu đau cổ tay hoặc khuỷu; xoay nhẹ bàn tay ra ngoài có thể đỡ hơn.",
+      "Không để hông võng khi mỏi."
+    ],
+    "fedbId": null,
+    "image": null,
+    "sources": [
+      "https://lr.in.psf.lt/r/bodyweightfitness/wiki/exercises/pushup",
+      "https://www.liftosaur.com/programs/recommended-routine",
+      "https://www.strengthlog.com/close-grip-push-up/"
+    ]
+  },
+  {
+    "id": "decline-push-up",
+    "nameVi": "Chống đẩy dốc xuống (kê chân)",
+    "nameEn": "Decline Push-Up",
+    "type": "calisthenics",
+    "equipment": [
+      "ghế/bục"
+    ],
+    "primary": [
+      "pectoralis-major"
+    ],
+    "secondary": [
+      "deltoid",
+      "triceps-brachii",
+      "serratus-anterior",
+      "rectus-abdominis"
+    ],
+    "difficulty": 3,
+    "order": 6,
+    "difficultyBasis": "Mức 3 – Trung cấp: biến thể khó hơn chống đẩy được RR nêu (bậc †, cạnh chống đẩy kim cương); kê chân làm tăng tải lên tay và vai.",
+    "steps": [
+      "Đặt mũi chân lên ghế hoặc bục, hai tay chống sàn rộng hơn vai một chút.",
+      "Siết bụng để thân thẳng từ đầu tới gót, không gập hông.",
+      "Hạ ngực xuống sàn có kiểm soát.",
+      "Đẩy lên tới khi tay thẳng; nâng dần độ cao kê chân khi đã quen."
+    ],
+    "safety": [
+      "Bục kê chân phải chắc, không trượt.",
+      "Chân kê càng cao thì vai càng chịu tải nhiều; tăng từ từ."
+    ],
+    "fedbId": "Decline_Push-Up",
+    "image": null,
+    "sources": [
+      "https://www.strengthlog.com/decline-push-up/",
+      "https://reddit.rtrace.io/r/bodyweightfitness/wiki/kb/recommended_routine"
+    ]
+  },
+  {
+    "id": "ring-push-up",
+    "nameVi": "Chống đẩy trên vòng treo",
+    "nameEn": "Ring Push-Up",
+    "type": "calisthenics",
+    "equipment": [
+      "vòng treo"
+    ],
+    "primary": [
+      "pectoralis-major"
+    ],
+    "secondary": [
+      "deltoid",
+      "triceps-brachii",
+      "serratus-anterior",
+      "rectus-abdominis"
+    ],
+    "difficulty": 3,
+    "order": 7,
+    "difficultyBasis": "Mức 3 – Trung cấp: nhánh rings push-up sau 3×8 kim cương trong chuỗi Đẩy của r/bodyweightfitness; vòng lắc buộc vai và thân phải tự ổn định.",
+    "steps": [
+      "Hạ vòng treo cách sàn vài phân, nắm vòng và vào tư thế chống đẩy với tay thẳng.",
+      "Giữ vòng sát hai bên thân, bả vai hạ xuống, thân thẳng.",
+      "Hạ người tới khi tay gần ngang ngực, khuỷu khép sát.",
+      "Đẩy lên, ở trên cùng xoay nhẹ vòng ra ngoài và đẩy bả vai tách ra."
+    ],
+    "safety": [
+      "Kiểm tra dây và điểm treo chắc chắn trước khi tập.",
+      "Không để vòng trôi rộng ra hai bên, dễ quá tải vai."
+    ],
+    "fedbId": "Suspended_Push-Up",
+    "image": null,
+    "sources": [
+      "https://lr.in.psf.lt/r/bodyweightfitness/wiki/exercises/pushup",
+      "https://reddit.rtrace.io/r/bodyweightfitness/wiki/kb/recommended_routine"
+    ]
+  },
+  {
+    "id": "archer-push-up",
+    "nameVi": "Chống đẩy kiểu cung thủ",
+    "nameEn": "Archer Push-Up",
+    "type": "calisthenics",
+    "equipment": [
+      "không cần dụng cụ"
+    ],
+    "primary": [
+      "pectoralis-major",
+      "triceps-brachii"
+    ],
+    "secondary": [
+      "deltoid",
+      "serratus-anterior",
+      "rectus-abdominis"
+    ],
+    "difficulty": 4,
+    "order": 8,
+    "difficultyBasis": "Mức 4 – Nâng cao: suy theo tiêu chí (T = 8), bậc † cạnh pseudo planche push-up; dồn phần lớn tải vào một tay, tay kia duỗi thẳng.",
+    "steps": [
+      "Chống tay rất rộng, khoảng gấp đôi chiều rộng vai, thân thẳng.",
+      "Dồn trọng tâm sang một bên và gập khuỷu bên đó để hạ người, tay còn lại duỗi thẳng sang ngang.",
+      "Hạ tới khi ngực gần sát bàn tay đang gập.",
+      "Đẩy về giữa rồi đổi bên ở lần sau."
+    ],
+    "safety": [
+      "Chỉ tập khi đã làm chống đẩy chuẩn sạch sẽ và nhiều lần.",
+      "Không xoắn thân hay lệch hông để bù lực."
+    ],
+    "fedbId": null,
+    "image": null,
+    "sources": [
+      "https://www.nasm.org/resource-center/exercise-library/archer-push-up",
+      "https://lr.in.psf.lt/r/bodyweightfitness/wiki/exercises/pushup"
+    ]
+  },
+  {
+    "id": "pseudo-planche-push-up",
+    "nameVi": "Chống đẩy pseudo planche",
+    "nameEn": "Pseudo Planche Push-Up",
+    "type": "calisthenics",
+    "equipment": [
+      "không cần dụng cụ"
+    ],
+    "primary": [
+      "pectoralis-major",
+      "deltoid"
+    ],
+    "secondary": [
+      "triceps-brachii",
+      "serratus-anterior",
+      "rectus-abdominis"
+    ],
+    "difficulty": 4,
+    "order": 9,
+    "difficultyBasis": "Mức 4 – Nâng cao: bậc 5/5 chuỗi Đẩy của r/bodyweightfitness RR, sau kim cương; đổ người ra trước khiến đòn bẩy dài, vai chịu tải lớn.",
+    "steps": [
+      "Vào tư thế chống đẩy, xoay bàn tay ra ngoài hoặc hướng ngón về phía chân, tay đặt ngang hông.",
+      "Đổ người ra trước tới khi vai vượt qua bàn tay, giữ thân thẳng và đẩy bả vai ra trước.",
+      "Giữ nguyên độ đổ người, gập khuỷu hạ ngực xuống sát sàn, khuỷu khép.",
+      "Đẩy lên tới khi tay thẳng; tăng độ đổ người để khó hơn."
+    ],
+    "safety": [
+      "Khởi động cổ tay kỹ; độ đổ người tăng từ từ.",
+      "Giữ độ đổ người không đổi suốt lần lặp, không để hông võng."
+    ],
+    "fedbId": null,
+    "image": null,
+    "sources": [
+      "https://twt.omada.cafe/r/bodyweightfitness/wiki/exercises/pseudo-planche-pushup",
+      "https://lr.in.psf.lt/r/bodyweightfitness/wiki/exercises/pushup",
+      "https://www.liftosaur.com/programs/recommended-routine"
+    ]
+  },
+  {
+    "id": "bench-dip",
+    "nameVi": "Dips trên ghế",
+    "nameEn": "Bench Dip",
+    "type": "calisthenics",
+    "equipment": [
+      "ghế/bục"
+    ],
+    "primary": [
+      "triceps-brachii"
+    ],
+    "secondary": [
+      "pectoralis-major",
+      "deltoid"
+    ],
+    "difficulty": 2,
+    "order": 1,
+    "difficultyBasis": "Mức 2 – Cơ bản: suy theo tiêu chí (T = 4), dễ hơn dips xà kép; chân chạm sàn đỡ bớt tải nhưng vai bị kéo ra sau ở đáy.",
+    "steps": [
+      "Ngồi mép ghế chắc, hai tay chống mép ghế cạnh hông, ngón tay hướng về trước.",
+      "Trượt mông ra khỏi ghế, chân duỗi ra trước (gập gối để dễ hơn).",
+      "Gập khuỷu hạ người tới khi cánh tay trên gần song song sàn, khuỷu hướng thẳng ra sau.",
+      "Duỗi khuỷu đẩy người lên."
+    ],
+    "safety": [
+      "Không hạ quá sâu: vai bị đẩy ra trước dễ gây đau khớp vai.",
+      "Giữ lưng sát mép ghế, ngực mở."
+    ],
+    "fedbId": "Bench_Dips",
+    "image": null,
+    "sources": [
+      "https://strengthlog.com/bench-dip",
+      "https://r.datuan.dev/r/bodyweightfitness/wiki/exercises/dip"
+    ]
+  },
+  {
+    "id": "scapula-dip",
+    "nameVi": "Dips bả vai trên xà kép",
+    "nameEn": "Scapula Dip",
+    "type": "calisthenics",
+    "equipment": [
+      "xà kép"
+    ],
+    "primary": [
+      "pectoralis-minor",
+      "trapezius"
+    ],
+    "secondary": [
+      "triceps-brachii",
+      "latissimus-dorsi"
+    ],
+    "difficulty": 2,
+    "order": 2,
+    "difficultyBasis": "Mức 2 – Cơ bản: suy theo tiêu chí (T = 3), cùng bậc với giữ chống trên xà kép; tay thẳng, chỉ hạ và nâng bả vai.",
+    "steps": [
+      "Chống người lên xà kép, tay thẳng, chân hơi đưa ra trước, siết bụng và mông.",
+      "Thả lỏng để vai nhún lên gần tai mà khuỷu vẫn thẳng.",
+      "Ấn hai tay xuống xà, kéo vai xuống xa tai để nâng người lên vài phân.",
+      "Giữ một nhịp rồi hạ có kiểm soát."
+    ],
+    "safety": [
+      "Khuỷu luôn thẳng, chuyển động chỉ ở bả vai.",
+      "Giảm biên độ nếu thấy đau nhói ở vai."
+    ],
+    "fedbId": null,
+    "image": null,
+    "sources": [
+      "https://www.caliverse.app/exercises/scapula-dips-506",
+      "https://brookbushinstitute.com/articles/pectoralis-minor",
+      "https://r.datuan.dev/r/bodyweightfitness/wiki/exercises/dip"
+    ]
+  },
+  {
+    "id": "parallel-bar-support-hold",
+    "nameVi": "Giữ chống trên xà kép",
+    "nameEn": "Parallel Bar Support Hold",
+    "type": "calisthenics",
+    "equipment": [
+      "xà kép"
+    ],
+    "primary": [
+      "pectoralis-minor",
+      "triceps-brachii"
+    ],
+    "secondary": [
+      "trapezius",
+      "latissimus-dorsi",
+      "pectoralis-major"
+    ],
+    "difficulty": 2,
+    "order": 3,
+    "difficultyBasis": "Mức 2 – Cơ bản: bậc 1 chuỗi Dips của r/bodyweightfitness RR (giữ chống); đỡ toàn thân bằng tay thẳng, vai phải giữ hạ.",
+    "steps": [
+      "Nắm hai thanh xà kép, nhảy hoặc bước lên để chống người với tay thẳng.",
+      "Ấn vai xuống xa tai, nếp khuỷu hướng ra trước.",
+      "Khép chân, siết mông, thân thẳng hoặc hơi lõm bụng.",
+      "Giữ 20–60 giây, tăng dần tới 3 hiệp 1 phút."
+    ],
+    "safety": [
+      "Không để vai nhún lên tai; nếu không giữ được thì chạm nhẹ chân xuống bục.",
+      "Có thể dùng hai ghế chắc thay xà kép."
+    ],
+    "fedbId": null,
+    "image": null,
+    "sources": [
+      "https://antranik.org/support-hold/",
+      "https://r.datuan.dev/r/bodyweightfitness/wiki/exercises/dip",
+      "https://www.liftosaur.com/programs/recommended-routine",
+      "https://brookbushinstitute.com/articles/pectoralis-minor"
+    ]
+  },
+  {
+    "id": "negative-dip",
+    "nameVi": "Dips âm bản (hạ chậm)",
+    "nameEn": "Negative Dip",
+    "type": "calisthenics",
+    "equipment": [
+      "xà kép"
+    ],
+    "primary": [
+      "triceps-brachii",
+      "pectoralis-major"
+    ],
+    "secondary": [
+      "deltoid",
+      "pectoralis-minor"
+    ],
+    "difficulty": 2,
+    "order": 4,
+    "difficultyBasis": "Mức 2 – Cơ bản: bậc 2 chuỗi Dips của r/bodyweightfitness RR, sau giữ chống; chỉ làm pha hạ chậm.",
+    "steps": [
+      "Dùng bục hoặc nhảy để lên tư thế chống trên xà kép, tay thẳng.",
+      "Hạ người thật chậm, đếm 5–10 giây, khuỷu khép hướng ra sau.",
+      "Dừng khi vai xuống thấp hơn khuỷu hoặc tới mức thoải mái.",
+      "Chạm chân xuống, bước lên lại và lặp lại."
+    ],
+    "safety": [
+      "Kiểm soát cả pha hạ, không thả rơi ở đoạn cuối.",
+      "Tăng số lần từ từ vì pha hạ chậm gây đau cơ nhiều."
+    ],
+    "fedbId": null,
+    "image": null,
+    "sources": [
+      "https://r.datuan.dev/r/bodyweightfitness/wiki/exercises/dip",
+      "https://www.liftosaur.com/programs/recommended-routine"
+    ]
+  },
+  {
+    "id": "parallel-bar-dip",
+    "nameVi": "Dips trên xà kép",
+    "nameEn": "Parallel Bar Dip",
+    "type": "calisthenics",
+    "equipment": [
+      "xà kép"
+    ],
+    "primary": [
+      "pectoralis-major",
+      "triceps-brachii"
+    ],
+    "secondary": [
+      "deltoid",
+      "pectoralis-minor",
+      "serratus-anterior"
+    ],
+    "difficulty": 3,
+    "order": 5,
+    "difficultyBasis": "Mức 3 – Trung cấp: bậc 3 chuỗi Dips của r/bodyweightfitness RR, sau dips âm bản; đẩy 100% trọng lượng cơ thể.",
+    "steps": [
+      "Chống người trên xà kép, tay thẳng, vai hạ xuống.",
+      "Gập khuỷu hạ người, khuỷu hướng ra sau, thân hơi đổ về trước.",
+      "Hạ tới khi vai thấp hơn khuỷu hoặc tới mức linh hoạt cho phép.",
+      "Đẩy lên tới khi tay duỗi thẳng và vai ấn xuống."
+    ],
+    "safety": [
+      "Không nhún vai lên tai ở đáy; tăng khối lượng tập dần vì bài gây áp lực lên vai và xương ức.",
+      "Không đung đưa lấy đà."
+    ],
+    "fedbId": "Parallel_Bar_Dip",
+    "image": null,
+    "sources": [
+      "https://www.strengthlog.com/bar-dip/",
+      "https://r.datuan.dev/r/bodyweightfitness/wiki/exercises/dip",
+      "https://www.liftosaur.com/programs/recommended-routine"
+    ]
+  },
+  {
+    "id": "ring-support-hold",
+    "nameVi": "Giữ chống trên vòng treo",
+    "nameEn": "Ring Support Hold",
+    "type": "calisthenics",
+    "equipment": [
+      "vòng treo"
+    ],
+    "primary": [
+      "pectoralis-minor",
+      "triceps-brachii"
+    ],
+    "secondary": [
+      "pectoralis-major",
+      "biceps-brachii",
+      "trapezius",
+      "serratus-anterior"
+    ],
+    "difficulty": 3,
+    "order": 6,
+    "difficultyBasis": "Mức 3 – Trung cấp: suy theo tiêu chí (T = 6), khó hơn giữ chống xà kép; vòng lắc, phải giữ 60 giây trước khi dips vòng.",
+    "steps": [
+      "Hạ vòng ngang hông, nắm vòng và bật lên chống tay thẳng.",
+      "Kẹp vòng sát hông, ấn vai xuống, nếp khuỷu hướng ra trước.",
+      "Khi đã vững, xoay ngón cái ra ngoài để vòng hướng ra ngoài (RTO) càng nhiều càng tốt.",
+      "Giữ theo hiệp ngắn rồi tăng dần tới 60 giây liên tục."
+    ],
+    "safety": [
+      "Có thể quấn dây chun hay khăn giữa hai vòng để hỗ trợ khi mới tập.",
+      "Không tì tay vào dây treo vì sẽ che giấu sức thật."
+    ],
+    "fedbId": null,
+    "image": null,
+    "sources": [
+      "https://antranik.org/support-hold/",
+      "https://r.datuan.dev/r/bodyweightfitness/wiki/exercises/dip",
+      "https://brookbushinstitute.com/articles/pectoralis-minor"
+    ]
+  },
+  {
+    "id": "ring-dip",
+    "nameVi": "Dips trên vòng treo",
+    "nameEn": "Ring Dip",
+    "type": "calisthenics",
+    "equipment": [
+      "vòng treo"
+    ],
+    "primary": [
+      "triceps-brachii",
+      "pectoralis-major"
+    ],
+    "secondary": [
+      "deltoid",
+      "pectoralis-minor",
+      "serratus-anterior",
+      "biceps-brachii"
+    ],
+    "difficulty": 4,
+    "order": 7,
+    "difficultyBasis": "Mức 4 – Nâng cao: bậc † sau dips xà kép trong chuỗi Dips; cần 3×8 dips xà kép và giữ chống vòng xoay ngoài 60 giây.",
+    "steps": [
+      "Chống người trên vòng, tay thẳng, vòng xoay ra ngoài.",
+      "Gập khuỷu hạ người, giữ vòng sát thân và vai hạ xuống.",
+      "Hạ tới khi vai thấp hơn khuỷu hoặc tới mức thoải mái.",
+      "Đẩy lên, ở trên cùng xoay vòng ra ngoài trở lại."
+    ],
+    "safety": [
+      "Chỉ tập khi đã vững dips xà kép; vòng lắc làm tải lên vai tăng mạnh.",
+      "Tăng khối lượng tập từ từ để vai và xương ức thích nghi."
+    ],
+    "fedbId": "Ring_Dips",
+    "image": null,
+    "sources": [
+      "https://www.strengthlog.com/ring-dip/",
+      "https://r.datuan.dev/r/bodyweightfitness/wiki/exercises/dip"
+    ]
+  },
+  {
+    "id": "scapular-pull-up",
+    "nameVi": "Kéo xà bả vai",
+    "nameEn": "Scapular Pull-Up",
+    "type": "calisthenics",
+    "equipment": [
+      "xà đơn"
+    ],
+    "primary": [
+      "trapezius"
+    ],
+    "secondary": [
+      "latissimus-dorsi",
+      "teres-major",
+      "rhomboid-major",
+      "finger-flexors"
+    ],
+    "difficulty": 1,
+    "order": 1,
+    "difficultyBasis": "Mức 1 – Nhập môn: bậc 1/4 chuỗi Kéo xà của r/bodyweightfitness RR; tay thẳng, chỉ kéo bả vai xuống trong biên độ ngắn.",
+    "steps": [
+      "Treo trên xà, tay sấp rộng hơn vai một chút, tay thẳng.",
+      "Kéo bả vai xuống và khép vào nhau để vai rời xa tai, thân nhích lên vài phân.",
+      "Giữ một nhịp, khuỷu vẫn thẳng.",
+      "Thả bả vai về vị trí treo một cách có kiểm soát."
+    ],
+    "safety": [
+      "Không gập khuỷu: đây là bài của bả vai.",
+      "Nếu chưa treo được lâu thì để chân chạm nhẹ bục."
+    ],
+    "fedbId": "Scapular_Pull-Up",
+    "image": null,
+    "sources": [
+      "https://www.strengthlog.com/scap-pull-up/",
+      "https://www.liftosaur.com/programs/recommended-routine",
+      "https://www.liftosaur.com/exercises/bodyweight-arch-hang"
+    ]
+  },
+  {
+    "id": "arch-hang",
+    "nameVi": "Treo ưỡn ngực",
+    "nameEn": "Arch Hang",
+    "type": "calisthenics",
+    "equipment": [
+      "xà đơn"
+    ],
+    "primary": [
+      "latissimus-dorsi",
+      "trapezius"
+    ],
+    "secondary": [
+      "teres-major",
+      "deltoid",
+      "finger-flexors"
+    ],
+    "difficulty": 2,
+    "order": 2,
+    "difficultyBasis": "Mức 2 – Cơ bản: bậc 2/4 chuỗi Kéo xà của r/bodyweightfitness RR; giữ tĩnh, tay thẳng, ưỡn lưng trên.",
+    "steps": [
+      "Treo trên xà, tay sấp rộng bằng vai, tay thẳng.",
+      "Kéo bả vai xuống và ra sau, đẩy ngực về phía xà để lưng trên ưỡn.",
+      "Giữ tư thế, siết bụng, chân yên.",
+      "Tích lũy thời gian giữ tới khoảng 20–30 giây mỗi hiệp."
+    ],
+    "safety": [
+      "Tay luôn thẳng, không nhún vai.",
+      "Thả xuống chậm, không buông rơi."
+    ],
+    "fedbId": null,
+    "image": null,
+    "sources": [
+      "https://www.liftosaur.com/exercises/bodyweight-arch-hang",
+      "https://www.liftosaur.com/programs/recommended-routine",
+      "https://reddit.rtrace.io/r/bodyweightfitness/wiki/kb/recommended_routine"
+    ]
+  },
+  {
+    "id": "negative-pull-up",
+    "nameVi": "Hít xà âm bản (hạ chậm)",
+    "nameEn": "Negative Pull-Up",
+    "type": "calisthenics",
+    "equipment": [
+      "xà đơn",
+      "ghế/bục"
+    ],
+    "primary": [
+      "latissimus-dorsi",
+      "teres-major"
+    ],
+    "secondary": [
+      "biceps-brachii",
+      "brachioradialis",
+      "trapezius",
+      "finger-flexors"
+    ],
+    "difficulty": 2,
+    "order": 3,
+    "difficultyBasis": "Mức 2 – Cơ bản: bậc 3/4 chuỗi Kéo xà của r/bodyweightfitness RR; chỉ làm pha hạ, dùng bục để lên điểm cao.",
+    "steps": [
+      "Đứng lên bục, nắm xà tay sấp, nhảy hoặc bước lên để cằm qua xà.",
+      "Giữ một nhịp ở trên, ngực hướng về xà.",
+      "Hạ người thật chậm, đếm 5–10 giây, tới khi tay thẳng.",
+      "Bước lại lên bục và lặp lại."
+    ],
+    "safety": [
+      "Lần đầu chỉ làm 2–3 hiệp vì pha hạ gây đau cơ nhiều.",
+      "Không thả rơi ở đoạn cuối để tránh giật khuỷu và vai."
+    ],
+    "fedbId": null,
+    "image": null,
+    "sources": [
+      "https://www.liftosaur.com/programs/recommended-routine",
+      "https://www.strengthlog.com/pull-up/"
+    ]
+  },
+  {
+    "id": "pull-up",
+    "nameVi": "Hít xà (tay sấp)",
+    "nameEn": "Pull-Up",
+    "type": "calisthenics",
+    "equipment": [
+      "xà đơn"
+    ],
+    "primary": [
+      "latissimus-dorsi",
+      "teres-major"
+    ],
+    "secondary": [
+      "biceps-brachii",
+      "brachioradialis",
+      "trapezius",
+      "rhomboid-major",
+      "deltoid",
+      "finger-flexors"
+    ],
+    "difficulty": 3,
+    "order": 4,
+    "difficultyBasis": "Mức 3 – Trung cấp: bậc sau hít xà âm bản trong chuỗi Kéo xà của r/bodyweightfitness RR; kéo 100% trọng lượng cơ thể.",
+    "steps": [
+      "Treo trên xà, tay sấp rộng hơn vai một chút, thân hơi lõm bụng.",
+      "Kéo bả vai xuống trước, rồi gập khuỷu kéo ngực lên về phía xà.",
+      "Kéo tới khi cằm qua xà hoặc xà chạm ngực trên.",
+      "Hạ có kiểm soát tới khi tay thẳng hẳn."
+    ],
+    "safety": [
+      "Không đá chân lấy đà nếu muốn tập đúng cơ.",
+      "Tay không nên quá rộng; dùng phấn nếu tay trơn."
+    ],
+    "fedbId": "Pullups",
+    "image": null,
+    "sources": [
+      "https://www.strengthlog.com/pull-up/",
+      "https://www.liftosaur.com/programs/recommended-routine"
+    ]
+  },
+  {
+    "id": "chin-up",
+    "nameVi": "Hít xà tay ngửa",
+    "nameEn": "Chin-Up",
+    "type": "calisthenics",
+    "equipment": [
+      "xà đơn"
+    ],
+    "primary": [
+      "latissimus-dorsi",
+      "biceps-brachii"
+    ],
+    "secondary": [
+      "teres-major",
+      "brachioradialis",
+      "trapezius",
+      "finger-flexors"
+    ],
+    "difficulty": 3,
+    "order": 4,
+    "difficultyBasis": "Mức 3 – Trung cấp: cùng bậc hít xà trong chuỗi Kéo xà của r/bodyweightfitness RR; kéo 100% trọng lượng, tay ngửa dồn thêm vào nhị đầu.",
+    "steps": [
+      "Nắm xà tay ngửa (lòng bàn tay hướng vào mặt), rộng bằng vai.",
+      "Kéo bả vai xuống, ngực nâng lên.",
+      "Gập khuỷu kéo người lên tới khi cằm qua xà.",
+      "Hạ chậm tới khi tay duỗi thẳng."
+    ],
+    "safety": [
+      "Không giật người hay lắc chân.",
+      "Ngừng nếu đau mặt trong khuỷu; tay rộng hơn một chút có thể đỡ hơn."
+    ],
+    "fedbId": "Chin-Up",
+    "image": null,
+    "sources": [
+      "https://www.strengthlog.com/chin-up/",
+      "https://www.liftosaur.com/programs/recommended-routine"
+    ]
+  },
+  {
+    "id": "neutral-grip-pull-up",
+    "nameVi": "Hít xà tay trung tính",
+    "nameEn": "Neutral-Grip Pull-Up",
+    "type": "calisthenics",
+    "equipment": [
+      "xà đơn"
+    ],
+    "primary": [
+      "latissimus-dorsi",
+      "brachioradialis"
+    ],
+    "secondary": [
+      "biceps-brachii",
+      "teres-major",
+      "trapezius",
+      "finger-flexors"
+    ],
+    "difficulty": 3,
+    "order": 4,
+    "difficultyBasis": "Mức 3 – Trung cấp: cùng bậc hít xà trong chuỗi Kéo xà của r/bodyweightfitness RR; kéo 100% trọng lượng với hai lòng bàn tay đối nhau.",
+    "steps": [
+      "Nắm hai tay cầm song song (hoặc hai bên xà chữ H) sao cho lòng bàn tay đối nhau, rộng bằng vai.",
+      "Kéo bả vai xuống, ngực hướng lên.",
+      "Gập khuỷu kéo người lên tới khi cằm qua tay cầm.",
+      "Hạ chậm tới khi tay thẳng."
+    ],
+    "safety": [
+      "Kiểm tra tay cầm chắc chắn trước khi treo.",
+      "Không lấy đà bằng chân."
+    ],
+    "fedbId": null,
+    "image": null,
+    "sources": [
+      "https://www.strengthlog.com/pull-ups-with-a-neutral-grip/",
+      "https://tomsguide.com/features/forget-press-ups-5-best-bodyweight-exercises-to-sculpt-your-biceps",
+      "https://www.liftosaur.com/programs/recommended-routine"
+    ]
+  },
+  {
+    "id": "towel-pull-up",
+    "nameVi": "Hít xà bằng khăn",
+    "nameEn": "Towel Pull-Up",
+    "type": "calisthenics",
+    "equipment": [
+      "xà đơn",
+      "khăn"
+    ],
+    "primary": [
+      "finger-flexors",
+      "latissimus-dorsi"
+    ],
+    "secondary": [
+      "biceps-brachii",
+      "brachioradialis",
+      "flexor-carpi-radialis",
+      "teres-major"
+    ],
+    "difficulty": 4,
+    "order": 5,
+    "difficultyBasis": "Mức 4 – Nâng cao: suy theo tiêu chí (T = 8), khó hơn hít xà; nắm khăn buộc lực nắm phải đỡ toàn thân trong cả lần kéo.",
+    "steps": [
+      "Vắt hai chiếc khăn chắc lên xà, mỗi tay nắm chặt một chiếc.",
+      "Treo người, tay thẳng, bả vai hạ xuống.",
+      "Kéo người lên cao nhất có thể, giữ tay siết khăn.",
+      "Hạ có kiểm soát tới khi tay thẳng."
+    ],
+    "safety": [
+      "Dùng khăn dày, không sờn; kiểm tra khăn không tuột khỏi xà.",
+      "Chỉ tập khi đã hít xà thường sạch nhiều lần."
+    ],
+    "fedbId": null,
+    "image": null,
+    "sources": [
+      "https://www.strengthlog.com/towel-pull-up/",
+      "https://www.liftosaur.com/programs/recommended-routine"
+    ]
+  },
+  {
+    "id": "l-sit-pull-up",
+    "nameVi": "Hít xà giữ chữ L",
+    "nameEn": "L-Sit Pull-Up",
+    "type": "calisthenics",
+    "equipment": [
+      "xà đơn"
+    ],
+    "primary": [
+      "latissimus-dorsi"
+    ],
+    "secondary": [
+      "biceps-brachii",
+      "teres-major",
+      "rectus-abdominis",
+      "iliacus",
+      "psoas-major",
+      "quadriceps"
+    ],
+    "difficulty": 4,
+    "order": 6,
+    "difficultyBasis": "Mức 4 – Nâng cao: bậc † sau hít xà trong chuỗi Kéo xà (rubric); phải giữ chân ngang hông suốt lần kéo.",
+    "steps": [
+      "Treo trên xà, tay sấp rộng bằng vai.",
+      "Nâng hai chân duỗi thẳng ra trước tới ngang hông (chữ L); khó quá thì co gối.",
+      "Giữ chữ L, kéo người lên tới khi cằm qua xà.",
+      "Hạ có kiểm soát, chân vẫn giữ ngang."
+    ],
+    "safety": [
+      "Cần làm được hít xà nghiêm và giữ L treo trước khi tập.",
+      "Không ưỡn thắt lưng hay để chân rơi để lấy đà."
+    ],
+    "fedbId": null,
+    "image": null,
+    "sources": [
+      "https://barbend.com/l-sit-pull-up",
+      "https://www.liftosaur.com/programs/recommended-routine"
+    ]
+  },
+  {
+    "id": "archer-pull-up",
+    "nameVi": "Hít xà kiểu cung thủ",
+    "nameEn": "Archer Pull-Up",
+    "type": "calisthenics",
+    "equipment": [
+      "xà đơn"
+    ],
+    "primary": [
+      "latissimus-dorsi",
+      "teres-major"
+    ],
+    "secondary": [
+      "biceps-brachii",
+      "brachioradialis",
+      "trapezius",
+      "deltoid",
+      "finger-flexors"
+    ],
+    "difficulty": 4,
+    "order": 6,
+    "difficultyBasis": "Mức 4 – Nâng cao: bậc † sau hít xà trong chuỗi Kéo xà (rubric); dồn phần lớn tải sang một tay, bước đệm tới hít xà một tay.",
+    "steps": [
+      "Nắm xà tay sấp rất rộng, khoảng gấp đôi vai, treo tay thẳng.",
+      "Kéo cằm về phía một tay, chỉ gập tay đó; tay kia duỗi thẳng đẩy dọc xà.",
+      "Hạ về tư thế treo có kiểm soát.",
+      "Đổi bên; muốn dễ hơn thì đặt tay hỗ trợ lên trên xà."
+    ],
+    "safety": [
+      "Làm số lần bằng nhau hai bên.",
+      "Ngừng nếu đau khuỷu tay bên duỗi."
+    ],
+    "fedbId": null,
+    "image": null,
+    "sources": [
+      "https://www.liftosaur.com/exercises/bodyweight-archer-pull-up",
+      "https://www.liftosaur.com/programs/recommended-routine"
+    ]
+  },
+  {
+    "id": "muscle-up",
+    "nameVi": "Muscle-up trên xà",
+    "nameEn": "Muscle-Up",
+    "type": "calisthenics",
+    "equipment": [
+      "xà đơn"
+    ],
+    "primary": [
+      "latissimus-dorsi",
+      "triceps-brachii"
+    ],
+    "secondary": [
+      "pectoralis-major",
+      "biceps-brachii",
+      "deltoid",
+      "trapezius",
+      "finger-flexors",
+      "flexor-carpi-radialis"
+    ],
+    "difficulty": 5,
+    "order": 7,
+    "difficultyBasis": "Mức 5 – Chuyên sâu: bậc † cuối chuỗi Kéo xà (rubric); kỹ năng nối kéo nổ và chống đẩy qua xà, cần khoảng 12–15 lần hít xà.",
+    "steps": [
+      "Nắm xà bằng false grip (cổ tay gập, khớp ngón ở trên xà), treo tay thẳng.",
+      "Kéo thật mạnh, đưa xà về phía bụng theo đường vòng chứ không kéo thẳng đứng.",
+      "Ở điểm chuyển, đổ ngực qua xà và đưa khuỷu ra sau lên trên.",
+      "Đẩy thẳng tay như dips để lên trên xà, rồi hạ có kiểm soát."
+    ],
+    "safety": [
+      "Cần nền hít xà và dips vững trước khi tập; luyện bằng bản nhảy từ bục hoặc pha hạ trước.",
+      "Pha xuống khó kiểm soát: tập trên thảm, tránh rơi tự do."
+    ],
+    "fedbId": "Muscle_Up",
+    "image": null,
+    "sources": [
+      "https://www.strengthlog.com/bar-muscle-up/",
+      "https://www.liftosaur.com/programs/recommended-routine"
+    ]
+  },
+  {
+    "id": "tuck-front-lever",
+    "nameVi": "Front lever co gối",
+    "nameEn": "Tuck Front Lever",
+    "type": "calisthenics",
+    "equipment": [
+      "xà đơn",
+      "vòng treo"
+    ],
+    "primary": [
+      "latissimus-dorsi",
+      "teres-major"
+    ],
+    "secondary": [
+      "trapezius",
+      "rhomboid-major",
+      "deltoid",
+      "rectus-abdominis"
+    ],
+    "difficulty": 4,
+    "order": 1,
+    "difficultyBasis": "Mức 4 – Nâng cao: tuck front lever ở mức 4 trong chuỗi Kéo xà (rubric); giữ thân ngang bằng tay thẳng, cần 3×30 giây.",
+    "steps": [
+      "Treo trên xà hoặc vòng, tay thẳng.",
+      "Ép tay xuống bằng cơ xô, ngả người ra sau và co gối sát ngực để thân nằm ngang.",
+      "Kéo bả vai xuống và ra sau, khuỷu thẳng hẳn.",
+      "Giữ 10–30 giây rồi hạ chân xuống có kiểm soát."
+    ],
+    "safety": [
+      "Không gập khuỷu để bù; khuỷu cong làm mất tác dụng và dễ đau.",
+      "Không treo ngược quá một giây ở đầu hay cuối hiệp."
+    ],
+    "fedbId": null,
+    "image": null,
+    "sources": [
+      "https://redlib.hackliberty.org/r/bodyweightfitness/wiki/exercises/row",
+      "https://breakingmuscle.com/how-to-build-up-to-the-front-lever/",
+      "https://www.liftosaur.com/programs/recommended-routine"
+    ]
+  },
+  {
+    "id": "front-lever",
+    "nameVi": "Front lever",
+    "nameEn": "Front Lever",
+    "type": "calisthenics",
+    "equipment": [
+      "xà đơn",
+      "vòng treo"
+    ],
+    "primary": [
+      "latissimus-dorsi",
+      "teres-major"
+    ],
+    "secondary": [
+      "trapezius",
+      "rhomboid-major",
+      "deltoid",
+      "rectus-abdominis",
+      "gluteus-maximus"
+    ],
+    "difficulty": 5,
+    "order": 2,
+    "difficultyBasis": "Mức 5 – Chuyên sâu: bậc † cuối chuỗi front lever (tuck → advanced tuck → một chân → full); đòn bẩy dài nhất với thân duỗi thẳng.",
+    "steps": [
+      "Từ tư thế tuck front lever, ép tay xuống mạnh bằng cơ xô.",
+      "Duỗi dần hai chân tới khi cả người thành một đường thẳng song song sàn.",
+      "Giữ hông không gập, bả vai kéo xuống, khuỷu thẳng.",
+      "Giữ vài giây rồi co gối trở lại tư thế tuck trước khi hạ."
+    ],
+    "safety": [
+      "Đi qua các bậc advanced tuck và một chân trước; mỗi bậc có thể mất nhiều tháng.",
+      "Tránh gập hông (pike) để gian lận."
+    ],
+    "fedbId": null,
+    "image": null,
+    "sources": [
+      "https://breakingmuscle.com/how-to-build-up-to-the-front-lever/",
+      "https://redlib.hackliberty.org/r/bodyweightfitness/wiki/exercises/row"
+    ]
+  },
+  {
+    "id": "vertical-row",
+    "nameVi": "Row đứng gần thẳng",
+    "nameEn": "Vertical Row",
+    "type": "calisthenics",
+    "equipment": [
+      "xà đơn",
+      "vòng treo"
+    ],
+    "primary": [
+      "latissimus-dorsi",
+      "rhomboid-major"
+    ],
+    "secondary": [
+      "trapezius",
+      "biceps-brachii",
+      "brachioradialis",
+      "deltoid",
+      "teres-major"
+    ],
+    "difficulty": 1,
+    "order": 1,
+    "difficultyBasis": "Mức 1 – Nhập môn: bậc 1/3 chuỗi Row của r/bodyweightfitness RR; thân gần đứng thẳng nên chỉ kéo một phần nhỏ trọng lượng.",
+    "steps": [
+      "Nắm xà hoặc vòng ngang ngực, chân đặt gần ngay dưới điểm nắm, người hơi ngả ra sau.",
+      "Kéo bả vai ra sau trước, rồi kéo ngực về phía tay.",
+      "Giữ người thẳng từ đầu tới gót.",
+      "Hạ về tay thẳng có kiểm soát; bước chân lên trước để khó hơn."
+    ],
+    "safety": [
+      "Kiểm tra điểm treo hoặc xà chắc chắn.",
+      "Không nhún vai khi kéo."
+    ],
+    "fedbId": null,
+    "image": null,
+    "sources": [
+      "https://www.liftosaur.com/exercises/bodyweight-vertical-row",
+      "https://redlib.hackliberty.org/r/bodyweightfitness/wiki/exercises/row",
+      "https://www.liftosaur.com/programs/recommended-routine"
+    ]
+  },
+  {
+    "id": "inverted-row",
+    "nameVi": "Kéo người dưới xà (inverted row)",
+    "nameEn": "Inverted Row",
+    "type": "calisthenics",
+    "equipment": [
+      "xà đơn",
+      "vòng treo"
+    ],
+    "primary": [
+      "latissimus-dorsi",
+      "trapezius",
+      "rhomboid-major"
+    ],
+    "secondary": [
+      "biceps-brachii",
+      "brachioradialis",
+      "deltoid",
+      "teres-major",
+      "infraspinatus"
+    ],
+    "difficulty": 2,
+    "order": 2,
+    "difficultyBasis": "Mức 2 – Cơ bản: bậc 2/3 chuỗi Row của r/bodyweightfitness RR; thân nằm ngang, kéo khoảng một nửa trọng lượng cơ thể.",
+    "steps": [
+      "Đặt xà ngang hông (hoặc hạ vòng), nằm dưới xà, nắm tay sấp rộng hơn vai một chút, gót chạm sàn.",
+      "Siết bụng và mông cho người thẳng một đường.",
+      "Kéo bả vai khép lại rồi kéo ngực chạm xà, khuỷu khép.",
+      "Hạ có kiểm soát tới khi tay thẳng."
+    ],
+    "safety": [
+      "Không để hông võng hoặc ưỡn hông lên để gian lận.",
+      "Nâng xà cao hơn nếu chưa kéo được ngực chạm xà."
+    ],
+    "fedbId": "Inverted_Row",
+    "image": null,
+    "sources": [
+      "https://www.strengthlog.com/inverted-row/",
+      "https://redlib.hackliberty.org/r/bodyweightfitness/wiki/exercises/row",
+      "https://www.liftosaur.com/programs/recommended-routine"
+    ]
+  },
+  {
+    "id": "underhand-inverted-row",
+    "nameVi": "Kéo người dưới xà tay ngửa",
+    "nameEn": "Underhand Inverted Row",
+    "type": "calisthenics",
+    "equipment": [
+      "xà đơn",
+      "vòng treo"
+    ],
+    "primary": [
+      "latissimus-dorsi",
+      "biceps-brachii"
+    ],
+    "secondary": [
+      "trapezius",
+      "rhomboid-major",
+      "brachioradialis",
+      "deltoid"
+    ],
+    "difficulty": 2,
+    "order": 2,
+    "difficultyBasis": "Mức 2 – Cơ bản: cùng bậc inverted row trong chuỗi Row của r/bodyweightfitness RR; tay ngửa dồn thêm vào nhóm gấp khuỷu.",
+    "steps": [
+      "Nằm dưới xà ngang hông, nắm tay ngửa rộng bằng vai.",
+      "Giữ thân thẳng, gót chạm sàn.",
+      "Kéo ngực về phía xà, khuỷu khép sát thân.",
+      "Hạ chậm tới khi tay thẳng."
+    ],
+    "safety": [
+      "Không giật người; giữ hông thẳng hàng.",
+      "Ngừng nếu đau mặt trong khuỷu."
+    ],
+    "fedbId": null,
+    "image": null,
+    "sources": [
+      "https://www.strengthlog.com/inverted-row-with-underhand-grip/",
+      "https://redlib.hackliberty.org/r/bodyweightfitness/wiki/exercises/row",
+      "https://tomsguide.com/features/forget-press-ups-5-best-bodyweight-exercises-to-sculpt-your-biceps"
+    ]
+  },
+  {
+    "id": "wide-row",
+    "nameVi": "Inverted row tay rộng",
+    "nameEn": "Wide Row",
+    "type": "calisthenics",
+    "equipment": [
+      "xà đơn",
+      "vòng treo"
+    ],
+    "primary": [
+      "rhomboid-major",
+      "trapezius",
+      "latissimus-dorsi"
+    ],
+    "secondary": [
+      "deltoid",
+      "infraspinatus",
+      "teres-minor",
+      "biceps-brachii"
+    ],
+    "difficulty": 3,
+    "order": 3,
+    "difficultyBasis": "Mức 3 – Trung cấp: bậc 3/3 chuỗi Row của r/bodyweightfitness RR; tay rộng khoảng 1,5 vai, khuỷu mở ra ngang.",
+    "steps": [
+      "Nằm dưới xà, nắm tay sấp rộng khoảng 1,5 lần vai (trên vòng thì để khuỷu mở khoảng 90°).",
+      "Giữ người thẳng, siết bụng.",
+      "Kéo ngực lên xà, khuỷu mở sang hai bên, bả vai khép hết cỡ.",
+      "Hạ có kiểm soát tới khi tay thẳng."
+    ],
+    "safety": [
+      "Không nhún vai lên tai.",
+      "Kê chân thấp hơn nếu không chạm được xà."
+    ],
+    "fedbId": null,
+    "image": null,
+    "sources": [
+      "https://redlib.hackliberty.org/r/bodyweightfitness/wiki/exercises/row",
+      "https://www.liftosaur.com/programs/recommended-routine"
+    ]
+  },
+  {
+    "id": "archer-row",
+    "nameVi": "Inverted row kiểu cung thủ",
+    "nameEn": "Archer Row",
+    "type": "calisthenics",
+    "equipment": [
+      "xà đơn",
+      "vòng treo"
+    ],
+    "primary": [
+      "rhomboid-major",
+      "latissimus-dorsi"
+    ],
+    "secondary": [
+      "trapezius",
+      "biceps-brachii",
+      "deltoid",
+      "teres-major"
+    ],
+    "difficulty": 3,
+    "order": 4,
+    "difficultyBasis": "Mức 3 – Trung cấp: nhánh archer row sau 3×8 wide row trong chuỗi Row của r/bodyweightfitness; tải dồn sang một tay.",
+    "steps": [
+      "Nằm dưới xà, nắm tay rất rộng.",
+      "Kéo người về phía một tay, tay kia giữ thẳng làm điểm đỡ.",
+      "Kéo tới khi ngực gần chạm tay đang gập, bả vai khép.",
+      "Hạ có kiểm soát rồi đổi bên."
+    ],
+    "safety": [
+      "Tay hỗ trợ luôn thẳng, không biến thành row hai tay.",
+      "Giữ thân không xoắn."
+    ],
+    "fedbId": null,
+    "image": null,
+    "sources": [
+      "https://redlib.hackliberty.org/r/bodyweightfitness/wiki/exercises/row"
+    ]
+  },
+  {
+    "id": "tuck-front-lever-row",
+    "nameVi": "Row ở tư thế front lever co gối",
+    "nameEn": "Tuck Front Lever Row",
+    "type": "calisthenics",
+    "equipment": [
+      "vòng treo",
+      "xà đơn"
+    ],
+    "primary": [
+      "latissimus-dorsi",
+      "rhomboid-major"
+    ],
+    "secondary": [
+      "trapezius",
+      "teres-major",
+      "deltoid",
+      "biceps-brachii",
+      "rectus-abdominis"
+    ],
+    "difficulty": 4,
+    "order": 5,
+    "difficultyBasis": "Mức 4 – Nâng cao: bậc † tuck front lever row trong chuỗi Row (rubric); cần giữ tuck front lever vững 20–30 giây.",
+    "steps": [
+      "Vào tư thế tuck front lever trên vòng hoặc xà, tay thẳng.",
+      "Giữ thân ngang, kéo vòng về phía bụng, bả vai khép lại.",
+      "Đưa vòng chạm thân dưới nếu được.",
+      "Duỗi tay về tư thế tuck front lever có kiểm soát."
+    ],
+    "safety": [
+      "Chỉ tập khi giữ tuck front lever 20–30 giây đã chắc.",
+      "Vòng cho biên độ tốt hơn xà; không để hông rơi khi mỏi."
+    ],
+    "fedbId": null,
+    "image": null,
+    "sources": [
+      "https://redlib.hackliberty.org/r/bodyweightfitness/wiki/exercises/row"
+    ]
+  },
+  {
+    "id": "bodyweight-curl",
+    "nameVi": "Cuộn tay tự trọng trên vòng treo",
+    "nameEn": "Bodyweight Curl",
+    "type": "calisthenics",
+    "equipment": [
+      "vòng treo"
+    ],
+    "primary": [
+      "biceps-brachii"
+    ],
+    "secondary": [
+      "brachioradialis",
+      "finger-flexors",
+      "rectus-abdominis"
+    ],
+    "difficulty": 2,
+    "order": 1,
+    "difficultyBasis": "Mức 2 – Cơ bản: suy theo tiêu chí (T = 3), cạnh inverted row tay ngửa; chỉ gập khuỷu, tải chỉnh bằng độ nghiêng thân.",
+    "steps": [
+      "Nắm vòng hoặc dây treo, đứng đối diện điểm treo, ngả người ra sau tới khi dây căng, tay thẳng, lòng bàn tay hướng lên.",
+      "Nâng khuỷu ngang hoặc cao hơn vai và giữ cố định.",
+      "Gập khuỷu kéo người về phía tay, tay đi về phía trán.",
+      "Duỗi tay hạ người chậm; bước chân ra trước để khó hơn."
+    ],
+    "safety": [
+      "Điểm treo phải chịu được toàn bộ trọng lượng.",
+      "Giữ thân thẳng như tấm ván, không đẩy hông lên."
+    ],
+    "fedbId": null,
+    "image": null,
+    "sources": [
+      "https://www.strengthlog.com/bodyweight-curl/",
+      "https://tomsguide.com/features/forget-press-ups-5-best-bodyweight-exercises-to-sculpt-your-biceps"
+    ]
+  },
+  {
+    "id": "bodyweight-hammer-curl",
+    "nameVi": "Cuộn tay búa tự trọng trên vòng treo",
+    "nameEn": "Bodyweight Hammer Curl",
+    "type": "calisthenics",
+    "equipment": [
+      "vòng treo"
+    ],
+    "primary": [
+      "biceps-brachii",
+      "brachioradialis"
+    ],
+    "secondary": [
+      "finger-flexors",
+      "rectus-abdominis"
+    ],
+    "difficulty": 2,
+    "order": 1,
+    "difficultyBasis": "Mức 2 – Cơ bản: suy theo tiêu chí (T = 3), cùng bậc cuộn tay tự trọng; lòng bàn tay đối nhau.",
+    "steps": [
+      "Nắm vòng với hai lòng bàn tay đối nhau, ngả người ra sau tới khi tay thẳng.",
+      "Khuỷu nâng cao và giữ yên.",
+      "Gập khuỷu đưa nắm tay về phía thái dương.",
+      "Hạ chậm về tay thẳng."
+    ],
+    "safety": [
+      "Giữ cổ tay thẳng, không gập cổ tay để kéo.",
+      "Bắt đầu với thân gần đứng rồi mới ngả sâu hơn."
+    ],
+    "fedbId": null,
+    "image": null,
+    "sources": [
+      "https://motra.com/exercises/trxHammerCurl",
+      "https://tomsguide.com/features/forget-press-ups-5-best-bodyweight-exercises-to-sculpt-your-biceps",
+      "https://www.strengthlog.com/bodyweight-curl/"
+    ]
+  },
+  {
+    "id": "reverse-grip-bodyweight-curl",
+    "nameVi": "Cuộn tay tự trọng tay sấp",
+    "nameEn": "Reverse-Grip Bodyweight Curl",
+    "type": "calisthenics",
+    "equipment": [
+      "vòng treo",
+      "xà đơn"
+    ],
+    "primary": [
+      "brachioradialis",
+      "biceps-brachii"
+    ],
+    "secondary": [
+      "extensor-carpi-radialis-longus",
+      "extensor-carpi-radialis-brevis",
+      "finger-flexors"
+    ],
+    "difficulty": 3,
+    "order": 2,
+    "difficultyBasis": "Mức 3 – Trung cấp: suy theo tiêu chí (T = 5), khó hơn cuộn tay ngửa; cẳng tay sấp làm nhị đầu kém lợi thế, cơ cánh tay quay gánh thêm.",
+    "steps": [
+      "Nắm vòng hoặc xà đặt cao ngang ngực với tay sấp (mu bàn tay hướng lên).",
+      "Ngả người ra sau tới khi tay thẳng, khuỷu nâng ngang vai.",
+      "Gập khuỷu kéo người về phía tay, cổ tay giữ thẳng.",
+      "Hạ chậm; dựng thân đứng hơn nếu không giữ được cổ tay thẳng."
+    ],
+    "safety": [
+      "Đứng gần đứng thẳng khi mới tập vì tư thế tay sấp yếu hơn.",
+      "Ngừng nếu đau mặt ngoài khuỷu."
+    ],
+    "fedbId": null,
+    "image": null,
+    "sources": [
+      "https://frontiersin.org/journals/physiology/articles/10.3389/fphys.2015.00215/full",
+      "https://www.strengthlog.com/bodyweight-curl/"
+    ]
+  },
+  {
+    "id": "bodyweight-triceps-extension",
+    "nameVi": "Duỗi tam đầu tự trọng trên xà",
+    "nameEn": "Bodyweight Triceps Extension",
+    "type": "calisthenics",
+    "equipment": [
+      "xà đơn"
+    ],
+    "primary": [
+      "triceps-brachii"
+    ],
+    "secondary": [
+      "rectus-abdominis",
+      "latissimus-dorsi"
+    ],
+    "difficulty": 3,
+    "order": 1,
+    "difficultyBasis": "Mức 3 – Trung cấp: suy theo tiêu chí (T = 5), cạnh chống đẩy kim cương; một khớp nhưng tay đòn dài, xà càng thấp càng nặng.",
+    "steps": [
+      "Đặt xà ngang ngực, nắm tay sấp rộng bằng vai, lùi chân để người nghiêng như tư thế plank.",
+      "Giữ tay thẳng, bụng và mông siết.",
+      "Gập khuỷu, cho đầu hạ xuống dưới xà, cánh tay trên gần như đứng yên.",
+      "Duỗi khuỷu đẩy người về vị trí đầu."
+    ],
+    "safety": [
+      "Bắt đầu với xà cao để giảm tải lên khuỷu.",
+      "Di chuyển chậm, không thả rơi ở đáy."
+    ],
+    "fedbId": "Body_Tricep_Press",
+    "image": null,
+    "sources": [
+      "https://www.strengthlog.com/triceps-bodyweight-extension/"
+    ]
+  },
+  {
+    "id": "pike-push-up",
+    "nameVi": "Chống đẩy chữ V ngược (pike push-up)",
+    "nameEn": "Pike Push-Up",
+    "type": "calisthenics",
+    "equipment": [
+      "không cần dụng cụ"
+    ],
+    "primary": [
+      "deltoid"
+    ],
+    "secondary": [
+      "triceps-brachii",
+      "pectoralis-major",
+      "serratus-anterior",
+      "trapezius"
+    ],
+    "difficulty": 3,
+    "order": 1,
+    "difficultyBasis": "Mức 3 – Trung cấp: bậc 1 chuỗi HSPU (†), cạnh chống đẩy kim cương; đẩy theo hướng thẳng đứng, cần nền chống đẩy trước.",
+    "steps": [
+      "Từ tư thế chống đẩy, đi chân lại gần tay và đẩy hông lên cao thành chữ V ngược.",
+      "Tay rộng hơn vai một chút, đầu thả lỏng theo cánh tay.",
+      "Gập khuỷu hạ đỉnh đầu về phía sàn trước tay, khuỷu khoảng 45° so với thân.",
+      "Đẩy về tư thế chữ V; đạt 8–10 lần sạch thì sang bản kê chân."
+    ],
+    "safety": [
+      "Không để hông sụp xuống, bài sẽ biến thành chống đẩy thường.",
+      "Không bè khuỷu ra ngang để bảo vệ vai."
+    ],
+    "fedbId": null,
+    "image": null,
+    "sources": [
+      "https://www.nasm.org/resource-center/exercise-library/pike-push-up",
+      "https://bibleofcalisthenics.substack.com/p/wall-handstand-push-up-progression"
+    ]
+  },
+  {
+    "id": "elevated-pike-push-up",
+    "nameVi": "Pike push-up kê chân",
+    "nameEn": "Elevated Pike Push-Up",
+    "type": "calisthenics",
+    "equipment": [
+      "ghế/bục"
+    ],
+    "primary": [
+      "deltoid"
+    ],
+    "secondary": [
+      "triceps-brachii",
+      "trapezius",
+      "serratus-anterior",
+      "pectoralis-major"
+    ],
+    "difficulty": 3,
+    "order": 2,
+    "difficultyBasis": "Mức 3 – Trung cấp: bậc 2 chuỗi HSPU (†), sau pike push-up; kê chân làm thân gần dựng đứng nên vai nhận nhiều tải hơn.",
+    "steps": [
+      "Đặt chân lên ghế hoặc bục, đi tay lại gần bục để hông ở trên vai, thân gần thẳng đứng.",
+      "Siết bụng, tay rộng hơn vai một chút.",
+      "Gập khuỷu hạ đầu xuống sàn trước tay, khuỷu khép chếch.",
+      "Đẩy lên tới khi tay thẳng; kê cao dần khi đạt 3×8–12."
+    ],
+    "safety": [
+      "Bục phải chắc, không trượt.",
+      "Hạ chậm có kiểm soát, không để đầu đập xuống sàn."
+    ],
+    "fedbId": null,
+    "image": null,
+    "sources": [
+      "https://bibleofcalisthenics.substack.com/p/wall-handstand-push-up-progression",
+      "https://www.nasm.org/resource-center/exercise-library/pike-push-up"
+    ]
+  },
+  {
+    "id": "wall-walk",
+    "nameVi": "Đi tay lên tường",
+    "nameEn": "Wall Walk",
+    "type": "calisthenics",
+    "equipment": [
+      "tường"
+    ],
+    "primary": [
+      "deltoid"
+    ],
+    "secondary": [
+      "triceps-brachii",
+      "pectoralis-major",
+      "rectus-abdominis",
+      "serratus-anterior",
+      "trapezius"
+    ],
+    "difficulty": 4,
+    "order": 3,
+    "difficultyBasis": "Mức 4 – Nâng cao: bậc 3 chuỗi HSPU (†), sau pike kê chân; đi vào trồng chuối áp tường, vai gập hết tầm và đỡ gần toàn thân.",
+    "steps": [
+      "Vào tư thế chống đẩy, lòng bàn chân áp chân tường.",
+      "Đi chân lên tường từng bước, đồng thời đi tay lùi về phía tường.",
+      "Dừng ở khoảng cách gần tường mà vẫn kiểm soát được, giữ một nhịp.",
+      "Đi ngược lại: tay ra trước, chân xuống, về tư thế chống đẩy."
+    ],
+    "safety": [
+      "Dọn sạch khu vực, có thảm, đi chân trần hoặc giày bám.",
+      "Ban đầu chỉ đi một đoạn ngắn rồi tăng dần."
+    ],
+    "fedbId": null,
+    "image": null,
+    "sources": [
+      "https://www.strengthlog.com/wall-walk/",
+      "https://bibleofcalisthenics.substack.com/p/wall-handstand-push-up-progression"
+    ]
+  },
+  {
+    "id": "wall-handstand-hold",
+    "nameVi": "Giữ trồng chuối áp tường",
+    "nameEn": "Wall Handstand Hold",
+    "type": "calisthenics",
+    "equipment": [
+      "tường"
+    ],
+    "primary": [
+      "deltoid",
+      "trapezius"
+    ],
+    "secondary": [
+      "triceps-brachii",
+      "serratus-anterior",
+      "rectus-abdominis"
+    ],
+    "difficulty": 4,
+    "order": 4,
+    "difficultyBasis": "Mức 4 – Nâng cao: bậc 4 chuỗi HSPU (†), sau wall walk; chống ngược toàn thân bằng hai tay, cần giữ 3×30–45 giây.",
+    "steps": [
+      "Đi tay lên tường (wall walk) để vào tư thế trồng chuối, mặt hướng vào tường, mũi chân chạm nhẹ tường.",
+      "Tay thẳng, đẩy sàn để vai nhô lên gần tai.",
+      "Siết bụng và mông để thân thẳng, không ưỡn thắt lưng.",
+      "Giữ theo thời gian rồi đi tay ra để xuống."
+    ],
+    "safety": [
+      "Luyện độ dẻo và khởi động cổ tay trước khi tập.",
+      "Tập trên thảm và biết cách thoát xuống an toàn trước khi giữ lâu."
+    ],
+    "fedbId": null,
+    "image": null,
+    "sources": [
+      "https://bibleofcalisthenics.substack.com/p/wall-handstand-push-up-progression",
+      "https://www.strengthlog.com/wall-walk/"
+    ]
+  },
+  {
+    "id": "wall-handstand-push-up",
+    "nameVi": "Chống đẩy trồng chuối áp tường",
+    "nameEn": "Wall Handstand Push-Up",
+    "type": "calisthenics",
+    "equipment": [
+      "tường"
+    ],
+    "primary": [
+      "deltoid",
+      "triceps-brachii"
+    ],
+    "secondary": [
+      "trapezius",
+      "serratus-anterior",
+      "rectus-abdominis",
+      "pectoralis-major"
+    ],
+    "difficulty": 5,
+    "order": 5,
+    "difficultyBasis": "Mức 5 – Chuyên sâu: HSPU là mốc mức 5 trong chuỗi Đẩy (rubric); đẩy 100% trọng lượng theo phương thẳng đứng, ngược đầu.",
+    "steps": [
+      "Vào trồng chuối áp tường (mặt hướng vào tường), tay rộng bằng vai.",
+      "Siết bụng, giữ thân thẳng.",
+      "Gập khuỷu hạ đầu từ từ xuống gần sàn, khuỷu khép chếch ra trước.",
+      "Đẩy lên tới khi tay thẳng hẳn."
+    ],
+    "safety": [
+      "Cần giữ trồng chuối áp tường vững 30–45 giây trước khi tập.",
+      "Hạ chậm và có thảm dưới đầu; không bè khuỷu ra ngang."
+    ],
+    "fedbId": "Handstand_Push-Ups",
+    "image": null,
+    "sources": [
+      "https://www.strengthlog.com/handstand-push-up/",
+      "https://bibleofcalisthenics.substack.com/p/wall-handstand-push-up-progression"
+    ]
+  },
+  {
+    "id": "planche-lean",
+    "nameVi": "Đổ người planche (planche lean)",
+    "nameEn": "Planche Lean",
+    "type": "calisthenics",
+    "equipment": [
+      "không cần dụng cụ"
+    ],
+    "primary": [
+      "serratus-anterior",
+      "deltoid"
+    ],
+    "secondary": [
+      "pectoralis-major",
+      "triceps-brachii",
+      "pectoralis-minor",
+      "rectus-abdominis",
+      "biceps-brachii"
+    ],
+    "difficulty": 3,
+    "order": 1,
+    "difficultyBasis": "Mức 3 – Trung cấp: bậc 0 chuỗi planche (SARCO+ 2/5), cạnh pseudo planche push-up; tay thẳng, vai đổ qua tay, bả vai đẩy ra trước.",
+    "steps": [
+      "Chống hai tay rộng bằng vai, ngón tay xoay ra ngoài, tay thẳng, nếp khuỷu hướng ra trước.",
+      "Đẩy bả vai ra trước, siết mông và bụng, vào tư thế chống đẩy.",
+      "Từ từ đổ vai ra trước vượt qua bàn tay, tay vẫn thẳng.",
+      "Giữ theo thời gian, thở đều; dừng khi tư thế bắt đầu vỡ."
+    ],
+    "safety": [
+      "Khởi động cổ tay kỹ và tăng độ đổ người từng chút.",
+      "Không gập khuỷu hay để hông võng."
+    ],
+    "fedbId": null,
+    "image": null,
+    "sources": [
+      "https://www.caliverse.app/exercises/planche-lean-538",
+      "https://akuaku.org/Sarco+/progression-planche-progression.html"
+    ]
+  },
+  {
+    "id": "tuck-planche",
+    "nameVi": "Planche co gối",
+    "nameEn": "Tuck Planche",
+    "type": "calisthenics",
+    "equipment": [
+      "không cần dụng cụ"
+    ],
+    "primary": [
+      "deltoid",
+      "serratus-anterior"
+    ],
+    "secondary": [
+      "pectoralis-major",
+      "triceps-brachii",
+      "pectoralis-minor",
+      "rectus-abdominis",
+      "biceps-brachii"
+    ],
+    "difficulty": 4,
+    "order": 2,
+    "difficultyBasis": "Mức 4 – Nâng cao: bậc 1 chuỗi planche sau planche lean (SARCO+ 3/5), bậc †; giữ toàn thân trên hai tay thẳng, không chạm chân.",
+    "steps": [
+      "Ngồi xổm, đặt tay xuống sàn cạnh hông, ngón tay xoay ra ngoài.",
+      "Đổ vai ra trước, đẩy bả vai ra trước và tròn lưng nhẹ.",
+      "Nhấc chân khỏi sàn, gối co sát ngực, hông ngang vai.",
+      "Giữ vài giây với tay thẳng rồi đặt chân xuống."
+    ],
+    "safety": [
+      "Cần giữ planche lean vững trước; có thể dùng tay cầm thấp để giảm áp lực cổ tay.",
+      "Không gập khuỷu để giữ, dễ quá tải gân nhị đầu."
+    ],
+    "fedbId": null,
+    "image": null,
+    "sources": [
+      "https://akuaku.org/Sarco+/progression-planche-progression.html",
+      "https://www.caliverse.app/exercises/planche-lean-538"
+    ]
+  },
+  {
+    "id": "wall-push-up-plus",
+    "nameVi": "Chống đẩy bả vai vào tường (wall push-up plus)",
+    "nameEn": "Wall Push-Up Plus",
+    "type": "calisthenics",
+    "equipment": [
+      "tường"
+    ],
+    "primary": [
+      "serratus-anterior"
+    ],
+    "secondary": [
+      "pectoralis-minor",
+      "pectoralis-major",
+      "deltoid"
+    ],
+    "difficulty": 1,
+    "order": 1,
+    "difficultyBasis": "Mức 1 – Nhập môn: suy theo tiêu chí (T = 1), bản dễ nhất của push-up plus; đứng chống tường, tay thẳng, chỉ đưa bả vai ra trước.",
+    "steps": [
+      "Đứng đối diện tường, chống hai tay lên tường ngang vai, tay thẳng.",
+      "Giữ người thẳng từ gót tới đỉnh đầu.",
+      "Không gập khuỷu, để bả vai trượt lại gần cột sống khiến ngực nhích về phía tường.",
+      "Đẩy tường bằng bả vai để lưng trên rộng ra, ngực lùi xa tường."
+    ],
+    "safety": [
+      "Khuỷu luôn thẳng.",
+      "Không nhún vai lên tai khi đẩy."
+    ],
+    "fedbId": null,
+    "image": null,
+    "sources": [
+      "https://us.physitrack.com/home-exercise-video/scapula-push-up---wall-push-up-plus",
+      "https://www.ovid.com/journals/ajsm/pdf/00000475-200403000-00029~relative-balance-of-serratus-anterior-and-upper-trapezius"
+    ]
+  },
+  {
+    "id": "wall-slide",
+    "nameVi": "Trượt tay lên tường (wall slide)",
+    "nameEn": "Wall Slide",
+    "type": "calisthenics",
+    "equipment": [
+      "tường"
+    ],
+    "primary": [
+      "serratus-anterior"
+    ],
+    "secondary": [
+      "trapezius",
+      "deltoid"
+    ],
+    "difficulty": 1,
+    "order": 2,
+    "difficultyBasis": "Mức 1 – Nhập môn: suy theo tiêu chí (T = 1); đứng tựa tường, chỉ nâng tay, tải là trọng lượng cánh tay.",
+    "steps": [
+      "Đứng đối diện tường, đặt cạnh ngoài hai cẳng tay lên tường, khuỷu gập khoảng 90° ngang vai.",
+      "Hơi ấn cẳng tay vào tường và đẩy nhẹ bả vai ra trước.",
+      "Trượt cẳng tay lên cao theo hình chữ V, để bả vai xoay lên tự nhiên.",
+      "Trượt về vị trí đầu có kiểm soát."
+    ],
+    "safety": [
+      "Không nhún vai hay ưỡn thắt lưng khi tay lên cao.",
+      "Dừng ở tầm không đau."
+    ],
+    "fedbId": null,
+    "image": null,
+    "sources": [
+      "https://profiles.wustl.edu/en/publications/a-comparison-of-serratus-anterior-muscle-activation-during-a-wall/"
+    ]
+  },
+  {
+    "id": "push-up-plus",
+    "nameVi": "Chống đẩy kèm đẩy bả vai (push-up plus)",
+    "nameEn": "Push-Up Plus",
+    "type": "calisthenics",
+    "equipment": [
+      "không cần dụng cụ"
+    ],
+    "primary": [
+      "serratus-anterior",
+      "subscapularis"
+    ],
+    "secondary": [
+      "pectoralis-major",
+      "pectoralis-minor",
+      "deltoid",
+      "triceps-brachii"
+    ],
+    "difficulty": 2,
+    "order": 3,
+    "difficultyBasis": "Mức 2 – Cơ bản: cùng bậc chống đẩy trong chuỗi Đẩy của r/bodyweightfitness RR, thêm pha đẩy bả vai ra trước ở đỉnh.",
+    "steps": [
+      "Vào tư thế chống đẩy chuẩn, tay rộng bằng vai, thân thẳng.",
+      "Hạ người xuống tới mức không đau rồi đẩy lên tới khi khuỷu gần thẳng.",
+      "Ở trên cùng, đẩy sàn thêm để hai bả vai tách xa nhau, lưng trên hơi tròn.",
+      "Thả bả vai về vị trí trung tính rồi làm lần tiếp theo."
+    ],
+    "safety": [
+      "Không để lưng dưới võng hay gù lưng quá mức ở pha đẩy bả vai.",
+      "Làm bản kê tay cao nếu chưa giữ được thân thẳng."
+    ],
+    "fedbId": null,
+    "image": null,
+    "sources": [
+      "https://us.humankinetics.com/blogs/excerpt/push-up-with-plus-exercise",
+      "https://www.ovid.com/journals/ajsm/pdf/00000475-200403000-00029~relative-balance-of-serratus-anterior-and-upper-trapezius",
+      "https://utsouthwestern.elsevierpure.com/en/publications/subscapularis-muscle-activity-during-selected-rehabilitation-exer"
+    ]
+  },
+  {
+    "id": "prone-y-raise",
+    "nameVi": "Nâng tay chữ Y nằm sấp",
+    "nameEn": "Prone Y Raise",
+    "type": "calisthenics",
+    "equipment": [
+      "không cần dụng cụ"
+    ],
+    "primary": [
+      "trapezius",
+      "supraspinatus"
+    ],
+    "secondary": [
+      "deltoid",
+      "infraspinatus",
+      "serratus-anterior"
+    ],
+    "difficulty": 1,
+    "order": 1,
+    "difficultyBasis": "Mức 1 – Nhập môn: suy theo tiêu chí (T = 1); nằm sấp, chỉ nâng trọng lượng cánh tay, không cần nền tảng.",
+    "steps": [
+      "Nằm sấp trên sàn hoặc giường, trán kê khăn, hai tay duỗi lên trên đầu thành chữ Y, ngón cái hướng lên.",
+      "Thu cằm nhẹ, kéo bả vai xuống và ra sau.",
+      "Nâng hai tay lên khỏi sàn vài phân, dẫn bằng ngón cái.",
+      "Giữ 2 giây rồi hạ chậm."
+    ],
+    "safety": [
+      "Không nhún vai và không ngửa cổ.",
+      "Làm từng tay hoặc giảm biên độ nếu đau vai."
+    ],
+    "fedbId": null,
+    "image": null,
+    "sources": [
+      "https://theprehabguys.com/vimeo-video/prone-ys-unsupported/",
+      "https://northcheshireandmersey.nhs.uk/media/cq5b2ddw/neck-strengthening-exercises-patient-advice-sheet.pdf",
+      "https://oliverfinlay.com/assets/pdf/escamilla%20%26%20andrews%20(2009)%20shoulder%20muscle%20activity%20%26%20function%20in%20common%20shoulder%20rehabilitation%20exercises%20(abstract).pdf"
+    ]
+  },
+  {
+    "id": "prone-t-raise",
+    "nameVi": "Nâng tay chữ T nằm sấp",
+    "nameEn": "Prone T Raise",
+    "type": "calisthenics",
+    "equipment": [
+      "không cần dụng cụ"
+    ],
+    "primary": [
+      "rhomboid-major",
+      "trapezius",
+      "deltoid"
+    ],
+    "secondary": [
+      "infraspinatus",
+      "teres-minor",
+      "supraspinatus"
+    ],
+    "difficulty": 1,
+    "order": 1,
+    "difficultyBasis": "Mức 1 – Nhập môn: suy theo tiêu chí (T = 1); nằm sấp, dạng ngang tay không tạ.",
+    "steps": [
+      "Nằm sấp, hai tay dang ngang thành chữ T, ngón cái hướng lên trần.",
+      "Khởi động bằng cách khép bả vai về cột sống.",
+      "Nâng hai tay lên cao nhất có thể, tay thẳng.",
+      "Giữ vài giây rồi hạ chậm."
+    ],
+    "safety": [
+      "Không ưỡn thắt lưng để nâng cao hơn.",
+      "Bản dễ: tập từng tay hoặc nằm trên mép giường cho tay đi biên độ ngắn."
+    ],
+    "fedbId": null,
+    "image": null,
+    "sources": [
+      "https://theprehabguys.com/vimeo-video/prone-ts/",
+      "https://northcheshireandmersey.nhs.uk/media/cq5b2ddw/neck-strengthening-exercises-patient-advice-sheet.pdf",
+      "https://oliverfinlay.com/assets/pdf/escamilla%20%26%20andrews%20(2009)%20shoulder%20muscle%20activity%20%26%20function%20in%20common%20shoulder%20rehabilitation%20exercises%20(abstract).pdf"
+    ]
+  },
+  {
+    "id": "prone-w-raise",
+    "nameVi": "Nâng tay chữ W nằm sấp",
+    "nameEn": "Prone W Raise",
+    "type": "calisthenics",
+    "equipment": [
+      "không cần dụng cụ"
+    ],
+    "primary": [
+      "infraspinatus",
+      "teres-minor"
+    ],
+    "secondary": [
+      "trapezius",
+      "rhomboid-major",
+      "deltoid"
+    ],
+    "difficulty": 1,
+    "order": 1,
+    "difficultyBasis": "Mức 1 – Nhập môn: suy theo tiêu chí (T = 1); nằm sấp, khép bả vai và xoay ngoài cánh tay không tạ.",
+    "steps": [
+      "Nằm sấp, khuỷu gập khoảng 90°, cánh tay sát thân tạo hình chữ W.",
+      "Khép bả vai lại và kéo xuống.",
+      "Xoay cẳng tay và nâng khuỷu, mu bàn tay lên khỏi sàn, ngón cái hướng lên.",
+      "Giữ 2 giây rồi hạ chậm."
+    ],
+    "safety": [
+      "Không nhún vai, không ngửa cổ.",
+      "Giữ cằm thu, mắt nhìn xuống sàn."
+    ],
+    "fedbId": null,
+    "image": null,
+    "sources": [
+      "https://northcheshireandmersey.nhs.uk/media/cq5b2ddw/neck-strengthening-exercises-patient-advice-sheet.pdf",
+      "https://oliverfinlay.com/assets/pdf/escamilla%20%26%20andrews%20(2009)%20shoulder%20muscle%20activity%20%26%20function%20in%20common%20shoulder%20rehabilitation%20exercises%20(abstract).pdf"
+    ]
+  },
+  {
+    "id": "wall-angel",
+    "nameVi": "Thiên thần áp tường (wall angel)",
+    "nameEn": "Wall Angel",
+    "type": "calisthenics",
+    "equipment": [
+      "tường"
+    ],
+    "primary": [
+      "trapezius"
+    ],
+    "secondary": [
+      "rhomboid-major",
+      "deltoid",
+      "infraspinatus",
+      "serratus-anterior"
+    ],
+    "difficulty": 1,
+    "order": 2,
+    "difficultyBasis": "Mức 1 – Nhập môn: suy theo tiêu chí (T = 1); đứng tựa tường, trượt tay không tạ.",
+    "steps": [
+      "Đứng lưng, đầu và hông tựa tường, chân cách tường vài phân; ép nhẹ thắt lưng về phía tường.",
+      "Đưa tay lên tư thế cột gôn: mu tay, cổ tay và khuỷu chạm tường, khuỷu gập 90°.",
+      "Trượt tay lên trên đầu mà vẫn giữ tiếp xúc với tường.",
+      "Trượt xuống tới khi khuỷu về gần sườn, khép bả vai lại."
+    ],
+    "safety": [
+      "Thu ngắn biên độ nếu tay rời khỏi tường hoặc thắt lưng ưỡn.",
+      "Chậm khoảng 3 giây lên, 3 giây xuống."
+    ],
+    "fedbId": null,
+    "image": null,
+    "sources": [
+      "https://julielohre.com/wall-angels/"
+    ]
+  },
+  {
+    "id": "side-lying-external-rotation",
+    "nameVi": "Xoay ngoài vai nằm nghiêng (không tạ)",
+    "nameEn": "Side-Lying External Rotation",
+    "type": "calisthenics",
+    "equipment": [
+      "không cần dụng cụ"
+    ],
+    "primary": [
+      "infraspinatus",
+      "teres-minor"
+    ],
+    "secondary": [
+      "deltoid"
+    ],
+    "difficulty": 1,
+    "order": 1,
+    "difficultyBasis": "Mức 1 – Nhập môn: suy theo tiêu chí (T = 0); nằm nghiêng, một khớp, tải chỉ là cẳng tay.",
+    "steps": [
+      "Nằm nghiêng, khuỷu tay trên gập 90°, cánh tay áp sát sườn (có thể kẹp khăn cuộn).",
+      "Kéo bả vai ra sau và xuống.",
+      "Xoay cẳng tay lên trần, khuỷu giữ yên và vẫn gập 90°.",
+      "Hạ chậm về vị trí đầu."
+    ],
+    "safety": [
+      "Khuỷu không rời khỏi sườn; bả vai giữ yên.",
+      "Không vung tay; hạ chậm hơn lúc nâng."
+    ],
+    "fedbId": null,
+    "image": null,
+    "sources": [
+      "https://physiorehab-com.treepl.co/rehab-exercise-library/s1-external-rotation-sidelying",
+      "https://ijspt.scholasticahq.com/article/74969",
+      "https://oliverfinlay.com/assets/pdf/escamilla%20%26%20andrews%20(2009)%20shoulder%20muscle%20activity%20%26%20function%20in%20common%20shoulder%20rehabilitation%20exercises%20(abstract).pdf"
+    ]
+  },
+  {
+    "id": "isometric-shoulder-external-rotation",
+    "nameVi": "Gồng tĩnh xoay ngoài vai vào tường",
+    "nameEn": "Isometric Shoulder External Rotation",
+    "type": "calisthenics",
+    "equipment": [
+      "tường"
+    ],
+    "primary": [
+      "infraspinatus",
+      "teres-minor"
+    ],
+    "secondary": [
+      "deltoid"
+    ],
+    "difficulty": 1,
+    "order": 0,
+    "difficultyBasis": "Mức 1 – Nhập môn: suy theo tiêu chí (T = 0); gồng tĩnh, lực tự điều chỉnh, không di chuyển khớp.",
+    "steps": [
+      "Đứng cạnh tường hoặc khung cửa, khuỷu gập 90° và áp sát thân.",
+      "Đặt mu cổ tay lên tường, cổ tay thẳng.",
+      "Đẩy mu tay ra ngoài vào tường như muốn xoay cẳng tay ra, khớp không di chuyển.",
+      "Giữ 5–10 giây, bắt đầu khoảng 20% lực rồi tăng dần."
+    ],
+    "safety": [
+      "Dùng lực vừa phải, không gây đau.",
+      "Giữ vai thả lỏng, không nhún."
+    ],
+    "fedbId": null,
+    "image": null,
+    "sources": [
+      "https://www.stoneclinic.com/node/395",
+      "https://leicspart.nhs.uk/wp-content/uploads/2022/07/475-Shoulder-exercises.pdf",
+      "https://oliverfinlay.com/assets/pdf/escamilla%20%26%20andrews%20(2009)%20shoulder%20muscle%20activity%20%26%20function%20in%20common%20shoulder%20rehabilitation%20exercises%20(abstract).pdf"
+    ]
+  },
+  {
+    "id": "isometric-shoulder-internal-rotation",
+    "nameVi": "Gồng tĩnh xoay trong vai vào khung cửa",
+    "nameEn": "Isometric Shoulder Internal Rotation",
+    "type": "calisthenics",
+    "equipment": [
+      "tường"
+    ],
+    "primary": [
+      "subscapularis"
+    ],
+    "secondary": [
+      "pectoralis-major",
+      "latissimus-dorsi",
+      "teres-major"
+    ],
+    "difficulty": 1,
+    "order": 0,
+    "difficultyBasis": "Mức 1 – Nhập môn: suy theo tiêu chí (T = 0); gồng tĩnh, lực tự điều chỉnh, không di chuyển khớp.",
+    "steps": [
+      "Đứng ở khung cửa, khuỷu gập 90° áp sát thân.",
+      "Đặt lòng bàn tay lên cạnh khung cửa phía trước bụng.",
+      "Ép lòng bàn tay vào trong như muốn kéo tay về phía bụng, khớp không di chuyển.",
+      "Giữ 5–10 giây, tăng dần lực từ nhẹ tới vừa."
+    ],
+    "safety": [
+      "Không gây đau; giảm lực nếu khó chịu.",
+      "Giữ cổ tay thẳng."
+    ],
+    "fedbId": null,
+    "image": null,
+    "sources": [
+      "https://www.stoneclinic.com/node/395",
+      "https://leicspart.nhs.uk/wp-content/uploads/2022/07/475-Shoulder-exercises.pdf",
+      "https://oliverfinlay.com/assets/pdf/escamilla%20%26%20andrews%20(2009)%20shoulder%20muscle%20activity%20%26%20function%20in%20common%20shoulder%20rehabilitation%20exercises%20(abstract).pdf"
+    ]
+  },
+  {
+    "id": "isometric-shoulder-abduction",
+    "nameVi": "Gồng tĩnh dạng vai vào tường",
+    "nameEn": "Isometric Shoulder Abduction",
+    "type": "calisthenics",
+    "equipment": [
+      "tường"
+    ],
+    "primary": [
+      "supraspinatus"
+    ],
+    "secondary": [
+      "deltoid"
+    ],
+    "difficulty": 1,
+    "order": 0,
+    "difficultyBasis": "Mức 1 – Nhập môn: suy theo tiêu chí (T = 0); gồng tĩnh, lực tự điều chỉnh, không di chuyển khớp.",
+    "steps": [
+      "Đứng nghiêng cạnh tường, cánh tay sát thân, khuỷu gập 90°.",
+      "Áp mặt ngoài khuỷu hoặc cẳng tay vào tường.",
+      "Đẩy cánh tay ra ngang vào tường, vai không nhún, khớp không di chuyển.",
+      "Giữ 5–10 giây, lặp 10 lần."
+    ],
+    "safety": [
+      "Bắt đầu với lực nhẹ, tăng dần mà không đau.",
+      "Không nghiêng thân để đẩy."
+    ],
+    "fedbId": null,
+    "image": null,
+    "sources": [
+      "https://www.stoneclinic.com/node/395",
+      "https://leicspart.nhs.uk/wp-content/uploads/2022/07/475-Shoulder-exercises.pdf",
+      "https://oliverfinlay.com/assets/pdf/escamilla%20%26%20andrews%20(2009)%20shoulder%20muscle%20activity%20%26%20function%20in%20common%20shoulder%20rehabilitation%20exercises%20(abstract).pdf"
+    ]
+  },
+  {
+    "id": "full-can-raise",
+    "nameVi": "Nâng tay full can (không tạ)",
+    "nameEn": "Full Can Raise",
+    "type": "calisthenics",
+    "equipment": [
+      "không cần dụng cụ"
+    ],
+    "primary": [
+      "supraspinatus"
+    ],
+    "secondary": [
+      "deltoid",
+      "infraspinatus",
+      "serratus-anterior"
+    ],
+    "difficulty": 1,
+    "order": 1,
+    "difficultyBasis": "Mức 1 – Nhập môn: suy theo tiêu chí (T = 1); đứng, nâng tay không tạ theo mặt phẳng xương bả vai.",
+    "steps": [
+      "Đứng thẳng, hai tay xuôi, ngón cái hướng ra trước (như cầm lon chưa đổ).",
+      "Đưa tay chếch ra trước khoảng 30° so với hướng ngang.",
+      "Nâng tay thẳng lên tới ngang vai, không nhún vai.",
+      "Hạ chậm về vị trí đầu."
+    ],
+    "safety": [
+      "Dừng ở ngang vai nếu cao hơn gây đau.",
+      "Không xoay ngón cái xuống (kiểu empty can) để tránh chèn ép vai."
+    ],
+    "fedbId": null,
+    "image": null,
+    "sources": [
+      "https://oliverfinlay.com/assets/pdf/escamilla%20%26%20andrews%20(2009)%20shoulder%20muscle%20activity%20%26%20function%20in%20common%20shoulder%20rehabilitation%20exercises%20(abstract).pdf"
+    ]
+  },
+  {
+    "id": "dead-hang",
+    "nameVi": "Treo xà (dead hang)",
+    "nameEn": "Dead Hang",
+    "type": "calisthenics",
+    "equipment": [
+      "xà đơn"
+    ],
+    "primary": [
+      "finger-flexors"
+    ],
+    "secondary": [
+      "flexor-carpi-radialis",
+      "latissimus-dorsi",
+      "brachioradialis"
+    ],
+    "difficulty": 1,
+    "order": 1,
+    "difficultyBasis": "Mức 1 – Nhập môn: suy theo tiêu chí (T = 2), cùng mức kéo xà bả vai; treo tĩnh hai tay, chân có thể chạm bục.",
+    "steps": [
+      "Nắm xà tay sấp rộng bằng vai, ngón cái vòng quanh xà.",
+      "Nhấc chân để treo hoàn toàn, tay thẳng.",
+      "Thử treo vai thả lỏng rồi vai chủ động kéo xuống để cảm nhận khác biệt.",
+      "Giữ theo thời gian, tăng dần mỗi buổi."
+    ],
+    "safety": [
+      "Xuống bằng chân, không buông tay khi đang treo cao.",
+      "Có bục dưới chân nếu chưa treo được lâu."
+    ],
+    "fedbId": null,
+    "image": null,
+    "sources": [
+      "https://www.strengthlog.com/bar-hang/",
+      "https://gmb.io/?p=102288"
+    ]
+  },
+  {
+    "id": "false-grip-hang",
+    "nameVi": "Treo vòng false grip",
+    "nameEn": "False Grip Hang",
+    "type": "calisthenics",
+    "equipment": [
+      "vòng treo"
+    ],
+    "primary": [
+      "flexor-carpi-radialis",
+      "finger-flexors"
+    ],
+    "secondary": [
+      "latissimus-dorsi",
+      "brachioradialis"
+    ],
+    "difficulty": 2,
+    "order": 2,
+    "difficultyBasis": "Mức 2 – Cơ bản: suy theo tiêu chí (T = 4), sau treo xà; cổ tay phải gập giữ vòng, chuẩn bị cho muscle-up.",
+    "steps": [
+      "Đặt vòng ngang đầu, vòng tay qua vòng để vòng nằm dưới cổ tay, khớp ngón hướng lên.",
+      "Gập cổ tay chặt, nhấc chân lên treo, tay thẳng rộng bằng vai.",
+      "Siết bụng và mông để không đung đưa, vai hơi hạ.",
+      "Giữ theo thời gian rồi co gối đặt chân xuống trước khi buông tay."
+    ],
+    "safety": [
+      "Giữ cổ tay ở trên vòng; cổ tay tụt xuống làm giảm tác dụng và dễ chấn thương.",
+      "Tập ngắn lúc đầu vì da và cổ tay cần thời gian thích nghi."
+    ],
+    "fedbId": null,
+    "image": null,
+    "sources": [
+      "https://www.caliverse.app/exercises/false-grip-hang-1091",
+      "https://www.artofmanliness.com/health-fitness/fitness/gymnastic-rings-101-how-to-grip-the-rings/"
+    ]
+  },
+  {
+    "id": "false-grip-ring-row",
+    "nameVi": "Row trên vòng với false grip",
+    "nameEn": "False Grip Ring Row",
+    "type": "calisthenics",
+    "equipment": [
+      "vòng treo"
+    ],
+    "primary": [
+      "flexor-carpi-radialis",
+      "finger-flexors"
+    ],
+    "secondary": [
+      "latissimus-dorsi",
+      "trapezius",
+      "rhomboid-major",
+      "biceps-brachii"
+    ],
+    "difficulty": 3,
+    "order": 3,
+    "difficultyBasis": "Mức 3 – Trung cấp: suy theo tiêu chí (T = 5), sau treo false grip; giữ cổ tay gập trong khi kéo một phần trọng lượng.",
+    "steps": [
+      "Nắm vòng bằng false grip, ngả người ra sau tới khi tay thẳng.",
+      "Giữ người thẳng, kéo vòng về phía ngực mà cổ tay vẫn gập.",
+      "Hạ chậm về tay thẳng.",
+      "Chỉnh lại tay nắm sau mỗi lần nếu bị trượt; lùi chân để dễ hơn."
+    ],
+    "safety": [
+      "Tăng cường độ từ từ vì bài gây áp lực lớn lên cổ tay và da.",
+      "Dùng phấn hoặc băng bám nếu tay trơn."
+    ],
+    "fedbId": null,
+    "image": null,
+    "sources": [
+      "https://preview.dieringe.com/exercises/false-grip-row",
+      "https://www.artofmanliness.com/health-fitness/fitness/gymnastic-rings-101-how-to-grip-the-rings/"
+    ]
+  },
+  {
+    "id": "one-arm-dead-hang",
+    "nameVi": "Treo xà một tay",
+    "nameEn": "One-Arm Dead Hang",
+    "type": "calisthenics",
+    "equipment": [
+      "xà đơn"
+    ],
+    "primary": [
+      "finger-flexors"
+    ],
+    "secondary": [
+      "flexor-carpi-radialis",
+      "latissimus-dorsi",
+      "teres-major"
+    ],
+    "difficulty": 4,
+    "order": 4,
+    "difficultyBasis": "Mức 4 – Nâng cao: suy theo tiêu chí (T = 8), khó hơn treo hai tay; 100% trọng lượng trên một tay, vai phải chủ động.",
+    "steps": [
+      "Treo xà hai tay, rồi chuyển dần trọng lượng sang một tay.",
+      "Buông tay kia, siết vai bên treo (kéo vai xuống nhẹ).",
+      "Giữ vài giây, thân hạn chế xoay.",
+      "Nắm lại bằng hai tay trước khi xuống."
+    ],
+    "safety": [
+      "Bắt đầu bằng những lần treo rất ngắn, vai chủ động.",
+      "Chỉ thả lỏng vai khi đã đủ khỏe."
+    ],
+    "fedbId": null,
+    "image": null,
+    "sources": [
+      "https://www.strengthlog.com/one-handed-bar-hang/"
+    ]
+  },
+  {
+    "id": "kneeling-palm-pulse",
+    "nameVi": "Nhấc lòng bàn tay khi quỳ (palm pulses)",
+    "nameEn": "Kneeling Palm Pulse",
+    "type": "calisthenics",
+    "equipment": [
+      "không cần dụng cụ"
+    ],
+    "primary": [
+      "finger-flexors",
+      "flexor-carpi-radialis"
+    ],
+    "secondary": [],
+    "difficulty": 1,
+    "order": 1,
+    "difficultyBasis": "Mức 1 – Nhập môn: bậc 1 chuỗi palm pulses (quỳ → plank); tư thế quỳ bốn điểm nên tải nhỏ.",
+    "steps": [
+      "Quỳ bốn điểm, hai bàn tay úp sàn dưới vai, ngón xòe.",
+      "Giữ các ngón ép xuống sàn, nhấc gót bàn tay lên để trọng lượng dồn lên ngón.",
+      "Hạ gót bàn tay xuống chậm.",
+      "Lặp 5–20 lần, dịch người ra trước để tăng tải."
+    ],
+    "safety": [
+      "Dừng nếu đau nhói cổ tay hoặc khớp ngón.",
+      "Khởi động bằng xoay cổ tay trước."
+    ],
+    "fedbId": null,
+    "image": null,
+    "sources": [
+      "https://antranik.org/avoid-wrist-pain/",
+      "https://gmb.io/?p=102288"
+    ]
+  },
+  {
+    "id": "plank-palm-pulse",
+    "nameVi": "Nhấc lòng bàn tay ở tư thế plank",
+    "nameEn": "Plank Palm Pulse",
+    "type": "calisthenics",
+    "equipment": [
+      "không cần dụng cụ"
+    ],
+    "primary": [
+      "finger-flexors",
+      "flexor-carpi-radialis"
+    ],
+    "secondary": [
+      "rectus-abdominis"
+    ],
+    "difficulty": 2,
+    "order": 2,
+    "difficultyBasis": "Mức 2 – Cơ bản: bậc 2 chuỗi palm pulses (quỳ → plank); plank tay thẳng nên ngón và cổ tay gánh nhiều tải hơn.",
+    "steps": [
+      "Vào tư thế chống đẩy tay thẳng, bàn tay úp dưới vai.",
+      "Ép ngón xuống sàn, nhấc gót bàn tay để đẩy người lên trên các ngón.",
+      "Hạ gót bàn tay chậm; có thể chỉ làm pha hạ chậm lúc đầu.",
+      "Giữ thân thẳng suốt hiệp."
+    ],
+    "safety": [
+      "Chỉ chuyển sang bản này khi bản quỳ đã nhẹ nhàng.",
+      "Không để hông võng."
+    ],
+    "fedbId": null,
+    "image": null,
+    "sources": [
+      "https://antranik.org/avoid-wrist-pain/",
+      "https://gmb.io/?p=102288"
+    ]
+  },
+  {
+    "id": "fingertip-push-up",
+    "nameVi": "Chống đẩy trên đầu ngón tay",
+    "nameEn": "Fingertip Push-Up",
+    "type": "calisthenics",
+    "equipment": [
+      "không cần dụng cụ"
+    ],
+    "primary": [
+      "finger-flexors"
+    ],
+    "secondary": [
+      "pectoralis-major",
+      "triceps-brachii",
+      "deltoid",
+      "flexor-carpi-radialis"
+    ],
+    "difficulty": 4,
+    "order": 3,
+    "difficultyBasis": "Mức 4 – Nâng cao: suy theo tiêu chí (T = 8), khó hơn chống đẩy và plank palm pulse; toàn bộ tải đẩy dồn lên các ngón cứng.",
+    "steps": [
+      "Vào tư thế chống đẩy, chống trên đầu năm ngón xòe, ngón giữ cứng hơi cong.",
+      "Siết bụng, thân thẳng.",
+      "Hạ ngực xuống có kiểm soát, ngón không sụp.",
+      "Đẩy lên; khó quá thì làm trên gối trước."
+    ],
+    "safety": [
+      "Cần thành thạo chống đẩy thường; tiến chậm, không tập tới kiệt.",
+      "Dừng ngay nếu đau khớp ngón."
+    ],
+    "fedbId": null,
+    "image": null,
+    "sources": [
+      "https://breakingmuscle.com/the-fingertip-push-up-training-plan/"
+    ]
+  },
+  {
+    "id": "isometric-wrist-extension",
+    "nameVi": "Gồng tĩnh duỗi cổ tay có tay cản",
+    "nameEn": "Isometric Wrist Extension",
+    "type": "calisthenics",
+    "equipment": [
+      "không cần dụng cụ"
+    ],
+    "primary": [
+      "extensor-carpi-radialis-longus",
+      "extensor-carpi-radialis-brevis",
+      "extensor-carpi-ulnaris"
+    ],
+    "secondary": [
+      "extensor-digitorum"
+    ],
+    "difficulty": 1,
+    "order": 0,
+    "difficultyBasis": "Mức 1 – Nhập môn: suy theo tiêu chí (T = 0); gồng tĩnh, tay kia tạo lực cản tùy chỉnh.",
+    "steps": [
+      "Ngồi, đặt cẳng tay lên bàn hoặc đùi, lòng bàn tay úp, cổ tay hơi duỗi.",
+      "Đặt bàn tay kia lên mu bàn tay đang tập.",
+      "Ấn tay trên xuống trong khi tay dưới giữ yên, cổ tay không di chuyển.",
+      "Giữ một lúc với lực vừa phải, nghỉ rồi lặp lại; tăng dần thời gian giữ qua các buổi."
+    ],
+    "safety": [
+      "Dùng lực vừa phải, đau không tăng sau khi tập.",
+      "Khuỷu giữ gập, cẳng tay được đỡ."
+    ],
+    "fedbId": null,
+    "image": null,
+    "sources": [
+      "https://www.racgp.org.au/FSDEDEV/media/documents/Clinical%20Resources/HANDI/Physiotherapy-lateral-epicondylitis.pdf"
+    ]
+  },
+  {
+    "id": "kneeling-back-of-hand-wrist-push-up",
+    "nameVi": "Chống đẩy mu bàn tay khi quỳ",
+    "nameEn": "Kneeling Back-of-Hand Wrist Push-Up",
+    "type": "calisthenics",
+    "equipment": [
+      "không cần dụng cụ"
+    ],
+    "primary": [
+      "extensor-carpi-radialis-longus",
+      "extensor-carpi-radialis-brevis",
+      "extensor-carpi-ulnaris"
+    ],
+    "secondary": [
+      "extensor-digitorum"
+    ],
+    "difficulty": 1,
+    "order": 1,
+    "difficultyBasis": "Mức 1 – Nhập môn: bậc 1 chuỗi chống đẩy mu bàn tay (quỳ → tường → plank); quỳ bốn điểm, tải nhỏ.",
+    "steps": [
+      "Quỳ bốn điểm, úp mu bàn tay xuống sàn, ngón hướng về phía gối.",
+      "Để trọng lượng dồn nhẹ lên mu bàn tay, cổ tay gập.",
+      "Duỗi cổ tay để nâng cẳng tay lên, rồi hạ chậm.",
+      "Lặp 5–10 lần, dịch người ra sau để dễ hơn."
+    ],
+    "safety": [
+      "Tải nhẹ lúc đầu, cổ tay cần thời gian thích nghi.",
+      "Dừng nếu đau nhói mu cổ tay."
+    ],
+    "fedbId": null,
+    "image": null,
+    "sources": [
+      "https://antranik.org/avoid-wrist-pain/",
+      "https://gmb.io/?p=102288"
+    ]
+  },
+  {
+    "id": "wall-back-of-hand-wrist-push-up",
+    "nameVi": "Chống đẩy mu bàn tay vào tường",
+    "nameEn": "Wall Back-of-Hand Wrist Push-Up",
+    "type": "calisthenics",
+    "equipment": [
+      "tường"
+    ],
+    "primary": [
+      "extensor-carpi-radialis-longus",
+      "extensor-carpi-radialis-brevis",
+      "extensor-carpi-ulnaris"
+    ],
+    "secondary": [
+      "extensor-digitorum"
+    ],
+    "difficulty": 2,
+    "order": 2,
+    "difficultyBasis": "Mức 2 – Cơ bản: bậc 2 chuỗi chống đẩy mu bàn tay (quỳ → tường → plank); tay càng thấp trên tường càng nặng.",
+    "steps": [
+      "Đứng đối diện tường, áp mu bàn tay lên tường, ngón hướng xuống.",
+      "Ngả người vào tường để trọng lượng dồn lên mu bàn tay.",
+      "Duỗi cổ tay đẩy người ra khỏi tường, rồi hạ chậm.",
+      "Dời tay xuống thấp dần trên tường để tăng tải."
+    ],
+    "safety": [
+      "Giữ khuỷu gần thẳng, không đẩy bằng vai.",
+      "Tăng độ khó từng chút một."
+    ],
+    "fedbId": null,
+    "image": null,
+    "sources": [
+      "https://antranik.org/avoid-wrist-pain/"
+    ]
+  },
+  {
+    "id": "plank-back-of-hand-wrist-push-up",
+    "nameVi": "Chống đẩy mu bàn tay ở tư thế plank",
+    "nameEn": "Plank Back-of-Hand Wrist Push-Up",
+    "type": "calisthenics",
+    "equipment": [
+      "không cần dụng cụ"
+    ],
+    "primary": [
+      "extensor-carpi-radialis-longus",
+      "extensor-carpi-radialis-brevis",
+      "extensor-carpi-ulnaris"
+    ],
+    "secondary": [
+      "extensor-digitorum",
+      "rectus-abdominis"
+    ],
+    "difficulty": 3,
+    "order": 3,
+    "difficultyBasis": "Mức 3 – Trung cấp: bậc 3 chuỗi chống đẩy mu bàn tay (quỳ → tường → plank); khoảng 70% trọng lượng dồn lên mu tay.",
+    "steps": [
+      "Vào plank tay thẳng, úp mu bàn tay xuống sàn, ngón hướng về phía chân.",
+      "Siết bụng, thân thẳng.",
+      "Duỗi cổ tay để nâng cẳng tay, đẩy người lên nhẹ, rồi hạ chậm.",
+      "Làm ít lần, ưu tiên kiểm soát."
+    ],
+    "safety": [
+      "Chỉ tập khi bản tường đã dễ.",
+      "Đặt thảm mềm dưới tay, dừng nếu đau mu cổ tay."
+    ],
+    "fedbId": null,
+    "image": null,
+    "sources": [
+      "https://antranik.org/avoid-wrist-pain/"
+    ]
+  },
+  {
+    "id": "isometric-neck-flexion",
+    "nameVi": "Gồng tĩnh gập cổ có tay cản",
+    "nameEn": "Isometric Neck Flexion",
+    "type": "calisthenics",
+    "equipment": [
+      "không cần dụng cụ"
+    ],
+    "primary": [
+      "sternocleidomastoid"
+    ],
+    "secondary": [],
+    "difficulty": 1,
+    "order": 0,
+    "difficultyBasis": "Mức 1 – Nhập môn: suy theo tiêu chí (T = 1); gồng tĩnh, ngồi, tay tự điều chỉnh lực cản.",
+    "steps": [
+      "Ngồi thẳng, đầu ở tư thế trung tính.",
+      "Đặt lòng bàn tay lên trán.",
+      "Đẩy đầu về trước vào tay trong khi tay giữ yên, cổ không di chuyển.",
+      "Giữ 10 giây, thả lỏng, lặp 3 lần."
+    ],
+    "safety": [
+      "Tăng lực từ từ, không gây đau.",
+      "Thở đều, không nín thở."
+    ],
+    "fedbId": "Isometric_Neck_Exercise_-_Front_And_Back",
+    "image": null,
+    "sources": [
+      "https://northcheshireandmersey.nhs.uk/media/cq5b2ddw/neck-strengthening-exercises-patient-advice-sheet.pdf"
+    ]
+  },
+  {
+    "id": "isometric-neck-lateral-flexion",
+    "nameVi": "Gồng tĩnh nghiêng cổ có tay cản",
+    "nameEn": "Isometric Neck Lateral Flexion",
+    "type": "calisthenics",
+    "equipment": [
+      "không cần dụng cụ"
+    ],
+    "primary": [
+      "sternocleidomastoid",
+      "levator-scapulae"
+    ],
+    "secondary": [
+      "trapezius"
+    ],
+    "difficulty": 1,
+    "order": 0,
+    "difficultyBasis": "Mức 1 – Nhập môn: suy theo tiêu chí (T = 1); gồng tĩnh, ngồi, tay tự điều chỉnh lực cản.",
+    "steps": [
+      "Ngồi thẳng, đầu trung tính.",
+      "Đặt lòng bàn tay lên thái dương một bên.",
+      "Đẩy đầu nghiêng sang bên đó vào tay, tay giữ yên, cổ không di chuyển.",
+      "Giữ 10 giây, đổi bên, mỗi bên 3 lần."
+    ],
+    "safety": [
+      "Không xoay hay cúi đầu khi đẩy.",
+      "Dừng nếu đau lan xuống tay."
+    ],
+    "fedbId": "Isometric_Neck_Exercise_-_Sides",
+    "image": null,
+    "sources": [
+      "https://northcheshireandmersey.nhs.uk/media/cq5b2ddw/neck-strengthening-exercises-patient-advice-sheet.pdf",
+      "https://www.kenhub.com/en/library/anatomy/levator-scapulae-muscle"
+    ]
+  },
+  {
+    "id": "lying-neck-curl",
+    "nameVi": "Gập cổ khi nằm ngửa",
+    "nameEn": "Lying Neck Curl",
+    "type": "calisthenics",
+    "equipment": [
+      "ghế/bục"
+    ],
+    "primary": [
+      "sternocleidomastoid"
+    ],
+    "secondary": [],
+    "difficulty": 2,
+    "order": 1,
+    "difficultyBasis": "Mức 2 – Cơ bản: suy theo tiêu chí (T = 3), sau gồng tĩnh; cổ di chuyển hết tầm chống lại trọng lượng đầu.",
+    "steps": [
+      "Nằm ngửa trên ghế, đầu thò khỏi mép ghế.",
+      "Thu cằm nhẹ và giữ suốt hiệp.",
+      "Gập cổ đưa cằm về phía ngực, vai không rời ghế.",
+      "Dừng một nhịp rồi hạ đầu chậm về vị trí đầu."
+    ],
+    "safety": [
+      "Hạ đầu có kiểm soát, không để rơi.",
+      "Không nhấc vai để bù."
+    ],
+    "fedbId": null,
+    "image": null,
+    "sources": [
+      "https://www.strengthlog.com/lying-neck-curl/"
+    ]
+  },
+  {
+    "id": "lying-neck-extension",
+    "nameVi": "Duỗi cổ khi nằm sấp",
+    "nameEn": "Lying Neck Extension",
+    "type": "calisthenics",
+    "equipment": [
+      "ghế/bục"
+    ],
+    "primary": [
+      "levator-scapulae"
+    ],
+    "secondary": [
+      "trapezius"
+    ],
+    "difficulty": 2,
+    "order": 1,
+    "difficultyBasis": "Mức 2 – Cơ bản: suy theo tiêu chí (T = 3), sau gồng tĩnh; cổ duỗi hết tầm chống lại trọng lượng đầu.",
+    "steps": [
+      "Nằm sấp trên ghế, đầu thò khỏi mép, chân đặt sàn cho vững.",
+      "Thu cằm nhẹ, cổ ở tư thế trung tính.",
+      "Nâng đầu lên bằng cách duỗi cổ, gáy hướng lên trần.",
+      "Dừng một nhịp rồi hạ chậm."
+    ],
+    "safety": [
+      "Không ngửa cổ quá mức ở điểm cao.",
+      "Hạ có kiểm soát."
+    ],
+    "fedbId": null,
+    "image": null,
+    "sources": [
+      "https://www.strengthlog.com/lying-neck-extension/",
+      "https://www.kenhub.com/en/library/anatomy/levator-scapulae-muscle"
+    ]
+  },
+  {
+    "id": "side-lying-neck-lateral-raise",
+    "nameVi": "Nghiêng đầu khi nằm nghiêng",
+    "nameEn": "Side-Lying Neck Lateral Raise",
+    "type": "calisthenics",
+    "equipment": [
+      "ghế/bục"
+    ],
+    "primary": [
+      "sternocleidomastoid",
+      "levator-scapulae"
+    ],
+    "secondary": [
+      "trapezius"
+    ],
+    "difficulty": 2,
+    "order": 1,
+    "difficultyBasis": "Mức 2 – Cơ bản: suy theo tiêu chí (T = 3), sau gồng tĩnh nghiêng cổ; nghiêng cổ hết tầm chống lại trọng lượng đầu.",
+    "steps": [
+      "Nằm nghiêng trên ghế, vai ở mép ghế để đầu di chuyển tự do.",
+      "Mắt nhìn thẳng, không xoay đầu.",
+      "Hạ đầu xuống chậm tới khi thấy căng nhẹ, rồi nâng tai về phía vai trên.",
+      "Đổi bên sau mỗi hiệp."
+    ],
+    "safety": [
+      "Chỉ nghiêng trong một mặt phẳng; không kết hợp cúi, ngửa hay xoay.",
+      "Di chuyển chậm, không giật."
+    ],
+    "fedbId": null,
+    "image": null,
+    "sources": [
+      "https://doctoryessis.com/2013/01/01/lateral-head-raises/",
+      "https://www.kenhub.com/en/library/anatomy/levator-scapulae-muscle"
+    ]
+  },
+  {
+    "id": "prone-neck-bridge",
+    "nameVi": "Cầu cổ úp trán trên ghế",
+    "nameEn": "Prone Neck Bridge",
+    "type": "calisthenics",
+    "equipment": [
+      "ghế/bục"
+    ],
+    "primary": [
+      "sternocleidomastoid"
+    ],
+    "secondary": [
+      "trapezius"
+    ],
+    "difficulty": 3,
+    "order": 2,
+    "difficultyBasis": "Mức 3 – Trung cấp: suy theo tiêu chí (T = 6), sau gập cổ nằm ngửa; một phần trọng lượng thân dồn lên cổ, sai dễ chấn thương.",
+    "steps": [
+      "Quỳ trước ghế có đệm, tì trán lên đệm.",
+      "Lưng thẳng, tay đặt lên đùi hoặc ghế để giữ thăng bằng.",
+      "Ép nhẹ trán vào đệm.",
+      "Gập và duỗi cổ những biên độ nhỏ, có kiểm soát."
+    ],
+    "safety": [
+      "Biên độ nhỏ, không lăn đầu.",
+      "Dùng tay đỡ bớt tải lúc mới tập; ngừng nếu tê hay đau lan."
+    ],
+    "fedbId": null,
+    "image": null,
+    "sources": [
+      "https://www.strengthlog.com/prone-neck-bridge/"
+    ]
+  },
+  {
+    "id": "supine-neck-bridge",
+    "nameVi": "Cầu cổ ngửa trên ghế",
+    "nameEn": "Supine Neck Bridge",
+    "type": "calisthenics",
+    "equipment": [
+      "ghế/bục"
+    ],
+    "primary": [
+      "levator-scapulae"
+    ],
+    "secondary": [
+      "trapezius"
+    ],
+    "difficulty": 3,
+    "order": 2,
+    "difficultyBasis": "Mức 3 – Trung cấp: suy theo tiêu chí (T = 6), sau duỗi cổ nằm sấp; tì gáy đỡ một phần thân, sai dễ chấn thương.",
+    "steps": [
+      "Nằm ngửa sao cho chỉ phần sau đầu tì lên ghế, hai bàn chân đặt sàn, gối gập.",
+      "Siết mông giữ thân thẳng.",
+      "Ép nhẹ phần sau đầu vào ghế.",
+      "Gật đầu những biên độ nhỏ, có kiểm soát."
+    ],
+    "safety": [
+      "Bản trên ghế dễ và an toàn hơn bản trên sàn; không làm bản sàn khi chưa quen.",
+      "Ngừng nếu chóng mặt, tê hoặc đau lan."
+    ],
+    "fedbId": null,
+    "image": null,
+    "sources": [
+      "https://www.strengthlog.com/supine-neck-bridge/",
+      "https://www.kenhub.com/en/library/anatomy/levator-scapulae-muscle"
+    ]
+  }
+]

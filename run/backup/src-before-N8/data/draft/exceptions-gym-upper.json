@@ -1,0 +1,12 @@
+{
+  "pectoralis-minor": {
+    "gym": {
+      "reason": "Cơ ngực bé là cơ sâu, nằm dưới cơ ngực lớn; trong các bài gym (dips, pullover, đẩy ngực, serratus punch) nó chỉ đóng vai trò phụ, ổn định xương vai. Tài liệu phục hồi chức năng thường còn chủ động giảm hoạt động của cơ này (ưu tiên răng cưa trước) và đo được mức hoạt động thấp, nên không có bài gym nào lấy cơ ngực bé làm cơ chính một cách đáng tin. Cơ ngực bé được ghi là cơ phụ ở các bài dips, pullover, dynamic hug và serratus punch.",
+      "sources": [
+        "https://www.physio-pedia.com/Pectoralis_Minor",
+        "https://journals.sagepub.com/doi/10.1177/03635465211025002",
+        "https://en.wikipedia.org/wiki/Serratus_punch"
+      ]
+    }
+  }
+}

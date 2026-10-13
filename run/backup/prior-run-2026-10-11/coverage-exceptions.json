@@ -1,0 +1,50 @@
+{
+ "pectoralis-minor": {
+  "gym": {
+   "reason": "Cơ ngực bé là cơ sâu, nằm dưới cơ ngực lớn; trong các bài gym (dips, pullover, đẩy ngực, serratus punch) nó chỉ đóng vai trò phụ, ổn định xương vai. Tài liệu phục hồi chức năng thường còn chủ động giảm hoạt động của cơ này (ưu tiên răng cưa trước) và đo được mức hoạt động thấp, nên không có bài gym nào lấy cơ ngực bé làm cơ chính một cách đáng tin. Cơ ngực bé được ghi là cơ phụ ở các bài dips, pullover, dynamic hug và serratus punch.",
+   "sources": [
+    "https://www.physio-pedia.com/Pectoralis_Minor",
+    "https://journals.sagepub.com/doi/10.1177/03635465211025002",
+    "https://en.wikipedia.org/wiki/Serratus_punch"
+   ]
+  }
+ },
+ "sartorius": {
+  "gym": {
+   "reason": "Cơ may là cơ dài, mảnh, bắc qua cả khớp hông và khớp gối; nó chỉ hỗ trợ khi gập hông, xoay ngoài, dạng hông và gập gối, không bài gym nào lấy nó làm cơ chính. Brookbush Institute ghi rõ không có kỹ thuật kích hoạt riêng cho cơ này, Physiopedia không nêu bài tăng sức nào. Các bài phổ thông gợi ý (bước ngang với dây, clam) thực chất là bài của cơ mông nhỡ. Vì vậy cơ may chỉ được ghi là cơ phụ trong các bài gập hông và cuốn đùi.",
+   "sources": [
+    "https://brookbushinstitute.com/articles/sartorius",
+    "https://www.physio-pedia.com/Sartorius",
+    "https://www.medicalnewstoday.com/articles/sartorius-muscle-pain",
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC4595911/"
+   ]
+  },
+  "calisthenics": {
+   "reason": "Cơ may là cơ hai khớp (gập, dạng nhẹ, xoay ngoài đùi và gập gối) và chỉ đóng vai trò phụ trong các động tác gấp hông. Chưa tìm được nguồn đã xác minh nào nêu bài tự trọng có cơ may là cơ làm việc chính, nên không gán làm cơ chính. Cơ may được ghi là cơ phụ trong các bài đứng co đùi và nằm nâng chân thẳng.",
+   "sources": [
+    "https://www.physio-pedia.com/Sartorius",
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC11546833"
+   ]
+  }
+ },
+ "subscapularis": {
+  "calisthenics": {
+   "reason": "Cơ dưới vai chủ yếu xoay trong cánh tay. Các bài kích hoạt nó tốt nhất theo nghiên cứu là xoay trong và bài chéo với dây chun/cáp, cộng thêm push-up plus. Trong calisthenics, tức không dùng dây chun hay tạ, chỉ còn hai bài có căn cứ: push-up plus và gồng tĩnh xoay trong vào khung cửa. Xoay trong khi nằm nghiêng không tạ có tải quá nhỏ. Vì vậy không thêm bài cho đủ 3.",
+   "sources": [
+    "https://utsouthwestern.elsevierpure.com/en/publications/subscapularis-muscle-activity-during-selected-rehabilitation-exer",
+    "https://oliverfinlay.com/assets/pdf/escamilla%20%26%20andrews%20(2009)%20shoulder%20muscle%20activity%20%26%20function%20in%20common%20shoulder%20rehabilitation%20exercises%20(abstract).pdf",
+    "https://www.stoneclinic.com/node/395"
+   ]
+  }
+ },
+ "extensor-digitorum": {
+  "calisthenics": {
+   "reason": "Cơ duỗi các ngón chủ yếu duỗi ngón tay. Muốn tăng sức nó một cách có ý nghĩa thì cần dây chun hoặc tạ, tức là dụng cụ ngoài phạm vi calisthenics. Trong các bài tự trọng như chống đẩy mu bàn tay hay gồng tĩnh duỗi cổ tay, nó chỉ đóng vai cơ phụ. Không có bài tự trọng nào lấy nó làm cơ chính, nên cơ này không có bài calisthenics với vai trò cơ chính.",
+   "sources": [
+    "https://www.racgp.org.au/FSDEDEV/media/documents/Clinical%20Resources/HANDI/Physiotherapy-lateral-epicondylitis.pdf",
+    "https://healthy.kaiserpermanente.org/health-wellness/health-encyclopedia/he.golfers-elbow-exercises.av2582",
+    "https://antranik.org/avoid-wrist-pain/"
+   ]
+  }
+ }
+}

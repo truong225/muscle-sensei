@@ -1,0 +1,93 @@
+{
+  "_note": "Bản vá của trưởng nhóm ở cổng N5: áp các đề xuất có nguồn của N3j-B và N3j-C mà định dạng replace không chứa được (thêm cơ chính cho bài đã có).",
+  "addPrimary": {
+    "hammer-curl": [
+      "brachialis"
+    ],
+    "reverse-barbell-curl": [
+      "brachialis"
+    ],
+    "zottman-curl": [
+      "brachialis"
+    ],
+    "bodyweight-hammer-curl": [
+      "brachialis"
+    ],
+    "chin-up": [
+      "brachialis"
+    ],
+    "side-plank": [
+      "quadratus-lumborum"
+    ],
+    "kneeling-side-plank": [
+      "quadratus-lumborum"
+    ],
+    "hip-abduction-machine": [
+      "tensor-fasciae-latae"
+    ],
+    "cable-hip-abduction": [
+      "tensor-fasciae-latae"
+    ],
+    "side-lying-hip-abduction-ankle-weight": [
+      "tensor-fasciae-latae"
+    ],
+    "side-lying-hip-abduction": [
+      "tensor-fasciae-latae"
+    ],
+    "hip-hitch": [
+      "tensor-fasciae-latae"
+    ]
+  },
+  "addSources": {
+    "hammer-curl": [
+      "https://www.kenhub.com/en/library/anatomy/brachialis-muscle"
+    ],
+    "reverse-barbell-curl": [
+      "https://www.kenhub.com/en/library/anatomy/brachialis-muscle"
+    ],
+    "zottman-curl": [
+      "https://www.kenhub.com/en/library/anatomy/brachialis-muscle"
+    ],
+    "bodyweight-hammer-curl": [
+      "https://www.kenhub.com/en/library/anatomy/brachialis-muscle"
+    ],
+    "chin-up": [
+      "https://www.kenhub.com/en/library/anatomy/brachialis-muscle"
+    ],
+    "side-plank": [
+      "https://www.nasm.org/resource-center/exercise-library/side-plank"
+    ],
+    "kneeling-side-plank": [
+      "https://www.nasm.org/resource-center/exercise-library/side-plank"
+    ],
+    "hip-abduction-machine": [
+      "https://wikimsk.org/wiki/Tensor_Fascia_Lata",
+      "https://brookbushinstitute.com/article/more-glute-less-tfl"
+    ],
+    "cable-hip-abduction": [
+      "https://wikimsk.org/wiki/Tensor_Fascia_Lata",
+      "https://brookbushinstitute.com/article/more-glute-less-tfl"
+    ],
+    "side-lying-hip-abduction-ankle-weight": [
+      "https://koreascience.or.kr/article/JAKO201912742274365.page?&lang=en",
+      "https://brookbushinstitute.com/article/more-glute-less-tfl"
+    ],
+    "side-lying-hip-abduction": [
+      "https://koreascience.or.kr/article/JAKO201912742274365.page?&lang=en",
+      "https://brookbushinstitute.com/article/more-glute-less-tfl"
+    ],
+    "hip-hitch": [
+      "https://brookbushinstitute.com/article/more-glute-less-tfl"
+    ]
+  },
+  "dropExceptions": {
+    "tensor-fasciae-latae": [
+      "gym"
+    ]
+  },
+  "exceptionText": {
+    "pectoralis-minor": {
+      "gym": "Cơ ngực bé là cơ sâu nằm dưới cơ ngực lớn, chủ yếu kéo xương bả vai ra trước và xuống để giữ vững nó. Trong các bài gym (dips có tạ, dips trên máy trợ lực, pullover, serratus punch, dynamic hug) cơ này chỉ đóng vai trò phụ. Nghiên cứu EMG kim luồn đo được mức hoạt động thấp (khoảng 13–18% MVIC) trong các bài vai, và tài liệu phục hồi chức năng còn chủ động giảm hoạt động của nó để ưu tiên cơ răng cưa trước. Vì vậy không có bài gym nào lấy cơ ngực bé làm cơ chính một cách đáng tin; cơ này được ghi là cơ phụ ở các bài trên."
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+ "_note": "Cạnh sửa lỗi ở cổng N10 (2026-10-13): difficultyBasis tham chiếu điểm 'T = n' của một bản rubric cũ (6 tiêu chí, phiên 2026-10-11) đã bị thay và không còn lưu. Không dựng lại thang đã mất; bỏ cụm điểm T, giữ lý do định tính, và trỏ 'suy theo tiêu chí' về bốn tiêu chí K/Ổ/S/R của rubric hiện hành. check-rubric.mjs xác nhận mức độ vẫn khớp quy tắc nguồn. Thêm: muscle-up 5 → 4 (lệch 2 mức so với free-exercise-db, nguồn strengthlog gọi là 'advanced' = mức 4).",
+ "basisRegex": [
+  {
+   "find": " ?\\(T = \\d+\\)",
+   "replace": ""
+  },
+  {
+   "find": ",? T = \\d+(?=[;.,]|$)",
+   "replace": ""
+  },
+  {
+   "find": "suy theo tiêu chí(?! K/Ổ/S/R)",
+   "replace": "suy theo tiêu chí K/Ổ/S/R"
+  }
+ ],
+ "setDifficulty": {
+  "muscle-up": {
+   "difficulty": 4,
+   "difficultyBasis": "Mức 4 – Nâng cao: free-exercise-db xếp 'intermediate'; nâng một mức vì strengthlog gọi đây là kỹ năng nâng cao (\"advanced\"), nối kéo nổ với chống đẩy qua xà và cần nền khoảng 12–15 lần hít xà."
+  }
+ }
+}

@@ -1,0 +1,54 @@
+{
+ "pectoralis-minor": {
+  "gym": {
+   "reason": "Cơ ngực bé là cơ sâu nằm dưới cơ ngực lớn, chủ yếu kéo xương bả vai ra trước và xuống để giữ vững nó. Trong các bài gym (dips có tạ, dips trên máy trợ lực, pullover, serratus punch, dynamic hug) cơ này chỉ đóng vai trò phụ. Nghiên cứu EMG kim luồn đo được mức hoạt động thấp (khoảng 13–18% MVIC) trong các bài vai, và tài liệu phục hồi chức năng còn chủ động giảm hoạt động của nó để ưu tiên cơ răng cưa trước. Vì vậy không có bài gym nào lấy cơ ngực bé làm cơ chính một cách đáng tin; cơ này được ghi là cơ phụ ở các bài trên.",
+   "sources": [
+    "https://www.physio-pedia.com/Pectoralis_Minor",
+    "https://journals.sagepub.com/doi/10.1177/03635465211025002",
+    "https://en.wikipedia.org/wiki/Serratus_punch"
+   ]
+  },
+  "calisthenics": {
+   "reason": "Lần rà soát nguồn này không tìm được nguồn nào ghi cơ ngực bé là cơ chính hoặc đo được nó hoạt động mạnh trong các bài tự trọng. Các trang mô tả giữ chống trên xà kép hay trên vòng chỉ ghi cơ chính là tam đầu, delta trước và ngực. Trang mô tả dips bả vai chỉ nêu cơ thang. Các trang dips xà kép và dips âm của SARCO+ xếp cơ ngực bé là cơ phụ, giữ việc hạ bả vai khi chịu tải. Nghiên cứu EMG kim luồn đo được cơ ngực bé chỉ hoạt động thấp, khoảng 13–18% MVIC, trong các bài vai. Vì vậy cơ ngực bé chỉ được ghi là cơ phụ trong giữ chống, dips bả vai và các bài dips, nên không có bài calisthenics nào đủ điều kiện. Chức năng hạ và đưa bả vai ra trước của cơ này vẫn được mô tả ở trang giải phẫu.",
+   "sources": [
+    "https://akuaku.org/Sarco+/exercise-parallel-bar-dip.html",
+    "https://akuaku.org/Sarco+/exercise-parallel-bar-dip-negative.html",
+    "https://dieringe.com/exercises/support-hold",
+    "https://journals.sagepub.com/doi/10.1177/03635465211025002",
+    "https://www.physio-pedia.com/Pectoralis_Minor"
+   ]
+  }
+ },
+ "pectoralis-major-clavicular": {
+  "calisthenics": {
+   "reason": "Với phần đòn (ngực trên), chỉ có chống đẩy dốc xuống (kê chân) là bài tự trọng được nguồn uy tín ghi rõ là nhấn ngực trên. Kê chân làm hướng đẩy giống đẩy ngực ghế dốc, mà ghế dốc khoảng 30° là góc kích hoạt phần đòn cao nhất trong nghiên cứu EMG. Tổng quan cơ sinh học về chống đẩy cho biết việc tách riêng phần đòn trong các kiểu chống đẩy khác chưa được nghiên cứu. Các bài pike push-up hay trồng chuối đẩy có góc đẩy quá cao (gần thẳng đứng), khi đó delta trước gánh phần lớn tải, nên phần đòn chỉ được ghi là cơ phụ. Có trang cho rằng dips nhấn ngực trên, nhưng nguồn khác lại xếp dips vào nhóm bài cho ngực dưới. Vì các nguồn mâu thuẫn, dips chỉ ghi phần đòn là cơ phụ. Vì vậy không thêm bài cho đủ 3.",
+   "sources": [
+    "https://www.nasm.org/resource-center/exercise-library/decline-push-up",
+    "https://www.barbellmedicine.com/blog/best-upper-chest-exercises-for-bigger-pecs/",
+    "https://www.lookgreatnaked.com/articles/biomechanics_of_the_Pushup.pdf",
+    "https://www.mdpi.com/1660-4601/17/19/7339"
+   ]
+  }
+ },
+ "tensor-fasciae-latae": {
+  "calisthenics": {
+   "reason": "Không có bài trọng lượng cơ thể nào lấy cơ căng mạc đùi làm cơ chính. Các bài nó hoạt động mạnh (dạng hông nằm nghiêng – khoảng 42 trong nghiên cứu của Park 2019; hip hike – cao hơn cơ mông lớn phần trên theo Selkowitz 2013) đã có trong danh sách của cơ mông nhỡ/bé, nên không thêm bài trùng. Xem các bài dạng hông ở cơ mông nhỡ/bé.",
+   "sources": [
+    "https://koreascience.or.kr/article/JAKO201912742274365.page?&lang=en",
+    "https://brookbushinstitute.com/article/more-glute-less-tfl",
+    "https://wikimsk.org/wiki/Tensor_Fascia_Lata"
+   ]
+  }
+ },
+ "levator-scapulae": {
+  "calisthenics": {
+   "reason": "Sau rà soát nguồn, chỉ còn 2 bài tự trọng có nguồn nêu cơ nâng vai là cơ chính: gồng tĩnh nghiêng cổ và nghiêng cổ nằm nghiêng (Fitness Volt ghi Levator Scapulae trong 'Primary Muscles' của bài nghiêng cổ). Ở các bài ngửa cổ (ngửa cổ nằm sấp, cầu cổ ngửa), nguồn xếp cơ nâng vai là cơ phụ, nên đã hạ xuống phụ. Các bài nhún vai tự trọng (nhún vai trồng chuối, pike shrug) nâng xương vai khi tay ở trên đầu, nguồn ghi cơ chính là thang trên và răng cưa trước. Bài nhún vai thông thường cần tạ nên thuộc Gym. Không bịa thêm bài cho đủ 3.",
+   "sources": [
+    "https://fitnessvolt.com/lying-weighted-lateral-neck-flexion/",
+    "https://www.loadmuscle.com/exercises/weighted-lying-neck-extension",
+    "https://akuaku.org/Sarco+/exercise-wall-scapular-shrug.html",
+    "https://www.physio-pedia.com/Levator_Scapulae"
+   ]
+  }
+ }
+}

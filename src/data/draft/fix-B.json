@@ -1,0 +1,536 @@
+{
+ "demote": {
+  "front-lever": [
+   "teres-major"
+  ],
+  "tuck-front-lever": [
+   "teres-major"
+  ],
+  "archer-pull-up": [
+   "teres-major"
+  ],
+  "arch-hang": [
+   "trapezius-lower"
+  ],
+  "wide-row": [
+   "latissimus-dorsi"
+  ],
+  "underhand-inverted-row": [
+   "biceps-brachii"
+  ],
+  "lying-neck-extension-bodyweight": [
+   "levator-scapulae"
+  ],
+  "supine-neck-bridge": [
+   "levator-scapulae"
+  ],
+  "farmers-walk": [
+   "trapezius-upper"
+  ],
+  "lying-neck-extension": [
+   "levator-scapulae"
+  ]
+ },
+ "addSources": {
+  "front-lever": [
+   "https://akuaku.org/Sarco+/exercise-front-lever.html"
+  ],
+  "tuck-front-lever": [
+   "https://akuaku.org/Sarco+/exercise-tuck-front-lever.html"
+  ],
+  "archer-row": [
+   "https://akuaku.org/Sarco+/exercise-archer-inverted-row.html"
+  ],
+  "pull-up": [
+   "https://akuaku.org/Sarco+/exercise-pull-up.html",
+   "https://fitnessvolt.com/teres-major-teres-minor-exercises/"
+  ],
+  "weighted-pull-up": [
+   "https://akuaku.org/Sarco+/exercise-weighted-pull-up.html",
+   "https://fitnessvolt.com/teres-major-teres-minor-exercises/"
+  ],
+  "negative-pull-up": [
+   "https://akuaku.org/Sarco+/exercise-pull-up.html",
+   "https://fitnessvolt.com/teres-major-teres-minor-exercises/"
+  ],
+  "archer-pull-up": [
+   "https://akuaku.org/Sarco+/exercise-archer-pull-up.html"
+  ],
+  "chin-up": [
+   "https://akuaku.org/Sarco+/exercise-chin-up.html"
+  ],
+  "commando-pull-up": [
+   "https://akuaku.org/Sarco+/exercise-commando-pull-up.html"
+  ],
+  "negative-chin-up": [
+   "https://akuaku.org/Sarco+/exercise-negative-chin-up.html"
+  ],
+  "arch-hang": [
+   "https://akuaku.org/Sarco+/exercise-arch-hang.html"
+  ],
+  "scapular-pull-up": [
+   "https://akuaku.org/Sarco+/exercise-scapular-pull-up.html"
+  ],
+  "neutral-grip-pull-up": [
+   "https://akuaku.org/Sarco+/exercise-neutral-grip-pull-up.html"
+  ],
+  "l-sit-pull-up": [
+   "https://akuaku.org/Sarco+/exercise-l-sit-pull-up.html"
+  ],
+  "false-grip-hang": [
+   "https://akuaku.org/Sarco+/exercise-false-grip-hang.html"
+  ],
+  "flexed-arm-hang": [
+   "https://www.tomsguide.com/wellness/fitness/no-pull-ups-try-the-flexed-arm-hang-to-strengthen-your-biceps-shoulders-and-back-instead"
+  ],
+  "inverted-row": [
+   "https://akuaku.org/Sarco+/exercise-inverted-row.html"
+  ],
+  "wide-row": [
+   "https://akuaku.org/Sarco+/exercise-wide-inverted-row.html"
+  ],
+  "vertical-row": [
+   "https://akuaku.org/Sarco+/exercise-high-incline-row.html"
+  ],
+  "tuck-front-lever-row": [
+   "https://akuaku.org/Sarco+/exercise-tuck-front-lever-row.html"
+  ],
+  "prone-t-raise-bodyweight": [
+   "https://akuaku.org/Sarco+/exercise-prone-t-raise.html"
+  ],
+  "elevated-pike-shrug": [
+   "https://akuaku.org/Sarco+/exercise-wall-scapular-shrug.html"
+  ],
+  "wall-handstand-shrug": [
+   "https://akuaku.org/Sarco+/exercise-wall-scapular-shrug.html"
+  ],
+  "bodyweight-hammer-curl": [
+   "https://www.physio-pedia.com/Brachioradialis"
+  ],
+  "isometric-neck-extension": [
+   "https://akuaku.org/Sarco+/exercise-prone-neck-extension.html",
+   "https://research.birmingham.ac.uk/en/publications/activation-of-the-semispinalis-cervicis-and-splenius-capitis-with"
+  ],
+  "isometric-neck-flexion": [
+   "https://akuaku.org/Sarco+/exercise-lying-neck-flexion.html",
+   "https://www.physio-pedia.com/Sternocleidomastoid"
+  ],
+  "isometric-neck-lateral-flexion": [
+   "https://akuaku.org/Sarco+/exercise-side-neck-holds.html"
+  ],
+  "lying-neck-curl-bodyweight": [
+   "https://akuaku.org/Sarco+/exercise-lying-neck-flexion.html"
+  ],
+  "lying-neck-extension-bodyweight": [
+   "https://akuaku.org/Sarco+/exercise-prone-neck-extension.html"
+  ],
+  "prone-neck-bridge": [
+   "https://akuaku.org/Sarco+/exercise-lying-neck-flexion.html",
+   "https://www.physio-pedia.com/Sternocleidomastoid"
+  ],
+  "side-lying-neck-lateral-raise": [
+   "https://akuaku.org/Sarco+/exercise-side-neck-holds.html"
+  ],
+  "wrestlers-bridge": [
+   "https://akuaku.org/Sarco+/exercise-wrestlers-bridge-hold.html"
+  ],
+  "kneeling-back-of-hand-wrist-push-up": [
+   "https://akuaku.org/Sarco+/exercise-wrist-push-up-prep.html"
+  ],
+  "plank-back-of-hand-wrist-push-up": [
+   "https://akuaku.org/Sarco+/exercise-wrist-push-up-prep.html"
+  ],
+  "wall-back-of-hand-wrist-push-up": [
+   "https://akuaku.org/Sarco+/exercise-wrist-push-up-prep.html"
+  ],
+  "kneeling-palm-pulse": [
+   "https://akuaku.org/Sarco+/exercise-wrist-warmup.html"
+  ],
+  "plank-palm-pulse": [
+   "https://akuaku.org/Sarco+/exercise-wrist-warmup.html"
+  ],
+  "barbell-shrug": [
+   "https://doctoryessis.com/2013/01/01/the-dumbbell-shrug/"
+  ],
+  "dumbbell-shrug": [
+   "https://doctoryessis.com/2013/01/01/the-dumbbell-shrug/"
+  ],
+  "reverse-ez-bar-preacher-curl": [
+   "https://www.physio-pedia.com/Brachioradialis"
+  ],
+  "lat-pulldown": [
+   "https://fitnessvolt.com/teres-major-teres-minor-exercises/"
+  ],
+  "straight-arm-pulldown": [
+   "https://fitnessvolt.com/teres-major-teres-minor-exercises/"
+  ],
+  "one-arm-dumbbell-row": [
+   "https://fitnessvolt.com/teres-major-teres-minor-exercises/"
+  ],
+  "lying-neck-curl": [
+   "https://akuaku.org/Sarco+/exercise-lying-neck-flexion.html"
+  ],
+  "machine-neck-flexion": [
+   "https://akuaku.org/Sarco+/exercise-lying-neck-flexion.html"
+  ],
+  "lying-neck-extension": [
+   "https://akuaku.org/Sarco+/exercise-prone-neck-extension.html"
+  ]
+ },
+ "removeSources": {
+  "commando-pull-up": [
+   "https://fitwill.app/exercise/0140/brachialis-pull-up.md"
+  ],
+  "negative-chin-up": [
+   "https://fitwill.app/exercise/0140/brachialis-pull-up.md"
+  ],
+  "rubber-band-finger-extension": [
+   "https://www.uhcw.nhs.uk/download/clientfiles/files/Patient%20Information%20Leaflets/Clinical%20Support%20Services/Therapies/Hand%20Therapy/Hand%20Therapy%20-%20Wrist%20strengthening.pdf"
+  ]
+ },
+ "sourcesRegistry": {
+  "https://akuaku.org/Sarco+/exercise-front-lever.html": {
+   "title": "Front Lever · Sarco+ Data",
+   "publisher": "SARCO+ (akuaku.org)",
+   "checked": "2026-10-12",
+   "supports": "Front lever: cơ chính cơ lưng rộng, cơ thẳng bụng, thang giữa; cơ tròn lớn, cơ trám, cơ mông lớn chỉ là cơ phụ; thân thẳng một đường, ép xà xuống."
+  },
+  "https://akuaku.org/Sarco+/exercise-tuck-front-lever.html": {
+   "title": "Tuck Front Lever · Sarco+ Data",
+   "publisher": "SARCO+ (akuaku.org)",
+   "checked": "2026-10-12",
+   "supports": "Tuck front lever: cơ chính cơ lưng rộng (kéo tay thẳng) và thang giữa; cơ trám, cơ thẳng bụng, cơ tròn lớn là cơ phụ; tay thẳng, lưng song song sàn, gối co sát ngực."
+  },
+  "https://akuaku.org/Sarco+/exercise-archer-inverted-row.html": {
+   "title": "Archer Inverted Row · Sarco+ Data",
+   "publisher": "SARCO+ (akuaku.org)",
+   "checked": "2026-10-12",
+   "supports": "Inverted row kiểu cung thủ (dồn về một tay, tay kia gần thẳng): cơ chính cơ lưng rộng, thang giữa, cơ trám; phụ delta sau, nhị đầu."
+  },
+  "https://akuaku.org/Sarco+/exercise-pull-up.html": {
+   "title": "Pull-up · Sarco+ Data",
+   "publisher": "SARCO+ (akuaku.org)",
+   "checked": "2026-10-12",
+   "supports": "Hít xà tay sấp từ treo thẳng tới cằm qua xà: cơ chính cơ lưng rộng và cơ tròn lớn; phụ nhị đầu, cơ cánh tay."
+  },
+  "https://akuaku.org/Sarco+/exercise-commando-pull-up.html": {
+   "title": "Commando Pull-up · Sarco+ Data",
+   "publisher": "SARCO+ (akuaku.org)",
+   "checked": "2026-10-12",
+   "supports": "Hít xà commando (hai tay nắm nối tiếp dọc xà, kéo đầu lệch luân phiên hai bên xà): cơ chính cơ lưng rộng và nhị đầu; cơ cánh tay là cơ phụ."
+  },
+  "https://akuaku.org/Sarco+/exercise-negative-chin-up.html": {
+   "title": "Negative Chin-up · Sarco+ Data",
+   "publisher": "SARCO+ (akuaku.org)",
+   "checked": "2026-10-12",
+   "supports": "Hít xà tay ngửa chỉ pha hạ chậm từ điểm cao: cơ chính nhị đầu và cơ lưng rộng; phụ cơ cánh tay, cơ tròn lớn."
+  },
+  "https://akuaku.org/Sarco+/exercise-chin-up.html": {
+   "title": "Chin-up · Sarco+ Data",
+   "publisher": "SARCO+ (akuaku.org)",
+   "checked": "2026-10-12",
+   "supports": "Hít xà tay ngửa: cơ chính nhị đầu và cơ lưng rộng; phụ cơ cánh tay, cơ tròn lớn."
+  },
+  "https://akuaku.org/Sarco+/exercise-arch-hang.html": {
+   "title": "Arch Hang · Sarco+ Data",
+   "publisher": "SARCO+ (akuaku.org)",
+   "checked": "2026-10-12",
+   "supports": "Treo ưỡn (ngực hướng lên xà, thân cong): cơ chính cơ lưng rộng; cơ tròn lớn và thang dưới chỉ là cơ phụ."
+  },
+  "https://akuaku.org/Sarco+/exercise-archer-pull-up.html": {
+   "title": "Archer Pull-up · Sarco+ Data",
+   "publisher": "SARCO+ (akuaku.org)",
+   "checked": "2026-10-12",
+   "supports": "Hít xà cung thủ (kéo về một tay, tay kia duỗi dọc xà): cơ chính cơ lưng rộng và nhị đầu; cơ tròn lớn và cơ cánh tay là cơ phụ."
+  },
+  "https://akuaku.org/Sarco+/exercise-neutral-grip-pull-up.html": {
+   "title": "Neutral-grip Pull-up · Sarco+ Data",
+   "publisher": "SARCO+ (akuaku.org)",
+   "checked": "2026-10-12",
+   "supports": "Hít xà tay trung tính (lòng bàn tay đối nhau): cơ chính cơ cánh tay, cơ cánh tay quay, cơ lưng rộng; phụ nhị đầu, cơ tròn lớn."
+  },
+  "https://akuaku.org/Sarco+/exercise-l-sit-pull-up.html": {
+   "title": "L-sit Pull-up · Sarco+ Data",
+   "publisher": "SARCO+ (akuaku.org)",
+   "checked": "2026-10-12",
+   "supports": "Hít xà giữ chân duỗi ngang kiểu L-sit: cơ chính cơ lưng rộng và cơ thẳng bụng; phụ nhị đầu, cơ thắt lưng chậu."
+  },
+  "https://akuaku.org/Sarco+/exercise-scapular-pull-up.html": {
+   "title": "Scapular Pull-up · Sarco+ Data",
+   "publisher": "SARCO+ (akuaku.org)",
+   "checked": "2026-10-12",
+   "supports": "Kéo xà bả vai (từ treo thẳng, hạ và khép bả vai, không gập khuỷu): cơ chính thang dưới; phụ cơ lưng rộng, cơ trám."
+  },
+  "https://akuaku.org/Sarco+/exercise-weighted-pull-up.html": {
+   "title": "Weighted Pull-up · Sarco+ Data",
+   "publisher": "SARCO+ (akuaku.org)",
+   "checked": "2026-10-12",
+   "supports": "Hít xà nghiêm có thêm tạ (đai, áo tạ, tạ đơn kẹp chân): cơ chính cơ lưng rộng và cơ tròn lớn; phụ nhị đầu, cơ cánh tay."
+  },
+  "https://akuaku.org/Sarco+/exercise-one-arm-pull-up.html": {
+   "title": "One-arm Pull-up · Sarco+ Data",
+   "publisher": "SARCO+ (akuaku.org)",
+   "checked": "2026-10-12",
+   "supports": "Hít xà một tay nghiêm: cơ chính cơ lưng rộng, cơ tròn lớn, nhị đầu; phụ nhóm gấp cổ tay/ngón; bắt đầu từ treo một tay, cằm qua xà, chống xoay thân; bậc trước là hít xà một tay có trợ giúp (sau archer pull-up)."
+  },
+  "https://akuaku.org/Sarco+/exercise-inverted-row.html": {
+   "title": "Inverted Row · Sarco+ Data",
+   "publisher": "SARCO+ (akuaku.org)",
+   "checked": "2026-10-12",
+   "supports": "Inverted row thân nằm ngang, kéo ngực lên xà/vòng: cơ chính thang giữa và cơ trám; phụ cơ lưng rộng, delta sau, nhị đầu."
+  },
+  "https://akuaku.org/Sarco+/exercise-wide-inverted-row.html": {
+   "title": "Wide Inverted Row · Sarco+ Data",
+   "publisher": "SARCO+ (akuaku.org)",
+   "checked": "2026-10-12",
+   "supports": "Inverted row tay rộng, khuỷu mở ~90°: cơ chính delta sau, thang giữa, cơ trám; phụ dưới gai, tròn bé, nhị đầu (không xếp cơ lưng rộng là cơ chính)."
+  },
+  "https://akuaku.org/Sarco+/exercise-high-incline-row.html": {
+   "title": "High Incline Row · Sarco+ Data",
+   "publisher": "SARCO+ (akuaku.org)",
+   "checked": "2026-10-12",
+   "supports": "Row đứng gần thẳng, cầm vòng/xà ngang ngực, kéo ngực về tay: cơ chính thang giữa và cơ trám; phụ cơ lưng rộng, nhị đầu, delta sau."
+  },
+  "https://akuaku.org/Sarco+/exercise-tuck-front-lever-row.html": {
+   "title": "Tuck Front Lever Row · Sarco+ Data",
+   "publisher": "SARCO+ (akuaku.org)",
+   "checked": "2026-10-12",
+   "supports": "Row ở tư thế tuck front lever (gập khuỷu kéo xà về thân rồi duỗi ra): cơ chính cơ lưng rộng, thang giữa, cơ trám; phụ nhị đầu, cơ thẳng bụng, delta sau."
+  },
+  "https://akuaku.org/Sarco+/exercise-prone-t-raise.html": {
+   "title": "Prone T-Raise · Sarco+ Data",
+   "publisher": "SARCO+ (akuaku.org)",
+   "checked": "2026-10-12",
+   "supports": "Nâng tay chữ T nằm sấp không dụng cụ, khép bả vai: cơ chính delta sau và thang giữa; phụ cơ trám, dưới gai, tròn bé."
+  },
+  "https://akuaku.org/Sarco+/exercise-false-grip-hang.html": {
+   "title": "False-grip Hang · Sarco+ Data",
+   "publisher": "SARCO+ (akuaku.org)",
+   "checked": "2026-10-12",
+   "supports": "Treo false grip trên vòng/xà (cổ tay vắt lên trên tay nắm): cơ chính nhóm gấp cổ tay/ngón; phụ cơ cánh tay quay."
+  },
+  "https://akuaku.org/Sarco+/exercise-wall-scapular-shrug.html": {
+   "title": "Wall Scapular Shrug · Sarco+ Data",
+   "publisher": "SARCO+ (akuaku.org)",
+   "checked": "2026-10-12",
+   "supports": "Nhún vai với tay qua đầu ép tường (đẩy vai lên phía tai): cơ chính răng cưa trước và thang trên; phụ thang dưới, delta trước."
+  },
+  "https://akuaku.org/Sarco+/exercise-side-neck-holds.html": {
+   "title": "Side Neck Holds · Sarco+ Data",
+   "publisher": "SARCO+ (akuaku.org)",
+   "checked": "2026-10-12",
+   "supports": "Giữ đầu ngang khi nằm nghiêng, đầu thò ra mép ghế (gồng tĩnh nghiêng cổ chống trọng lực): cơ chính ức đòn chũm; phụ cơ bậc thang, cơ gối."
+  },
+  "https://akuaku.org/Sarco+/exercise-lying-neck-flexion.html": {
+   "title": "Lying Neck Flexion · Sarco+ Data",
+   "publisher": "SARCO+ (akuaku.org)",
+   "checked": "2026-10-12",
+   "supports": "Gập cổ nằm ngửa (thu cằm, cuộn đầu khỏi sàn rồi hạ chậm): cơ chính ức đòn chũm; phụ cơ bậc thang."
+  },
+  "https://akuaku.org/Sarco+/exercise-prone-neck-extension.html": {
+   "title": "Prone Neck Extension · Sarco+ Data",
+   "publisher": "SARCO+ (akuaku.org)",
+   "checked": "2026-10-12",
+   "supports": "Ngửa cổ nằm sấp, đầu ra ngoài mép ghế, nâng đầu rồi hạ chậm: cơ chính cơ gối đầu/gối cổ; phụ cơ dưới chẩm, thang trên."
+  },
+  "https://akuaku.org/Sarco+/exercise-wrestlers-bridge-hold.html": {
+   "title": "Wrestler's Bridge Hold (Cautious) · Sarco+ Data",
+   "publisher": "SARCO+ (akuaku.org)",
+   "checked": "2026-10-12",
+   "supports": "Cầu đô vật giữ tĩnh (bài nâng cao, chỉ tập sau các bước cổ trước đó): cơ chính ức đòn chũm và cơ gối đầu/gối cổ; phụ cơ bậc thang, dưới chẩm."
+  },
+  "https://akuaku.org/Sarco+/exercise-wrist-push-up-prep.html": {
+   "title": "Wrist Push-up Prep · Sarco+ Data",
+   "publisher": "SARCO+ (akuaku.org)",
+   "checked": "2026-10-12",
+   "supports": "Quỳ bốn điểm, dồn trọng lượng lên tay, gồm ép cổ tay úp và ép mu bàn tay (alias 'back-of-hand push-up'): cơ chính nhóm duỗi cổ tay/ngón; phụ nhóm gấp."
+  },
+  "https://akuaku.org/Sarco+/exercise-wrist-warmup.html": {
+   "title": "Wrist Warm-up · Sarco+ Data",
+   "publisher": "SARCO+ (akuaku.org)",
+   "checked": "2026-10-12",
+   "supports": "Bài cổ tay chịu tải trên sàn (palm rocks, finger lifts, nghiêng hai bên; cue bấm đầu ngón xuống sàn): cơ chính nhóm gấp cổ tay/ngón (chịu tải ở tư thế duỗi cổ tay) và nhóm duỗi. Chỉ là biến thể gần của palm pulse (trang không mô tả riêng động tác nhấc lòng bàn tay)."
+  },
+  "https://fitnessvolt.com/teres-major-teres-minor-exercises/": {
+   "title": "Teres Major and Teres Minor Exercises",
+   "publisher": "Fitness Volt",
+   "checked": "2026-10-12",
+   "supports": "Bài cho cơ tròn lớn: kéo cáp tay thẳng (straight arm pulldown), kéo xô (lat pulldown), hít xà tay sấp và tay ngửa, chèo tạ đơn một tay, chèo cáp ngồi, chèo gập người – mỗi mục nêu rõ cơ tròn lớn được tập."
+  },
+  "https://doctoryessis.com/2013/01/01/the-dumbbell-shrug/": {
+   "title": "The Dumbbell Shrug",
+   "publisher": "Dr. Michael Yessis",
+   "checked": "2026-10-12",
+   "supports": "Nhún vai tạ đơn chỉ dùng cơ đai vai: phần trên cùng cơ thang, cơ nâng vai và cơ trám; có nêu bản dùng tạ đòn (tay đặt trước thân)."
+  },
+  "https://www.tomsguide.com/wellness/fitness/no-pull-ups-try-the-flexed-arm-hang-to-strengthen-your-biceps-shoulders-and-back-instead": {
+   "title": "No pull-ups? Try the flexed arm hang to strengthen your biceps, shoulders and back instead",
+   "publisher": "Tom's Guide",
+   "checked": "2026-10-12",
+   "supports": "Treo co tay (cằm trên xà, khuỷu gập) được giới thiệu là bài tăng sức nhị đầu, vai và lưng; mô tả kỹ thuật bước từ bục lên, giữ chân khép."
+  },
+  "https://fitnessvolt.com/lying-weighted-lateral-neck-flexion/": {
+   "title": "Lying Weighted Lateral Neck Flexion",
+   "publisher": "Fitness Volt",
+   "checked": "2026-10-12",
+   "supports": "Nghiêng cổ nằm nghiêng có tạ: bảng 'Primary Muscles' ghi cơ nâng vai, cơ bậc thang, ức đòn chũm, thang trên (cơ đích chính là ức đòn chũm); cơ phụ cơ gối đầu/gối cổ. Đây cũng là biến thể có tạ của bài nghiêng cổ nằm nghiêng không tạ."
+  },
+  "https://blogcontent.summit-education.com/wp-content/uploads/Reinold-et-al-current-concepts-in-the-scientific-and-clinical-rationale-behind-exercises-for-GH-and-ST-musculature.pdf": {
+   "title": "Current concepts in the scientific and clinical rationale behind exercises for glenohumeral and scapulothoracic musculature (Reinold và cs., JOSPT 2009)",
+   "publisher": "Summit Education (bản PDF)",
+   "checked": "2026-10-12",
+   "supports": "Tổng quan EMG: cơ trám/nâng vai và thang giữa có hoạt động EMG cao ở prone row và dang ngang nằm sấp 90° có xoay ngoài (prone T); thang dưới cao nhất ở prone full can, xoay ngoài nằm sấp 90°; chóp xoay (trên gai, dưới gai, tròn bé) cao ở dang ngang nằm sấp 100° có xoay ngoài và xoay ngoài nằm sấp 90° (dưới gai 50%, tròn bé 48% MVIC); punch/dynamic hug cho răng cưa trước."
+  },
+  "https://www.kenhub.com/en/library/anatomy/brachialis-muscle": {
+   "title": "Brachialis muscle",
+   "publisher": "Kenhub",
+   "checked": "2026-10-12",
+   "supports": "Cơ cánh tay là 'prime flexor' (cơ gập chủ vận) của khuỷu và là cơ gập khuỷu thuần duy nhất; không bị ảnh hưởng bởi sấp/ngửa cẳng tay nên là cơ chủ vận trong mọi bài gập khuỷu có tải."
+  }
+ },
+ "newExercises": [
+  {
+   "id": "one-arm-pull-up",
+   "nameVi": "Hít xà một tay (one-arm pull-up)",
+   "nameEn": "One-Arm Pull-Up",
+   "type": "calisthenics",
+   "equipment": [
+    "xà đơn"
+   ],
+   "primaryMuscles": [
+    "latissimus-dorsi",
+    "teres-major",
+    "biceps-brachii"
+   ],
+   "secondaryMuscles": [
+    "forearm-flexors",
+    "brachialis"
+   ],
+   "difficulty": 5,
+   "order": 8,
+   "difficultyBasis": "Mức 5 – Chuyên sâu: rubric lấy hít xà một tay làm ví dụ mức 5; là bậc cuối chuỗi Pull-up Progression của SARCO+, sau archer pull-up và hít xà một tay có trợ giúp.",
+   "steps": [
+    "Treo một tay trên xà, tay kia thả lỏng hoặc đặt sau lưng; siết bụng, mông và khép chân.",
+    "Kéo bả vai bên treo xuống để vào tư thế treo chủ động.",
+    "Gập khuỷu kéo người lên, giữ thân không xoay, tới khi cằm qua xà.",
+    "Hạ chậm có kiểm soát về tư thế tay thẳng, rồi đổi tay."
+   ],
+   "safety": [
+    "Chỉ tập khi đã làm vững archer pull-up và hít xà một tay có trợ giúp; tăng số lần từ từ.",
+    "Không thả rơi ở cuối pha hạ để tránh quá tải khuỷu và vai."
+   ],
+   "progressionOf": "archer-pull-up",
+   "sources": [
+    {
+     "url": "https://akuaku.org/Sarco+/exercise-one-arm-pull-up.html",
+     "checked": "2026-10-12"
+    }
+   ]
+  }
+ ],
+ "exceptions": {
+  "levator-scapulae": {
+   "calisthenics": {
+    "reason": "Sau rà soát nguồn, chỉ còn 2 bài tự trọng có nguồn nêu cơ nâng vai là cơ chính: gồng tĩnh nghiêng cổ và nghiêng cổ nằm nghiêng (Fitness Volt ghi Levator Scapulae trong 'Primary Muscles' của bài nghiêng cổ). Ở các bài ngửa cổ (ngửa cổ nằm sấp, cầu cổ ngửa), nguồn xếp cơ nâng vai là cơ phụ, nên đã hạ xuống phụ. Các bài nhún vai tự trọng (nhún vai trồng chuối, pike shrug) nâng xương vai khi tay ở trên đầu, nguồn ghi cơ chính là thang trên và răng cưa trước. Bài nhún vai thông thường cần tạ nên thuộc Gym. Không bịa thêm bài cho đủ 3.",
+    "sources": [
+     "https://fitnessvolt.com/lying-weighted-lateral-neck-flexion/",
+     "https://www.loadmuscle.com/exercises/weighted-lying-neck-extension",
+     "https://akuaku.org/Sarco+/exercise-wall-scapular-shrug.html",
+     "https://www.physio-pedia.com/Levator_Scapulae"
+    ]
+   }
+  }
+ },
+ "audit": {
+  "front-lever": "sửa: hạ teres-major xuống phụ (SARCO+ xếp tròn lớn là cơ phụ, không nguồn nào nêu là cơ chính); thêm SARCO+ front lever xác nhận cơ lưng rộng là cơ chính.",
+  "tuck-front-lever": "sửa: hạ teres-major xuống phụ (SARCO+ tuck front lever xếp là cơ phụ); thêm SARCO+ xác nhận cơ lưng rộng chính.",
+  "archer-row": "sửa: thêm SARCO+ archer inverted row (kỹ thuật + cơ lưng rộng, cơ trám là cơ chính); trước đó chỉ có nguồn chung về row.",
+  "pull-up": "sửa: thêm SARCO+ pull-up (cơ lưng rộng + cơ tròn lớn chính) và Fitness Volt (hít xà tập cơ tròn lớn) cho teres-major.",
+  "weighted-pull-up": "sửa: thêm SARCO+ weighted pull-up (cơ lưng rộng + cơ tròn lớn chính) và Fitness Volt cho teres-major.",
+  "negative-pull-up": "sửa: teres-major trước không có nguồn; thêm Fitness Volt (hít xà tập cơ tròn lớn) và SARCO+ pull-up (tròn lớn chính) – negative là pha hạ của chính bài hít xà.",
+  "archer-pull-up": "sửa: hạ teres-major xuống phụ (SARCO+ archer pull-up và liftosaur đều xếp tròn lớn là cơ phụ/hiệp đồng); thêm SARCO+ xác nhận cơ lưng rộng chính.",
+  "chin-up": "sửa: thêm SARCO+ chin-up xác nhận nhị đầu và cơ lưng rộng là cơ chính (StrengthLog chỉ ghi nhị đầu là phụ); brachialis dựa Kenhub (cơ gập khuỷu chủ vận).",
+  "commando-pull-up": "sửa: bỏ Fitwill brachialis pull-up (biến thể khác); thêm SARCO+ commando pull-up (kỹ thuật + cơ lưng rộng chính); brachialis giữ theo Kenhub (cơ gập khuỷu chủ vận ở mọi tư thế cẳng tay).",
+  "negative-chin-up": "sửa: bỏ Fitwill brachialis pull-up (biến thể khác); thêm SARCO+ negative chin-up (nhị đầu + cơ lưng rộng chính); brachialis theo Kenhub.",
+  "arch-hang": "sửa: hạ trapezius-lower xuống phụ (SARCO+ và liftosaur đều xếp thang dưới là cơ phụ/hiệp đồng); thêm SARCO+ arch hang (cơ lưng rộng chính).",
+  "scapular-pull-up": "sửa: thêm SARCO+ scapular pull-up xác nhận thang dưới là cơ chính (trước chỉ có trang giải phẫu chung).",
+  "neutral-grip-pull-up": "sửa: thêm SARCO+ neutral-grip pull-up xác nhận cơ cánh tay quay và cơ lưng rộng là cơ chính.",
+  "l-sit-pull-up": "sửa: thêm SARCO+ L-sit pull-up xác nhận cơ lưng rộng là cơ chính (barbend không nêu cơ).",
+  "muscle-up": "ok",
+  "towel-pull-up": "ok",
+  "dead-hang": "ok",
+  "one-arm-dead-hang": "ok",
+  "false-grip-hang": "sửa: thêm SARCO+ false-grip hang xác nhận nhóm gấp cổ tay/ngón là cơ chính (caliverse chỉ ghi chung 'forearm').",
+  "false-grip-ring-row": "ok",
+  "fingertip-push-up": "ok",
+  "flexed-arm-hang": "sửa: thêm Tom's Guide (treo co tay để tăng sức nhị đầu) cho biceps-brachii; brachialis theo Kenhub (gập khuỷu chủ vận, giữ tĩnh khuỷu gập).",
+  "inverted-row": "sửa: thêm SARCO+ inverted row xác nhận thang giữa và cơ trám là cơ chính (StrengthLog chỉ ghi 'Trapezius' chung); cơ lưng rộng theo StrengthLog.",
+  "wide-row": "sửa: hạ latissimus-dorsi xuống phụ (SARCO+ wide inverted row chỉ ghi delta sau, thang giữa, cơ trám là cơ chính; không nguồn nào nêu xô chính cho row tay rộng); thêm SARCO+.",
+  "underhand-inverted-row": "sửa: hạ biceps-brachii xuống phụ (StrengthLog inverted row tay ngửa ghi nhị đầu là cơ phụ, chỉ 'có thể tăng' cơ gập tay); cơ lưng rộng chính theo StrengthLog.",
+  "vertical-row": "sửa: thêm SARCO+ high incline row xác nhận cơ trám là cơ chính; cơ lưng rộng theo liftosaur (target).",
+  "tuck-front-lever-row": "sửa: thêm SARCO+ tuck front lever row (kỹ thuật + cơ lưng rộng, cơ trám chính); trước chỉ có trang reddit bị chặn và nguồn chung.",
+  "prone-t-raise-bodyweight": "sửa: thêm SARCO+ prone T-raise (delta sau, thang giữa chính); delta giữa theo EMG musculoskeletalkey (dang ngang nằm sấp 79–80%); cơ trám theo Reinold (dang ngang nằm sấp 90° có xoay ngoài: EMG cao).",
+  "wall-angel": "ok",
+  "elevated-pike-shrug": "sửa: thêm SARCO+ wall scapular shrug (nhún vai tay qua đầu: răng cưa trước + thang trên chính) làm nguồn cơ cho biến thể rất gần.",
+  "wall-handstand-shrug": "sửa: thêm SARCO+ wall scapular shrug (nhún vai tay qua đầu: răng cưa trước + thang trên chính) làm nguồn cơ cho biến thể rất gần.",
+  "bodyweight-curl": "ok",
+  "bodyweight-hammer-curl": "sửa: thêm Physiopedia Brachioradialis (hoạt động tăng ở tư thế cẳng tay trung tính) cho brachioradialis; motra chỉ ghi chung 'Forearms'.",
+  "reverse-grip-bodyweight-curl": "ok",
+  "isometric-neck-extension": "sửa: thêm SARCO+ prone neck extension (cơ gối là cơ chính khi ngửa cổ chống lực) và EMG Birmingham (cơ gối đầu hoạt động khi duỗi cổ có kháng lực).",
+  "isometric-neck-flexion": "sửa: trước không có nguồn nêu cơ; thêm SARCO+ lying neck flexion (ức đòn chũm chính khi gập cổ) và Physiopedia SCM.",
+  "isometric-neck-lateral-flexion": "sửa: thêm SARCO+ side neck holds (gồng tĩnh nghiêng cổ: ức đòn chũm chính); levator-scapulae dựa Fitness Volt (nghiêng cổ có tạ, ghi nâng vai là Primary).",
+  "lying-neck-curl-bodyweight": "sửa: thêm SARCO+ lying neck flexion (chính bài gập cổ nằm ngửa không tạ, ức đòn chũm chính); StrengthLog chỉ ghi 'cơ cổ trước'.",
+  "lying-neck-extension-bodyweight": "sửa: hạ levator-scapulae xuống phụ (LoadMuscle ghi nâng vai là cơ phụ khi ngửa cổ nằm sấp; Kenhub chỉ nêu chức năng phụ duỗi cổ); thêm SARCO+ prone neck extension (cơ gối chính).",
+  "prone-neck-bridge": "sửa: StrengthLog chỉ ghi 'Neck'; thêm SARCO+ lying neck flexion và Physiopedia SCM cho ức đòn chũm (cơ gập cổ, chịu lực khi tì trán).",
+  "supine-neck-bridge": "sửa: hạ levator-scapulae xuống phụ (không nguồn nào nêu nâng vai là cơ chính khi ngửa cổ; LoadMuscle xếp phụ); splenius theo Kenhub + EMG Birmingham.",
+  "side-lying-neck-lateral-raise": "sửa: doctoryessis không nêu cơ nâng vai – levator-scapulae nay dựa Fitness Volt (bản có tạ của chính bài, bảng Primary Muscles ghi Levator Scapulae; đã cập nhật ghi chú sổ nguồn); thêm SARCO+ side neck holds cho ức đòn chũm.",
+  "wrestlers-bridge": "sửa: thêm SARCO+ wrestler's bridge hold xác nhận cơ gối đầu/gối cổ là cơ chính.",
+  "isometric-wrist-extension": "ok",
+  "kneeling-back-of-hand-wrist-push-up": "sửa: antranik/gmb không nêu cơ; thêm SARCO+ wrist push-up prep (có ép mu bàn tay, nhóm duỗi cổ tay/ngón là cơ chính).",
+  "plank-back-of-hand-wrist-push-up": "sửa: antranik/gmb không nêu cơ; thêm SARCO+ wrist push-up prep (có ép mu bàn tay, nhóm duỗi cổ tay/ngón là cơ chính).",
+  "wall-back-of-hand-wrist-push-up": "sửa: antranik/gmb không nêu cơ; thêm SARCO+ wrist push-up prep (có ép mu bàn tay, nhóm duỗi cổ tay/ngón là cơ chính).",
+  "kneeling-palm-pulse": "sửa: antranik/gmb không nêu cơ; thêm SARCO+ wrist warm-up (bài cổ tay chịu tải trên sàn, cue bấm đầu ngón; nhóm gấp cổ tay/ngón là cơ chính) – chỉ là biến thể gần, điểm yếu nhất của phần B.",
+  "plank-palm-pulse": "sửa: antranik/gmb không nêu cơ; thêm SARCO+ wrist warm-up (bài cổ tay chịu tải trên sàn, cue bấm đầu ngón; nhóm gấp cổ tay/ngón là cơ chính) – chỉ là biến thể gần, điểm yếu nhất của phần B.",
+  "barbell-curl": "ok",
+  "barbell-shrug": "sửa: thêm Dr. Yessis (nhún vai: phần trên cơ thang, cơ nâng vai, cơ trám; có bản tạ đòn) cho levator-scapulae; Physiopedia chỉ nêu chức năng.",
+  "dumbbell-shrug": "sửa: thêm Dr. Yessis dumbbell shrug (cơ dùng: phần trên cơ thang, cơ nâng vai, cơ trám) cho levator-scapulae.",
+  "barbell-wrist-curl": "ok",
+  "barbell-wrist-extension": "ok",
+  "behind-the-back-barbell-wrist-curl": "ok",
+  "dumbbell-curl": "ok",
+  "dumbbell-radial-deviation": "ok",
+  "dumbbell-ulnar-deviation": "ok",
+  "dumbbell-wrist-curl": "ok",
+  "dumbbell-wrist-extension": "ok",
+  "hand-gripper": "ok",
+  "incline-dumbbell-curl": "ok",
+  "machine-bicep-curl": "ok",
+  "plate-pinch": "ok",
+  "preacher-curl": "ok",
+  "wrist-roller": "ok",
+  "cross-body-hammer-curl": "ok",
+  "cable-rope-hammer-curl": "ok",
+  "hammer-curl": "ok",
+  "reverse-barbell-curl": "ok",
+  "zottman-curl": "ok",
+  "cable-y-raise": "ok",
+  "chest-supported-dumbbell-row": "ok",
+  "bent-over-barbell-row": "ok",
+  "seated-cable-row": "ok",
+  "prone-dumbbell-external-rotation-90": "ok",
+  "prone-t-raise": "ok",
+  "lying-lateral-neck-flexion": "ok",
+  "machine-neck-extension": "ok",
+  "machine-neck-lateral-flexion": "ok",
+  "seated-harness-neck-extension": "ok",
+  "reverse-ez-bar-preacher-curl": "sửa: thêm Physiopedia Brachioradialis (hoạt động tăng khi cẳng tay úp) cho brachioradialis; motra chỉ ghi chung 'cẳng tay'.",
+  "farmers-walk": "sửa: hạ trapezius-upper xuống phụ (StrengthLog chỉ ghi 'Trapezius' không nêu phần trên; không nguồn nào nêu riêng thang trên).",
+  "lat-pulldown": "sửa: StrengthLog không nêu cơ tròn lớn; teres-major dựa Physiopedia Teres Major (liệt kê lat pulldown) và thêm Fitness Volt ('teres major and minor play a big part in lat pulldowns').",
+  "straight-arm-pulldown": "sửa: StrengthLog không nêu cơ tròn lớn; thêm Fitness Volt (straight arm pulldown tập cơ tròn lớn) cho teres-major.",
+  "one-arm-dumbbell-row": "sửa: thêm Fitness Volt (chèo tạ đơn một tay tập cơ tròn lớn) cho teres-major.",
+  "lying-neck-curl": "sửa: StrengthLog chỉ ghi 'cơ cổ trước'; thêm SARCO+ lying neck flexion (bản không tạ, ức đòn chũm chính).",
+  "machine-neck-flexion": "sửa: thêm SARCO+ lying neck flexion (ức đòn chũm là cơ chính khi gập cổ chống lực); ctsq chỉ nêu kỹ thuật.",
+  "lying-neck-extension": "sửa: hạ levator-scapulae xuống phụ (LoadMuscle ghi nâng vai là cơ phụ của ngửa cổ nằm sấp có tạ); thêm SARCO+ prone neck extension (cơ gối chính).",
+  "rubber-band-finger-extension": "sửa: bỏ tờ UHCW (không có bài này); giữ The Climbing Doctor (mô tả bài, 'strengthen the finger extensor muscles')."
+ }
+}

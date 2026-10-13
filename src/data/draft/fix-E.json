@@ -1,0 +1,12 @@
+{
+ "_note": "Cạnh sửa lỗi ở cổng (phiên tiếp tục 2026-10-13): kiểm tra ngẫu nhiên 6 bài, 2 bài có chi tiết bước thực hiện không được nguồn xác nhận → viết lại cho khớp nguồn đã ghi.",
+ "editSteps": {
+  "ez-bar-skull-crusher": {
+   "1": "Giữ khoảng cách giữa hai khuỷu không đổi trong suốt động tác.",
+   "2": "Gập khuỷu, hạ thanh xuống ra phía sau đầu."
+  },
+  "bodyweight-triceps-extension": {
+   "0": "Nắm xà bằng tay sấp rộng bằng vai, lùi chân để người nghiêng thẳng như tư thế plank đứng; xà càng cao bài càng dễ, càng thấp càng khó."
+  }
+ }
+}

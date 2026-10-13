@@ -1,0 +1,49 @@
+{
+ "C2_app_click_every_muscle": {
+  "pass": true,
+  "passed": 40,
+  "total": 40,
+  "failed": {}
+ },
+ "C8_flows": {
+  "pass": true,
+  "defaultTab": "gym",
+  "gymIds": 8,
+  "gymMatchesData": true,
+  "gymSorted": true,
+  "caliIds": 7,
+  "caliMatchesData": true,
+  "caliSorted": true,
+  "detail": {
+   "exercise": "flexed-arm-hang",
+   "stepsShown": true,
+   "chip": "brachioradialis",
+   "chipSelects": true
+  },
+  "keyboardSelected": "triceps-brachii",
+  "exceptionNoteShown": true
+ },
+ "C9_attribution": {
+  "pass": true,
+  "exactSentence": true,
+  "mirrorNamed": true
+ },
+ "C8_mobile": {
+  "pass": true,
+  "horizontalOverflow": false,
+  "modelAbovePanel": true
+ },
+ "C10_budget": {
+  "pass": true,
+  "glbBytes": 5017708,
+  "triangles": 597453,
+  "drawCalls": 83,
+  "loadMs": 270,
+  "note": "đo trong container SwiftShader; FPS máy thật chưa đo"
+ },
+ "C1_console": {
+  "pass": true,
+  "errors": []
+ },
+ "allPass": true
+}

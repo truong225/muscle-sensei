@@ -1,0 +1,76 @@
+muscles.glb — licence and attribution
+=====================================
+
+ATTRIBUTION (required, verbatim):
+
+  BodyParts3D, Copyright© The Database Center for Life Science licensed by CC Attribution-Share Alike 2.1 Japan
+
+LICENCE: Creative Commons Attribution-ShareAlike 2.1 Japan (CC BY-SA 2.1 JP)
+  https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en
+
+
+What this file is
+-----------------
+muscles.glb is a DERIVATIVE WORK of BodyParts3D release 3.0 (20110915).
+It is NOT the original data. Changes made by the "Bản đồ cơ bắp 3D" project
+(tools/model/build-model.mjs, 2026-10-12):
+
+  - only a selection of meshes is used (674 STL files: muscles that can be
+    selected, plus context muscles and bones listed in src/data/muscles.json);
+  - meshes were merged per training-muscle unit and side
+    (nodes "muscle:<id>:<L|R|C>"), context muscles merged into one node
+    ("context:muscles"), bones into one node ("context:bones");
+  - meshes were decimated (meshoptimizer) to about 597,000 triangles in total;
+  - axes and units were changed (BodyParts3D mm, Z-up -> metres, Y-up);
+  - normals were recomputed; vertex data was quantized and compressed
+    (KHR_mesh_quantization, EXT_meshopt_compression) into a single GLB.
+
+The GLB also carries this attribution in its scene "extras"
+(source, license, attribution, modified).
+
+
+Where the source data came from
+-------------------------------
+  Original archive (BodyParts3D 3.0, 20110915):
+    https://dbarchive.biosciencedbc.jp/data/bodyparts3d/20110915/
+  Obtained via the GitHub mirror:
+    https://github.com/Kevin-Mattheus-Moerman/BodyParts3D
+  The original server could not be reached from the build environment, so the
+  mirror was used. According to the mirror's README, its data was downloaded
+  from the archive above with wget, and the OBJ files of
+  BodyParts3D_3.0_obj_95.zip were converted by the mirror maintainer to binary
+  STL files (FMA IDs kept as file names). This project used those STL files.
+  Project home page: http://lifesciencedb.jp/bp3d/
+  Licence page: http://dbarchive.biosciencedbc.jp/en/bodyparts3d/lic.html
+
+(The MIT licence in the mirror repository covers only its software/code, not
+the 3D model content, which remains CC BY-SA 2.1 JP.)
+
+
+Citation (as requested in the mirror README)
+--------------------------------------------
+  Mitsuhashi N, Fujieda K, Tamura T, Kawamoto S, Takagi T, Okubo K.
+  BodyParts3D: 3D structure database for anatomical concepts.
+  Nucleic Acids Res. 2009 Jan;37(Database issue):D782-5.
+  https://doi.org/10.1093/nar/gkn613
+
+  Data archive DOI: https://doi.org/10.18908/lsdba.nbdc00837-000
+
+
+Licence of this derivative
+--------------------------
+This derivative (muscles.glb) is released under the SAME licence,
+CC BY-SA 2.1 JP. If you reuse or modify it, you must keep the attribution
+sentence above, state that changes were made, and share your adaptation
+under the same licence.
+
+
+Tóm tắt (tiếng Việt)
+--------------------
+muscles.glb là bản CHỈNH SỬA từ BodyParts3D 3.0 (20110915): chỉ lấy một phần
+lưới, gộp theo đơn vị cơ, giảm lưới, đổi hệ trục/đơn vị và nén thành một tệp
+GLB. Dữ liệu gốc lấy qua bản sao GitHub Kevin-Mattheus-Moerman/BodyParts3D
+(người duy trì bản sao đã chuyển OBJ sang STL), vì máy chủ gốc
+dbarchive.biosciencedbc.jp không truy cập được lúc dựng mô hình.
+Giấy phép: CC BY-SA 2.1 Nhật Bản. Bản chỉnh sửa này được phát hành theo
+CÙNG giấy phép. Khi dùng lại phải giữ nguyên câu ghi công ở đầu tệp.

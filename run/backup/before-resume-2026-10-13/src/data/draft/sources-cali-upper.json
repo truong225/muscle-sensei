@@ -1,0 +1,434 @@
+{
+  "https://www.liftosaur.com/programs/recommended-routine": {
+    "title": "Recommended Routine (by r/bodyweightfitness)",
+    "publisher": "Liftosaur",
+    "checked": "2026-10-11",
+    "supports": "Thứ tự các bậc trong chuỗi Kéo xà, Dips, Row, Push-up của r/bodyweightfitness RR"
+  },
+  "https://reddit.rtrace.io/r/bodyweightfitness/wiki/kb/recommended_routine": {
+    "title": "r/bodyweightfitness Recommended Routine (bản mirror)",
+    "publisher": "r/bodyweightfitness (mirror reddit.rtrace.io)",
+    "checked": "2026-10-11",
+    "supports": "Điều kiện lên bậc 3×5 → 3×8, giữ tĩnh 3×30 giây; arch hang, support hold, các biến thể push-up khó hơn (decline, diamond, ring, pseudo planche)"
+  },
+  "https://lr.in.psf.lt/r/bodyweightfitness/wiki/exercises/pushup": {
+    "title": "Pushup Progression – r/bodyweightfitness wiki (bản mirror)",
+    "publisher": "r/bodyweightfitness (mirror lr.in.psf.lt)",
+    "checked": "2026-10-11",
+    "supports": "Chuỗi chống đẩy: tường → dốc lên → chuẩn → kim cương → pseudo planche; nhánh rings push-up; khẩu lệnh kỹ thuật"
+  },
+  "https://twt.omada.cafe/r/bodyweightfitness/wiki/exercises/pseudo-planche-pushup": {
+    "title": "Pseudo Planche Pushup – r/bodyweightfitness wiki (bản mirror)",
+    "publisher": "r/bodyweightfitness (mirror twt.omada.cafe)",
+    "checked": "2026-10-11",
+    "supports": "Kỹ thuật pseudo planche push-up; điều kiện tiên quyết là diamond push-up"
+  },
+  "https://redlib.hackliberty.org/r/bodyweightfitness/wiki/exercises/row": {
+    "title": "Row Progression – r/bodyweightfitness wiki (bản mirror)",
+    "publisher": "r/bodyweightfitness (mirror redlib.hackliberty.org)",
+    "checked": "2026-10-11",
+    "supports": "Chuỗi row: vertical → incline → horizontal → wide; nhánh archer row và tuck front lever row; khẩu lệnh kỹ thuật"
+  },
+  "https://r.datuan.dev/r/bodyweightfitness/wiki/exercises/dip": {
+    "title": "Dip Progression – r/bodyweightfitness wiki (bản mirror)",
+    "publisher": "r/bodyweightfitness (mirror r.datuan.dev)",
+    "checked": "2026-10-11",
+    "supports": "Chuỗi dips: support hold → negative dips → parallel bar dips → ring dips (cần RTO support 60 giây); khẩu lệnh kỹ thuật"
+  },
+  "https://www.strengthlog.com/push-up-against-wall/": {
+    "title": "How to Do Push-Up Against Wall",
+    "publisher": "StrengthLog",
+    "checked": "2026-10-11",
+    "supports": "Kỹ thuật chống đẩy vào tường; cơ chính ngực, delta trước"
+  },
+  "https://www.strengthlog.com/incline-push-up/": {
+    "title": "How to Do Incline Push-Up",
+    "publisher": "StrengthLog",
+    "checked": "2026-10-11",
+    "supports": "Kỹ thuật chống đẩy dốc lên; nhẹ hơn chống đẩy chuẩn"
+  },
+  "https://www.strengthlog.com/push-up/": {
+    "title": "How to Do Push-Up",
+    "publisher": "StrengthLog",
+    "checked": "2026-10-11",
+    "supports": "Kỹ thuật chống đẩy; nâng khoảng 70% trọng lượng cơ thể; cơ chính ngực, delta trước"
+  },
+  "https://www.strengthlog.com/decline-push-up/": {
+    "title": "How to Do Decline Push-Up",
+    "publisher": "StrengthLog",
+    "checked": "2026-10-11",
+    "supports": "Kỹ thuật chống đẩy dốc xuống; kê chân làm tăng tải"
+  },
+  "https://www.strengthlog.com/close-grip-push-up/": {
+    "title": "How to Do Close-Grip Push-Up",
+    "publisher": "StrengthLog",
+    "checked": "2026-10-11",
+    "supports": "Chống đẩy tay hẹp; cơ chính tam đầu"
+  },
+  "https://www.nasm.org/resource-center/exercise-library/archer-push-up": {
+    "title": "Archer Push-Up",
+    "publisher": "NASM",
+    "checked": "2026-10-11",
+    "supports": "Kỹ thuật archer push-up, mức nâng cao; cơ chính ngực lớn, tam đầu"
+  },
+  "https://strengthlog.com/bench-dip": {
+    "title": "How to Do Bench Dip",
+    "publisher": "StrengthLog",
+    "checked": "2026-10-11",
+    "supports": "Kỹ thuật dips trên ghế; cơ chính tam đầu"
+  },
+  "https://www.strengthlog.com/bar-dip/": {
+    "title": "How to Do Bar Dips",
+    "publisher": "StrengthLog",
+    "checked": "2026-10-11",
+    "supports": "Kỹ thuật dips xà kép; cơ chính ngực, delta trước, tam đầu; lưu ý vai và xương ức"
+  },
+  "https://www.strengthlog.com/ring-dip/": {
+    "title": "How to Do Ring Dip",
+    "publisher": "StrengthLog",
+    "checked": "2026-10-11",
+    "supports": "Kỹ thuật dips trên vòng; bài nặng, tăng khối lượng từ từ"
+  },
+  "https://antranik.org/support-hold/": {
+    "title": "Progressions for the RTO Support Hold",
+    "publisher": "Antranik.org",
+    "checked": "2026-10-11",
+    "supports": "Chuỗi giữ chống: xà kép → vòng tay trung tính → vòng xoay ngoài (RTO); vai ấn xuống, thời gian mục tiêu 60 giây"
+  },
+  "https://www.caliverse.app/exercises/scapula-dips-506": {
+    "title": "Scapula Dips",
+    "publisher": "Caliverse",
+    "checked": "2026-10-11",
+    "supports": "Kỹ thuật dips bả vai (hạ/nâng bả vai trên xà kép, tay thẳng); mức dễ"
+  },
+  "https://brookbushinstitute.com/articles/pectoralis-minor": {
+    "title": "Pectoralis Minor",
+    "publisher": "Brookbush Institute",
+    "checked": "2026-10-11",
+    "supports": "Cơ ngực bé góp phần đưa bả vai ra trước, hạ bả vai và nghiêng bả vai ra trước"
+  },
+  "https://www.strengthlog.com/scap-pull-up/": {
+    "title": "How to Do Scap Pull-Ups",
+    "publisher": "StrengthLog",
+    "checked": "2026-10-11",
+    "supports": "Kỹ thuật kéo xà bả vai: kéo bả vai xuống và vào trong, tay thẳng"
+  },
+  "https://www.liftosaur.com/exercises/bodyweight-arch-hang": {
+    "title": "Bodyweight Arch Hang",
+    "publisher": "Liftosaur",
+    "checked": "2026-10-11",
+    "supports": "Kỹ thuật treo ưỡn; cơ đích cơ lưng rộng, cơ hiệp đồng cơ tròn lớn, cơ thang giữa/dưới; giữ 20–30 giây trước khi sang negative"
+  },
+  "https://www.strengthlog.com/pull-up/": {
+    "title": "How to Do Pull-Ups",
+    "publisher": "StrengthLog",
+    "checked": "2026-10-11",
+    "supports": "Kỹ thuật hít xà; cơ chính cơ lưng rộng; ghi chú hít xà âm bản gây đau cơ nhiều"
+  },
+  "https://www.strengthlog.com/chin-up/": {
+    "title": "How to Do Chin-Up",
+    "publisher": "StrengthLog",
+    "checked": "2026-10-11",
+    "supports": "Kỹ thuật hít xà tay ngửa; cơ chính cơ lưng rộng, phụ nhị đầu"
+  },
+  "https://www.strengthlog.com/pull-ups-with-a-neutral-grip/": {
+    "title": "How to Do Pull-Ups With a Neutral Grip",
+    "publisher": "StrengthLog",
+    "checked": "2026-10-11",
+    "supports": "Kỹ thuật hít xà tay trung tính; tay trung tính cho phép dồn thêm vào nhóm gấp khuỷu"
+  },
+  "https://www.strengthlog.com/towel-pull-up/": {
+    "title": "How to Do Towel Pull-Up",
+    "publisher": "StrengthLog",
+    "checked": "2026-10-11",
+    "supports": "Hít xà bằng khăn; cơ chính nhóm gấp cẳng tay và cơ lưng rộng; đòi hỏi lực nắm cao"
+  },
+  "https://barbend.com/l-sit-pull-up": {
+    "title": "L-Sit Pull-Up – Muscles Worked, Exercise Demo, and Benefits",
+    "publisher": "BarBend",
+    "checked": "2026-10-11",
+    "supports": "L-sit pull-up là bài tự trọng nâng cao, cần làm được hít xà nghiêm và L-sit treo"
+  },
+  "https://www.liftosaur.com/exercises/bodyweight-archer-pull-up": {
+    "title": "Bodyweight Archer Pull Up",
+    "publisher": "Liftosaur",
+    "checked": "2026-10-11",
+    "supports": "Kỹ thuật archer pull-up; bước đệm tới hít xà một tay; cơ đích cơ lưng rộng, hiệp đồng cơ tròn lớn"
+  },
+  "https://www.strengthlog.com/bar-muscle-up/": {
+    "title": "How to Do Bar Muscle-Up",
+    "publisher": "StrengthLog",
+    "checked": "2026-10-11",
+    "supports": "Muscle-up trên xà là kỹ năng nâng cao; cần khoảng 12–15 lần hít xà và đẩy lên từ đáy dips"
+  },
+  "https://breakingmuscle.com/how-to-build-up-to-the-front-lever/": {
+    "title": "How to Build Up to the Front Lever",
+    "publisher": "Breaking Muscle (Logan Christopher)",
+    "checked": "2026-10-11",
+    "supports": "Chuỗi front lever: tuck → advanced tuck → một chân → full; khẩu lệnh ép tay xuống bằng cơ xô"
+  },
+  "https://www.liftosaur.com/exercises/bodyweight-vertical-row": {
+    "title": "Bodyweight Vertical Row",
+    "publisher": "Liftosaur",
+    "checked": "2026-10-11",
+    "supports": "Kỹ thuật row đứng gần thẳng; cơ đích cơ lưng rộng, cơ thang giữa/dưới"
+  },
+  "https://www.strengthlog.com/inverted-row/": {
+    "title": "How to Do Inverted Row",
+    "publisher": "StrengthLog",
+    "checked": "2026-10-11",
+    "supports": "Kỹ thuật inverted row; cơ chính cơ lưng rộng, cơ thang, delta sau"
+  },
+  "https://www.strengthlog.com/inverted-row-with-underhand-grip/": {
+    "title": "How to Do Inverted Row with Underhand Grip",
+    "publisher": "StrengthLog",
+    "checked": "2026-10-11",
+    "supports": "Inverted row tay ngửa có thể dùng nhiều nhóm gấp khuỷu hơn"
+  },
+  "https://www.strengthlog.com/bodyweight-curl/": {
+    "title": "How to Do Bodyweight Curl",
+    "publisher": "StrengthLog",
+    "checked": "2026-10-11",
+    "supports": "Kỹ thuật cuộn tay tự trọng trên vòng treo/dây treo; cơ chính nhị đầu"
+  },
+  "https://motra.com/exercises/trxHammerCurl": {
+    "title": "Suspension Trainer Hammer Curl",
+    "publisher": "Motra",
+    "checked": "2026-10-11",
+    "supports": "Cuộn tay búa trên dây treo (lòng bàn tay đối nhau); mức trung cấp 3/5; cơ chính nhị đầu/cơ cánh tay và nhóm gấp cẳng tay"
+  },
+  "https://frontiersin.org/journals/physiology/articles/10.3389/fphys.2015.00215/full": {
+    "title": "Muscular coordination of biceps brachii and brachioradialis in elbow flexion with respect to hand position (Kleiber et al., 2015)",
+    "publisher": "Frontiers in Physiology",
+    "checked": "2026-10-11",
+    "supports": "Cơ cánh tay quay góp phần gấp khuỷu nhiều hơn khi cẳng tay sấp; nhị đầu gần như không đổi theo tư thế bàn tay"
+  },
+  "https://tomsguide.com/features/forget-press-ups-5-best-bodyweight-exercises-to-sculpt-your-biceps": {
+    "title": "Forget press ups — 5 best bodyweight exercises to sculpt your biceps",
+    "publisher": "Tom's Guide",
+    "checked": "2026-10-11",
+    "supports": "Các bài tay trước tự trọng: TRX curl, curl tay trung tính, inverted row tay trung tính, hít xà tay trung tính"
+  },
+  "https://www.strengthlog.com/triceps-bodyweight-extension/": {
+    "title": "How to Do Triceps Bodyweight Extension",
+    "publisher": "StrengthLog",
+    "checked": "2026-10-11",
+    "supports": "Kỹ thuật duỗi tam đầu tự trọng trên xà; xà thấp hơn thì khó hơn"
+  },
+  "https://www.nasm.org/resource-center/exercise-library/pike-push-up": {
+    "title": "Pike Push-Up",
+    "publisher": "NASM",
+    "checked": "2026-10-11",
+    "supports": "Kỹ thuật pike push-up; cơ chính delta trước; cần nền chống đẩy trước"
+  },
+  "https://bibleofcalisthenics.substack.com/p/wall-handstand-push-up-progression": {
+    "title": "Wall Handstand Push-up Progression – From Beginner to Advanced",
+    "publisher": "Bible of Calisthenics (Substack)",
+    "checked": "2026-10-11",
+    "supports": "Chuỗi pike push-up → pike kê chân → wall walk → giữ trồng chuối áp tường → HSPU áp tường; lưu ý an toàn"
+  },
+  "https://www.strengthlog.com/wall-walk/": {
+    "title": "How To Wall Walk",
+    "publisher": "StrengthLog",
+    "checked": "2026-10-11",
+    "supports": "Kỹ thuật wall walk; cơ chính delta trước; bài tự trọng khó, bước đệm tới trồng chuối"
+  },
+  "https://www.strengthlog.com/handstand-push-up/": {
+    "title": "How to Do Handstand Push-Ups",
+    "publisher": "StrengthLog",
+    "checked": "2026-10-11",
+    "supports": "HSPU là bài tự trọng nâng cao cần sức mạnh và thăng bằng; cơ chính delta trước"
+  },
+  "https://www.caliverse.app/exercises/planche-lean-538": {
+    "title": "Planche Lean",
+    "publisher": "Caliverse",
+    "checked": "2026-10-11",
+    "supports": "Kỹ thuật planche lean: tay thẳng, đẩy bả vai ra trước, đổ vai qua tay; mức trung bình; lưu ý cổ tay"
+  },
+  "https://akuaku.org/Sarco+/progression-planche-progression.html": {
+    "title": "Planche Progression · Sarco+ Data",
+    "publisher": "SARCO+ (akuaku.org)",
+    "checked": "2026-10-11",
+    "supports": "Chuỗi planche: planche lean (2/5) → tuck planche (3/5) → advanced tuck → straddle → full"
+  },
+  "https://us.physitrack.com/home-exercise-video/scapula-push-up---wall-push-up-plus": {
+    "title": "Scapula push up – Wall push up plus",
+    "publisher": "Physitrack",
+    "checked": "2026-10-11",
+    "supports": "Kỹ thuật chống đẩy bả vai vào tường: tay thẳng, đẩy thân xa tường bằng bả vai"
+  },
+  "https://www.ovid.com/journals/ajsm/pdf/00000475-200403000-00029~relative-balance-of-serratus-anterior-and-upper-trapezius": {
+    "title": "Relative Balance of Serratus Anterior and Upper Trapezius Muscle Activity During Push-Up Exercises (Ludewig et al., 2004)",
+    "publisher": "American Journal of Sports Medicine (Ovid)",
+    "checked": "2026-10-11",
+    "supports": "Push-up plus chuẩn kích hoạt cơ răng cưa trước cao nhất (tới 123%); bản vào tường có tỉ lệ thang trên/răng cưa cao hơn"
+  },
+  "https://profiles.wustl.edu/en/publications/a-comparison-of-serratus-anterior-muscle-activation-during-a-wall/": {
+    "title": "A comparison of serratus anterior muscle activation during a wall slide exercise and other traditional exercises (Hardwick et al., 2006)",
+    "publisher": "Washington University in St. Louis (JOSPT)",
+    "checked": "2026-10-11",
+    "supports": "Wall slide kích hoạt cơ răng cưa trước tương đương push-up plus và scaption ở 90° trở lên"
+  },
+  "https://us.humankinetics.com/blogs/excerpt/push-up-with-plus-exercise": {
+    "title": "Push-up with plus exercise (Sport Injury Prevention Anatomy)",
+    "publisher": "Human Kinetics",
+    "checked": "2026-10-11",
+    "supports": "Kỹ thuật push-up plus; cơ chính răng cưa trước, ngực lớn, delta trước, tam đầu; phụ chóp xoay"
+  },
+  "https://utsouthwestern.elsevierpure.com/en/publications/subscapularis-muscle-activity-during-selected-rehabilitation-exer": {
+    "title": "Subscapularis muscle activity during selected rehabilitation exercises (Decker et al., 2003)",
+    "publisher": "UT Southwestern (American Journal of Sports Medicine)",
+    "checked": "2026-10-11",
+    "supports": "Push-up plus và bài chéo kích hoạt cơ dưới vai nhiều hơn các bài xoay trong truyền thống"
+  },
+  "https://theprehabguys.com/vimeo-video/prone-ys-unsupported/": {
+    "title": "Prone Ys – Unsupported",
+    "publisher": "The Prehab Guys",
+    "checked": "2026-10-11",
+    "supports": "Kỹ thuật nâng tay chữ Y khi nằm sấp, không tạ; giữ cằm thu, không nhún vai"
+  },
+  "https://theprehabguys.com/vimeo-video/prone-ts/": {
+    "title": "Prone Ts",
+    "publisher": "The Prehab Guys",
+    "checked": "2026-10-11",
+    "supports": "Kỹ thuật nâng tay chữ T khi nằm sấp, không tạ; khởi động từ bả vai; bản dễ một tay"
+  },
+  "https://northcheshireandmersey.nhs.uk/media/cq5b2ddw/neck-strengthening-exercises-patient-advice-sheet.pdf": {
+    "title": "Neck Strengthening Exercises (patient advice sheet)",
+    "publisher": "NHS – Musculoskeletal Physiotherapy",
+    "checked": "2026-10-11",
+    "supports": "Bài Y/T/W ở tư thế quỳ bốn điểm; bài gồng cổ gập và nghiêng có tay cản (giữ 10 giây, 3×3)"
+  },
+  "https://oliverfinlay.com/assets/pdf/escamilla%20%26%20andrews%20(2009)%20shoulder%20muscle%20activity%20%26%20function%20in%20common%20shoulder%20rehabilitation%20exercises%20(abstract).pdf": {
+    "title": "Shoulder muscle activity and function in common shoulder rehabilitation exercises (Escamilla et al., 2009) – abstract",
+    "publisher": "Sports Medicine (bản tóm tắt lưu tại oliverfinlay.com)",
+    "checked": "2026-10-11",
+    "supports": "Dạng ngang khi nằm sấp ở 100° có xoay ngoài, full can, xoay ngoài/xoay trong ở 0° và 90°, và chống đẩy đều kích hoạt chóp xoay mức cao"
+  },
+  "https://julielohre.com/wall-angels/": {
+    "title": "Wall Angels: How to Do the Wall Angel Exercise for Posture",
+    "publisher": "Julie Lohre",
+    "checked": "2026-10-11",
+    "supports": "Kỹ thuật wall angel; cơ chính thang giữa/dưới; phụ delta sau, chóp xoay, răng cưa trước"
+  },
+  "https://physiorehab-com.treepl.co/rehab-exercise-library/s1-external-rotation-sidelying": {
+    "title": "S1 | External Rotation (unweighted) – Sidelying",
+    "publisher": "PhysioRehab exercise library",
+    "checked": "2026-10-11",
+    "supports": "Xoay ngoài khi nằm nghiêng không tạ; cơ đích cơ dưới gai và tròn bé"
+  },
+  "https://ijspt.scholasticahq.com/article/74969": {
+    "title": "Effect of Scapular Retraction on Lower Trapezius, Infraspinatus, and Deltoid EMG During the Side-Lying Abduction Exercise (Tsuruike & Ellenbecker, 2023)",
+    "publisher": "International Journal of Sports Physical Therapy",
+    "checked": "2026-10-11",
+    "supports": "Bài xoay ngoài nằm nghiêng kích hoạt cơ dưới gai rõ hơn các tư thế dạng tay nằm nghiêng"
+  },
+  "https://www.stoneclinic.com/node/395": {
+    "title": "Shoulder Isometrics",
+    "publisher": "The Stone Clinic",
+    "checked": "2026-10-11",
+    "supports": "Gồng tĩnh vai vào tường/khung cửa: xoay ngoài, xoay trong, dạng; bắt đầu 20% lực, giữ 5–10 giây"
+  },
+  "https://leicspart.nhs.uk/wp-content/uploads/2022/07/475-Shoulder-exercises.pdf": {
+    "title": "Basic shoulder exercises (leaflet 475)",
+    "publisher": "Leicestershire Partnership NHS Trust",
+    "checked": "2026-10-11",
+    "supports": "Gồng tĩnh vai vào tường: dạng, xoay ngoài, xoay trong; giữ 10 giây, 10–20 lần"
+  },
+  "https://www.strengthlog.com/bar-hang/": {
+    "title": "How to Do Bar Hang",
+    "publisher": "StrengthLog",
+    "checked": "2026-10-11",
+    "supports": "Treo xà; cơ chính nhóm gấp cẳng tay; luyện lực nắm và vai"
+  },
+  "https://www.strengthlog.com/one-handed-bar-hang/": {
+    "title": "How to Do One-Handed Bar Hang",
+    "publisher": "StrengthLog",
+    "checked": "2026-10-11",
+    "supports": "Treo xà một tay; cơ chính nhóm gấp cẳng tay; bắt đầu bằng hiệp ngắn, vai chủ động"
+  },
+  "https://www.caliverse.app/exercises/false-grip-hang-1091": {
+    "title": "False Grip Hang",
+    "publisher": "Caliverse",
+    "checked": "2026-10-11",
+    "supports": "Kỹ thuật treo false grip trên vòng; mức dễ; lưu ý cổ tay nằm trên vòng"
+  },
+  "https://preview.dieringe.com/exercises/false-grip-row": {
+    "title": "False Grip Row with gym rings",
+    "publisher": "Dieringe",
+    "checked": "2026-10-11",
+    "supports": "False grip row; cơ chính nhóm gấp/duỗi cổ tay và cơ lưng rộng; tải lớn lên cổ tay, tăng dần"
+  },
+  "https://www.artofmanliness.com/health-fitness/fitness/gymnastic-rings-101-how-to-grip-the-rings/": {
+    "title": "Gymnastic Rings 101: How to Grip the Rings",
+    "publisher": "The Art of Manliness (Ryan Hurst)",
+    "checked": "2026-10-11",
+    "supports": "Cách nắm false grip: cổ tay gập, vòng nằm giữa lòng bàn tay; góc cổ tay sai dễ chấn thương"
+  },
+  "https://antranik.org/avoid-wrist-pain/": {
+    "title": "How to avoid wrist pain in yoga and bodyweight exercises",
+    "publisher": "Antranik.org",
+    "checked": "2026-10-11",
+    "supports": "Chuỗi palm pulses (quỳ → plank) và chuỗi chống đẩy mu bàn tay (quỳ → tường → plank)"
+  },
+  "https://gmb.io/?p=102288": {
+    "title": "Wrist Strengthening Exercises: Build Strong, Mobile Wrists",
+    "publisher": "GMB Fitness",
+    "checked": "2026-10-11",
+    "supports": "Các bài cổ tay tự trọng: finger pulses (nhấc lòng bàn tay), palms-up pulses (mu bàn tay chạm sàn)"
+  },
+  "https://breakingmuscle.com/the-fingertip-push-up-training-plan/": {
+    "title": "The Fingertip Push-Up Training Plan",
+    "publisher": "Breaking Muscle (Shane Trotter)",
+    "checked": "2026-10-11",
+    "supports": "Chống đẩy đầu ngón cần thành thạo chống đẩy trước; tiến chậm; nhấn mạnh cẳng tay và lực ngón"
+  },
+  "https://www.racgp.org.au/FSDEDEV/media/documents/Clinical%20Resources/HANDI/Physiotherapy-lateral-epicondylitis.pdf": {
+    "title": "Physiotherapy: lateral epicondylitis (HANDI)",
+    "publisher": "RACGP",
+    "checked": "2026-10-11",
+    "supports": "Bài gồng tĩnh duỗi cổ tay chống lại lực ấn của tay kia; bài duỗi cổ tay động cần dây chun hoặc tạ nhỏ"
+  },
+  "https://healthy.kaiserpermanente.org/health-wellness/health-encyclopedia/he.golfers-elbow-exercises.av2582": {
+    "title": "Golfer's Elbow: Exercises",
+    "publisher": "Kaiser Permanente",
+    "checked": "2026-10-11",
+    "supports": "Các bài kháng lực cổ tay/cẳng tay đều dùng tạ hoặc dây chun; phần không tạ chỉ là bài kéo giãn"
+  },
+  "https://www.strengthlog.com/lying-neck-curl/": {
+    "title": "How to Do Lying Neck Curl",
+    "publisher": "StrengthLog",
+    "checked": "2026-10-11",
+    "supports": "Gập cổ khi nằm ngửa, có thể làm không tạ; cơ trước cổ"
+  },
+  "https://www.strengthlog.com/lying-neck-extension/": {
+    "title": "How to Do Lying Neck Extension",
+    "publisher": "StrengthLog",
+    "checked": "2026-10-11",
+    "supports": "Duỗi cổ khi nằm sấp, có thể làm không tạ; cơ sau cổ"
+  },
+  "https://www.strengthlog.com/prone-neck-bridge/": {
+    "title": "How to Do Prone Neck Bridge",
+    "publisher": "StrengthLog",
+    "checked": "2026-10-11",
+    "supports": "Cầu cổ úp trán trên ghế: thay thế an toàn hơn cầu đô vật"
+  },
+  "https://www.strengthlog.com/supine-neck-bridge/": {
+    "title": "How to Do Supine Neck Bridge",
+    "publisher": "StrengthLog",
+    "checked": "2026-10-11",
+    "supports": "Cầu cổ ngửa trên ghế: dễ và an toàn hơn bản trên sàn"
+  },
+  "https://doctoryessis.com/2013/01/01/lateral-head-raises/": {
+    "title": "Lateral Head Raises",
+    "publisher": "Dr. Yessis SportLab",
+    "checked": "2026-10-11",
+    "supports": "Nghiêng đầu khi nằm nghiêng: cơ ức đòn chũm, cơ thang trên, cơ bậc thang; chỉ di chuyển trong một mặt phẳng"
+  },
+  "https://www.kenhub.com/en/library/anatomy/levator-scapulae-muscle": {
+    "title": "Levator scapulae muscle",
+    "publisher": "Kenhub",
+    "checked": "2026-10-11",
+    "supports": "Cơ nâng vai nâng bả vai; khi bả vai cố định thì nghiêng cổ cùng bên và duỗi cổ"
+  }
+}

@@ -1,0 +1,409 @@
+{
+  "demote": {
+    "pike-push-up": [
+      "deltoid-lateral"
+    ],
+    "elevated-pike-push-up": [
+      "deltoid-lateral"
+    ],
+    "push-press": [
+      "deltoid-lateral"
+    ],
+    "cuban-press": [
+      "deltoid-lateral"
+    ],
+    "parallel-bar-support-hold": [
+      "pectoralis-minor"
+    ],
+    "ring-support-hold": [
+      "pectoralis-minor"
+    ],
+    "scapula-dip": [
+      "pectoralis-minor"
+    ]
+  },
+  "addSources": {
+    "archer-push-up": [
+      "https://iris.unipa.it/bitstream/10447/215355/1/MARCOLIN%202015.pdf"
+    ],
+    "diamond-push-up": [
+      "https://akuaku.org/Sarco+/exercise-diamond-push-up.html",
+      "https://iris.unipa.it/bitstream/10447/215355/1/MARCOLIN%202015.pdf"
+    ],
+    "incline-push-up": [
+      "https://iris.unipa.it/bitstream/10447/215355/1/MARCOLIN%202015.pdf"
+    ],
+    "push-up": [
+      "https://iris.unipa.it/bitstream/10447/215355/1/MARCOLIN%202015.pdf"
+    ],
+    "ring-push-up": [
+      "https://iris.unipa.it/bitstream/10447/215355/1/MARCOLIN%202015.pdf"
+    ],
+    "wall-push-up": [
+      "https://iris.unipa.it/bitstream/10447/215355/1/MARCOLIN%202015.pdf"
+    ],
+    "pseudo-planche-push-up": [
+      "https://akuaku.org/Sarco+/exercise-pseudo-planche-push-up.html",
+      "https://iris.unipa.it/bitstream/10447/215355/1/MARCOLIN%202015.pdf"
+    ],
+    "negative-dip": [
+      "https://akuaku.org/Sarco+/exercise-parallel-bar-dip-negative.html"
+    ],
+    "parallel-bar-dip": [
+      "https://akuaku.org/Sarco+/exercise-parallel-bar-dip.html"
+    ],
+    "weighted-dip": [
+      "https://akuaku.org/Sarco+/exercise-parallel-bar-dip.html"
+    ],
+    "planche-lean": [
+      "https://akuaku.org/Sarco+/exercise-planche-lean.html"
+    ],
+    "tuck-planche": [
+      "https://akuaku.org/Sarco+/exercise-tuck-planche.html"
+    ],
+    "pike-push-up": [
+      "https://akuaku.org/Sarco+/exercise-pike-push-up.html"
+    ],
+    "elevated-pike-push-up": [
+      "https://akuaku.org/Sarco+/exercise-elevated-pike-push-up.html"
+    ],
+    "wall-handstand-push-up": [
+      "https://akuaku.org/Sarco+/exercise-wall-handstand-push-up.html"
+    ],
+    "wall-handstand-hold": [
+      "https://akuaku.org/Sarco+/exercise-wall-handstand-chest-to-wall.html",
+      "https://da.lib.kobe-u.ac.jp/da/kernel/0100483389/0100483389.pdf"
+    ],
+    "parallel-bar-support-hold": [
+      "https://dieringe.com/exercises/support-hold"
+    ],
+    "ring-support-hold": [
+      "https://dieringe.com/exercises/ring-support-hold"
+    ],
+    "scapula-dip": [
+      "https://fitnessvolt.com/substitute-exercises/scapula-dips-alternatives/"
+    ],
+    "prone-w-raise": [
+      "https://theprehabguys.com/vimeo-video/prone-ws/"
+    ],
+    "machine-chest-press": [
+      "https://jhk.termedia.pl/Comparison-of-Muscle-Activity-between-the-Horizontal-Bench-Press-and-the-Seated-Chest,161468,0,2.html"
+    ],
+    "barbell-bench-press": [
+      "https://jhk.termedia.pl/Comparison-of-Muscle-Activity-between-the-Horizontal-Bench-Press-and-the-Seated-Chest,161468,0,2.html"
+    ],
+    "dumbbell-pullover": [
+      "https://jses.net/wp-content/uploads/2025/02/JSES_Washif-et-al.-2024_Volume-8-Issue-2-Article-3.pdf"
+    ],
+    "dumbbell-fly": [
+      "https://www.barbellmedicine.com/blog/best-cable-chest-exercises/"
+    ],
+    "pec-deck": [
+      "https://www.barbellmedicine.com/blog/best-cable-chest-exercises/",
+      "https://en.wikipedia.org/wiki/Fly_(exercise)"
+    ],
+    "cable-crossover": [
+      "https://www.barbellmedicine.com/blog/best-cable-chest-exercises/"
+    ],
+    "barbell-upright-row": [
+      "https://digitalcommons.memphis.edu/facpubs/9848"
+    ],
+    "barbell-overhead-shrug": [
+      "https://akuaku.org/Sarco+/exercise-wall-scapular-shrug.html"
+    ]
+  },
+  "removeSources": {
+    "pec-deck": [
+      "https://www.barbellmedicine.com/blog/best-upper-chest-exercises-for-bigger-pecs/"
+    ],
+    "dumbbell-fly": [
+      "https://www.barbellmedicine.com/blog/best-upper-chest-exercises-for-bigger-pecs/"
+    ],
+    "cable-crossover": [
+      "https://www.barbellmedicine.com/blog/best-upper-chest-exercises-for-bigger-pecs/"
+    ],
+    "tuck-planche": [
+      "https://www.caliverse.app/exercises/planche-lean-538"
+    ],
+    "prone-w-raise": [
+      "https://northcheshireandmersey.nhs.uk/media/cq5b2ddw/neck-strengthening-exercises-patient-advice-sheet.pdf"
+    ],
+    "prone-y-raise-bodyweight": [
+      "https://northcheshireandmersey.nhs.uk/media/cq5b2ddw/neck-strengthening-exercises-patient-advice-sheet.pdf"
+    ],
+    "wall-handstand-hold": [
+      "https://www.12minuteathlete.com/shoulder-shrug-drills/"
+    ]
+  },
+  "sourcesRegistry": {
+    "https://iris.unipa.it/bitstream/10447/215355/1/MARCOLIN%202015.pdf": {
+      "title": "Selective Activation of Shoulder, Trunk, and Arm Muscles: A Comparative Analysis of Different Push-Up Variants (Marcolin và cs., J Athl Train 2015)",
+      "publisher": "Journal of Athletic Training (bản toàn văn tại IRIS – Università di Palermo)",
+      "checked": "2026-10-12",
+      "supports": "EMG mặt trong 5 kiểu chống đẩy (chuẩn, tay rộng, tay hẹp, tay đặt trước 20 cm, tay đặt lùi về phía chân 20 cm): đo riêng phần ức và phần đòn của cơ ngực lớn; nhóm cơ hoạt động mạnh nhất là ngực lớn, tam đầu, răng cưa trước, delta trước; phần ức không khác giữa tay chuẩn và tay rộng, tay hẹp và tay lùi cho hoạt động ngực lớn và tam đầu cao hơn."
+    },
+    "https://jhk.termedia.pl/Comparison-of-Muscle-Activity-between-the-Horizontal-Bench-Press-and-the-Seated-Chest,161468,0,2.html": {
+      "title": "Comparison of Muscle Activity between the Horizontal Bench Press and the Seated Chest Press Exercises Using Several Grips (Muyor, Rodríguez-Ridao, Oliva-Lozano)",
+      "publisher": "Journal of Human Kinetics",
+      "checked": "2026-10-12",
+      "supports": "EMG đo ba phần cơ ngực lớn (đòn, ức giữa, sườn dưới) ở đẩy ngực nằm ghế phẳng và đẩy ngực ngồi trên máy: phần ức (giữa) có hoạt động cao nhất ở mọi bài và mọi kiểu cầm (trừ đẩy nằm tay hẹp 50%)."
+    },
+    "https://jses.net/wp-content/uploads/2025/02/JSES_Washif-et-al.-2024_Volume-8-Issue-2-Article-3.pdf": {
+      "title": "Electromyographic signals during pullover exercise variants, and relationships between strength and throwing performance (Washif, Beaven, Hébert-Losier 2024)",
+      "publisher": "Journal of Sport and Exercise Science",
+      "checked": "2026-10-12",
+      "supports": "EMG kéo tạ qua đầu (pullover, thanh EZ) ở 4 biến thể: phần ức cơ ngực lớn hoạt động khoảng 74–77% MVIC, cơ ngực lớn hoạt động mạnh hơn cơ lưng rộng (lưng rộng khoảng 29% ở bản thông thường)."
+    },
+    "https://www.barbellmedicine.com/blog/best-cable-chest-exercises/": {
+      "title": "5 Best Cable Chest Workout Exercises That Are Effective",
+      "publisher": "Barbell Medicine",
+      "checked": "2026-10-12",
+      "supports": "Bay cáp nằm ghế phẳng (đưa tay theo vòng cung lên trên ngực) làm tăng kích hoạt phần ức sườn của cơ ngực lớn; bản kéo cáp từ cao xuống thấp nhấn ngực dưới; bản từ thấp lên cao nhấn phần đòn."
+    },
+    "https://en.wikipedia.org/wiki/Fly_(exercise)": {
+      "title": "Fly (exercise)",
+      "publisher": "Wikipedia",
+      "checked": "2026-10-12",
+      "supports": "Bài bay ngực chủ yếu tác động cơ ngực lớn để khép ngang cánh tay; máy pec deck là phiên bản có đường chuyển động cố định của cùng động tác bay, ngồi thẳng lưng; bay dốc lên nhắm phần đòn."
+    },
+    "https://akuaku.org/Sarco+/exercise-planche-lean.html": {
+      "title": "Planche Lean · Sarco+ Data",
+      "publisher": "SARCO+ (akuaku.org)",
+      "checked": "2026-10-12",
+      "supports": "Planche lean: cơ chính delta trước và răng cưa trước; phụ ngực lớn, ngực bé; khẩu lệnh vai vượt cổ tay, đẩy bả vai ra trước, tay khóa thẳng."
+    },
+    "https://akuaku.org/Sarco+/exercise-tuck-planche.html": {
+      "title": "Tuck Planche · Sarco+ Data",
+      "publisher": "SARCO+ (akuaku.org)",
+      "checked": "2026-10-12",
+      "supports": "Tuck planche: cơ chính delta trước và răng cưa trước; phụ ngực lớn, nhị đầu; khẩu lệnh tay khóa thẳng, đẩy bả vai ra trước, hông ngang vai; độ khó 3/5."
+    },
+    "https://akuaku.org/Sarco+/exercise-pseudo-planche-push-up.html": {
+      "title": "Pseudo Planche Push-up · Sarco+ Data",
+      "publisher": "SARCO+ (akuaku.org)",
+      "checked": "2026-10-12",
+      "supports": "Pseudo planche push-up: cơ chính delta trước, ngực lớn, răng cưa trước; phụ tam đầu; khẩu lệnh vai vượt cổ tay, xoay bàn tay ra ngoài, đổ người suốt bài."
+    },
+    "https://akuaku.org/Sarco+/exercise-elevated-pike-push-up.html": {
+      "title": "Elevated Pike Push-up · Sarco+ Data",
+      "publisher": "SARCO+ (akuaku.org)",
+      "checked": "2026-10-12",
+      "supports": "Pike push-up kê chân: cơ chính delta trước và tam đầu; delta giữa, răng cưa trước, thang trên chỉ là cơ phụ; khẩu lệnh thân dựng đứng, vai chồng trên cổ tay."
+    },
+    "https://akuaku.org/Sarco+/exercise-pike-push-up.html": {
+      "title": "Pike Push-up · Sarco+ Data",
+      "publisher": "SARCO+ (akuaku.org)",
+      "checked": "2026-10-12",
+      "supports": "Pike push-up: cơ chính delta trước và tam đầu; delta giữa, răng cưa trước, thang trên là cơ phụ; khẩu lệnh hông cao trên tay, hạ đỉnh đầu, khuỷu khoảng 45°."
+    },
+    "https://akuaku.org/Sarco+/exercise-wall-handstand-push-up.html": {
+      "title": "Wall Handstand Push-up · Sarco+ Data",
+      "publisher": "SARCO+ (akuaku.org)",
+      "checked": "2026-10-12",
+      "supports": "HSPU áp tường: cơ chính delta trước, delta giữa và tam đầu; phụ răng cưa trước, thang trên; khẩu lệnh hạ đỉnh đầu xuống đệm, đẩy khóa tay."
+    },
+    "https://akuaku.org/Sarco+/exercise-wall-handstand-chest-to-wall.html": {
+      "title": "Wall Handstand (Chest to Wall) · Sarco+ Data",
+      "publisher": "SARCO+ (akuaku.org)",
+      "checked": "2026-10-12",
+      "supports": "Trồng chuối áp tường mặt hướng vào tường: cơ chính delta trước và delta giữa; phụ răng cưa trước, thang trên; khẩu lệnh tay gần tường, siết mông, đẩy vai cao."
+    },
+    "https://akuaku.org/Sarco+/exercise-wall-handstand-shoulder-taps.html": {
+      "title": "Wall Handstand Shoulder Taps · Sarco+ Data",
+      "publisher": "SARCO+ (akuaku.org)",
+      "checked": "2026-10-12",
+      "supports": "Chạm vai khi trồng chuối áp tường: cơ chính delta giữa và delta trước; phụ răng cưa trước; khẩu lệnh dồn trọng lượng sang tay trụ trước khi nhấc tay, giữ thân căng, không gập hông, ấn tay trụ xuống sàn."
+    },
+    "https://akuaku.org/Sarco+/exercise-parallel-bar-dip.html": {
+      "title": "Parallel-Bar Dip · Sarco+ Data",
+      "publisher": "SARCO+ (akuaku.org)",
+      "checked": "2026-10-12",
+      "supports": "Dips xà kép: cơ chính tam đầu và cơ ngực lớn (ghi rõ nhấn ngực dưới); phụ delta trước, ngực bé; khẩu lệnh vai ấn xuống, hạ tới khoảng 90°, khóa tay ở trên."
+    },
+    "https://akuaku.org/Sarco+/exercise-parallel-bar-dip-negative.html": {
+      "title": "Parallel-Bar Dip Negative · Sarco+ Data",
+      "publisher": "SARCO+ (akuaku.org)",
+      "checked": "2026-10-12",
+      "supports": "Dips âm (chỉ pha hạ chậm) trên xà kép: cơ chính tam đầu và cơ ngực lớn (nhấn ngực dưới); phụ delta trước, ngực bé (hạ bả vai khi chịu tải); khẩu lệnh vai ấn xuống, hạ chậm có kiểm soát."
+    },
+    "https://akuaku.org/Sarco+/exercise-diamond-push-up.html": {
+      "title": "Diamond Push-up · Sarco+ Data",
+      "publisher": "SARCO+ (akuaku.org)",
+      "checked": "2026-10-12",
+      "supports": "Chống đẩy kim cương: cơ chính tam đầu (tay hẹp dồn tải lên tam đầu) và cơ ngực lớn; phụ delta trước; khẩu lệnh tay sát dưới ngực, khuỷu khép sát sườn."
+    },
+    "https://akuaku.org/Sarco+/exercise-wall-scapular-shrug.html": {
+      "title": "Wall Scapular Shrug · Sarco+ Data",
+      "publisher": "SARCO+ (akuaku.org)",
+      "checked": "2026-10-12",
+      "supports": "Nhún vai với tay duỗi qua đầu áp tường: cơ chính răng cưa trước (xoay lên, đưa bả vai ra trước) và thang trên (nâng bả vai khi tay ở trên đầu); phụ thang dưới, delta trước; khẩu lệnh đẩy vai về phía tai, vươn dài tay."
+    },
+    "https://da.lib.kobe-u.ac.jp/da/kernel/0100483389/0100483389.pdf": {
+      "title": "Stepwise increase of upper limb muscle activity induced by progressive 4 positions of a handstand training (Kinoshita và cs. 2022)",
+      "publisher": "Isokinetics and Exercise Science (kho Kernel – Đại học Kobe)",
+      "checked": "2026-10-12",
+      "supports": "EMG 4 tư thế tập trồng chuối: ở tư thế trồng chuối, răng cưa trước khoảng 127% MVC, delta trước khoảng 72%, delta giữa khoảng 65%, thang giữa khoảng 53%, thang trên khoảng 46%; tác giả kết luận bài tập kích thích đủ các cơ giữ vững bả vai như thang trên, thang giữa và răng cưa trước."
+    },
+    "https://dieringe.com/exercises/support-hold": {
+      "title": "Parallel Bars Support Hold",
+      "publisher": "Dieringe (dieringe.com)",
+      "checked": "2026-10-12",
+      "supports": "Giữ chống trên xà kép: cơ chính tam đầu và delta trước; phụ ngực, delta giữa; khẩu lệnh duỗi tay hết, vai hạ thấp (depression), siết thân và mông."
+    },
+    "https://dieringe.com/exercises/ring-support-hold": {
+      "title": "Support Hold on Gymnastic Rings",
+      "publisher": "Dieringe (dieringe.com)",
+      "checked": "2026-10-12",
+      "supports": "Giữ chống trên vòng: cơ chính ngực, tam đầu, delta trước; khẩu lệnh tay thẳng, vòng sát thân, vai hạ thấp, siết bụng và mông."
+    },
+    "https://fitnessvolt.com/substitute-exercises/scapula-dips-alternatives/": {
+      "title": "10 Best Scapula Dips Alternatives for Home & Gym",
+      "publisher": "Fitness Volt",
+      "checked": "2026-10-12",
+      "supports": "Trang ghi scapula dips nhắm chủ yếu cơ thang, nhất là thớ dưới và thớ giữa, có cơ trám và răng cưa trước hỗ trợ. Chỉ dùng cho nhận định về cơ; phần mô tả động tác của trang không khớp bài dips bả vai trên xà, kỹ thuật lấy theo nguồn khác."
+    },
+    "https://digitalcommons.memphis.edu/facpubs/9848": {
+      "title": "Effect of grip width on electromyographic activity during the upright row (McAllister và cs. 2013)",
+      "publisher": "Journal of Strength and Conditioning Research (bản tóm tắt tại Digital Commons – University of Memphis)",
+      "checked": "2026-10-12",
+      "supports": "EMG upright row ở 3 độ rộng tay cầm, đo delta trước/giữa/sau, thang trên/giữa, nhị đầu: tay cầm rộng làm tăng hoạt động delta và cơ thang; tác giả khuyên ai muốn tối đa hoá sự tham gia của delta và cơ thang trong upright row nên cầm rộng."
+    },
+    "https://theprehabguys.com/vimeo-video/prone-ws/": {
+      "title": "Prone Ws",
+      "publisher": "[P]rehab (theprehabguys.com)",
+      "checked": "2026-10-12",
+      "supports": "Nâng tay chữ W khi nằm sấp, không tạ: khép bả vai và nâng tay khỏi sàn, giữ tư thế W; thẻ bài gồm chóp xoay (rotator cuff), cơ trám, cơ thang và xoay ngoài vai."
+    }
+  },
+  "newExercises": [
+    {
+      "id": "wall-handstand-shoulder-tap",
+      "nameVi": "Chạm vai khi trồng chuối áp tường (wall handstand shoulder tap)",
+      "nameEn": "Wall Handstand Shoulder Tap",
+      "type": "calisthenics",
+      "equipment": [
+        "tường"
+      ],
+      "primaryMuscles": [
+        "deltoid-lateral",
+        "deltoid-anterior"
+      ],
+      "secondaryMuscles": [
+        "serratus-anterior"
+      ],
+      "difficulty": 4,
+      "order": 5,
+      "difficultyBasis": "Mức 4 – Nâng cao: đứng sau giữ trồng chuối áp tường (mức 4) trong cùng nhánh; mỗi lần chạm vai phải chống ngược toàn thân trên một tay trong giây lát, cần nền giữ trồng chuối vững.",
+      "steps": [
+        "Đi tay lên tường để vào trồng chuối mặt hướng vào tường, tay thẳng rộng bằng vai, bàn tay cách tường một khoảng ngắn.",
+        "Siết bụng và mông cho thân thành một đường thẳng, đẩy sàn để vai cao.",
+        "Dồn dần trọng lượng sang một tay, giữ thân không lệch, rồi nhấc tay kia lên chạm nhẹ vai cùng bên.",
+        "Đặt tay về sàn, lấy lại thăng bằng rồi đổi bên; tập vài lần mỗi bên rồi đi tay ra để xuống."
+      ],
+      "safety": [
+        "Chỉ tập khi đã giữ trồng chuối áp tường khoảng 30 giây và biết cách thoát xuống an toàn.",
+        "Không để hông gập hay thắt lưng ưỡn khi dồn trọng lượng; tập trên thảm và dừng khi tay trụ bắt đầu gập."
+      ],
+      "progressionOf": "wall-handstand-hold",
+      "sources": [
+        {
+          "url": "https://akuaku.org/Sarco+/exercise-wall-handstand-shoulder-taps.html",
+          "checked": "2026-10-12"
+        }
+      ]
+    }
+  ],
+  "exceptions": {
+    "pectoralis-minor": {
+      "calisthenics": {
+        "reason": "Lần rà soát nguồn này không tìm được nguồn nào ghi cơ ngực bé là cơ chính hoặc đo được nó hoạt động mạnh trong các bài tự trọng. Các trang mô tả giữ chống trên xà kép hay trên vòng chỉ ghi cơ chính là tam đầu, delta trước và ngực. Trang mô tả dips bả vai chỉ nêu cơ thang. Các trang dips xà kép và dips âm của SARCO+ xếp cơ ngực bé là cơ phụ, giữ việc hạ bả vai khi chịu tải. Nghiên cứu EMG kim luồn đo được cơ ngực bé chỉ hoạt động thấp, khoảng 13–18% MVIC, trong các bài vai. Vì vậy cơ ngực bé chỉ được ghi là cơ phụ trong giữ chống, dips bả vai và các bài dips, nên không có bài calisthenics nào đủ điều kiện. Chức năng hạ và đưa bả vai ra trước của cơ này vẫn được mô tả ở trang giải phẫu.",
+        "sources": [
+          "https://akuaku.org/Sarco+/exercise-parallel-bar-dip.html",
+          "https://akuaku.org/Sarco+/exercise-parallel-bar-dip-negative.html",
+          "https://dieringe.com/exercises/support-hold",
+          "https://journals.sagepub.com/doi/10.1177/03635465211025002",
+          "https://www.physio-pedia.com/Pectoralis_Minor"
+        ]
+      }
+    }
+  },
+  "audit": {
+    "archer-push-up": "sửa: thêm Marcolin 2015 (EMG đo riêng phần ức, chống đẩy tay rộng) để chứng minh pectoralis-major-sternal; tam đầu đã có NASM",
+    "bench-dip": "ok",
+    "bodyweight-triceps-extension": "ok",
+    "close-grip-push-up": "ok",
+    "decline-push-up": "ok",
+    "diamond-push-up": "sửa: thêm SARCO+ diamond (tam đầu + ngực lớn chính) và Marcolin 2015 (tay hẹp tăng ngực lớn/tam đầu, đo riêng phần ức)",
+    "elevated-pike-push-up": "sửa: hạ deltoid-lateral xuống phụ (SARCO+ và các nguồn chỉ ghi delta giữa là cơ phụ); thêm SARCO+ elevated pike (delta trước chính)",
+    "full-can-raise": "ok",
+    "incline-push-up": "sửa: thêm Marcolin 2015 (EMG phần ức trong chống đẩy) cho pectoralis-major-sternal",
+    "isometric-shoulder-abduction": "ok",
+    "isometric-shoulder-external-rotation": "ok",
+    "isometric-shoulder-internal-rotation": "ok",
+    "negative-dip": "sửa: thêm SARCO+ dips âm (tam đầu chính, ngực lớn nhấn ngực dưới) – trước đó không nguồn nào ghi tam đầu là cơ chính",
+    "parallel-bar-dip": "sửa: thêm SARCO+ dips xà kép (tam đầu + ngực lớn phần dưới là cơ chính)",
+    "parallel-bar-support-hold": "sửa: hạ pectoralis-minor xuống phụ (không nguồn nào ghi là cơ chính); thêm Dieringe (tam đầu chính)",
+    "pike-push-up": "sửa: hạ deltoid-lateral xuống phụ (SARCO+ ghi delta giữa là cơ phụ; NASM chỉ nêu delta trước); thêm SARCO+ pike push-up",
+    "planche-lean": "sửa: thêm SARCO+ planche lean (delta trước + răng cưa trước là cơ chính); Caliverse chỉ ghi 'vai, tam đầu, core'",
+    "prone-w-raise": "sửa: thay tờ NHS (bài W ở tư thế quỳ bốn điểm, không nêu cơ) bằng [P]rehab Prone Ws (nằm sấp, gắn thẻ chóp xoay)",
+    "prone-y-raise-bodyweight": "sửa: gỡ tờ NHS (Y ở tư thế quỳ bốn điểm – biến thể khác); kỹ thuật vẫn có [P]rehab Prone Ys, cơ có Reinold và Ekstrom",
+    "pseudo-planche-push-up": "sửa: thêm SARCO+ pseudo planche (delta trước chính) và Marcolin 2015 (tay đặt lùi 20 cm về phía chân, đo riêng phần ức)",
+    "push-up": "sửa: thêm Marcolin 2015 – EMG đo riêng phần ức, ngực lớn thuộc nhóm hoạt động mạnh nhất",
+    "push-up-plus": "ok",
+    "ring-dip": "ok",
+    "ring-push-up": "sửa: thêm Marcolin 2015 (chống đẩy trên nền cứng, biến thể gần) cho phần ức",
+    "ring-reverse-fly": "ok",
+    "ring-support-hold": "sửa: hạ pectoralis-minor xuống phụ; thêm Dieringe giữ chống trên vòng (tam đầu chính)",
+    "scapula-dip": "sửa: hạ pectoralis-minor xuống phụ (không nguồn); thêm Fitness Volt (scapula dips nhắm thang dưới/giữa) cho trapezius-lower",
+    "side-lying-external-rotation": "ok",
+    "tuck-planche": "sửa: thêm SARCO+ tuck planche (kỹ thuật + delta trước, răng cưa trước là cơ chính); gỡ trang Caliverse planche lean (bài khác)",
+    "wall-handstand-hold": "sửa: thêm SARCO+ trồng chuối mặt vào tường (delta trước chính) và Kinoshita 2022 (EMG trồng chuối: thang trên ~46% MVC, được tác giả nêu là cơ giữ bả vai được kích thích); gỡ 12minuteathlete (bài nhún vai, không nêu cơ)",
+    "wall-handstand-push-up": "sửa: thêm SARCO+ HSPU áp tường (delta trước, delta giữa, tam đầu đều là cơ chính); StrengthLog chỉ ghi delta trước",
+    "wall-push-up": "sửa: thêm Marcolin 2015 (EMG phần ức trong chống đẩy) – biến thể gần",
+    "wall-push-up-plus": "ok",
+    "wall-slide": "ok",
+    "wall-walk": "ok",
+    "arnold-press": "ok",
+    "band-dynamic-hug": "ok",
+    "band-pull-apart": "ok",
+    "barbell-bench-press": "sửa: thêm Muyor và cs. (JHK) – phần ức hoạt động cao nhất khi đẩy ngực ghế phẳng",
+    "barbell-overhead-press": "ok",
+    "barbell-overhead-shrug": "sửa: thêm SARCO+ nhún vai tay qua đầu (răng cưa trước + thang trên chính) cho trapezius-upper",
+    "barbell-upright-row": "sửa: thêm McAllister 2013 (EMG upright row: delta và cơ thang là nhóm cơ mục tiêu) cho trapezius-upper",
+    "bent-over-reverse-dumbbell-fly": "ok",
+    "cable-crossover": "sửa: thay bài Barbell Medicine ngực trên (chỉ có bản cáp thấp lên cao) bằng bài cáp của Barbell Medicine (bản cao xuống thấp nhấn ngực dưới)",
+    "cable-external-rotation": "ok",
+    "cable-high-serratus-punch": "ok",
+    "cable-internal-rotation": "ok",
+    "close-grip-bench-press": "ok",
+    "cuban-press": "sửa: hạ deltoid-lateral xuống phụ (StrengthLog ghi delta giữa là cơ phụ, không có EMG riêng cho bài)",
+    "dumbbell-90-90-external-rotation": "ok",
+    "dumbbell-90-90-internal-rotation": "ok",
+    "dumbbell-bench-press": "ok",
+    "dumbbell-fly": "sửa: thay bài Barbell Medicine ngực trên (chỉ có bay ngực dốc) bằng bài cáp của Barbell Medicine (bay ghế phẳng tăng phần ức sườn)",
+    "dumbbell-front-raise": "ok",
+    "dumbbell-lateral-raise": "ok",
+    "dumbbell-overhead-triceps-extension": "ok",
+    "dumbbell-pullover": "sửa: thêm Washif 2024 (EMG pullover: phần ức ~74–77% MVIC, mạnh hơn cơ xô)",
+    "dumbbell-scaption": "ok",
+    "ez-bar-skull-crusher": "ok",
+    "face-pull": "ok",
+    "incline-barbell-bench-press": "ok",
+    "incline-dumbbell-fly": "ok",
+    "incline-dumbbell-press": "ok",
+    "machine-assisted-dip": "ok",
+    "machine-chest-press": "sửa: thêm Muyor và cs. (JHK) – EMG đẩy ngực ngồi trên máy, phần ức cao nhất",
+    "machine-shoulder-press": "ok",
+    "overhead-cable-triceps-extension": "ok",
+    "pec-deck": "sửa (lỗi kiểm toán): StrengthLog chỉ ghi 'Chest'; gỡ bài Barbell Medicine ngực trên (không có pec deck); thêm bài cáp Barbell Medicine (bay phẳng tăng phần ức sườn) và Wikipedia (pec deck là bản máy của cùng động tác bay)",
+    "prone-y-raise": "ok",
+    "push-press": "sửa (lỗi kiểm toán): hạ deltoid-lateral xuống phụ – StrengthLog ghi delta giữa là cơ phụ, EMG military press không áp cho bài có đạp chân",
+    "reverse-machine-fly": "ok",
+    "seated-dumbbell-shoulder-press": "ok",
+    "side-lying-dumbbell-external-rotation": "ok",
+    "side-lying-dumbbell-internal-rotation": "ok",
+    "supine-dumbbell-serratus-punch": "ok",
+    "triceps-pushdown": "ok",
+    "weighted-dip": "sửa: thêm SARCO+ dips xà kép (ngực lớn phần dưới + tam đầu là cơ chính)"
+  }
+}

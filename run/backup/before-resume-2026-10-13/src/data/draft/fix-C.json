@@ -1,0 +1,188 @@
+{
+ "demote": {
+  "arch-body-hold": [
+   "gluteus-maximus"
+  ],
+  "ring-ab-rollout": [
+   "transversus-abdominis"
+  ]
+ },
+ "addSources": {
+  "arch-body-hold": [
+   "https://akuaku.org/Sarco+/exercise-arch-body-hold.html"
+  ],
+  "dead-bug": [
+   "https://doaj.org/article/e2daa417ef2d486e80e4a1e23b109965"
+  ],
+  "hanging-knee-raise": [
+   "https://akuaku.org/Sarco+/exercise-hanging-leg-raise-bent.html"
+  ],
+  "hanging-leg-raise": [
+   "https://doctoryessis.com/2013/01/01/hanging-straight-leg-raise/"
+  ],
+  "jackknife-sit-up": [
+   "https://motra.com/exercises/jackknifeSitUp"
+  ],
+  "l-sit": [
+   "https://motra.com/exercises/bodyweightLSit"
+  ],
+  "lying-leg-raise": [
+   "https://research.vu.nl/en/publications/is-the-psoas-a-hip-flexor-in-the-active-straight-leg-raise/"
+  ],
+  "plank": [
+   "https://www.physio-pedia.com/Transversus_Abdominis"
+  ],
+  "ring-ab-rollout": [
+   "https://www.bodbot.com/Exercises/119/Ring_Rollouts",
+   "https://dieringe.com/exercises/ring-rollouts"
+  ],
+  "side-plank-lift": [
+   "https://akuaku.org/Sarco+/exercise-side-plank.html"
+  ],
+  "standing-ab-wheel-rollout": [
+   "https://fitnessvolt.com/standing-ab-wheel-rollout/"
+  ],
+  "supine-straight-leg-raise": [
+   "https://research.vu.nl/en/publications/is-the-psoas-a-hip-flexor-in-the-active-straight-leg-raise/"
+  ],
+  "tuck-l-sit": [
+   "https://akuaku.org/Sarco+/exercise-tuck-l-sit.html"
+  ],
+  "ankle-weight-straight-leg-raise": [
+   "https://research.vu.nl/en/publications/is-the-psoas-a-hip-flexor-in-the-active-straight-leg-raise/"
+  ],
+  "barbell-side-bend": [
+   "https://fitnessvolt.com/barbell-side-bends-guide/"
+  ],
+  "kettlebell-standing-hip-flexor-raise": [
+   "https://pmc.ncbi.nlm.nih.gov/articles/PMC11546833/"
+  ],
+  "weighted-hanging-knee-raise": [
+   "https://akuaku.org/Sarco+/exercise-hanging-leg-raise-bent.html"
+  ]
+ },
+ "removeSources": {
+  "cable-wood-chop": [
+   "https://oliverfinlay.com/assets/pdf/escamilla%20%26%20andrews%20(2009)%20shoulder%20muscle%20activity%20%26%20function%20in%20common%20shoulder%20rehabilitation%20exercises%20(abstract).pdf"
+  ]
+ },
+ "sourcesRegistry": {
+  "https://akuaku.org/Sarco+/exercise-arch-body-hold.html": {
+   "title": "Arch-Body Hold · Sarco+ Data",
+   "publisher": "akuaku.org (Sarco+)",
+   "supports": "Cách làm arch body hold (nằm sấp, nâng tay và chân thành dáng cong, giữ ~30 giây; bậc sau reverse hyperextension); cơ chính: cơ dựng sống; cơ mông lớn và cơ nhiều chân chỉ là cơ phụ.",
+   "checked": "2026-10-12"
+  },
+  "https://www.bodbot.com/Exercises/119/Ring_Rollouts": {
+   "title": "Ring Rollouts – BodBot",
+   "publisher": "BodBot",
+   "supports": "Cách làm lăn vòng treo (chân chạm sàn, đẩy hai vòng ra xa, giữ lưng trung tính, chỉnh độ khó bằng độ cao vòng); danh sách cơ dùng gồm cơ thẳng bụng, chéo bụng ngoài, chéo bụng trong, cơ lưng rộng, răng cưa trước (không phân chính/phụ, không nhắc cơ ngang bụng).",
+   "checked": "2026-10-12"
+  },
+  "https://dieringe.com/exercises/ring-rollouts": {
+   "title": "Ring Rollouts – DIE RINGE",
+   "publisher": "DIE RINGE",
+   "supports": "Lăn vòng treo: cơ tập chính duy nhất là cơ thẳng bụng; kỹ thuật đẩy vòng ra xa với tay thẳng, gồng bụng; không nhắc cơ ngang bụng.",
+   "checked": "2026-10-12"
+  },
+  "https://fitnessvolt.com/standing-ab-wheel-rollout/": {
+   "title": "Maximize Core Strength: Standing Ab Wheel Rollout Benefits",
+   "publisher": "Fitness Volt",
+   "supports": "Cách làm lăn con lăn bụng từ tư thế đứng; bảng thông tin ghi cơ chính gồm cơ thẳng bụng, cơ ngang bụng, cơ chéo bụng, cơ gấp hông, cơ lưng rộng; phụ: răng cưa trước, tam đầu.",
+   "checked": "2026-10-12"
+  },
+  "https://akuaku.org/Sarco+/exercise-tuck-l-sit.html": {
+   "title": "Tuck L-sit (Parallettes) · Sarco+ Data",
+   "publisher": "akuaku.org (Sarco+)",
+   "supports": "Cách làm tuck L-sit (chống thẳng tay, co gối sát ngực, nhấc hông khỏi sàn; bản trên parallettes); cơ chính: cơ thẳng bụng và cơ thắt lưng chậu (iliopsoas); phụ: tam đầu, thang dưới, răng cưa trước.",
+   "checked": "2026-10-12"
+  },
+  "https://motra.com/exercises/bodyweightLSit": {
+   "title": "Bodyweight L-Sit – Exercise Guide",
+   "publisher": "Motra",
+   "supports": "Cách làm L-sit trên sàn (tay đặt cạnh hông, khóa khuỷu, nhấc hông và chân duỗi thẳng); cơ mục tiêu: cơ thẳng bụng (10/10), cơ thắt lưng chậu (iliopsoas, 9/10), cơ thẳng đùi (7/10), tam đầu, delta trước; khuyên tập tuck L-sit trước.",
+   "checked": "2026-10-12"
+  },
+  "https://motra.com/exercises/jackknifeSitUp": {
+   "title": "Jackknife Sit-Up – Exercise Guide",
+   "publisher": "Motra",
+   "supports": "Cách làm gập người chữ V (nâng thân và chân duỗi cùng lúc, tay chạm mũi chân); nhóm cơ chính: bụng (cơ thẳng bụng) và gấp hông (cơ thắt lưng chậu – iliopsoas); chéo bụng.",
+   "checked": "2026-10-12"
+  },
+  "https://doctoryessis.com/2013/01/01/hanging-straight-leg-raise/": {
+   "title": "Hanging Straight Leg Raise",
+   "publisher": "Dr. Michael Yessis",
+   "supports": "Cách làm treo xà nâng chân thẳng; nhóm gấp hông (cơ chậu, cơ thắt lưng, cơ thẳng đùi) và cơ bụng (cơ thẳng bụng, chéo bụng) là các cơ chính của bài.",
+   "checked": "2026-10-12"
+  },
+  "https://akuaku.org/Sarco+/exercise-hanging-leg-raise-bent.html": {
+   "title": "Hanging Leg Raise (Bent Knee) · Sarco+ Data",
+   "publisher": "akuaku.org (Sarco+)",
+   "supports": "Treo xà nâng chân co gối (nâng đùi tới ít nhất song song sàn, cuộn khung chậu); cơ chính: cơ thẳng bụng và cơ thắt lưng chậu (iliopsoas); phụ: chéo bụng ngoài, cơ gấp ngón/cổ tay, cơ thẳng đùi.",
+   "checked": "2026-10-12"
+  },
+  "https://research.vu.nl/en/publications/is-the-psoas-a-hip-flexor-in-the-active-straight-leg-raise/": {
+   "title": "Is the psoas a hip flexor in the active straight leg raise? (Hu và cs., European Spine Journal 2011;20(5):759-765)",
+   "publisher": "Vrije Universiteit Amsterdam (Research Portal)",
+   "supports": "Đo EMG khi nằm ngửa nâng chân thẳng (có và không thêm tạ ở cổ chân): cơ chậu, cơ thẳng đùi, cơ khép dài và cơ thắt lưng đều hoạt động ở bên nâng chân, cơ chậu và cơ thẳng đùi khởi động trước cơ thắt lưng.",
+   "checked": "2026-10-12"
+  },
+  "https://fitnessvolt.com/barbell-side-bends-guide/": {
+   "title": "Barbell Side Bends Exercise to Strengthen Your Core",
+   "publisher": "Fitness Volt",
+   "supports": "Cách làm nghiêng người với thanh đòn đặt trên lưng trên; bài 'nhắm cụ thể vào cơ chéo bụng hai bên sườn', kèm lưng dưới.",
+   "checked": "2026-10-12"
+  }
+ },
+ "newExercises": [],
+ "exceptions": {},
+ "audit": {
+  "arch-body-hold": "sửa: thêm akuaku Arch-Body Hold (kỹ thuật + cơ dựng sống là cơ chính) vì wiki reddit bị chặn; hạ cơ mông lớn xuống phụ (nguồn riêng của bài xếp mông lớn là cơ phụ)",
+  "bicycle-crunch": "ok",
+  "bird-dog": "ok",
+  "crunch": "ok",
+  "dead-bug": "sửa: thêm Tsartsapakis 2023 (DOAJ) cho cơ ngang bụng (dead bug làm cơ ngang bụng dày lên nhiều nhất); StrengthLog 'Abs' cho cơ thẳng bụng",
+  "dragon-flag": "ok",
+  "feet-elevated-side-plank": "ok",
+  "hanging-knee-raise": "sửa: thêm akuaku Hanging Leg Raise (Bent Knee) nêu rõ iliopsoas và cơ thẳng bụng là cơ chính (StrengthLog chỉ ghi 'Hip Flexors')",
+  "hanging-leg-raise": "sửa: thêm Dr. Yessis Hanging Straight Leg Raise nêu cơ chậu, cơ thắt lưng (nhóm gấp hông) và cơ bụng là cơ chính",
+  "hanging-windshield-wiper": "ok",
+  "hollow-body-hold": "ok",
+  "jackknife-sit-up": "sửa: thêm Motra Jackknife Sit-Up nêu iliopsoas và cơ thẳng bụng là nhóm cơ chính",
+  "kneeling-plank": "ok",
+  "kneeling-side-plank": "ok",
+  "l-sit": "sửa: thêm Motra Bodyweight L-Sit nêu iliopsoas (9/10) và cơ thẳng bụng (10/10) là cơ mục tiêu",
+  "lying-leg-raise": "sửa: thêm Hu và cs. 2011 (EMG khi nâng chân thẳng: cơ thẳng đùi, cơ chậu, cơ thắt lưng hoạt động) bổ trợ cho cơ thẳng đùi; iliopsoas theo Juan 2024 (nâng hai chân), cơ thẳng bụng theo StrengthLog",
+  "lying-windshield-wiper": "ok",
+  "lying-windshield-wiper-bent-knees": "ok",
+  "mountain-climber": "ok",
+  "plank": "sửa: thêm Physiopedia Transversus Abdominis (plank là bài kích hoạt cơ ngang bụng tốt nhất); StrengthLog Plank cũng nêu cơ ngang bụng",
+  "ring-ab-rollout": "sửa: wiki reddit bị chặn → thêm BodBot Ring Rollouts (kỹ thuật chân chạm sàn) và DIE RINGE (cơ thẳng bụng là cơ chính); hạ cơ ngang bụng xuống phụ (không nguồn nào nêu)",
+  "side-lying-hip-hike": "ok",
+  "side-plank": "ok",
+  "side-plank-lift": "sửa: thêm akuaku Side Plank nêu chéo bụng trong là cơ chính (NASM chỉ nêu chéo bụng ngoài và cơ vuông thắt lưng)",
+  "standing-ab-wheel-rollout": "sửa: thêm Fitness Volt Standing Ab Wheel Rollout (kỹ thuật đứng; cơ chính gồm cơ thẳng bụng và cơ ngang bụng) vì wiki reddit bị chặn",
+  "standing-hip-flexion-hold": "ok",
+  "superman": "ok",
+  "supine-straight-leg-raise": "sửa: thêm Hu và cs. 2011 (EMG nâng chân thẳng nằm ngửa: cơ chậu, cơ thẳng đùi, cơ thắt lưng hoạt động) bổ trợ cơ thẳng đùi và iliopsoas",
+  "tuck-l-sit": "sửa: thêm akuaku Tuck L-sit (kỹ thuật co gối + cơ thẳng bụng và iliopsoas là cơ chính) vì StrengthLog L-sit không có bản co gối và wiki reddit bị chặn",
+  "ab-wheel-rollout": "ok",
+  "ankle-weight-straight-leg-raise": "sửa: thêm Hu và cs. 2011 (EMG nâng chân thẳng có/không tạ cổ chân: cơ thẳng đùi, cơ chậu hoạt động) bổ trợ cơ thẳng đùi",
+  "barbell-side-bend": "sửa: thêm Fitness Volt Barbell Side Bends cho cơ chéo bụng (Catalyst chỉ nêu cơ vuông thắt lưng)",
+  "cable-crunch": "ok",
+  "cable-hip-flexion": "ok",
+  "cable-wood-chop": "sửa: bỏ nguồn Escamilla & Andrews 2009 (bài phục hồi vai, không chứa wood chop, không liên quan); cơ chéo bụng theo StrengthLog",
+  "dumbbell-dead-bug": "ok",
+  "dumbbell-side-bend": "ok",
+  "kettlebell-standing-hip-flexor-raise": "sửa: thêm Juan và cs. 2024 nêu cơ chậu/cơ thắt lưng hoạt động mạnh nhất khi đứng gập hông 90° và tăng khi thêm tải (StrengthLog chỉ ghi 'Hip Flexors')",
+  "landmine-rotation": "ok",
+  "machine-crunch": "ok",
+  "pallof-press": "ok",
+  "suitcase-carry": "ok",
+  "suitcase-deadlift": "ok",
+  "weighted-back-extension": "ok",
+  "weighted-hanging-knee-raise": "sửa: thêm akuaku Hanging Leg Raise (Bent Knee) nêu iliopsoas là cơ chính (bản không tạ của cùng động tác); Motra chỉ chấm iliopsoas 7/10",
+  "weighted-plank": "ok",
+  "weighted-side-plank": "ok"
+ }
+}

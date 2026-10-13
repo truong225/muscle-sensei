@@ -1,0 +1,1213 @@
+{
+ "mapped": 120,
+ "needsJudgment": [
+  {
+   "id": "arch-body-hold",
+   "ambiguous": [
+    "trapezius"
+   ],
+   "emptyPrimary": false
+  },
+  {
+   "id": "arch-hang",
+   "ambiguous": [
+    "trapezius",
+    "deltoid"
+   ],
+   "emptyPrimary": false
+  },
+  {
+   "id": "archer-pull-up",
+   "ambiguous": [
+    "trapezius",
+    "deltoid"
+   ],
+   "emptyPrimary": false
+  },
+  {
+   "id": "archer-push-up",
+   "ambiguous": [
+    "pectoralis-major",
+    "deltoid"
+   ],
+   "emptyPrimary": false
+  },
+  {
+   "id": "archer-row",
+   "ambiguous": [
+    "trapezius",
+    "deltoid"
+   ],
+   "emptyPrimary": false
+  },
+  {
+   "id": "assisted-squat",
+   "ambiguous": [
+    "quadriceps"
+   ],
+   "emptyPrimary": false
+  },
+  {
+   "id": "bench-dip",
+   "ambiguous": [
+    "pectoralis-major",
+    "deltoid"
+   ],
+   "emptyPrimary": false
+  },
+  {
+   "id": "bird-dog",
+   "ambiguous": [
+    "deltoid"
+   ],
+   "emptyPrimary": false
+  },
+  {
+   "id": "bodyweight-squat",
+   "ambiguous": [
+    "quadriceps"
+   ],
+   "emptyPrimary": false
+  },
+  {
+   "id": "bulgarian-split-squat",
+   "ambiguous": [
+    "quadriceps"
+   ],
+   "emptyPrimary": false
+  },
+  {
+   "id": "chin-up",
+   "ambiguous": [
+    "trapezius"
+   ],
+   "emptyPrimary": false
+  },
+  {
+   "id": "close-grip-push-up",
+   "ambiguous": [
+    "pectoralis-major",
+    "deltoid"
+   ],
+   "emptyPrimary": false
+  },
+  {
+   "id": "cossack-squat",
+   "ambiguous": [
+    "quadriceps"
+   ],
+   "emptyPrimary": false
+  },
+  {
+   "id": "decline-push-up",
+   "ambiguous": [
+    "pectoralis-major",
+    "deltoid"
+   ],
+   "emptyPrimary": false
+  },
+  {
+   "id": "diamond-push-up",
+   "ambiguous": [
+    "pectoralis-major",
+    "deltoid"
+   ],
+   "emptyPrimary": false
+  },
+  {
+   "id": "elevated-pike-push-up",
+   "ambiguous": [
+    "deltoid",
+    "trapezius",
+    "pectoralis-major"
+   ],
+   "emptyPrimary": false
+  },
+  {
+   "id": "false-grip-ring-row",
+   "ambiguous": [
+    "trapezius"
+   ],
+   "emptyPrimary": false
+  },
+  {
+   "id": "fingertip-push-up",
+   "ambiguous": [
+    "pectoralis-major",
+    "deltoid"
+   ],
+   "emptyPrimary": false
+  },
+  {
+   "id": "front-lever",
+   "ambiguous": [
+    "trapezius",
+    "deltoid"
+   ],
+   "emptyPrimary": false
+  },
+  {
+   "id": "full-can-raise",
+   "ambiguous": [
+    "deltoid"
+   ],
+   "emptyPrimary": false
+  },
+  {
+   "id": "glute-bridge",
+   "ambiguous": [
+    "quadriceps"
+   ],
+   "emptyPrimary": false
+  },
+  {
+   "id": "hanging-leg-raise",
+   "ambiguous": [
+    "quadriceps"
+   ],
+   "emptyPrimary": false
+  },
+  {
+   "id": "incline-push-up",
+   "ambiguous": [
+    "pectoralis-major",
+    "deltoid"
+   ],
+   "emptyPrimary": false
+  },
+  {
+   "id": "inverted-row",
+   "ambiguous": [
+    "trapezius",
+    "deltoid"
+   ],
+   "emptyPrimary": false
+  },
+  {
+   "id": "isometric-neck-lateral-flexion",
+   "ambiguous": [
+    "trapezius"
+   ],
+   "emptyPrimary": false
+  },
+  {
+   "id": "isometric-shoulder-abduction",
+   "ambiguous": [
+    "deltoid"
+   ],
+   "emptyPrimary": false
+  },
+  {
+   "id": "isometric-shoulder-external-rotation",
+   "ambiguous": [
+    "deltoid"
+   ],
+   "emptyPrimary": false
+  },
+  {
+   "id": "isometric-shoulder-internal-rotation",
+   "ambiguous": [
+    "pectoralis-major"
+   ],
+   "emptyPrimary": false
+  },
+  {
+   "id": "jackknife-sit-up",
+   "ambiguous": [
+    "quadriceps"
+   ],
+   "emptyPrimary": false
+  },
+  {
+   "id": "l-sit",
+   "ambiguous": [
+    "quadriceps",
+    "deltoid",
+    "pectoralis-major"
+   ],
+   "emptyPrimary": false
+  },
+  {
+   "id": "l-sit-pull-up",
+   "ambiguous": [
+    "quadriceps"
+   ],
+   "emptyPrimary": false
+  },
+  {
+   "id": "lying-leg-raise",
+   "ambiguous": [
+    "quadriceps"
+   ],
+   "emptyPrimary": false
+  },
+  {
+   "id": "lying-neck-extension-bodyweight",
+   "ambiguous": [
+    "trapezius"
+   ],
+   "emptyPrimary": false
+  },
+  {
+   "id": "mountain-climber",
+   "ambiguous": [
+    "deltoid"
+   ],
+   "emptyPrimary": false
+  },
+  {
+   "id": "muscle-up",
+   "ambiguous": [
+    "pectoralis-major",
+    "deltoid",
+    "trapezius"
+   ],
+   "emptyPrimary": false
+  },
+  {
+   "id": "negative-dip",
+   "ambiguous": [
+    "pectoralis-major",
+    "deltoid"
+   ],
+   "emptyPrimary": false
+  },
+  {
+   "id": "negative-pull-up",
+   "ambiguous": [
+    "trapezius"
+   ],
+   "emptyPrimary": false
+  },
+  {
+   "id": "neutral-grip-pull-up",
+   "ambiguous": [
+    "trapezius"
+   ],
+   "emptyPrimary": false
+  },
+  {
+   "id": "parallel-bar-dip",
+   "ambiguous": [
+    "pectoralis-major",
+    "deltoid"
+   ],
+   "emptyPrimary": false
+  },
+  {
+   "id": "parallel-bar-support-hold",
+   "ambiguous": [
+    "trapezius",
+    "pectoralis-major"
+   ],
+   "emptyPrimary": false
+  },
+  {
+   "id": "pike-push-up",
+   "ambiguous": [
+    "deltoid",
+    "pectoralis-major",
+    "trapezius"
+   ],
+   "emptyPrimary": false
+  },
+  {
+   "id": "pistol-squat",
+   "ambiguous": [
+    "quadriceps"
+   ],
+   "emptyPrimary": false
+  },
+  {
+   "id": "planche-lean",
+   "ambiguous": [
+    "deltoid",
+    "pectoralis-major"
+   ],
+   "emptyPrimary": false
+  },
+  {
+   "id": "prone-neck-bridge",
+   "ambiguous": [
+    "trapezius"
+   ],
+   "emptyPrimary": false
+  },
+  {
+   "id": "prone-t-raise-bodyweight",
+   "ambiguous": [
+    "trapezius",
+    "deltoid"
+   ],
+   "emptyPrimary": false
+  },
+  {
+   "id": "prone-w-raise",
+   "ambiguous": [
+    "trapezius",
+    "deltoid"
+   ],
+   "emptyPrimary": false
+  },
+  {
+   "id": "prone-y-raise-bodyweight",
+   "ambiguous": [
+    "trapezius",
+    "deltoid"
+   ],
+   "emptyPrimary": false
+  },
+  {
+   "id": "pseudo-planche-push-up",
+   "ambiguous": [
+    "pectoralis-major",
+    "deltoid"
+   ],
+   "emptyPrimary": false
+  },
+  {
+   "id": "pull-up",
+   "ambiguous": [
+    "trapezius",
+    "deltoid"
+   ],
+   "emptyPrimary": false
+  },
+  {
+   "id": "push-up",
+   "ambiguous": [
+    "pectoralis-major",
+    "deltoid"
+   ],
+   "emptyPrimary": false
+  },
+  {
+   "id": "push-up-plus",
+   "ambiguous": [
+    "pectoralis-major",
+    "deltoid"
+   ],
+   "emptyPrimary": false
+  },
+  {
+   "id": "reverse-lunge",
+   "ambiguous": [
+    "quadriceps"
+   ],
+   "emptyPrimary": false
+  },
+  {
+   "id": "reverse-nordic",
+   "ambiguous": [
+    "quadriceps"
+   ],
+   "emptyPrimary": false
+  },
+  {
+   "id": "ring-dip",
+   "ambiguous": [
+    "pectoralis-major",
+    "deltoid"
+   ],
+   "emptyPrimary": false
+  },
+  {
+   "id": "ring-push-up",
+   "ambiguous": [
+    "pectoralis-major",
+    "deltoid"
+   ],
+   "emptyPrimary": false
+  },
+  {
+   "id": "ring-support-hold",
+   "ambiguous": [
+    "pectoralis-major",
+    "trapezius"
+   ],
+   "emptyPrimary": false
+  },
+  {
+   "id": "scapula-dip",
+   "ambiguous": [
+    "trapezius"
+   ],
+   "emptyPrimary": false
+  },
+  {
+   "id": "scapular-pull-up",
+   "ambiguous": [
+    "trapezius"
+   ],
+   "emptyPrimary": false
+  },
+  {
+   "id": "shrimp-squat",
+   "ambiguous": [
+    "quadriceps"
+   ],
+   "emptyPrimary": false
+  },
+  {
+   "id": "side-lunge",
+   "ambiguous": [
+    "quadriceps"
+   ],
+   "emptyPrimary": false
+  },
+  {
+   "id": "side-lying-ankle-eversion",
+   "ambiguous": [],
+   "emptyPrimary": true
+  },
+  {
+   "id": "side-lying-external-rotation",
+   "ambiguous": [
+    "deltoid"
+   ],
+   "emptyPrimary": false
+  },
+  {
+   "id": "side-lying-neck-lateral-raise",
+   "ambiguous": [
+    "trapezius"
+   ],
+   "emptyPrimary": false
+  },
+  {
+   "id": "single-leg-balance",
+   "ambiguous": [],
+   "emptyPrimary": true
+  },
+  {
+   "id": "single-leg-balance-unstable-surface",
+   "ambiguous": [],
+   "emptyPrimary": true
+  },
+  {
+   "id": "single-leg-hip-thrust",
+   "ambiguous": [
+    "quadriceps"
+   ],
+   "emptyPrimary": false
+  },
+  {
+   "id": "split-squat",
+   "ambiguous": [
+    "quadriceps"
+   ],
+   "emptyPrimary": false
+  },
+  {
+   "id": "step-up",
+   "ambiguous": [
+    "quadriceps"
+   ],
+   "emptyPrimary": false
+  },
+  {
+   "id": "superman",
+   "ambiguous": [
+    "trapezius"
+   ],
+   "emptyPrimary": false
+  },
+  {
+   "id": "supine-neck-bridge",
+   "ambiguous": [
+    "trapezius"
+   ],
+   "emptyPrimary": false
+  },
+  {
+   "id": "supine-straight-leg-raise",
+   "ambiguous": [
+    "quadriceps"
+   ],
+   "emptyPrimary": false
+  },
+  {
+   "id": "tuck-front-lever",
+   "ambiguous": [
+    "trapezius",
+    "deltoid"
+   ],
+   "emptyPrimary": false
+  },
+  {
+   "id": "tuck-front-lever-row",
+   "ambiguous": [
+    "trapezius",
+    "deltoid"
+   ],
+   "emptyPrimary": false
+  },
+  {
+   "id": "tuck-l-sit",
+   "ambiguous": [
+    "deltoid",
+    "pectoralis-major"
+   ],
+   "emptyPrimary": false
+  },
+  {
+   "id": "tuck-planche",
+   "ambiguous": [
+    "deltoid",
+    "pectoralis-major"
+   ],
+   "emptyPrimary": false
+  },
+  {
+   "id": "underhand-inverted-row",
+   "ambiguous": [
+    "trapezius",
+    "deltoid"
+   ],
+   "emptyPrimary": false
+  },
+  {
+   "id": "vertical-row",
+   "ambiguous": [
+    "trapezius",
+    "deltoid"
+   ],
+   "emptyPrimary": false
+  },
+  {
+   "id": "wall-angel",
+   "ambiguous": [
+    "trapezius",
+    "deltoid"
+   ],
+   "emptyPrimary": false
+  },
+  {
+   "id": "wall-handstand-hold",
+   "ambiguous": [
+    "deltoid",
+    "trapezius"
+   ],
+   "emptyPrimary": false
+  },
+  {
+   "id": "wall-handstand-push-up",
+   "ambiguous": [
+    "deltoid",
+    "trapezius",
+    "pectoralis-major"
+   ],
+   "emptyPrimary": false
+  },
+  {
+   "id": "wall-push-up",
+   "ambiguous": [
+    "pectoralis-major",
+    "deltoid"
+   ],
+   "emptyPrimary": false
+  },
+  {
+   "id": "wall-push-up-plus",
+   "ambiguous": [
+    "pectoralis-major",
+    "deltoid"
+   ],
+   "emptyPrimary": false
+  },
+  {
+   "id": "wall-slide",
+   "ambiguous": [
+    "trapezius",
+    "deltoid"
+   ],
+   "emptyPrimary": false
+  },
+  {
+   "id": "wall-walk",
+   "ambiguous": [
+    "deltoid",
+    "pectoralis-major",
+    "trapezius"
+   ],
+   "emptyPrimary": false
+  },
+  {
+   "id": "wide-row",
+   "ambiguous": [
+    "trapezius",
+    "deltoid"
+   ],
+   "emptyPrimary": false
+  },
+  {
+   "id": "ankle-weight-straight-leg-raise",
+   "ambiguous": [
+    "quadriceps"
+   ],
+   "emptyPrimary": false
+  },
+  {
+   "id": "arnold-press",
+   "ambiguous": [
+    "deltoid",
+    "trapezius"
+   ],
+   "emptyPrimary": false
+  },
+  {
+   "id": "band-ankle-eversion",
+   "ambiguous": [],
+   "emptyPrimary": true
+  },
+  {
+   "id": "band-dynamic-hug",
+   "ambiguous": [
+    "pectoralis-major",
+    "deltoid"
+   ],
+   "emptyPrimary": false
+  },
+  {
+   "id": "band-pull-apart",
+   "ambiguous": [
+    "deltoid",
+    "trapezius"
+   ],
+   "emptyPrimary": false
+  },
+  {
+   "id": "barbell-back-squat",
+   "ambiguous": [
+    "quadriceps"
+   ],
+   "emptyPrimary": false
+  },
+  {
+   "id": "barbell-bench-press",
+   "ambiguous": [
+    "pectoralis-major",
+    "deltoid"
+   ],
+   "emptyPrimary": false
+  },
+  {
+   "id": "barbell-deadlift",
+   "ambiguous": [
+    "quadriceps",
+    "trapezius"
+   ],
+   "emptyPrimary": false
+  },
+  {
+   "id": "barbell-front-squat",
+   "ambiguous": [
+    "quadriceps"
+   ],
+   "emptyPrimary": false
+  },
+  {
+   "id": "barbell-hip-thrust",
+   "ambiguous": [
+    "quadriceps"
+   ],
+   "emptyPrimary": false
+  },
+  {
+   "id": "barbell-overhead-press",
+   "ambiguous": [
+    "deltoid",
+    "trapezius"
+   ],
+   "emptyPrimary": false
+  },
+  {
+   "id": "barbell-overhead-shrug",
+   "ambiguous": [
+    "trapezius",
+    "deltoid"
+   ],
+   "emptyPrimary": false
+  },
+  {
+   "id": "barbell-shrug",
+   "ambiguous": [
+    "trapezius"
+   ],
+   "emptyPrimary": false
+  },
+  {
+   "id": "barbell-sumo-squat",
+   "ambiguous": [
+    "quadriceps"
+   ],
+   "emptyPrimary": false
+  },
+  {
+   "id": "barbell-upright-row",
+   "ambiguous": [
+    "deltoid",
+    "trapezius"
+   ],
+   "emptyPrimary": false
+  },
+  {
+   "id": "bent-over-barbell-row",
+   "ambiguous": [
+    "trapezius",
+    "deltoid"
+   ],
+   "emptyPrimary": false
+  },
+  {
+   "id": "bent-over-reverse-dumbbell-fly",
+   "ambiguous": [
+    "deltoid",
+    "trapezius"
+   ],
+   "emptyPrimary": false
+  },
+  {
+   "id": "cable-crossover",
+   "ambiguous": [
+    "pectoralis-major",
+    "deltoid"
+   ],
+   "emptyPrimary": false
+  },
+  {
+   "id": "cable-external-rotation",
+   "ambiguous": [
+    "deltoid"
+   ],
+   "emptyPrimary": false
+  },
+  {
+   "id": "cable-high-serratus-punch",
+   "ambiguous": [
+    "deltoid",
+    "trapezius"
+   ],
+   "emptyPrimary": false
+  },
+  {
+   "id": "cable-hip-flexion",
+   "ambiguous": [
+    "quadriceps"
+   ],
+   "emptyPrimary": false
+  },
+  {
+   "id": "cable-internal-rotation",
+   "ambiguous": [
+    "pectoralis-major"
+   ],
+   "emptyPrimary": false
+  },
+  {
+   "id": "cable-wood-chop",
+   "ambiguous": [
+    "deltoid"
+   ],
+   "emptyPrimary": false
+  },
+  {
+   "id": "chest-supported-dumbbell-row",
+   "ambiguous": [
+    "trapezius",
+    "deltoid"
+   ],
+   "emptyPrimary": false
+  },
+  {
+   "id": "close-grip-bench-press",
+   "ambiguous": [
+    "pectoralis-major",
+    "deltoid"
+   ],
+   "emptyPrimary": false
+  },
+  {
+   "id": "cuban-press",
+   "ambiguous": [
+    "deltoid",
+    "trapezius"
+   ],
+   "emptyPrimary": false
+  },
+  {
+   "id": "dumbbell-90-90-external-rotation",
+   "ambiguous": [
+    "deltoid",
+    "trapezius"
+   ],
+   "emptyPrimary": false
+  },
+  {
+   "id": "dumbbell-90-90-internal-rotation",
+   "ambiguous": [
+    "pectoralis-major",
+    "deltoid"
+   ],
+   "emptyPrimary": false
+  },
+  {
+   "id": "dumbbell-bench-press",
+   "ambiguous": [
+    "pectoralis-major",
+    "deltoid"
+   ],
+   "emptyPrimary": false
+  },
+  {
+   "id": "dumbbell-bulgarian-split-squat",
+   "ambiguous": [
+    "quadriceps"
+   ],
+   "emptyPrimary": false
+  },
+  {
+   "id": "dumbbell-fly",
+   "ambiguous": [
+    "pectoralis-major",
+    "deltoid"
+   ],
+   "emptyPrimary": false
+  },
+  {
+   "id": "dumbbell-front-raise",
+   "ambiguous": [
+    "deltoid",
+    "pectoralis-major",
+    "trapezius"
+   ],
+   "emptyPrimary": false
+  },
+  {
+   "id": "dumbbell-lateral-raise",
+   "ambiguous": [
+    "deltoid",
+    "trapezius"
+   ],
+   "emptyPrimary": false
+  },
+  {
+   "id": "dumbbell-lunge",
+   "ambiguous": [
+    "quadriceps"
+   ],
+   "emptyPrimary": false
+  },
+  {
+   "id": "dumbbell-pullover",
+   "ambiguous": [
+    "pectoralis-major"
+   ],
+   "emptyPrimary": false
+  },
+  {
+   "id": "dumbbell-romanian-deadlift",
+   "ambiguous": [
+    "trapezius"
+   ],
+   "emptyPrimary": false
+  },
+  {
+   "id": "dumbbell-scaption",
+   "ambiguous": [
+    "deltoid",
+    "trapezius"
+   ],
+   "emptyPrimary": false
+  },
+  {
+   "id": "dumbbell-shrug",
+   "ambiguous": [
+    "trapezius"
+   ],
+   "emptyPrimary": false
+  },
+  {
+   "id": "dumbbell-step-up",
+   "ambiguous": [
+    "quadriceps"
+   ],
+   "emptyPrimary": false
+  },
+  {
+   "id": "face-pull",
+   "ambiguous": [
+    "deltoid",
+    "trapezius"
+   ],
+   "emptyPrimary": false
+  },
+  {
+   "id": "farmers-walk",
+   "ambiguous": [
+    "trapezius",
+    "quadriceps",
+    "deltoid"
+   ],
+   "emptyPrimary": false
+  },
+  {
+   "id": "goblet-squat",
+   "ambiguous": [
+    "quadriceps"
+   ],
+   "emptyPrimary": false
+  },
+  {
+   "id": "incline-dumbbell-press",
+   "ambiguous": [
+    "pectoralis-major",
+    "deltoid"
+   ],
+   "emptyPrimary": false
+  },
+  {
+   "id": "kettlebell-standing-hip-flexor-raise",
+   "ambiguous": [
+    "quadriceps"
+   ],
+   "emptyPrimary": false
+  },
+  {
+   "id": "kettlebell-swing",
+   "ambiguous": [
+    "trapezius"
+   ],
+   "emptyPrimary": false
+  },
+  {
+   "id": "landmine-rotation",
+   "ambiguous": [
+    "deltoid"
+   ],
+   "emptyPrimary": false
+  },
+  {
+   "id": "lat-pulldown",
+   "ambiguous": [
+    "deltoid",
+    "trapezius"
+   ],
+   "emptyPrimary": false
+  },
+  {
+   "id": "leg-extension",
+   "ambiguous": [
+    "quadriceps"
+   ],
+   "emptyPrimary": false
+  },
+  {
+   "id": "leg-press",
+   "ambiguous": [
+    "quadriceps"
+   ],
+   "emptyPrimary": false
+  },
+  {
+   "id": "lying-lateral-neck-flexion",
+   "ambiguous": [
+    "trapezius"
+   ],
+   "emptyPrimary": false
+  },
+  {
+   "id": "lying-neck-extension",
+   "ambiguous": [
+    "trapezius"
+   ],
+   "emptyPrimary": false
+  },
+  {
+   "id": "machine-assisted-dip",
+   "ambiguous": [
+    "pectoralis-major",
+    "deltoid"
+   ],
+   "emptyPrimary": false
+  },
+  {
+   "id": "machine-chest-press",
+   "ambiguous": [
+    "pectoralis-major",
+    "deltoid"
+   ],
+   "emptyPrimary": false
+  },
+  {
+   "id": "machine-neck-lateral-flexion",
+   "ambiguous": [
+    "trapezius"
+   ],
+   "emptyPrimary": false
+  },
+  {
+   "id": "machine-shoulder-press",
+   "ambiguous": [
+    "deltoid",
+    "trapezius"
+   ],
+   "emptyPrimary": false
+  },
+  {
+   "id": "one-arm-dumbbell-row",
+   "ambiguous": [
+    "trapezius",
+    "deltoid"
+   ],
+   "emptyPrimary": false
+  },
+  {
+   "id": "pec-deck",
+   "ambiguous": [
+    "pectoralis-major",
+    "deltoid"
+   ],
+   "emptyPrimary": false
+  },
+  {
+   "id": "prone-t-raise",
+   "ambiguous": [
+    "trapezius",
+    "deltoid"
+   ],
+   "emptyPrimary": false
+  },
+  {
+   "id": "prone-y-raise",
+   "ambiguous": [
+    "trapezius",
+    "deltoid"
+   ],
+   "emptyPrimary": false
+  },
+  {
+   "id": "push-press",
+   "ambiguous": [
+    "deltoid",
+    "trapezius",
+    "quadriceps"
+   ],
+   "emptyPrimary": false
+  },
+  {
+   "id": "reverse-machine-fly",
+   "ambiguous": [
+    "deltoid",
+    "trapezius"
+   ],
+   "emptyPrimary": false
+  },
+  {
+   "id": "romanian-deadlift",
+   "ambiguous": [
+    "trapezius"
+   ],
+   "emptyPrimary": false
+  },
+  {
+   "id": "seated-cable-row",
+   "ambiguous": [
+    "trapezius",
+    "deltoid"
+   ],
+   "emptyPrimary": false
+  },
+  {
+   "id": "seated-dumbbell-shoulder-press",
+   "ambiguous": [
+    "deltoid",
+    "trapezius"
+   ],
+   "emptyPrimary": false
+  },
+  {
+   "id": "side-lying-ankle-eversion-ankle-weight",
+   "ambiguous": [],
+   "emptyPrimary": true
+  },
+  {
+   "id": "side-lying-dumbbell-external-rotation",
+   "ambiguous": [
+    "deltoid"
+   ],
+   "emptyPrimary": false
+  },
+  {
+   "id": "side-lying-dumbbell-internal-rotation",
+   "ambiguous": [
+    "pectoralis-major"
+   ],
+   "emptyPrimary": false
+  },
+  {
+   "id": "straight-arm-pulldown",
+   "ambiguous": [
+    "deltoid"
+   ],
+   "emptyPrimary": false
+  },
+  {
+   "id": "suitcase-carry",
+   "ambiguous": [
+    "trapezius"
+   ],
+   "emptyPrimary": false
+  },
+  {
+   "id": "sumo-deadlift",
+   "ambiguous": [
+    "quadriceps",
+    "trapezius"
+   ],
+   "emptyPrimary": false
+  },
+  {
+   "id": "supine-dumbbell-serratus-punch",
+   "ambiguous": [
+    "deltoid",
+    "pectoralis-major"
+   ],
+   "emptyPrimary": false
+  },
+  {
+   "id": "weighted-dip",
+   "ambiguous": [
+    "pectoralis-major",
+    "deltoid"
+   ],
+   "emptyPrimary": false
+  },
+  {
+   "id": "weighted-pull-up",
+   "ambiguous": [
+    "deltoid",
+    "trapezius"
+   ],
+   "emptyPrimary": false
+  },
+  {
+   "id": "wrist-roller",
+   "ambiguous": [
+    "deltoid"
+   ],
+   "emptyPrimary": false
+  }
+ ],
+ "dropped": {
+  "multifidus": 5,
+  "fibularis-longus": 13,
+  "tibialis-posterior": 7,
+  "piriformis": 2,
+  "extensor-digitorum-longus": 8,
+  "fibularis-brevis": 8,
+  "sartorius": 7,
+  "obturator-internus": 1
+ },
+ "unknown": {}
+}

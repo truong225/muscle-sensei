@@ -1,0 +1,21 @@
+{
+ "rawTriangles": {
+  "selectable": 9976600,
+  "contextMuscles": 8279558,
+  "bones": 2135400
+ },
+ "ratio": {
+  "selectable": 0.03207505563017461,
+  "contextMuscles": 0.012681836397546825,
+  "bones": 0.04682963379226374
+ },
+ "finalTriangles": {
+  "selectable": 319710,
+  "contextMuscles": 133227,
+  "bones": 144514,
+  "total": 597451
+ },
+ "nodes": 82,
+ "bytes": 5017708,
+ "seconds": 55.091
+}

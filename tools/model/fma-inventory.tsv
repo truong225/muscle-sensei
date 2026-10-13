@@ -1,0 +1,935 @@
+fma	name	bytes
+FMA45875	Abdominal part of left pectoralis major	373484
+FMA45874	Abdominal part of right pectoralis major	377384
+FMA37464	Abductor digiti minimi of left foot	695384
+FMA37397	Abductor digiti minimi of left hand	343584
+FMA37463	Abductor digiti minimi of right foot	661584
+FMA37396	Abductor digiti minimi of right hand	353784
+FMA34683	Acromial part of left deltoid	1453884
+FMA34682	Acromial part of right deltoid	1484184
+FMA46305	Anterior belly of left digastric	191184
+FMA46304	Anterior belly of right digastric	196484
+FMA61961	Anterior commissure	184584
+FMA72909	Anterior limb of left internal capsule	2435684
+FMA72908	Anterior limb of right internal capsule	2436184
+FMA7260	Anterior papillary muscle of right ventricle	193084
+FMA72801	Anterior part of left superior temporal gyrus	416984
+FMA72800	Anterior part of right superior temporal gyrus	417484
+FMA46768	Aponeurosis of epicranius	20283984
+FMA14542	Appendix	34584
+FMA3768	Arch of aorta	164184
+FMA3736	Ascending aorta	107884
+FMA33583	Ascending part of left trapezius	3402484
+FMA33581	Ascending part of right trapezius	3481684
+FMA12519	Atlas	308684
+FMA12520	Axis	343584
+BP24	?	947184
+BP28	?	957884
+BP44	?	1585084
+BP45	?	1582284
+BP46	?	871284
+BP47	?	860484
+BP49	?	995384
+BP50	?	996384
+BP51	?	1069484
+FMA7487	Body of sternum	995884
+FMA73464	Brachium of left inferior colliculus	33684
+FMA73462	Brachium of left superior colliculus	35784
+FMA73463	Brachium of right inferior colliculus	34384
+FMA73461	Brachium of right superior colliculus	36584
+FMA7409	Bronchus	5781584
+FMA50737	Celiac artery	22784
+FMA78497	Central canal of spinal cord	158184
+FMA67944	Cerebellum	11925384
+FMA78467	Cerebral aqueduct	112684
+FMA62394	Cerebral peduncle	2341784
+FMA274029	Choroid plexus of left cerebral hemisphere	1075484
+FMA274027	Choroid plexus of right cerebral hemisphere	1077984
+FMA3895	Circumflex branch of left coronary artery	177184
+FMA34681	Clavicular part of left deltoid	1424384
+FMA34691	Clavicular part of left pectoralis major	460684
+FMA34680	Clavicular part of right deltoid	1454184
+FMA34690	Clavicular part of right pectoralis major	466584
+FMA61970	Commissure of fornix of forebrain	2308284
+FMA14771	Common hepatic artery	40484
+FMA4706	Coronary sinus	96184
+FMA86464	Corpus callosum	6627684
+FMA19618	Corpus cavernosum of penis	243084
+FMA46111	Deep head of left flexor pollicis brevis	195284
+FMA46110	Deep head of right flexor pollicis brevis	197684
+FMA49005	Deep part of left masseter	705784
+FMA49004	Deep part of right masseter	707684
+FMA3784	Descending aorta	1190484
+FMA33587	Descending part of left trapezius	2245184
+FMA33586	Descending part of right trapezius	2322584
+FMA13295	Diaphragm	10533384
+FMA32651	Distal phalanx of left big toe	79784
+FMA32657	Distal phalanx of left fourth toe	18284
+FMA23953	Distal phalanx of left index finger	32584
+FMA23959	Distal phalanx of left little finger	22784
+FMA32659	Distal phalanx of left little toe	14284
+FMA23955	Distal phalanx of left middle finger	31784
+FMA23957	Distal phalanx of left ring finger	22484
+FMA32653	Distal phalanx of left second toe	24184
+FMA32655	Distal phalanx of left third toe	17784
+FMA23951	Distal phalanx of left thumb	49484
+FMA32650	Distal phalanx of right big toe	80384
+FMA32656	Distal phalanx of right fourth toe	18184
+FMA24460	Distal phalanx of right index finger	32884
+FMA24463	Distal phalanx of right little finger	23384
+FMA32658	Distal phalanx of right little toe	13784
+FMA24461	Distal phalanx of right middle finger	32084
+FMA24462	Distal phalanx of right ring finger	22684
+FMA32652	Distal phalanx of right second toe	23384
+FMA32654	Distal phalanx of right third toe	16784
+FMA24459	Distal phalanx of right thumb	52084
+FMA7206	Duodenum	597584
+FMA52780	Ear	1185784
+FMA9991	Eighth thoracic vertebra	260384
+FMA10059	Eleventh thoracic vertebra	282684
+FMA7131	Esophagus	132184
+FMA52740	Ethmoid	388784
+FMA21930	External anal sphincter	183484
+FMA9756	External intercostal muscle	40802884
+FMA12513	Eyeball	816584
+FMA14543nsn	?	3475884
+FMA19617nsn	?	110184
+FMA3840nsn	?	154384
+FMA3862nsn	?	461084
+FMA3932nsn	?	60584
+FMA59815nsn	?	322084
+FMA61993nsn	?	2815784
+FMA62008nsn	?	884584
+FMA7198nsn	?	570784
+FMA9352nsn	?	204284
+FMA12523	Fifth cervical vertebra	237784
+FMA13076	Fifth lumbar vertebra	864184
+FMA9922	Fifth thoracic vertebra	491784
+FMA13072	First lumbar vertebra	647384
+FMA37718	First lumbrical of left foot	238084
+FMA37717	First lumbrical of right foot	246284
+FMA37746	First plantar interosseous of left foot	219484
+FMA37745	First plantar interosseous of right foot	222184
+FMA9165	First thoracic vertebra	280784
+FMA37472	Flexor digiti minimi brevis of left foot	256284
+FMA37399	Flexor digiti minimi brevis of left hand	152284
+FMA37471	Flexor digiti minimi brevis of right foot	250284
+FMA37398	Flexor digiti minimi brevis of right hand	157284
+FMA40121	Flexor retinaculum of left wrist	531784
+FMA40120	Flexor retinaculum of right wrist	532484
+FMA12522	Fourth cervical vertebra	211284
+FMA13075	Fourth lumbar vertebra	771384
+FMA37484	Fourth lumbrical of left foot	161384
+FMA37483	Fourth lumbrical of right foot	150884
+FMA9248	Fourth thoracic vertebra	446584
+FMA78469	Fourth ventricle	1506784
+FMA76893	Free taenia	2451484
+FMA52734	Frontal bone	1653184
+FMA7202	Gallbladder	692384
+FMA18247	Glans penis	262684
+FMA4707	Great cardiac vein	373884
+FMA62032	Habenula	19284
+FMA38618	Humeral head of left flexor carpi ulnaris	2018384
+FMA38561	Humeral head of left pronator teres	1268884
+FMA38617	Humeral head of right flexor carpi ulnaris	1956584
+FMA38560	Humeral head of right pronator teres	1298984
+FMA38639	Humeroulnar head of left flexor digitorum superficialis	6541184
+FMA38638	Humeroulnar head of right flexor digitorum superficialis	6407584
+FMA52749	Hyoid bone	276784
+FMA7208	Ileum	1562584
+FMA14750	Inferior mesenteric artery	30184
+FMA46288	Inferior oblique part of left longus colli	530984
+FMA46287	Inferior oblique part of right longus colli	558684
+FMA10951	Inferior vena cava	384384
+FMA9758	Innermost intercostal muscle	33900784
+FMA9757	Internal intercostal muscle	36157784
+FMA23708	Interosseous membrane of left forearm	690484
+FMA35193	Interosseous membrane of left leg	3177384
+FMA23707	Interosseous membrane of right forearm	720784
+FMA35192	Interosseous membrane of right leg	3217884
+FMA83740	Interpeduncular fossa	21384
+FMA75351	Interventricular foramen	232184
+FMA25058	Intervertebral disk of axis	150784
+FMA13505	Intervertebral disk of eighth thoracic vertebra	510184
+FMA13508	Intervertebral disk of eleventh thoracic vertebra	714084
+FMA13898	Intervertebral disk of fifth cervical vertebra	172284
+FMA16037	Intervertebral disk of fifth lumbar vertebra	808984
+FMA13502	Intervertebral disk of fifth thoracic vertebra	366884
+FMA16033	Intervertebral disk of first lumbar vertebra	707684
+FMA10458	Intervertebral disk of first thoracic vertebra	214084
+FMA13897	Intervertebral disk of fourth cervical vertebra	175884
+FMA16036	Intervertebral disk of fourth lumbar vertebra	724584
+FMA13501	Intervertebral disk of fourth thoracic vertebra	315484
+FMA13506	Intervertebral disk of ninth thoracic vertebra	252084
+FMA16034	Intervertebral disk of second lumbar vertebra	680184
+FMA13495	Intervertebral disk of second thoracic vertebra	248584
+FMA13900	Intervertebral disk of seventh cervical vertebra	195684
+FMA13504	Intervertebral disk of seventh thoracic vertebra	519384
+FMA13899	Intervertebral disk of sixth cervical vertebra	161984
+FMA13503	Intervertebral disk of sixth thoracic vertebra	452984
+FMA13507	Intervertebral disk of tenth thoracic vertebra	576784
+FMA13896	Intervertebral disk of third cervical vertebra	151684
+FMA16035	Intervertebral disk of third lumbar vertebra	713584
+FMA13500	Intervertebral disk of third thoracic vertebra	258784
+FMA13509	Intervertebral disk of twelfth thoracic vertebra	726984
+FMA7207	Jejunum	1573484
+FMA61975	Lamina terminalis	122484
+FMA45974	Lateral head of left flexor hallucis brevis	538684
+FMA45961	Lateral head of left gastrocnemius	2435584
+FMA37698	Lateral head of left triceps brachii	1798784
+FMA45973	Lateral head of right flexor hallucis brevis	549684
+FMA45960	Lateral head of right gastrocnemius	2455284
+FMA37697	Lateral head of right triceps brachii	1815684
+FMA37460	Left abductor hallucis	854984
+FMA37387	Left abductor pollicis brevis	302084
+FMA38517	Left abductor pollicis longus	1183384
+FMA72702	Left accessory short gyrus	766584
+FMA22454	Left adductor brevis	1086384
+FMA22457	Left adductor longus	1893984
+FMA22460	Left adductor magnus	4124584
+FMA43887	Left adductor minimus	485184
+FMA15630	Left adrenal gland	989484
+FMA72833	Left amygdala	86884
+FMA37706	Left anconeus	709184
+FMA72670	Left angular gyrus	658284
+FMA37669	Left brachialis	1734384
+FMA4761	Left brachiocephalic vein	95984
+FMA38487	Left brachioradialis	3677984
+FMA46836	Left buccinator	441884
+FMA264844	Left calcaneal tendon	2361984
+FMA24498	Left calcaneus	282684
+FMA24447	Left capitate	63984
+FMA72827	Left caudate nucleus	558084
+FMA81753	Left cervical rotator	715784
+FMA72718	Left cingulate gyrus	586284
+FMA13323	Left clavicle	257084
+FMA46444	Left coccygeus	485184
+FMA4058	Left common carotid artery	34984
+FMA14766	Left common iliac artery	40384
+FMA21388	Left common iliac vein	49684
+FMA37666	Left coracobrachialis	555684
+FMA46797	Left corrugator supercilii	138484
+FMA24529	Left cuboid bone	190284
+FMA19236	Left deferent duct	74984
+FMA46830	Left depressor anguli oris	268684
+FMA46818	Left depressor labii inferioris	491684
+FMA55609	Left depressor septi nasi	127284
+FMA8310	Left eighth rib	1856784
+FMA8532	Left eleventh rib	1141384
+FMA18257	Left epididymis	24284
+FMA38499	Left extensor carpi radialis brevis	1694784
+FMA38496	Left extensor carpi radialis longus	1913884
+FMA38505	Left extensor digiti minimi	1075584
+FMA38502	Left extensor digitorum	3182884
+FMA51143	Left extensor digitorum brevis	1614084
+FMA22549	Left extensor digitorum longus	3100484
+FMA51145	Left extensor hallucis brevis	538984
+FMA22547	Left extensor hallucis longus	1157384
+FMA38526	Left extensor indicis	575984
+FMA38520	Left extensor pollicis brevis	581284
+FMA38523	Left extensor pollicis longus	803684
+FMA18807	Left external iliac artery	64484
+FMA18886	Left external iliac vein	72484
+FMA13337	Left external oblique	27318584
+FMA24475	Left femur	660184
+FMA24481	Left fibula	227284
+FMA22555	Left fibularis brevis	1790784
+FMA22553	Left fibularis longus	2915784
+FMA22551	Left fibularis tertius	305884
+FMA8112	Left fifth costal cartilage	226884
+FMA24473	Left fifth metacarpal bone	107384
+FMA24516	Left fifth metatarsal bone	184484
+FMA8093	Left fifth rib	2078484
+FMA8005	Left first costal cartilage	110284
+FMA55704	Left first lower molar tooth	440584
+FMA55693	Left first lower premolar tooth	294384
+FMA24465	Left first metacarpal bone	124084
+FMA24508	Left first metatarsal bone	243084
+FMA7987	Left first rib	773284
+FMA55699	Left first upper molar tooth	539484
+FMA55690	Left first upper premolar tooth	402984
+FMA37466	Left flexor accessorius	625384
+FMA38461	Left flexor carpi radialis	796584
+FMA37462	Left flexor digitorum brevis	1706384
+FMA65017	Left flexor digitorum longus	3568384
+FMA38480	Left flexor digitorum profundus	3629784
+FMA65015	Left flexor hallucis longus	2992984
+FMA38484	Left flexor pollicis longus	934984
+FMA72925	Left fornix of forebrain	1468684
+FMA8167	Left fourth costal cartilage	161084
+FMA24471	Left fourth metacarpal bone	113584
+FMA24514	Left fourth metatarsal bone	155984
+FMA8148	Left fourth rib	1896184
+FMA46760	Left frontalis	2929684
+FMA72690	Left fusiform gyrus	307484
+FMA14768	Left gastric artery	11684
+FMA22337	Left gemellus inferior	471284
+FMA22335	Left gemellus superior	215384
+FMA46327	Left geniohyoid	259584
+FMA72831	Left globus pallidus	1536984
+FMA22329	Left gluteus maximus	1650484
+FMA22331	Left gluteus medius	2531584
+FMA22333	Left gluteus minimus	3134384
+FMA43884	Left gracilis	2459784
+FMA24449	Left hamate	56584
+FMA16587	Left hip bone	473584
+FMA72714	Left hippocampus proper	214084
+FMA23131	Left humerus	824684
+FMA22323	Left iliacus	2215384
+FMA45859	Left iliococcygeus	917184
+FMA22745	Left iliocostalis cervicis	992484
+FMA22741	Left iliocostalis lumborum	5484684
+FMA22743	Left iliocostalis thoracis	2812884
+FMA58777	Left iliotibial tract	12244284
+FMA73435	Left inferior colliculus	13584
+FMA54738	Left inferior nasal concha	74284
+FMA72688	Left inferior temporal gyrus	652084
+FMA32548	Left infraspinatus	1594984
+FMA21965	Left inguinal ligament	585284
+FMA72978	Left insula	612184
+FMA24524	Left intermediate cuneiform bone	105384
+FMA264840	Left intermediate tendon	115584
+FMA18810	Left internal iliac artery	25084
+FMA18888	Left internal iliac vein	23984
+FMA4762	Left internal jugular vein	36084
+FMA13893	Left internal oblique	13209184
+FMA7205	Left kidney	767984
+FMA53646	Left lacrimal bone	57684
+FMA24526	Left lateral cuneiform bone	148484
+FMA73304	Left lateral geniculate body	34384
+FMA78450	Left lateral ventricle	3900584
+FMA13359	Left latissimus dorsi	11369584
+FMA46824	Left levator anguli oris	199584
+FMA46807	Left levator labii superioris	268784
+FMA46804	Left levator labii superioris alaeque nasi	82384
+FMA32541	Left levator scapulae	1519284
+FMA71195	Left lobe of thymus	2297284
+FMA44250	Left long plantar ligament	1760584
+FMA22756	Left longissimus capitis	768784
+FMA22758	Left longissimus cervicis	903584
+FMA22753	Left longissimus thoracis	5259884
+FMA46310	Left longus capitis	965084
+FMA55687	Left lower canine tooth	295384
+FMA57143	Left lower central incisor tooth	229884
+FMA57141	Left lower lateral incisor tooth	240284
+FMA23090	Left lumbar rotator	1294784
+FMA24438	Left lunate	43384
+FMA53650	Left maxilla	725384
+FMA24522	Left medial cuneiform bone	210584
+FMA73310	Left medial geniculate body	10084
+FMA49013	Left medial pterygoid	368484
+FMA46827	Left mentalis	92684
+FMA72656	Left middle frontal gyrus	777284
+FMA72686	Left middle temporal gyrus	645984
+FMA22879	Left multifidus	3555284
+FMA46322	Left mylohyoid	558184
+FMA53648	Left nasal bone	56284
+FMA55607	Left nasalis	366384
+FMA8391	Left ninth rib	1801084
+FMA32537	Left obliquus capitis inferior	261484
+FMA32535	Left obliquus capitis superior	356884
+FMA22327	Left obturator externus	578184
+FMA22325	Left obturator internus	1771284
+FMA72976	Left occipital lobe	937384
+FMA46762	Left occipitalis	1337884
+FMA13349	Left omohyoid	1348084
+FMA37391	Left opponens pollicis	379184
+FMA50878	Left optic nerve	515184
+FMA67936	Left optic tract	506184
+FMA53656	Left palatine bone	182184
+FMA38464	Left palmaris longus	2153184
+FMA72706	Left parahippocampal gyrus	172684
+FMA52789	Left parietal bone	1512584
+FMA24487	Left patella	66984
+FMA22451	Left pectineus	1030784
+FMA13376	Left pectoralis minor	2239984
+FMA22341	Left piriformis	712484
+FMA24442	Left pisiform	19884
+FMA22561	Left plantaris	2335184
+FMA45740	Left platysma	3225884
+FMA22592	Left popliteus	558984
+FMA72666	Left postcentral gyrus	842984
+FMA72662	Left precentral gyrus	941884
+FMA55611	Left procerus	274184
+FMA38455	Left pronator quadratus	721884
+FMA22343	Left psoas major	2788384
+FMA45855	Left pubococcygeus	1168184
+FMA45857	Left puborectalis	891984
+FMA72829	Left putamen	1531884
+FMA22347	Left pyramidalis	552284
+FMA22339	Left quadratus femoris	838084
+FMA22349	Left quadratus lumborum	1280184
+FMA23465	Left radius	135784
+FMA13378	Left rectus abdominis	9443184
+FMA46314	Left rectus capitis anterior	199384
+FMA46318	Left rectus capitis lateralis	179884
+FMA32531	Left rectus capitis posterior major	391984
+FMA32533	Left rectus capitis posterior minor	215184
+FMA38929	Left rectus femoris	4102584
+FMA14753	Left renal artery	65484
+FMA14336	Left renal vein	28784
+FMA13382	Left rhomboid major	2419984
+FMA13384	Left rhomboid minor	753184
+FMA46840	Left risorius	334284
+FMA22355	Left sartorius	2573784
+FMA13393	Left scalenus anterior	685084
+FMA13391	Left scalenus medius	1060184
+FMA13389	Left scalenus posterior	658784
+FMA24436	Left scaphoid	53584
+FMA13396	Left scapula	6090884
+FMA8031	Left second costal cartilage	117584
+FMA55703	Left second lower molar tooth	404484
+FMA55692	Left second lower premolar tooth	281084
+FMA24467	Left second metacarpal bone	163284
+FMA24510	Left second metatarsal bone	169484
+FMA8012	Left second rib	1265284
+FMA55700	Left second upper molar tooth	462284
+FMA55691	Left second upper premolar tooth	366784
+FMA22449	Left semimembranosus	3606384
+FMA19388	Left seminal vesicle	54084
+FMA22877	Left semispinalis capitis	1369184
+FMA22875	Left semispinalis cervicis	1257884
+FMA22873	Left semispinalis thoracis	2425284
+FMA22359	Left semitendinosus	2126984
+FMA13399	Left serratus anterior	12411784
+FMA13406	Left serratus posterior inferior	4500784
+FMA13404	Left serratus posterior superior	2915484
+FMA8275	Left seventh costal cartilage	495184
+FMA8256	Left seventh rib	2203184
+FMA8221	Left sixth costal cartilage	298384
+FMA8202	Left sixth rib	2221784
+FMA22559	Left soleus	3468484
+FMA22782	Left spinalis cervicis	296684
+FMA22780	Left spinalis thoracis	2700484
+FMA22729	Left splenius capitis	2662184
+FMA22727	Left splenius cervicis	2227284
+FMA13409	Left sternocleidomastoid	2514584
+FMA13347	Left sternohyoid	688284
+FMA13351	Left sternothyroid	545984
+FMA73414	Left stria medullaris of thalamus	193584
+FMA72940	Left stria terminalis	151384
+FMA45827	Left stylohyoid	356684
+FMA4694	Left subclavian artery	161784
+FMA4763	Left subclavian vein	55684
+FMA13411	Left subclavius	407784
+FMA13415	Left subscapularis	1533584
+FMA73423	Left superior colliculus	10284
+FMA72654	Left superior frontal gyrus	1522584
+FMA38514	Left supinator	1303684
+FMA72668	Left supramarginal gyrus	488984
+FMA32545	Left supraspinatus	741084
+FMA24483	Left talus	296284
+FMA52739	Left temporal bone	560484
+FMA49008	Left temporalis	5317884
+FMA46764	Left temporoparietalis	6081084
+FMA22426	Left tensor fasciae latae	925784
+FMA8472	Left tenth rib	1587984
+FMA32552	Left teres major	855684
+FMA32554	Left teres minor	757584
+FMA7212	Left testis	14084
+FMA258716	Left thalamus	369884
+FMA8058	Left third costal cartilage	121484
+FMA24469	Left third metacarpal bone	152084
+FMA24512	Left third metatarsal bone	161484
+FMA8039	Left third rib	1560684
+FMA13353	Left thyrohyoid	362284
+FMA24478	Left tibia	341184
+FMA22545	Left tibialis anterior	1726184
+FMA65019	Left tibialis posterior	2903184
+FMA22345	Left transversus abdominis	15643184
+FMA9762	Left transversus thoracis	869884
+FMA24444	Left trapezium	52984
+FMA24445	Left trapezoid	30684
+FMA24440	Left triquetral	34984
+FMA8534	Left twelfth rib	686384
+FMA23468	Left ulna	176984
+FMA55799	Left upper canine tooth	348384
+FMA55682	Left upper central incisor tooth	322284
+FMA55683	Left upper lateral incisor tooth	344884
+FMA15572	Left ureter	111384
+FMA38935	Left vastus intermedius	3068784
+FMA38931	Left vastus lateralis	4723784
+FMA38933	Left vastus medialis	3249084
+FMA52893	Left zygomatic bone	228084
+FMA46813	Left zygomaticus major	506084
+FMA46815	Left zygomaticus minor	227584
+FMA11336	Linea alba	475884
+FMA7197	Liver	970884
+FMA37687	Long head of left biceps brachii	1645384
+FMA45889	Long head of left biceps femoris	3709084
+FMA37700	Long head of left triceps brachii	1906484
+FMA37686	Long head of right biceps brachii	1613384
+FMA45888	Long head of right biceps femoris	3654984
+FMA37699	Long head of right triceps brachii	1975784
+FMA49023	Lower head of left lateral pterygoid	119584
+FMA49022	Lower head of right lateral pterygoid	121084
+FMA7371	Lower lobe of left lung	2214484
+FMA7337	Lower lobe of right lung	3279684
+FMA74877	Mammillary body	83384
+FMA52748	Mandible	1082984
+FMA59764	Mandibular gingiva	479884
+FMA7486	Manubrium	594184
+FMA3818	Marginal branch of right coronary artery	245484
+FMA59763	Maxillary gingiva	459684
+FMA45972	Medial head of left flexor hallucis brevis	371984
+FMA45958	Medial head of left gastrocnemius	3256984
+FMA37696	Medial head of left triceps brachii	1311384
+FMA45971	Medial head of right flexor hallucis brevis	383684
+FMA45957	Medial head of right gastrocnemius	3238684
+FMA37695	Medial head of right triceps brachii	1344084
+FMA62004	Medulla oblongata	2638084
+FMA76891	Mesocolic taenia	1576284
+FMA4713	Middle cardiac vein	216384
+FMA7383	Middle lobe of right lung	1173984
+FMA32647	Middle phalanx of left fourth toe	27384
+FMA23938	Middle phalanx of left index finger	56984
+FMA23944	Middle phalanx of left little finger	44284
+FMA230988	Middle phalanx of left little toe	15184
+FMA23940	Middle phalanx of left middle finger	74884
+FMA23942	Middle phalanx of left ring finger	67284
+FMA32643	Middle phalanx of left second toe	34384
+FMA32645	Middle phalanx of left third toe	31984
+FMA32646	Middle phalanx of right fourth toe	26084
+FMA24455	Middle phalanx of right index finger	57084
+FMA24458	Middle phalanx of right little finger	45084
+FMA230986	Middle phalanx of right little toe	14784
+FMA24456	Middle phalanx of right middle finger	73884
+FMA24457	Middle phalanx of right ring finger	67584
+FMA32642	Middle phalanx of right second toe	32684
+FMA32644	Middle phalanx of right third toe	31784
+FMA7235	Mitral valve	955184
+FMA24501	Navicular bone of left foot	154884
+FMA24500	Navicular bone of right foot	151184
+FMA10014	Ninth thoracic vertebra	564384
+FMA46019	Oblique head of left adductor hallucis	489684
+FMA46122	Oblique head of left adductor pollicis	216184
+FMA46018	Oblique head of right adductor hallucis	474084
+FMA46121	Oblique head of right adductor pollicis	234684
+FMA52735	Occipital bone	1390684
+FMA76892	Omental taenia	1855984
+FMA86035	Opponens digiti minimi of left foot	126184
+FMA37401	Opponens digiti minimi of left hand	228584
+FMA86034	Opponens digiti minimi of right foot	121284
+FMA37400	Opponens digiti minimi of right hand	233284
+FMA62045	Optic chiasm	387684
+FMA46841	Orbicularis oris	1880784
+FMA46783	Orbital part of left orbicularis oculi	414084
+FMA46782	Orbital part of right orbicularis oculi	416584
+FMA46786	Palpebral part of left orbicularis oculi	1152184
+FMA46785	Palpebral part of right orbicularis oculi	1195384
+FMA10419	Pancreatic duct	206484
+FMA62033	Pineal body	126884
+FMA13889	Pituitary gland	252684
+FMA67943	Pons	4503684
+FMA46307	Posterior belly of left digastric	645384
+FMA46306	Posterior belly of right digastric	652884
+FMA62072	Posterior commissure	189384
+FMA7266	Posterior papillary muscle of left ventricle	195184
+FMA7261	Posterior papillary muscle of right ventricle	136584
+FMA72805	Posterior part of left superior temporal gyrus	523684
+FMA72804	Posterior part of right superior temporal gyrus	523684
+FMA9600	Prostate	87784
+FMA43254	Proximal phalanx of left big toe	109784
+FMA32639	Proximal phalanx of left fourth toe	58384
+FMA71915	Proximal phalanx of left index finger	84284
+FMA66791	Proximal phalanx of left little finger	58984
+FMA32641	Proximal phalanx of left little toe	60384
+FMA71908	Proximal phalanx of left middle finger	98784
+FMA71916	Proximal phalanx of left ring finger	80884
+FMA32635	Proximal phalanx of left second toe	70884
+FMA32637	Proximal phalanx of left third toe	62984
+FMA65470	Proximal phalanx of left thumb	65784
+FMA43253	Proximal phalanx of right big toe	105384
+FMA32638	Proximal phalanx of right fourth toe	54784
+FMA24451	Proximal phalanx of right index finger	83284
+FMA24454	Proximal phalanx of right little finger	60484
+FMA32640	Proximal phalanx of right little toe	57484
+FMA24452	Proximal phalanx of right middle finger	98484
+FMA24453	Proximal phalanx of right ring finger	81084
+FMA32634	Proximal phalanx of right second toe	68184
+FMA32636	Proximal phalanx of right third toe	61184
+FMA24450	Proximal phalanx of right thumb	68484
+FMA66326	Pulmonary artery	5847484
+FMA7246	Pulmonary valve	910184
+FMA66643	Pulmonary vein	3627484
+FMA38641	Radial head of left flexor digitorum superficialis	638384
+FMA38640	Radial head of right flexor digitorum superficialis	638484
+FMA14544	Rectum	441284
+FMA37459	Right abductor hallucis	857984
+FMA37386	Right abductor pollicis brevis	317684
+FMA38516	Right abductor pollicis longus	1238384
+FMA72701	Right accessory short gyrus	767384
+FMA22452	Right adductor brevis	1080484
+FMA22456	Right adductor longus	1857184
+FMA22459	Right adductor magnus	4098784
+FMA43886	Right adductor minimus	474384
+FMA15629	Right adrenal gland	493784
+FMA72832	Right amygdala	87284
+FMA37705	Right anconeus	721884
+FMA72669	Right angular gyrus	658684
+FMA37668	Right brachialis	1749484
+FMA4751	Right brachiocephalic vein	70084
+FMA38486	Right brachioradialis	3658084
+FMA46835	Right buccinator	442984
+FMA258847	Right calcaneal tendon	2320584
+FMA24497	Right calcaneus	272484
+FMA24446	Right capitate	64284
+FMA72826	Right caudate nucleus	563684
+FMA81752	Right cervical rotator	773184
+FMA72717	Right cingulate gyrus	585884
+FMA13322	Right clavicle	255684
+FMA46443	Right coccygeus	486884
+FMA3941	Right common carotid artery	221284
+FMA14765	Right common iliac artery	44884
+FMA21387	Right common iliac vein	44384
+FMA37665	Right coracobrachialis	582484
+FMA46796	Right corrugator supercilii	139284
+FMA24528	Right cuboid bone	181784
+FMA19235	Right deferent duct	75284
+FMA46829	Right depressor anguli oris	273184
+FMA46817	Right depressor labii inferioris	498084
+FMA55608	Right depressor septi nasi	129084
+FMA8283	Right eighth rib	1832384
+FMA8531	Right eleventh rib	1121484
+FMA18256	Right epididymis	6084
+FMA38498	Right extensor carpi radialis brevis	1574884
+FMA38495	Right extensor carpi radialis longus	1857084
+FMA38504	Right extensor digiti minimi	1077084
+FMA38501	Right extensor digitorum	3222284
+FMA51142	Right extensor digitorum brevis	1610884
+FMA22548	Right extensor digitorum longus	3128784
+FMA51144	Right extensor hallucis brevis	561784
+FMA22546	Right extensor hallucis longus	1190184
+FMA38525	Right extensor indicis	583584
+FMA38519	Right extensor pollicis brevis	586684
+FMA38522	Right extensor pollicis longus	811784
+FMA18806	Right external iliac artery	67284
+FMA18885	Right external iliac vein	66384
+FMA13336	Right external oblique	27464784
+FMA24474	Right femur	649584
+FMA24480	Right fibula	231184
+FMA22554	Right fibularis brevis	1786784
+FMA22552	Right fibularis longus	2910784
+FMA22550	Right fibularis tertius	316284
+FMA8070	Right fifth costal cartilage	241584
+FMA24472	Right fifth metacarpal bone	108984
+FMA24515	Right fifth metatarsal bone	171684
+FMA8066	Right fifth rib	2081784
+FMA7875	Right first costal cartilage	117184
+FMA55705	Right first lower molar tooth	440984
+FMA55694	Right first lower premolar tooth	295084
+FMA24464	Right first metacarpal bone	121784
+FMA24507	Right first metatarsal bone	244384
+FMA7857	Right first rib	709784
+FMA55698	Right first upper molar tooth	539384
+FMA55689	Right first upper premolar tooth	402784
+FMA37465	Right flexor accessorius	590384
+FMA38460	Right flexor carpi radialis	836184
+FMA37461	Right flexor digitorum brevis	1627484
+FMA65016	Right flexor digitorum longus	3495784
+FMA38479	Right flexor digitorum profundus	3564784
+FMA65014	Right flexor hallucis longus	2943884
+FMA38482	Right flexor pollicis longus	952484
+FMA72924	Right fornix of forebrain	1465084
+FMA7976	Right fourth costal cartilage	174384
+FMA24470	Right fourth metacarpal bone	115384
+FMA24513	Right fourth metatarsal bone	145984
+FMA7957	Right fourth rib	1924484
+FMA46759	Right frontalis	2944884
+FMA72689	Right fusiform gyrus	307584
+FMA22336	Right gemellus inferior	488984
+FMA22334	Right gemellus superior	225684
+FMA46326	Right geniohyoid	266084
+FMA72830	Right globus pallidus	1160384
+FMA22328	Right gluteus maximus	1711384
+FMA22330	Right gluteus medius	2590984
+FMA22332	Right gluteus minimus	3155584
+FMA43883	Right gracilis	2463184
+FMA24448	Right hamate	57584
+FMA16586	Right hip bone	485884
+FMA72713	Right hippocampus proper	222684
+FMA23130	Right humerus	813484
+FMA22322	Right iliacus	2220184
+FMA45858	Right iliococcygeus	923984
+FMA22744	Right iliocostalis cervicis	1036484
+FMA22740	Right iliocostalis lumborum	5377484
+FMA22742	Right iliocostalis thoracis	2896184
+FMA58776	Right iliotibial tract	12165484
+FMA73434	Right inferior colliculus	13584
+FMA54737	Right inferior nasal concha	80884
+FMA72687	Right inferior temporal gyrus	652884
+FMA32547	Right infraspinatus	1584084
+FMA21964	Right inguinal ligament	603484
+FMA72977	Right insula	612084
+FMA24523	Right intermediate cuneiform bone	97484
+FMA258850	Right intermediate tendon	125984
+FMA18809	Right internal iliac artery	22984
+FMA18887	Right internal iliac vein	26584
+FMA4754	Right internal jugular vein	29084
+FMA13892	Right internal oblique	13320684
+FMA7204	Right kidney	619784
+FMA53645	Right lacrimal bone	55784
+FMA24525	Right lateral cuneiform bone	135184
+FMA73303	Right lateral geniculate body	131084
+FMA78449	Right lateral ventricle	3910984
+FMA13358	Right latissimus dorsi	11398984
+FMA46823	Right levator anguli oris	202084
+FMA46806	Right levator labii superioris	271984
+FMA46803	Right levator labii superioris alaeque nasi	84484
+FMA32540	Right levator scapulae	1566884
+FMA71194	Right lobe of thymus	1613484
+FMA44249	Right long plantar ligament	1773284
+FMA22754	Right longissimus capitis	792684
+FMA22757	Right longissimus cervicis	938284
+FMA22751	Right longissimus thoracis	5358084
+FMA46309	Right longus capitis	990084
+FMA55686	Right lower canine tooth	294784
+FMA57142	Right lower central incisor tooth	230084
+FMA57140	Right lower lateral incisor tooth	239584
+FMA23089	Right lumbar rotator	1449584
+FMA24437	Right lunate	43284
+FMA53649	Right maxilla	707484
+FMA24521	Right medial cuneiform bone	205784
+FMA73309	Right medial geniculate body	10484
+FMA49012	Right medial pterygoid	372284
+FMA46826	Right mentalis	94684
+FMA72655	Right middle frontal gyrus	777984
+FMA72685	Right middle temporal gyrus	646384
+FMA22878	Right multifidus	3699384
+FMA46321	Right mylohyoid	562984
+FMA53647	Right nasal bone	51284
+FMA55606	Right nasalis	369184
+FMA8364	Right ninth rib	1713984
+FMA32536	Right obliquus capitis inferior	270684
+FMA32534	Right obliquus capitis superior	359284
+FMA22326	Right obturator externus	588084
+FMA22324	Right obturator internus	1888584
+FMA72975	Right occipital lobe	938184
+FMA46761	Right occipitalis	1351284
+FMA13348	Right omohyoid	1354884
+FMA37390	Right opponens pollicis	395284
+FMA50875	Right optic nerve	515584
+FMA62382	Right optic tract	505584
+FMA53655	Right palatine bone	179684
+FMA38463	Right palmaris longus	2220584
+FMA72705	Right parahippocampal gyrus	172784
+FMA52788	Right parietal bone	1486784
+FMA24486	Right patella	66784
+FMA22450	Right pectineus	1007584
+FMA13375	Right pectoralis minor	2268084
+FMA22340	Right piriformis	755084
+FMA24441	Right pisiform	19884
+FMA22560	Right plantaris	2351084
+FMA45739	Right platysma	3279084
+FMA22591	Right popliteus	572384
+FMA72665	Right postcentral gyrus	843184
+FMA76994	Right posterolateral branch of right coronary artery	112384
+FMA72661	Right precentral gyrus	941984
+FMA55610	Right procerus	274584
+FMA38454	Right pronator quadratus	733384
+FMA22342	Right psoas major	2830784
+FMA45854	Right pubococcygeus	1154084
+FMA45856	Right puborectalis	896284
+FMA72828	Right putamen	1533584
+FMA22346	Right pyramidalis	560784
+FMA22338	Right quadratus femoris	838584
+FMA22348	Right quadratus lumborum	1294884
+FMA23464	Right radius	140284
+FMA13377	Right rectus abdominis	9560384
+FMA46313	Right rectus capitis anterior	201784
+FMA46317	Right rectus capitis lateralis	180884
+FMA32530	Right rectus capitis posterior major	394684
+FMA32532	Right rectus capitis posterior minor	219884
+FMA38928	Right rectus femoris	4149584
+FMA14752	Right renal artery	87784
+FMA14335	Right renal vein	76984
+FMA13381	Right rhomboid major	2412784
+FMA13383	Right rhomboid minor	754684
+FMA46839	Right risorius	336884
+FMA22354	Right sartorius	2620984
+FMA13392	Right scalenus anterior	699284
+FMA13390	Right scalenus medius	1061984
+FMA13388	Right scalenus posterior	667484
+FMA24435	Right scaphoid	53784
+FMA13395	Right scapula	5662884
+FMA7886	Right second costal cartilage	127084
+FMA55706	Right second lower molar tooth	405184
+FMA55695	Right second lower premolar tooth	281284
+FMA24466	Right second metacarpal bone	160984
+FMA24509	Right second metatarsal bone	162984
+FMA7882	Right second rib	1184784
+FMA55697	Right second upper molar tooth	462784
+FMA55688	Right second upper premolar tooth	366584
+FMA22448	Right semimembranosus	3728284
+FMA19387	Right seminal vesicle	54284
+FMA22876	Right semispinalis capitis	1372784
+FMA22874	Right semispinalis cervicis	1308384
+FMA22872	Right semispinalis thoracis	2529984
+FMA22358	Right semitendinosus	2177584
+FMA13398	Right serratus anterior	12432084
+FMA13405	Right serratus posterior inferior	4516884
+FMA13403	Right serratus posterior superior	2946984
+FMA8248	Right seventh costal cartilage	524684
+FMA8229	Right seventh rib	2157384
+FMA8194	Right sixth costal cartilage	303984
+FMA8175	Right sixth rib	2231784
+FMA22558	Right soleus	3428384
+FMA22781	Right spinalis cervicis	300884
+FMA22779	Right spinalis thoracis	2799084
+FMA22728	Right splenius capitis	2663084
+FMA22726	Right splenius cervicis	2227284
+FMA13408	Right sternocleidomastoid	2565784
+FMA13346	Right sternohyoid	697384
+FMA13350	Right sternothyroid	555284
+FMA73413	Right stria medullaris of thalamus	192684
+FMA72939	Right stria terminalis	153984
+FMA45826	Right stylohyoid	368984
+FMA3953	Right subclavian artery	113084
+FMA4755	Right subclavian vein	47384
+FMA13412	Right subclavius	407784
+FMA13414	Right subscapularis	1531084
+FMA73422	Right superior colliculus	10284
+FMA72653	Right superior frontal gyrus	1522484
+FMA38513	Right supinator	1382584
+FMA72667	Right supramarginal gyrus	489184
+FMA32544	Right supraspinatus	715984
+FMA24482	Right talus	298184
+FMA52738	Right temporal bone	563784
+FMA49007	Right temporalis	5312684
+FMA46763	Right temporoparietalis	6096384
+FMA22425	Right tensor fasciae latae	934484
+FMA8445	Right tenth rib	1550584
+FMA32551	Right teres major	857484
+FMA32553	Right teres minor	761284
+FMA7211	Right testis	13984
+FMA258714	Right thalamus	164984
+FMA7913	Right third costal cartilage	134784
+FMA24468	Right third metacarpal bone	150984
+FMA24511	Right third metatarsal bone	151584
+FMA7909	Right third rib	1543084
+FMA13352	Right thyrohyoid	364484
+FMA24477	Right tibia	342584
+FMA22544	Right tibialis anterior	1795784
+FMA65018	Right tibialis posterior	3022684
+FMA22344	Right transversus abdominis	15663584
+FMA9761	Right transversus thoracis	876484
+FMA24443	Right trapezium	51384
+FMA23725	Right trapezoid	30884
+FMA24439	Right triquetral	35284
+FMA8533	Right twelfth rib	663184
+FMA23467	Right ulna	179684
+FMA55798	Right upper canine tooth	348384
+FMA55681	Right upper central incisor tooth	322384
+FMA55680	Right upper lateral incisor tooth	342184
+FMA15571	Right ureter	110584
+FMA38934	Right vastus intermedius	3093384
+FMA38930	Right vastus lateralis	4778284
+FMA38932	Right vastus medialis	3290784
+FMA52892	Right zygomatic bone	230684
+FMA46812	Right zygomaticus major	510984
+FMA46814	Right zygomaticus minor	228484
+FMA16202	Sacrum	2220884
+FMA13073	Second lumbar vertebra	347384
+FMA37720	Second lumbrical of left foot	165484
+FMA37719	Second lumbrical of right foot	166684
+FMA37744	Second plantar interosseous of left foot	216984
+FMA37743	Second plantar interosseous of right foot	216184
+FMA9187	Second thoracic vertebra	418084
+FMA7262	Septal papillary muscle of right ventricle	94984
+FMA61844	Septum pellucidum	1250684
+FMA45098	Sesamoid bone of left foot	27884
+FMA45097	Sesamoid bone of right foot	28884
+FMA71567	Set of anterior cardiac veins	285684
+FMA71442	Set of anterior cervical intertransversarii	416184
+FMA74141	Set of dorsal interossei of left foot	811584
+FMA42405	Set of dorsal interossei of left hand	849684
+FMA74140	Set of dorsal interossei of right foot	859984
+FMA42404	Set of dorsal interossei of right hand	866484
+FMA71098	Set of eyebrows	140984
+FMA70751	Set of head hairs	4526384
+FMA71309	Set of interspinales cervicis	342584
+FMA71307	Set of interspinales lumborum	541984
+FMA71308	Set of interspinales thoracis	197884
+FMA71670	Set of interventricular septal branches of left coronary artery	60784
+FMA71669	Set of interventricular septal branches of right coronary artery	37784
+FMA71444	Set of lateral lumbar intertransversarius muscles	554584
+FMA74078	Set of left levatores costarum breves	1487084
+FMA74076	Set of left levatores costarum longi	2912784
+FMA42399	Set of lumbricals of left hand	746584
+FMA42398	Set of lumbricals of right hand	761884
+FMA76775	Set of medial lumbar intertransversarius muscles	1008384
+FMA71704	Set of nasal cartilages	341384
+FMA42403	Set of palmar interossei of left hand	268284
+FMA42402	Set of palmar interossei of right hand	278284
+FMA71443	Set of posterior cervical intertransversarii	439184
+FMA76751	Set of posterior veins of left ventricle	215984
+FMA70754	Set of pubic hairs	1408284
+FMA74077	Set of right levatores costarum breves	1484784
+FMA74075	Set of right levatores costarum longi	2946284
+FMA12525	Seventh cervical vertebra	261184
+FMA9968	Seventh thoracic vertebra	537084
+FMA37685	Short head of left biceps brachii	1435484
+FMA45892	Short head of left biceps femoris	1234984
+FMA37684	Short head of right biceps brachii	1392084
+FMA45891	Short head of right biceps femoris	1273984
+FMA12524	Sixth cervical vertebra	317584
+FMA9945	Sixth thoracic vertebra	244884
+FMA7163	Skin	79324984
+FMA52736	Sphenoid bone	766184
+FMA34685	Spinal part of left deltoid	2231484
+FMA34684	Spinal part of right deltoid	2200584
+FMA7196	Spleen	450884
+FMA14773	Splenic artery	166384
+FMA14331	Splenic vein	67684
+FMA4685	Stem of left coronary artery	12684
+FMA79980	Sternocostal part of left pectoralis major	1789984
+FMA79979	Sternocostal part of right pectoralis major	1800784
+FMA7148	Stomach	469284
+FMA65199	Superficial head of left flexor pollicis brevis	188284
+FMA65198	Superficial head of right flexor pollicis brevis	213184
+FMA49002	Superficial part of left masseter	501684
+FMA49001	Superficial part of right masseter	504484
+FMA14749	Superior mesenteric artery	17584
+FMA14332	Superior mesenteric vein	10184
+FMA46284	Superior oblique part of left longus colli	532484
+FMA46283	Superior oblique part of right longus colli	583884
+FMA4720	Superior vena cava	76684
+FMA46442	Tendinous arch of levator ani	342284
+FMA10037	Tenth thoracic vertebra	596484
+FMA12521	Third cervical vertebra	263984
+FMA13074	Third lumbar vertebra	737584
+FMA37486	Third lumbrical of left foot	176184
+FMA37485	Third lumbrical of right foot	172384
+FMA37742	Third plantar interosseous of left foot	203384
+FMA37741	Third plantar interosseous of right foot	197384
+FMA9209	Third thoracic vertebra	445584
+FMA78454	Third ventricle	840484
+FMA23083	Thoracic rotator	4419784
+FMA55099	Thyroid cartilage	1157384
+FMA7394	Trachea	693584
+FMA46021	Transverse head of left adductor hallucis	196884
+FMA46124	Transverse head of left adductor pollicis	464184
+FMA46020	Transverse head of right adductor hallucis	209084
+FMA46123	Transverse head of right adductor pollicis	509684
+FMA33585	Transverse part of left trapezius	1514784
+FMA33584	Transverse part of right trapezius	1529284
+FMA7234	Tricuspid valve	2363484
+FMA3802	Trunk of right coronary artery	257784
+FMA62327	Tuber cinereum	348784
+FMA10081	Twelfth thoracic vertebra	301984
+FMA38620	Ulnar head of left flexor carpi ulnaris	733884
+FMA38563	Ulnar head of left pronator teres	570384
+FMA38619	Ulnar head of right flexor carpi ulnaris	760884
+FMA38562	Ulnar head of right pronator teres	568784
+FMA49025	Upper head of left lateral pterygoid	115584
+FMA49024	Upper head of right lateral pterygoid	116484
+FMA7370	Upper lobe of left lung	2032684
+FMA7333	Upper lobe of right lung	1519984
+FMA19667	Urethra	59384
+FMA15900	Urinary bladder	200884
+FMA46286	Vertical intermediate part of left longus colli	847784
+FMA46285	Vertical intermediate part of right longus colli	871684
+FMA9710	Vomer	121184
+FMA7274	Wall of heart	16579684
+FMA61822	White matter structure of cerebral hemisphere	8828284
+FMA7488	Xiphoid process	204384

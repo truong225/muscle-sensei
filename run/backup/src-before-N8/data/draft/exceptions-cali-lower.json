@@ -1,0 +1,11 @@
+{
+  "sartorius": {
+    "calisthenics": {
+      "reason": "Cơ may là cơ hai khớp (gập, dạng nhẹ, xoay ngoài đùi và gập gối) và chỉ đóng vai trò phụ trong các động tác gấp hông. Chưa tìm được nguồn đã xác minh nào nêu bài tự trọng có cơ may là cơ làm việc chính, nên không gán làm cơ chính. Cơ may được ghi là cơ phụ trong các bài đứng co đùi và nằm nâng chân thẳng.",
+      "sources": [
+        "https://www.physio-pedia.com/Sartorius",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC11546833"
+      ]
+    }
+  }
+}

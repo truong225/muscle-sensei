@@ -1,0 +1,1098 @@
+{
+ "replace": {
+  "assisted-squat": {
+   "quadriceps": {
+    "primary": [
+     "vasti"
+    ],
+    "secondary": [
+     "rectus-femoris"
+    ]
+   }
+  },
+  "bodyweight-squat": {
+   "quadriceps": {
+    "primary": [
+     "vasti"
+    ],
+    "secondary": [
+     "rectus-femoris"
+    ]
+   }
+  },
+  "barbell-back-squat": {
+   "quadriceps": {
+    "primary": [
+     "vasti"
+    ],
+    "secondary": [
+     "rectus-femoris"
+    ]
+   }
+  },
+  "barbell-front-squat": {
+   "quadriceps": {
+    "primary": [
+     "vasti"
+    ],
+    "secondary": [
+     "rectus-femoris"
+    ]
+   }
+  },
+  "barbell-sumo-squat": {
+   "quadriceps": {
+    "primary": [
+     "vasti"
+    ],
+    "secondary": [
+     "rectus-femoris"
+    ]
+   }
+  },
+  "goblet-squat": {
+   "quadriceps": {
+    "primary": [
+     "vasti"
+    ],
+    "secondary": [
+     "rectus-femoris"
+    ]
+   }
+  },
+  "cossack-squat": {
+   "quadriceps": {
+    "primary": [
+     "vasti"
+    ],
+    "secondary": [
+     "rectus-femoris"
+    ]
+   }
+  },
+  "side-lunge": {
+   "quadriceps": {
+    "primary": [
+     "vasti"
+    ],
+    "secondary": [
+     "rectus-femoris"
+    ]
+   }
+  },
+  "bulgarian-split-squat": {
+   "quadriceps": {
+    "primary": [
+     "vasti"
+    ],
+    "secondary": [
+     "rectus-femoris"
+    ]
+   }
+  },
+  "dumbbell-bulgarian-split-squat": {
+   "quadriceps": {
+    "primary": [
+     "vasti"
+    ],
+    "secondary": [
+     "rectus-femoris"
+    ]
+   }
+  },
+  "split-squat": {
+   "quadriceps": {
+    "primary": [
+     "vasti"
+    ],
+    "secondary": [
+     "rectus-femoris"
+    ]
+   }
+  },
+  "reverse-lunge": {
+   "quadriceps": {
+    "primary": [
+     "vasti"
+    ],
+    "secondary": [
+     "rectus-femoris"
+    ]
+   }
+  },
+  "dumbbell-lunge": {
+   "quadriceps": {
+    "primary": [
+     "vasti"
+    ],
+    "secondary": [
+     "rectus-femoris"
+    ]
+   }
+  },
+  "step-up": {
+   "quadriceps": {
+    "primary": [
+     "vasti"
+    ],
+    "secondary": [
+     "rectus-femoris"
+    ]
+   }
+  },
+  "dumbbell-step-up": {
+   "quadriceps": {
+    "primary": [
+     "vasti"
+    ],
+    "secondary": [
+     "rectus-femoris"
+    ]
+   }
+  },
+  "pistol-squat": {
+   "quadriceps": {
+    "primary": [
+     "vasti"
+    ],
+    "secondary": [
+     "rectus-femoris"
+    ]
+   }
+  },
+  "shrimp-squat": {
+   "quadriceps": {
+    "primary": [
+     "vasti"
+    ],
+    "secondary": [
+     "rectus-femoris"
+    ]
+   }
+  },
+  "leg-press": {
+   "quadriceps": {
+    "primary": [
+     "vasti"
+    ],
+    "secondary": [
+     "rectus-femoris"
+    ]
+   }
+  },
+  "leg-extension": {
+   "quadriceps": {
+    "primary": [
+     "vasti",
+     "rectus-femoris"
+    ],
+    "secondary": []
+   }
+  },
+  "reverse-nordic": {
+   "quadriceps": {
+    "primary": [
+     "rectus-femoris",
+     "vasti"
+    ],
+    "secondary": []
+   }
+  },
+  "glute-bridge": {
+   "quadriceps": {
+    "primary": [],
+    "secondary": [
+     "vasti"
+    ]
+   }
+  },
+  "barbell-hip-thrust": {
+   "quadriceps": {
+    "primary": [],
+    "secondary": [
+     "vasti"
+    ]
+   }
+  },
+  "single-leg-hip-thrust": {
+   "quadriceps": {
+    "primary": [],
+    "secondary": [
+     "vasti"
+    ]
+   }
+  },
+  "barbell-deadlift": {
+   "quadriceps": {
+    "primary": [],
+    "secondary": [
+     "vasti"
+    ]
+   }
+  },
+  "sumo-deadlift": {
+   "quadriceps": {
+    "primary": [],
+    "secondary": [
+     "vasti"
+    ]
+   }
+  },
+  "push-press": {
+   "quadriceps": {
+    "primary": [],
+    "secondary": [
+     "vasti"
+    ]
+   }
+  },
+  "farmers-walk": {
+   "quadriceps": {
+    "primary": [],
+    "secondary": [
+     "rectus-femoris"
+    ]
+   }
+  },
+  "hanging-leg-raise": {
+   "quadriceps": {
+    "primary": [],
+    "secondary": [
+     "rectus-femoris"
+    ]
+   }
+  },
+  "jackknife-sit-up": {
+   "quadriceps": {
+    "primary": [],
+    "secondary": [
+     "rectus-femoris"
+    ]
+   }
+  },
+  "l-sit": {
+   "quadriceps": {
+    "primary": [],
+    "secondary": [
+     "rectus-femoris"
+    ]
+   }
+  },
+  "l-sit-pull-up": {
+   "quadriceps": {
+    "primary": [],
+    "secondary": [
+     "rectus-femoris"
+    ]
+   }
+  },
+  "lying-leg-raise": {
+   "quadriceps": {
+    "primary": [
+     "rectus-femoris"
+    ],
+    "secondary": []
+   }
+  },
+  "supine-straight-leg-raise": {
+   "quadriceps": {
+    "primary": [
+     "rectus-femoris"
+    ],
+    "secondary": []
+   }
+  },
+  "ankle-weight-straight-leg-raise": {
+   "quadriceps": {
+    "primary": [
+     "rectus-femoris"
+    ],
+    "secondary": []
+   }
+  },
+  "cable-hip-flexion": {
+   "quadriceps": {
+    "primary": [
+     "rectus-femoris"
+    ],
+    "secondary": []
+   }
+  },
+  "kettlebell-standing-hip-flexor-raise": {
+   "quadriceps": {
+    "primary": [
+     "rectus-femoris"
+    ],
+    "secondary": []
+   }
+  }
+ },
+ "addSources": {
+  "assisted-squat": [
+   {
+    "url": "https://e3rehab.com/blog/reversenordic/",
+    "checked": "2026-10-12"
+   },
+   {
+    "url": "https://peerj.com/articles/12435",
+    "checked": "2026-10-12"
+   }
+  ],
+  "bodyweight-squat": [
+   {
+    "url": "https://e3rehab.com/blog/reversenordic/",
+    "checked": "2026-10-12"
+   },
+   {
+    "url": "https://peerj.com/articles/12435",
+    "checked": "2026-10-12"
+   }
+  ],
+  "barbell-back-squat": [
+   {
+    "url": "https://e3rehab.com/blog/reversenordic/",
+    "checked": "2026-10-12"
+   },
+   {
+    "url": "https://peerj.com/articles/12435",
+    "checked": "2026-10-12"
+   }
+  ],
+  "barbell-front-squat": [
+   {
+    "url": "https://e3rehab.com/blog/reversenordic/",
+    "checked": "2026-10-12"
+   },
+   {
+    "url": "https://peerj.com/articles/12435",
+    "checked": "2026-10-12"
+   }
+  ],
+  "barbell-sumo-squat": [
+   {
+    "url": "https://e3rehab.com/blog/reversenordic/",
+    "checked": "2026-10-12"
+   },
+   {
+    "url": "https://peerj.com/articles/12435",
+    "checked": "2026-10-12"
+   }
+  ],
+  "goblet-squat": [
+   {
+    "url": "https://e3rehab.com/blog/reversenordic/",
+    "checked": "2026-10-12"
+   },
+   {
+    "url": "https://peerj.com/articles/12435",
+    "checked": "2026-10-12"
+   }
+  ],
+  "cossack-squat": [
+   {
+    "url": "https://e3rehab.com/blog/reversenordic/",
+    "checked": "2026-10-12"
+   },
+   {
+    "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0230841",
+    "checked": "2026-10-12"
+   }
+  ],
+  "side-lunge": [
+   {
+    "url": "https://e3rehab.com/blog/reversenordic/",
+    "checked": "2026-10-12"
+   },
+   {
+    "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0230841",
+    "checked": "2026-10-12"
+   }
+  ],
+  "bulgarian-split-squat": [
+   {
+    "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0230841",
+    "checked": "2026-10-12"
+   },
+   {
+    "url": "https://e3rehab.com/blog/reversenordic/",
+    "checked": "2026-10-12"
+   }
+  ],
+  "dumbbell-bulgarian-split-squat": [
+   {
+    "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0230841",
+    "checked": "2026-10-12"
+   },
+   {
+    "url": "https://e3rehab.com/blog/reversenordic/",
+    "checked": "2026-10-12"
+   }
+  ],
+  "split-squat": [
+   {
+    "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0230841",
+    "checked": "2026-10-12"
+   },
+   {
+    "url": "https://e3rehab.com/blog/reversenordic/",
+    "checked": "2026-10-12"
+   }
+  ],
+  "reverse-lunge": [
+   {
+    "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0230841",
+    "checked": "2026-10-12"
+   }
+  ],
+  "dumbbell-lunge": [
+   {
+    "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0230841",
+    "checked": "2026-10-12"
+   }
+  ],
+  "step-up": [
+   {
+    "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0230841",
+    "checked": "2026-10-12"
+   }
+  ],
+  "dumbbell-step-up": [
+   {
+    "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0230841",
+    "checked": "2026-10-12"
+   }
+  ],
+  "pistol-squat": [
+   {
+    "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0230841",
+    "checked": "2026-10-12"
+   },
+   {
+    "url": "https://e3rehab.com/blog/reversenordic/",
+    "checked": "2026-10-12"
+   }
+  ],
+  "shrimp-squat": [
+   {
+    "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0230841",
+    "checked": "2026-10-12"
+   },
+   {
+    "url": "https://e3rehab.com/blog/reversenordic/",
+    "checked": "2026-10-12"
+   }
+  ],
+  "leg-press": [
+   {
+    "url": "https://www.mdpi.com/1660-4601/17/13/4626",
+    "checked": "2026-10-12"
+   }
+  ],
+  "leg-extension": [
+   {
+    "url": "https://www.strengthlog.com/squat-vs-leg-extension/",
+    "checked": "2026-10-12"
+   },
+   {
+    "url": "https://peerj.com/articles/12435",
+    "checked": "2026-10-12"
+   }
+  ],
+  "reverse-nordic": [
+   {
+    "url": "https://e3rehab.com/blog/reversenordic/",
+    "checked": "2026-10-12"
+   }
+  ],
+  "glute-bridge": [
+   {
+    "url": "https://www.jssm.org/jssm-18-198.xml-Fulltext",
+    "checked": "2026-10-12"
+   }
+  ],
+  "barbell-hip-thrust": [
+   {
+    "url": "https://www.jssm.org/jssm-18-198.xml-Fulltext",
+    "checked": "2026-10-12"
+   }
+  ],
+  "single-leg-hip-thrust": [
+   {
+    "url": "https://www.jssm.org/jssm-18-198.xml-Fulltext",
+    "checked": "2026-10-12"
+   }
+  ],
+  "barbell-deadlift": [
+   {
+    "url": "https://doaj.org/article/1baf665988994d63ac2c8697dc5cd2a2",
+    "checked": "2026-10-12"
+   },
+   {
+    "url": "https://e3rehab.com/blog/reversenordic/",
+    "checked": "2026-10-12"
+   }
+  ],
+  "sumo-deadlift": [
+   {
+    "url": "https://doaj.org/article/1baf665988994d63ac2c8697dc5cd2a2",
+    "checked": "2026-10-12"
+   },
+   {
+    "url": "https://e3rehab.com/blog/reversenordic/",
+    "checked": "2026-10-12"
+   }
+  ],
+  "push-press": [
+   {
+    "url": "https://e3rehab.com/blog/reversenordic/",
+    "checked": "2026-10-12"
+   },
+   {
+    "url": "https://peerj.com/articles/12435",
+    "checked": "2026-10-12"
+   }
+  ],
+  "farmers-walk": [
+   {
+    "url": "https://www.nsca.com/contentassets/927868f8d4bb45f2ac4429631d558d83/coach-7.3.6-increase-hip-and-trunk-stability-with-loaded-carries-for-injury-prevention-rehabilitation-and-performance.pdf",
+    "checked": "2026-10-12"
+   }
+  ],
+  "hanging-leg-raise": [
+   {
+    "url": "https://scholars.csus.edu/esploro/outputs/journalArticle/Electromyographic-Analysis-of-Traditional-and-Nontraditional/99257847129401671",
+    "checked": "2026-10-12"
+   },
+   {
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11250012/",
+    "checked": "2026-10-12"
+   }
+  ],
+  "jackknife-sit-up": [
+   {
+    "url": "https://scholars.csus.edu/esploro/outputs/journalArticle/Electromyographic-Analysis-of-Traditional-and-Nontraditional/99257847129401671",
+    "checked": "2026-10-12"
+   },
+   {
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11250012/",
+    "checked": "2026-10-12"
+   }
+  ],
+  "l-sit": [
+   {
+    "url": "https://scholars.csus.edu/esploro/outputs/journalArticle/Electromyographic-Analysis-of-Traditional-and-Nontraditional/99257847129401671",
+    "checked": "2026-10-12"
+   },
+   {
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11250012/",
+    "checked": "2026-10-12"
+   }
+  ],
+  "l-sit-pull-up": [
+   {
+    "url": "https://scholars.csus.edu/esploro/outputs/journalArticle/Electromyographic-Analysis-of-Traditional-and-Nontraditional/99257847129401671",
+    "checked": "2026-10-12"
+   },
+   {
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11250012/",
+    "checked": "2026-10-12"
+   }
+  ],
+  "lying-leg-raise": [
+   {
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11250012/",
+    "checked": "2026-10-12"
+   },
+   {
+    "url": "https://scholars.csus.edu/esploro/outputs/journalArticle/Electromyographic-Analysis-of-Traditional-and-Nontraditional/99257847129401671",
+    "checked": "2026-10-12"
+   }
+  ],
+  "supine-straight-leg-raise": [
+   {
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11250012/",
+    "checked": "2026-10-12"
+   }
+  ],
+  "ankle-weight-straight-leg-raise": [
+   {
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11250012/",
+    "checked": "2026-10-12"
+   }
+  ],
+  "cable-hip-flexion": [
+   {
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11250012/",
+    "checked": "2026-10-12"
+   }
+  ],
+  "kettlebell-standing-hip-flexor-raise": [
+   {
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11250012/",
+    "checked": "2026-10-12"
+   }
+  ]
+ },
+ "newExercises": [
+  {
+   "id": "weighted-side-plank",
+   "nameVi": "Plank nghiêng ôm tạ (weighted side plank)",
+   "nameEn": "Weighted Side Plank",
+   "type": "gym",
+   "equipment": [
+    "tạ đĩa"
+   ],
+   "primaryMuscles": [
+    "quadratus-lumborum",
+    "external-oblique",
+    "internal-oblique"
+   ],
+   "secondaryMuscles": [
+    "transversus-abdominis",
+    "gluteus-medius-minimus"
+   ],
+   "difficulty": 2,
+   "order": 0,
+   "difficultyBasis": "Mức 2 – Cơ bản: tư thế tĩnh, tải chỉnh được bằng tạ đĩa nhẹ, nhưng cần giữ thân thẳng trên một cẳng tay; nên vững plank nghiêng không tạ trước (giống plank đặt tạ cùng mức 2).",
+   "steps": [
+    "Nằm nghiêng, khuỷu tay dưới đặt ngay dưới vai, hai chân duỗi và chồng lên nhau.",
+    "Tay trên giữ một tạ đĩa nhẹ áp sát mặt ngoài hông.",
+    "Gồng bụng, nâng hông lên đến khi đầu, hông và cổ chân thành một đường thẳng.",
+    "Giữ 15–30 giây, không để hông võng hay xoay; hạ xuống rồi đổi bên."
+   ],
+   "safety": [
+    "Bắt đầu bằng tạ rất nhẹ; nếu hông võng xuống thì bỏ tạ.",
+    "Vai đau thì quay về plank nghiêng chống gối."
+   ],
+   "sources": [
+    {
+     "url": "https://www.tomsguide.com/news/i-did-weighted-side-planks-for-a-week-heres-what-happened-to-my-abs",
+     "checked": "2026-10-12"
+    },
+    {
+     "url": "https://catalystathletics.com/exercise/499/Side-Plank-Lift",
+     "checked": "2026-10-12"
+    },
+    {
+     "url": "https://www.nasm.org/resource-center/exercise-library/side-plank",
+     "checked": "2026-10-12"
+    },
+    {
+     "url": "https://libra.unine.ch/handle/123456789/22822",
+     "checked": "2026-10-12"
+    }
+   ]
+  },
+  {
+   "id": "barbell-side-bend",
+   "nameVi": "Nghiêng người với tạ đòn trên vai (barbell side bend)",
+   "nameEn": "Barbell Side Bend",
+   "type": "gym",
+   "equipment": [
+    "tạ đòn"
+   ],
+   "primaryMuscles": [
+    "quadratus-lumborum",
+    "external-oblique",
+    "internal-oblique"
+   ],
+   "secondaryMuscles": [
+    "erector-spinae"
+   ],
+   "difficulty": 2,
+   "order": 0,
+   "fedbId": "Barbell_Side_Bend",
+   "difficultyBasis": "Mức 2 – Cơ bản: free-exercise-db xếp 'beginner'; nâng một bậc vì thanh đặt trên lưng làm cột sống chịu tải và phải giữ thăng bằng khi nghiêng, tải nên rất nhẹ.",
+   "steps": [
+    "Đặt thanh đòn nhẹ (hoặc gậy) lên lưng trên như khi squat, nắm rộng hơn vai, chân đứng rộng.",
+    "Siết bụng và mông, hông giữ yên, mắt nhìn thẳng.",
+    "Từ từ nghiêng thân sang một bên, đầu thanh hạ dần về phía sàn, không gập người ra trước.",
+    "Dùng sườn bên kia kéo thân về thẳng, rồi nghiêng sang bên còn lại; 10–15 lần mỗi bên."
+   ],
+   "safety": [
+    "Chỉ dùng thanh nhẹ, làm chậm và có kiểm soát toàn biên độ.",
+    "Không xoay thân hay gập về trước khi nghiêng."
+   ],
+   "sources": [
+    {
+     "url": "https://catalystathletics.com/exercise/717/QL-Side-Bend/",
+     "checked": "2026-10-12"
+    },
+    {
+     "url": "https://www.physio-pedia.com/Quadratus_Lumborum",
+     "checked": "2026-10-12"
+    },
+    {
+     "url": "https://libra.unine.ch/handle/123456789/22822",
+     "checked": "2026-10-12"
+    }
+   ]
+  },
+  {
+   "id": "suitcase-deadlift",
+   "nameVi": "Deadlift một tay kiểu xách vali (suitcase deadlift)",
+   "nameEn": "Suitcase Deadlift",
+   "type": "gym",
+   "equipment": [
+    "tạ đơn",
+    "tạ ấm"
+   ],
+   "primaryMuscles": [
+    "quadratus-lumborum",
+    "external-oblique",
+    "internal-oblique"
+   ],
+   "secondaryMuscles": [
+    "gluteus-maximus",
+    "vasti",
+    "hamstrings",
+    "erector-spinae",
+    "forearm-flexors"
+   ],
+   "difficulty": 2,
+   "order": 0,
+   "difficultyBasis": "Mức 2 – Cơ bản: động tác gập hông với một tạ đơn/tạ ấm vừa phải (giống deadlift tạ đơn mức 2), thêm yêu cầu chống nghiêng thân vì tải lệch một bên.",
+   "steps": [
+    "Đặt một tạ đơn hoặc tạ ấm sát bên ngoài một bàn chân, đứng rộng bằng hông.",
+    "Đẩy hông ra sau, hơi chùng gối, lưng thẳng, nắm tạ bằng tay cùng bên.",
+    "Đạp chân, duỗi hông và gối để đứng thẳng; vai ngang nhau, thân không nghiêng về phía tạ.",
+    "Siết mông ở trên, rồi hạ tạ chậm về sàn theo cùng đường; làm đủ lần rồi đổi tay."
+   ],
+   "safety": [
+    "Giữ vai và hông cân, không để thân bị tạ kéo nghiêng.",
+    "Lưng luôn thẳng; chọn tạ nhẹ hơn mức deadlift hai tay."
+   ],
+   "sources": [
+    {
+     "url": "https://www.garagegymreviews.com/suitcase-deadlift",
+     "checked": "2026-10-12"
+    },
+    {
+     "url": "https://www.nsca.com/contentassets/927868f8d4bb45f2ac4429631d558d83/coach-7.3.6-increase-hip-and-trunk-stability-with-loaded-carries-for-injury-prevention-rehabilitation-and-performance.pdf",
+     "checked": "2026-10-12"
+    },
+    {
+     "url": "https://libra.unine.ch/handle/123456789/22822",
+     "checked": "2026-10-12"
+    }
+   ]
+  },
+  {
+   "id": "side-lying-hip-hike",
+   "nameVi": "Nằm nghiêng kéo hông lên phía sườn (side-lying hip hike)",
+   "nameEn": "Side-Lying Hip Hike",
+   "type": "calisthenics",
+   "equipment": [
+    "không cần dụng cụ"
+   ],
+   "primaryMuscles": [
+    "quadratus-lumborum"
+   ],
+   "secondaryMuscles": [
+    "external-oblique",
+    "internal-oblique"
+   ],
+   "difficulty": 1,
+   "order": 0,
+   "difficultyBasis": "Mức 1 – Nhập môn: bài phục hồi chức năng, nằm có tựa, biên độ nhỏ, không tải ngoài; người mới làm đúng ngay.",
+   "steps": [
+    "Nằm nghiêng, hai gối co, có thể kẹp một gối mềm giữa hai đầu gối.",
+    "Giữ lưng dưới ở tư thế trung tính, gồng nhẹ bụng.",
+    "Siết cơ bên sườn để kéo hông trên lên phía vai cùng bên, thân không lăn ra trước hay sau.",
+    "Thả về vị trí ban đầu chậm; làm 10–15 lần rồi đổi bên."
+   ],
+   "safety": [
+    "Chuyển động nhỏ, không gồng cổ hay vai.",
+    "Đau thắt lưng tăng thì dừng lại."
+   ],
+   "sources": [
+    {
+     "url": "https://us.physitrack.com/home-exercise-video/sidelying-hip-hike-%2528quadratus-lumborum%2529",
+     "checked": "2026-10-12"
+    },
+    {
+     "url": "https://www.physio-pedia.com/Quadratus_Lumborum",
+     "checked": "2026-10-12"
+    }
+   ]
+  },
+  {
+   "id": "side-plank-lift",
+   "nameVi": "Plank nghiêng nâng hạ hông (side plank lift)",
+   "nameEn": "Side Plank Lift",
+   "type": "calisthenics",
+   "equipment": [
+    "không cần dụng cụ"
+   ],
+   "primaryMuscles": [
+    "quadratus-lumborum",
+    "external-oblique",
+    "internal-oblique"
+   ],
+   "secondaryMuscles": [
+    "transversus-abdominis",
+    "gluteus-medius-minimus"
+   ],
+   "difficulty": 2,
+   "order": 0,
+   "difficultyBasis": "Mức 2 – Cơ bản: bodyweight nền tảng, cùng tư thế với plank nghiêng (mức 2) nhưng chuyển động nâng hạ hông lặp lại; cần giữ thân thẳng trên một bên.",
+   "steps": [
+    "Nằm nghiêng, cẳng tay dưới đặt trên sàn, khuỷu ngay dưới vai, hai chân duỗi chồng lên nhau.",
+    "Gồng bụng và mông để thân thẳng.",
+    "Nâng hông lên tư thế plank nghiêng, giữ một nhịp.",
+    "Hạ hông xuống đến khi chạm nhẹ sàn rồi nâng lại; làm 10–15 lần, đổi bên."
+   ],
+   "safety": [
+    "Không thả rơi hông; hạ có kiểm soát.",
+    "Vai hoặc thắt lưng đau thì chuyển sang tì gối."
+   ],
+   "sources": [
+    {
+     "url": "https://catalystathletics.com/exercise/499/Side-Plank-Lift",
+     "checked": "2026-10-12"
+    },
+    {
+     "url": "https://www.nasm.org/resource-center/exercise-library/side-plank",
+     "checked": "2026-10-12"
+    },
+    {
+     "url": "https://libra.unine.ch/handle/123456789/22822",
+     "checked": "2026-10-12"
+    },
+    {
+     "url": "https://link.springer.com/doi/10.1186/2045-709X-20-12",
+     "checked": "2026-10-12"
+    }
+   ]
+  },
+  {
+   "id": "feet-elevated-side-plank",
+   "nameVi": "Plank nghiêng gác chân lên ghế (feet-elevated side plank)",
+   "nameEn": "Feet-Elevated Side Plank",
+   "type": "calisthenics",
+   "equipment": [
+    "ghế/bục"
+   ],
+   "primaryMuscles": [
+    "quadratus-lumborum",
+    "external-oblique",
+    "internal-oblique"
+   ],
+   "secondaryMuscles": [
+    "transversus-abdominis",
+    "gluteus-medius-minimus"
+   ],
+   "difficulty": 3,
+   "order": 0,
+   "difficultyBasis": "Mức 3 – Trung cấp: nặng hơn plank nghiêng (mức 2) vì chân kê cao dồn thêm trọng lượng lên vai và thân bên; cần sức mạnh tương đối đáng kể.",
+   "steps": [
+    "Nằm nghiêng cạnh ghế thấp hoặc bục, khuỷu tay dưới đặt ngay dưới vai.",
+    "Gác hai bàn chân chồng lên nhau lên mặt ghế.",
+    "Gồng bụng, nâng hông khỏi sàn đến khi thân thẳng từ đầu tới bàn chân.",
+    "Giữ 10–30 giây rồi hạ xuống, đổi bên."
+   ],
+   "safety": [
+    "Chỉ tập khi đã giữ plank nghiêng thường được khoảng 30 giây.",
+    "Ghế phải vững, không trượt."
+   ],
+   "sources": [
+    {
+     "url": "https://au.physitrack.com/home-exercise-video/elevated-side-plank",
+     "checked": "2026-10-12"
+    },
+    {
+     "url": "https://akuaku.org/Sarco+/exercise-side-plank.html",
+     "checked": "2026-10-12"
+    },
+    {
+     "url": "https://libra.unine.ch/handle/123456789/22822",
+     "checked": "2026-10-12"
+    },
+    {
+     "url": "https://link.springer.com/doi/10.1186/2045-709X-20-12",
+     "checked": "2026-10-12"
+    }
+   ]
+  }
+ ],
+ "sourcesRegistry": {
+  "https://e3rehab.com/blog/reversenordic/": {
+   "title": "The Reverse Nordic (E3 Rehab)",
+   "publisher": "E3 Rehab",
+   "supports": "Bài reverse nordic tập cả nhóm đùi trước và đặc biệt tải cơ thẳng đùi ở tư thế kéo dài; tóm tắt nghiên cứu: squat 10 tuần tăng thể tích các cơ rộng nhưng không tăng cơ thẳng đùi (Kubo 2019), cơ thẳng đùi ít hoạt động trong bài đa khớp (Ema 2016).",
+   "checked": "2026-10-12"
+  },
+  "https://peerj.com/articles/12435": {
+   "title": "Quadriceps femoris cross-sectional area and specific leg strength: relationship between different muscles and squat variations (PeerJ)",
+   "publisher": "PeerJ",
+   "supports": "Tiết diện các cơ rộng liên quan với sức squat, cơ thẳng đùi thì không; tác giả cho rằng bài duỗi gối một khớp phù hợp hơn để tập cơ thẳng đùi.",
+   "checked": "2026-10-12"
+  },
+  "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0230841": {
+   "title": "Electromyographic activity in the gluteus medius, gluteus maximus, biceps femoris, vastus lateralis, vastus medialis and rectus femoris during the Monopodal Squat, Forward Lunge and Lateral Step-Up exercises (Muyor và cs., PLoS ONE 2020)",
+   "publisher": "PLoS ONE",
+   "supports": "Trong squat một chân, lunge và step-up, cơ rộng ngoài và rộng trong hoạt động mạnh nhất; cơ thẳng đùi xếp gần cuối.",
+   "checked": "2026-10-12"
+  },
+  "https://www.mdpi.com/1660-4601/17/13/4626": {
+   "title": "Evaluation of the Lower Limb Muscles' Electromyographic Activity during the Leg Press Exercise and Its Variants: A Systematic Review (Martín-Fuentes và cs., IJERPH 2020)",
+   "publisher": "MDPI – International Journal of Environmental Research and Public Health",
+   "supports": "Trong đạp đùi (leg press), cơ rộng trong và rộng ngoài kích hoạt mạnh nhất, cơ thẳng đùi theo sau.",
+   "checked": "2026-10-12"
+  },
+  "https://www.strengthlog.com/squat-vs-leg-extension/": {
+   "title": "Squats vs. Leg Extensions For Quad Growth: New Study",
+   "publisher": "StrengthLog",
+   "supports": "Tóm tắt thử nghiệm ngẫu nhiên (J Sports Sci 2021): nhóm leg extension tăng kích thước cơ thẳng đùi ở cả ba vị trí đo, nhóm squat thì không; nhóm squat tăng cơ rộng ngoài.",
+   "checked": "2026-10-12"
+  },
+  "https://www.jssm.org/jssm-18-198.xml-Fulltext": {
+   "title": "Barbell Hip Thrust, Muscular Activation and Performance: A Systematic Review (Krause Neto và cs., JSSM 2019)",
+   "publisher": "Journal of Sports Science and Medicine",
+   "supports": "Trong hip thrust, cơ rộng ngoài hoạt động 35–100% MVIC, rộng trong khoảng 35%, cơ thẳng đùi chỉ khoảng 5% – nhóm cơ rộng là cơ phụ giữ gối.",
+   "checked": "2026-10-12"
+  },
+  "https://scholars.csus.edu/esploro/outputs/journalArticle/Electromyographic-Analysis-of-Traditional-and-Nontraditional/99257847129401671": {
+   "title": "Electromyographic Analysis of Traditional and Nontraditional Abdominal Exercises: Implications for Rehabilitation and Training (Escamilla và cs., Physical Therapy 2006)",
+   "publisher": "Physical Therapy (APTA) – bản ghi Sacramento State",
+   "supports": "Cơ thẳng đùi hoạt động cao trong các bài bụng có gập hông (pike, co gối, reverse crunch, gập bụng co gối) – cơ thẳng đùi là cơ phụ gập hông trong các bài nâng chân.",
+   "checked": "2026-10-12"
+  },
+  "https://pmc.ncbi.nlm.nih.gov/articles/PMC11250012/": {
+   "title": "Action and Contribution of the Iliopsoas and Rectus Femoris as Hip Flexor Agonists Examined with Anatomical Analysis (Kumazaki và cs., Juntendo Med J 2022)",
+   "publisher": "Juntendo Medical Journal (PMC)",
+   "supports": "Cơ thẳng đùi đóng góp khoảng 2/3 mô-men gập hông ở góc gập nhỏ (tới 60°), cơ thắt lưng chậu chiếm ưu thế ở góc lớn – cơ thẳng đùi là cơ chính khi nâng chân thẳng/gập hông từ tư thế duỗi.",
+   "checked": "2026-10-12"
+  },
+  "https://doaj.org/article/1baf665988994d63ac2c8697dc5cd2a2": {
+   "title": "Electromyographic activity in deadlift exercise and its variants. A systematic review (Martín-Fuentes và cs., PLoS ONE 2020)",
+   "publisher": "DOAJ / PLoS ONE",
+   "supports": "Trong deadlift và các biến thể, nhóm cơ tứ đầu (đo chủ yếu ở cơ rộng) được kích hoạt đáng kể cùng cơ dựng sống.",
+   "checked": "2026-10-12"
+  },
+  "https://www.nsca.com/contentassets/927868f8d4bb45f2ac4429631d558d83/coach-7.3.6-increase-hip-and-trunk-stability-with-loaded-carries-for-injury-prevention-rehabilitation-and-performance.pdf": {
+   "title": "Increase Hip and Trunk Stability with Loaded Carries for Injury Prevention, Rehabilitation, and Performance (NSCA Coach 7.3)",
+   "publisher": "National Strength and Conditioning Association (NSCA)",
+   "supports": "Xách tạ một bên (suitcase) đòi hỏi cơ vuông thắt lưng và thành bụng bên giữ khung chậu; trong farmer's walk, cơ thẳng đùi đạt đỉnh hoạt động ở pha chống chân.",
+   "checked": "2026-10-12"
+  },
+  "https://libra.unine.ch/handle/123456789/22822": {
+   "title": "Quantitative intramuscular myoelectric activity of quadratus lumborum during a wide variety of tasks (McGill, Juker, Kropf – Clinical Biomechanics 1996)",
+   "publisher": "Université de Neuchâtel – kho LIBRA",
+   "supports": "Đo EMG kim cơ vuông thắt lưng: nâng vật nặng đạt trung bình 74% tối đa; plank nghiêng (side support) đạt 54%, cao hơn các cơ khác được đo.",
+   "checked": "2026-10-12"
+  },
+  "https://link.springer.com/doi/10.1186/2045-709X-20-12": {
+   "title": "Trunk muscle fatigue during a lateral isometric hold test: what are we evaluating? (Pagé & Descarreaux, Chiropractic & Manual Therapies 2012)",
+   "publisher": "Springer Nature – BMC",
+   "supports": "Cơ vuông thắt lưng là cơ nghiêng thân khi co một bên; nhiều nghiên cứu ghi nhận nó hoạt động cao trong plank nghiêng (khoảng 54% MVC theo McGill 1996).",
+   "checked": "2026-10-12"
+  },
+  "https://www.nasm.org/resource-center/exercise-library/side-plank": {
+   "title": "Side Plank – NASM Exercise Library",
+   "publisher": "National Academy of Sports Medicine (NASM)",
+   "supports": "Plank nghiêng: cơ chính là cơ chéo bụng ngoài và cơ vuông thắt lưng (giữ thân không gập sang bên); kèm các bước thực hiện.",
+   "checked": "2026-10-12"
+  },
+  "https://akuaku.org/Sarco+/exercise-side-plank.html": {
+   "title": "Side Plank · Sarco+ Data",
+   "publisher": "SARCO+ (akuaku.org)",
+   "supports": "Plank nghiêng: cơ chính gồm cơ vuông thắt lưng, chéo bụng ngoài và chéo bụng trong; chuỗi: plank nghiêng chống gối → plank nghiêng → plank nghiêng nâng chân.",
+   "checked": "2026-10-12"
+  },
+  "https://catalystathletics.com/exercise/499/Side-Plank-Lift": {
+   "title": "Side Plank Lift – Catalyst Athletics Exercise Library",
+   "publisher": "Catalyst Athletics",
+   "supports": "Cách làm plank nghiêng nâng hạ hông (hạ hông chạm nhẹ sàn rồi nâng lại) và biến thể có tạ: đặt tạ đơn hoặc tạ đĩa lên hông.",
+   "checked": "2026-10-12"
+  },
+  "https://catalystathletics.com/exercise/717/QL-Side-Bend/": {
+   "title": "QL Side Bend – Catalyst Athletics Exercise Library",
+   "publisher": "Catalyst Athletics",
+   "supports": "Nghiêng người với thanh đòn đặt trên lưng, chân rộng, nhắm vào cơ vuông thắt lưng; khởi đầu bằng gậy/thanh nhẹ, 10–15 lần mỗi bên.",
+   "checked": "2026-10-12"
+  },
+  "https://www.tomsguide.com/news/i-did-weighted-side-planks-for-a-week-heres-what-happened-to-my-abs": {
+   "title": "I did weighted side planks for a week — here's what happened to my abs",
+   "publisher": "Tom's Guide",
+   "supports": "Cách làm plank nghiêng có tạ: tay trên giữ tạ áp vào hông, thân thẳng từ đầu tới chân; tác động cơ chéo bụng và cơ ổn định thân, hông.",
+   "checked": "2026-10-12"
+  },
+  "https://www.garagegymreviews.com/suitcase-deadlift": {
+   "title": "Suitcase Deadlift: How to, Muscles Worked, and Benefits",
+   "publisher": "Garage Gym Reviews",
+   "supports": "Các bước làm suitcase deadlift với một tạ đơn/tạ ấm đặt cạnh bàn chân; cơ tham gia: mông, đùi sau, đùi trước, cơ dựng sống, cơ bụng chéo.",
+   "checked": "2026-10-12"
+  },
+  "https://us.physitrack.com/home-exercise-video/sidelying-hip-hike-%2528quadratus-lumborum%2529": {
+   "title": "Sidelying Hip Hike (Quadratus Lumborum) – Physitrack",
+   "publisher": "Physitrack",
+   "supports": "Bài nằm nghiêng kéo hông về phía vai, ghi rõ cơ đích là cơ vuông thắt lưng; kèm các bước thực hiện.",
+   "checked": "2026-10-12"
+  },
+  "https://au.physitrack.com/home-exercise-video/elevated-side-plank": {
+   "title": "Elevated side plank – Physitrack",
+   "publisher": "Physitrack",
+   "supports": "Cách làm plank nghiêng gác hai bàn chân lên ghế đẩu, tì cẳng tay, nâng hông khỏi sàn.",
+   "checked": "2026-10-12"
+  },
+  "https://www.physio-pedia.com/Quadratus_Lumborum": {
+   "title": "Quadratus Lumborum – Physiopedia",
+   "publisher": "Physiopedia",
+   "supports": "Chức năng cơ vuông thắt lưng: nghiêng cột sống sang bên, duỗi thắt lưng, giữ vững khung chậu trong mặt phẳng trán.",
+   "checked": "2026-10-12"
+  },
+  "https://koreascience.or.kr/article/JAKO201912742274365.page?&lang=en": {
+   "title": "Consideration of the Exercise position for Facilitating Gluteus Medius Maximally in Normal Adults (Park và cs., J Korean Phys Ther 2019)",
+   "publisher": "The Journal of Korean Physical Therapy (KoreaScience)",
+   "supports": "Cơ căng mạc đùi hoạt động cao nhất khi dạng hông nằm nghiêng (42,01), thấp nhất ở clamshell – cơ này hoạt động cùng cơ mông nhỡ trong các bài dạng hông.",
+   "checked": "2026-10-12"
+  },
+  "https://brookbushinstitute.com/article/more-glute-less-tfl": {
+   "title": "More Glute, Less TFL – Brookbush Institute",
+   "publisher": "Brookbush Institute",
+   "supports": "Tóm tắt Selkowitz 2013 (EMG kim): dạng hông nằm nghiêng và hip hike có hoạt động cơ căng mạc đùi cao hơn mông lớn phần trên; mục tiêu thường gặp là tăng cơ mông và giảm cơ căng mạc đùi.",
+   "checked": "2026-10-12"
+  },
+  "https://wikimsk.org/wiki/Tensor_Fascia_Lata": {
+   "title": "Tensor Fascia Lata – WikiMSK",
+   "publisher": "WikiMSK",
+   "supports": "Chức năng cơ căng mạc đùi: dạng đùi, gập hông nhẹ, xoay trong; căng dải chậu chày để ổn định khung chậu và gối.",
+   "checked": "2026-10-12"
+  }
+ },
+ "exceptions": {
+  "tensor-fasciae-latae": {
+   "gym": {
+    "reason": "Cơ căng mạc đùi là cơ nhỏ, phối hợp với cơ mông nhỡ/bé khi dạng hông, gập hông và xoay trong; không có bài gym riêng lấy nó làm mục tiêu chính. Nghiên cứu EMG cho thấy nó hoạt động mạnh nhất trong chính các bài dạng hông (máy dạng hông, dạng hông với cáp, dạng hông nằm nghiêng đeo tạ) – những bài này đã có trong danh sách của cơ mông nhỡ/bé; thêm biến thể gần trùng chỉ để đủ số là trái quy tắc. Trong phục hồi chức năng, mục tiêu thường gặp còn là giảm hoạt động cơ này so với cơ mông. Muốn tập vùng này, xem các bài dạng hông ở cơ mông nhỡ/bé.",
+    "sources": [
+     "https://koreascience.or.kr/article/JAKO201912742274365.page?&lang=en",
+     "https://brookbushinstitute.com/article/more-glute-less-tfl",
+     "https://wikimsk.org/wiki/Tensor_Fascia_Lata"
+    ]
+   },
+   "calisthenics": {
+    "reason": "Không có bài trọng lượng cơ thể nào lấy cơ căng mạc đùi làm cơ chính. Các bài nó hoạt động mạnh (dạng hông nằm nghiêng – khoảng 42 trong nghiên cứu của Park 2019; hip hike – cao hơn cơ mông lớn phần trên theo Selkowitz 2013) đã có trong danh sách của cơ mông nhỡ/bé, nên không thêm bài trùng. Xem các bài dạng hông ở cơ mông nhỡ/bé.",
+    "sources": [
+     "https://koreascience.or.kr/article/JAKO201912742274365.page?&lang=en",
+     "https://brookbushinstitute.com/article/more-glute-less-tfl",
+     "https://wikimsk.org/wiki/Tensor_Fascia_Lata"
+    ]
+   }
+  }
+ },
+ "remove": [
+  "side-lying-ankle-eversion",
+  "band-ankle-eversion",
+  "side-lying-ankle-eversion-ankle-weight",
+  "single-leg-balance",
+  "single-leg-balance-unstable-surface"
+ ],
+ "removeReasons": {
+  "side-lying-ankle-eversion": "Lật ngoài bàn chân do cơ mác dài/ngắn thực hiện (không chọn được trên mô hình); không đơn vị cơ nào trong muscles.json là cơ chính của động tác này.",
+  "band-ankle-eversion": "Lật ngoài bàn chân do cơ mác thực hiện (không chọn được); cơ chày trước là cơ lật trong nên không thể thay làm cơ chính.",
+  "side-lying-ankle-eversion-ankle-weight": "Lật ngoài bàn chân do cơ mác thực hiện (không chọn được); không có đơn vị cơ chọn được nào làm cơ chính.",
+  "single-leg-balance": "Bài cảm thụ bản thể cổ chân; mức hoạt động cơ trên sàn ổn định thấp (PeerJ 2022: chày trước ~51 µV, mác dài ~64 µV), không phải bài tăng sức cho cơ chọn được nào.",
+  "single-leg-balance-unstable-surface": "Bài thăng bằng/cảm thụ bản thể; mục đích chính là cơ mác (không chọn được), các cơ khác chỉ hoạt động ổn định nên không thể gán làm cơ chính có căn cứ."
+ }
+}

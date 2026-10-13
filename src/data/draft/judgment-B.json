@@ -1,0 +1,2004 @@
+{
+  "replace": {
+    "arch-body-hold": {
+      "trapezius": {
+        "primary": [],
+        "secondary": [
+          "trapezius-lower",
+          "trapezius-middle"
+        ]
+      }
+    },
+    "arch-hang": {
+      "trapezius": {
+        "primary": [
+          "trapezius-lower"
+        ],
+        "secondary": [
+          "trapezius-middle"
+        ]
+      }
+    },
+    "archer-pull-up": {
+      "trapezius": {
+        "primary": [],
+        "secondary": [
+          "trapezius-lower"
+        ]
+      }
+    },
+    "archer-row": {
+      "trapezius": {
+        "primary": [],
+        "secondary": [
+          "trapezius-middle"
+        ]
+      }
+    },
+    "chin-up": {
+      "trapezius": {
+        "primary": [],
+        "secondary": [
+          "trapezius-lower"
+        ]
+      }
+    },
+    "elevated-pike-push-up": {
+      "trapezius": {
+        "primary": [],
+        "secondary": [
+          "trapezius-upper",
+          "trapezius-lower"
+        ]
+      }
+    },
+    "false-grip-ring-row": {
+      "trapezius": {
+        "primary": [],
+        "secondary": [
+          "trapezius-middle"
+        ]
+      }
+    },
+    "front-lever": {
+      "trapezius": {
+        "primary": [],
+        "secondary": [
+          "trapezius-lower",
+          "trapezius-middle"
+        ]
+      }
+    },
+    "inverted-row": {
+      "trapezius": {
+        "primary": [
+          "trapezius-middle"
+        ],
+        "secondary": [
+          "trapezius-lower"
+        ]
+      }
+    },
+    "isometric-neck-lateral-flexion": {
+      "trapezius": {
+        "primary": [],
+        "secondary": [
+          "trapezius-upper"
+        ]
+      }
+    },
+    "lying-neck-extension-bodyweight": {
+      "trapezius": {
+        "primary": [
+          "splenius"
+        ],
+        "secondary": [
+          "trapezius-upper"
+        ]
+      }
+    },
+    "muscle-up": {
+      "trapezius": {
+        "primary": [],
+        "secondary": [
+          "trapezius-lower"
+        ]
+      }
+    },
+    "negative-pull-up": {
+      "trapezius": {
+        "primary": [],
+        "secondary": [
+          "trapezius-lower"
+        ]
+      }
+    },
+    "neutral-grip-pull-up": {
+      "trapezius": {
+        "primary": [],
+        "secondary": [
+          "trapezius-lower"
+        ]
+      }
+    },
+    "parallel-bar-support-hold": {
+      "trapezius": {
+        "primary": [],
+        "secondary": [
+          "trapezius-lower"
+        ]
+      }
+    },
+    "pike-push-up": {
+      "trapezius": {
+        "primary": [],
+        "secondary": [
+          "trapezius-upper",
+          "trapezius-lower"
+        ]
+      }
+    },
+    "prone-neck-bridge": {
+      "trapezius": {
+        "primary": [],
+        "secondary": [
+          "trapezius-upper"
+        ]
+      }
+    },
+    "prone-t-raise-bodyweight": {
+      "trapezius": {
+        "primary": [
+          "trapezius-middle"
+        ],
+        "secondary": [
+          "trapezius-lower"
+        ]
+      }
+    },
+    "prone-w-raise": {
+      "trapezius": {
+        "primary": [],
+        "secondary": [
+          "trapezius-lower",
+          "trapezius-middle"
+        ]
+      }
+    },
+    "prone-y-raise-bodyweight": {
+      "trapezius": {
+        "primary": [
+          "trapezius-lower"
+        ],
+        "secondary": [
+          "trapezius-middle"
+        ]
+      }
+    },
+    "pull-up": {
+      "trapezius": {
+        "primary": [],
+        "secondary": [
+          "trapezius-lower"
+        ]
+      }
+    },
+    "ring-support-hold": {
+      "trapezius": {
+        "primary": [],
+        "secondary": [
+          "trapezius-lower"
+        ]
+      }
+    },
+    "scapula-dip": {
+      "trapezius": {
+        "primary": [
+          "trapezius-lower"
+        ],
+        "secondary": []
+      }
+    },
+    "scapular-pull-up": {
+      "trapezius": {
+        "primary": [
+          "trapezius-lower"
+        ],
+        "secondary": [
+          "trapezius-middle"
+        ]
+      }
+    },
+    "side-lying-neck-lateral-raise": {
+      "trapezius": {
+        "primary": [],
+        "secondary": [
+          "trapezius-upper"
+        ]
+      }
+    },
+    "superman": {
+      "trapezius": {
+        "primary": [],
+        "secondary": [
+          "trapezius-lower",
+          "trapezius-middle"
+        ]
+      }
+    },
+    "supine-neck-bridge": {
+      "trapezius": {
+        "primary": [
+          "splenius"
+        ],
+        "secondary": [
+          "trapezius-upper"
+        ]
+      }
+    },
+    "tuck-front-lever": {
+      "trapezius": {
+        "primary": [],
+        "secondary": [
+          "trapezius-lower",
+          "trapezius-middle"
+        ]
+      }
+    },
+    "tuck-front-lever-row": {
+      "trapezius": {
+        "primary": [],
+        "secondary": [
+          "trapezius-middle",
+          "trapezius-lower"
+        ]
+      }
+    },
+    "underhand-inverted-row": {
+      "trapezius": {
+        "primary": [],
+        "secondary": [
+          "trapezius-middle"
+        ]
+      }
+    },
+    "vertical-row": {
+      "trapezius": {
+        "primary": [],
+        "secondary": [
+          "trapezius-middle",
+          "trapezius-lower"
+        ]
+      }
+    },
+    "wall-angel": {
+      "trapezius": {
+        "primary": [
+          "trapezius-lower"
+        ],
+        "secondary": [
+          "trapezius-middle"
+        ]
+      }
+    },
+    "wall-handstand-hold": {
+      "trapezius": {
+        "primary": [
+          "trapezius-upper"
+        ],
+        "secondary": [
+          "trapezius-lower"
+        ]
+      }
+    },
+    "wall-handstand-push-up": {
+      "trapezius": {
+        "primary": [],
+        "secondary": [
+          "trapezius-upper",
+          "trapezius-lower"
+        ]
+      }
+    },
+    "wall-slide": {
+      "trapezius": {
+        "primary": [],
+        "secondary": [
+          "trapezius-lower",
+          "trapezius-upper"
+        ]
+      }
+    },
+    "wall-walk": {
+      "trapezius": {
+        "primary": [],
+        "secondary": [
+          "trapezius-upper",
+          "trapezius-lower"
+        ]
+      }
+    },
+    "wide-row": {
+      "trapezius": {
+        "primary": [
+          "trapezius-middle"
+        ],
+        "secondary": [
+          "trapezius-lower"
+        ]
+      }
+    },
+    "arnold-press": {
+      "trapezius": {
+        "primary": [],
+        "secondary": [
+          "trapezius-upper",
+          "trapezius-lower"
+        ]
+      }
+    },
+    "band-pull-apart": {
+      "trapezius": {
+        "primary": [],
+        "secondary": [
+          "trapezius-middle"
+        ]
+      }
+    },
+    "barbell-deadlift": {
+      "trapezius": {
+        "primary": [],
+        "secondary": [
+          "trapezius-upper"
+        ]
+      }
+    },
+    "barbell-overhead-press": {
+      "trapezius": {
+        "primary": [],
+        "secondary": [
+          "trapezius-upper",
+          "trapezius-lower"
+        ]
+      }
+    },
+    "barbell-overhead-shrug": {
+      "trapezius": {
+        "primary": [
+          "trapezius-upper"
+        ],
+        "secondary": [
+          "trapezius-lower"
+        ]
+      }
+    },
+    "barbell-shrug": {
+      "trapezius": {
+        "primary": [
+          "trapezius-upper"
+        ],
+        "secondary": []
+      }
+    },
+    "barbell-upright-row": {
+      "trapezius": {
+        "primary": [
+          "trapezius-upper"
+        ],
+        "secondary": []
+      }
+    },
+    "bent-over-barbell-row": {
+      "trapezius": {
+        "primary": [
+          "trapezius-middle"
+        ],
+        "secondary": [
+          "trapezius-lower"
+        ]
+      }
+    },
+    "bent-over-reverse-dumbbell-fly": {
+      "trapezius": {
+        "primary": [],
+        "secondary": [
+          "trapezius-middle"
+        ]
+      }
+    },
+    "cable-high-serratus-punch": {
+      "trapezius": {
+        "primary": [],
+        "secondary": [
+          "trapezius-upper",
+          "trapezius-lower"
+        ]
+      }
+    },
+    "chest-supported-dumbbell-row": {
+      "trapezius": {
+        "primary": [
+          "trapezius-middle"
+        ],
+        "secondary": [
+          "trapezius-upper",
+          "trapezius-lower"
+        ]
+      }
+    },
+    "cuban-press": {
+      "trapezius": {
+        "primary": [],
+        "secondary": [
+          "trapezius-upper",
+          "trapezius-lower"
+        ]
+      }
+    },
+    "dumbbell-90-90-external-rotation": {
+      "trapezius": {
+        "primary": [],
+        "secondary": [
+          "trapezius-lower"
+        ]
+      }
+    },
+    "dumbbell-front-raise": {
+      "trapezius": {
+        "primary": [],
+        "secondary": [
+          "trapezius-upper"
+        ]
+      }
+    },
+    "dumbbell-lateral-raise": {
+      "trapezius": {
+        "primary": [],
+        "secondary": [
+          "trapezius-upper"
+        ]
+      }
+    },
+    "dumbbell-romanian-deadlift": {
+      "trapezius": {
+        "primary": [],
+        "secondary": [
+          "trapezius-upper"
+        ]
+      }
+    },
+    "dumbbell-scaption": {
+      "trapezius": {
+        "primary": [],
+        "secondary": [
+          "trapezius-upper",
+          "trapezius-lower"
+        ]
+      }
+    },
+    "dumbbell-shrug": {
+      "trapezius": {
+        "primary": [
+          "trapezius-upper"
+        ],
+        "secondary": []
+      }
+    },
+    "face-pull": {
+      "trapezius": {
+        "primary": [],
+        "secondary": [
+          "trapezius-middle",
+          "trapezius-lower"
+        ]
+      }
+    },
+    "farmers-walk": {
+      "trapezius": {
+        "primary": [
+          "trapezius-upper"
+        ],
+        "secondary": []
+      }
+    },
+    "kettlebell-swing": {
+      "trapezius": {
+        "primary": [],
+        "secondary": [
+          "trapezius-upper"
+        ]
+      }
+    },
+    "lat-pulldown": {
+      "trapezius": {
+        "primary": [],
+        "secondary": [
+          "trapezius-lower",
+          "trapezius-middle"
+        ]
+      }
+    },
+    "lying-lateral-neck-flexion": {
+      "trapezius": {
+        "primary": [],
+        "secondary": [
+          "trapezius-upper"
+        ]
+      }
+    },
+    "lying-neck-extension": {
+      "trapezius": {
+        "primary": [
+          "splenius"
+        ],
+        "secondary": [
+          "trapezius-upper"
+        ]
+      }
+    },
+    "machine-neck-lateral-flexion": {
+      "trapezius": {
+        "primary": [],
+        "secondary": [
+          "trapezius-upper"
+        ]
+      }
+    },
+    "machine-shoulder-press": {
+      "trapezius": {
+        "primary": [],
+        "secondary": [
+          "trapezius-upper",
+          "trapezius-lower"
+        ]
+      }
+    },
+    "one-arm-dumbbell-row": {
+      "trapezius": {
+        "primary": [],
+        "secondary": [
+          "trapezius-middle"
+        ]
+      }
+    },
+    "prone-t-raise": {
+      "trapezius": {
+        "primary": [
+          "trapezius-middle"
+        ],
+        "secondary": [
+          "trapezius-lower"
+        ]
+      }
+    },
+    "prone-y-raise": {
+      "trapezius": {
+        "primary": [
+          "trapezius-lower"
+        ],
+        "secondary": [
+          "trapezius-middle"
+        ]
+      }
+    },
+    "push-press": {
+      "trapezius": {
+        "primary": [],
+        "secondary": [
+          "trapezius-upper",
+          "trapezius-lower"
+        ]
+      }
+    },
+    "reverse-machine-fly": {
+      "trapezius": {
+        "primary": [],
+        "secondary": [
+          "trapezius-middle"
+        ]
+      }
+    },
+    "romanian-deadlift": {
+      "trapezius": {
+        "primary": [],
+        "secondary": [
+          "trapezius-upper"
+        ]
+      }
+    },
+    "seated-cable-row": {
+      "trapezius": {
+        "primary": [
+          "trapezius-middle"
+        ],
+        "secondary": [
+          "trapezius-lower"
+        ]
+      }
+    },
+    "seated-dumbbell-shoulder-press": {
+      "trapezius": {
+        "primary": [],
+        "secondary": [
+          "trapezius-upper",
+          "trapezius-lower"
+        ]
+      }
+    },
+    "suitcase-carry": {
+      "trapezius": {
+        "primary": [],
+        "secondary": [
+          "trapezius-upper"
+        ]
+      }
+    },
+    "sumo-deadlift": {
+      "trapezius": {
+        "primary": [],
+        "secondary": [
+          "trapezius-upper"
+        ]
+      }
+    },
+    "weighted-pull-up": {
+      "trapezius": {
+        "primary": [],
+        "secondary": [
+          "trapezius-lower"
+        ]
+      }
+    }
+  },
+  "addSources": {
+    "arch-body-hold": [
+      {
+        "url": "https://pubmed.ncbi.nlm.nih.gov/12774999/",
+        "checked": "2026-10-12"
+      }
+    ],
+    "arch-hang": [
+      {
+        "url": "https://www.physio-pedia.com/Trapezius",
+        "checked": "2026-10-12"
+      }
+    ],
+    "archer-pull-up": [
+      {
+        "url": "https://breakingmuscle.com/pull-up-vs-chin-up-a-comparison-and-analysis/",
+        "checked": "2026-10-12"
+      }
+    ],
+    "archer-row": [
+      {
+        "url": "https://link.springer.com/article/10.1186/1476-5918-3-4",
+        "checked": "2026-10-12"
+      },
+      {
+        "url": "https://blogcontent.summit-education.com/wp-content/uploads/Reinold-et-al-current-concepts-in-the-scientific-and-clinical-rationale-behind-exercises-for-GH-and-ST-musculature.pdf",
+        "checked": "2026-10-12"
+      }
+    ],
+    "chin-up": [
+      {
+        "url": "https://breakingmuscle.com/pull-up-vs-chin-up-a-comparison-and-analysis/",
+        "checked": "2026-10-12"
+      }
+    ],
+    "elevated-pike-push-up": [
+      {
+        "url": "https://blogcontent.summit-education.com/wp-content/uploads/Reinold-et-al-current-concepts-in-the-scientific-and-clinical-rationale-behind-exercises-for-GH-and-ST-musculature.pdf",
+        "checked": "2026-10-12"
+      },
+      {
+        "url": "https://www.physio-pedia.com/Trapezius",
+        "checked": "2026-10-12"
+      }
+    ],
+    "false-grip-ring-row": [
+      {
+        "url": "https://link.springer.com/article/10.1186/1476-5918-3-4",
+        "checked": "2026-10-12"
+      },
+      {
+        "url": "https://blogcontent.summit-education.com/wp-content/uploads/Reinold-et-al-current-concepts-in-the-scientific-and-clinical-rationale-behind-exercises-for-GH-and-ST-musculature.pdf",
+        "checked": "2026-10-12"
+      }
+    ],
+    "front-lever": [
+      {
+        "url": "https://www.physio-pedia.com/Trapezius",
+        "checked": "2026-10-12"
+      }
+    ],
+    "inverted-row": [
+      {
+        "url": "https://link.springer.com/article/10.1186/1476-5918-3-4",
+        "checked": "2026-10-12"
+      },
+      {
+        "url": "https://blogcontent.summit-education.com/wp-content/uploads/Reinold-et-al-current-concepts-in-the-scientific-and-clinical-rationale-behind-exercises-for-GH-and-ST-musculature.pdf",
+        "checked": "2026-10-12"
+      }
+    ],
+    "isometric-neck-lateral-flexion": [
+      {
+        "url": "https://www.physio-pedia.com/Trapezius",
+        "checked": "2026-10-12"
+      },
+      {
+        "url": "https://fitnessvolt.com/lying-weighted-lateral-neck-flexion/",
+        "checked": "2026-10-12"
+      }
+    ],
+    "lying-neck-extension-bodyweight": [
+      {
+        "url": "https://www.kenhub.com/en/library/anatomy/splenius-capitis-muscle",
+        "checked": "2026-10-12"
+      },
+      {
+        "url": "https://www.kenhub.com/en/library/anatomy/splenius-cervicis-muscle",
+        "checked": "2026-10-12"
+      },
+      {
+        "url": "https://research.birmingham.ac.uk/en/publications/activation-of-the-semispinalis-cervicis-and-splenius-capitis-with",
+        "checked": "2026-10-12"
+      },
+      {
+        "url": "https://www.loadmuscle.com/exercises/weighted-lying-neck-extension",
+        "checked": "2026-10-12"
+      }
+    ],
+    "muscle-up": [
+      {
+        "url": "https://breakingmuscle.com/pull-up-vs-chin-up-a-comparison-and-analysis/",
+        "checked": "2026-10-12"
+      },
+      {
+        "url": "https://www.physio-pedia.com/Trapezius",
+        "checked": "2026-10-12"
+      }
+    ],
+    "negative-pull-up": [
+      {
+        "url": "https://breakingmuscle.com/pull-up-vs-chin-up-a-comparison-and-analysis/",
+        "checked": "2026-10-12"
+      }
+    ],
+    "neutral-grip-pull-up": [
+      {
+        "url": "https://breakingmuscle.com/pull-up-vs-chin-up-a-comparison-and-analysis/",
+        "checked": "2026-10-12"
+      }
+    ],
+    "parallel-bar-support-hold": [
+      {
+        "url": "https://www.physio-pedia.com/Trapezius",
+        "checked": "2026-10-12"
+      }
+    ],
+    "pike-push-up": [
+      {
+        "url": "https://blogcontent.summit-education.com/wp-content/uploads/Reinold-et-al-current-concepts-in-the-scientific-and-clinical-rationale-behind-exercises-for-GH-and-ST-musculature.pdf",
+        "checked": "2026-10-12"
+      },
+      {
+        "url": "https://www.physio-pedia.com/Trapezius",
+        "checked": "2026-10-12"
+      }
+    ],
+    "prone-neck-bridge": [
+      {
+        "url": "https://www.physio-pedia.com/Trapezius",
+        "checked": "2026-10-12"
+      }
+    ],
+    "prone-t-raise-bodyweight": [
+      {
+        "url": "https://pubmed.ncbi.nlm.nih.gov/12774999/",
+        "checked": "2026-10-12"
+      },
+      {
+        "url": "https://blogcontent.summit-education.com/wp-content/uploads/Reinold-et-al-current-concepts-in-the-scientific-and-clinical-rationale-behind-exercises-for-GH-and-ST-musculature.pdf",
+        "checked": "2026-10-12"
+      }
+    ],
+    "prone-w-raise": [
+      {
+        "url": "https://blogcontent.summit-education.com/wp-content/uploads/Reinold-et-al-current-concepts-in-the-scientific-and-clinical-rationale-behind-exercises-for-GH-and-ST-musculature.pdf",
+        "checked": "2026-10-12"
+      }
+    ],
+    "prone-y-raise-bodyweight": [
+      {
+        "url": "https://pubmed.ncbi.nlm.nih.gov/12774999/",
+        "checked": "2026-10-12"
+      },
+      {
+        "url": "https://blogcontent.summit-education.com/wp-content/uploads/Reinold-et-al-current-concepts-in-the-scientific-and-clinical-rationale-behind-exercises-for-GH-and-ST-musculature.pdf",
+        "checked": "2026-10-12"
+      }
+    ],
+    "pull-up": [
+      {
+        "url": "https://breakingmuscle.com/pull-up-vs-chin-up-a-comparison-and-analysis/",
+        "checked": "2026-10-12"
+      }
+    ],
+    "ring-support-hold": [
+      {
+        "url": "https://www.physio-pedia.com/Trapezius",
+        "checked": "2026-10-12"
+      }
+    ],
+    "scapula-dip": [
+      {
+        "url": "https://www.physio-pedia.com/Trapezius",
+        "checked": "2026-10-12"
+      }
+    ],
+    "scapular-pull-up": [
+      {
+        "url": "https://www.physio-pedia.com/Trapezius",
+        "checked": "2026-10-12"
+      }
+    ],
+    "side-lying-neck-lateral-raise": [
+      {
+        "url": "https://www.physio-pedia.com/Trapezius",
+        "checked": "2026-10-12"
+      },
+      {
+        "url": "https://fitnessvolt.com/lying-weighted-lateral-neck-flexion/",
+        "checked": "2026-10-12"
+      }
+    ],
+    "superman": [
+      {
+        "url": "https://pubmed.ncbi.nlm.nih.gov/12774999/",
+        "checked": "2026-10-12"
+      }
+    ],
+    "supine-neck-bridge": [
+      {
+        "url": "https://www.kenhub.com/en/library/anatomy/splenius-capitis-muscle",
+        "checked": "2026-10-12"
+      },
+      {
+        "url": "https://www.kenhub.com/en/library/anatomy/splenius-cervicis-muscle",
+        "checked": "2026-10-12"
+      },
+      {
+        "url": "https://research.birmingham.ac.uk/en/publications/activation-of-the-semispinalis-cervicis-and-splenius-capitis-with",
+        "checked": "2026-10-12"
+      }
+    ],
+    "tuck-front-lever": [
+      {
+        "url": "https://www.physio-pedia.com/Trapezius",
+        "checked": "2026-10-12"
+      }
+    ],
+    "tuck-front-lever-row": [
+      {
+        "url": "https://link.springer.com/article/10.1186/1476-5918-3-4",
+        "checked": "2026-10-12"
+      },
+      {
+        "url": "https://www.physio-pedia.com/Trapezius",
+        "checked": "2026-10-12"
+      }
+    ],
+    "underhand-inverted-row": [
+      {
+        "url": "https://link.springer.com/article/10.1186/1476-5918-3-4",
+        "checked": "2026-10-12"
+      },
+      {
+        "url": "https://blogcontent.summit-education.com/wp-content/uploads/Reinold-et-al-current-concepts-in-the-scientific-and-clinical-rationale-behind-exercises-for-GH-and-ST-musculature.pdf",
+        "checked": "2026-10-12"
+      }
+    ],
+    "vertical-row": [
+      {
+        "url": "https://blogcontent.summit-education.com/wp-content/uploads/Reinold-et-al-current-concepts-in-the-scientific-and-clinical-rationale-behind-exercises-for-GH-and-ST-musculature.pdf",
+        "checked": "2026-10-12"
+      }
+    ],
+    "wall-angel": [
+      {
+        "url": "https://blogcontent.summit-education.com/wp-content/uploads/Reinold-et-al-current-concepts-in-the-scientific-and-clinical-rationale-behind-exercises-for-GH-and-ST-musculature.pdf",
+        "checked": "2026-10-12"
+      },
+      {
+        "url": "https://www.physio-pedia.com/Trapezius",
+        "checked": "2026-10-12"
+      }
+    ],
+    "wall-handstand-hold": [
+      {
+        "url": "https://blogcontent.summit-education.com/wp-content/uploads/Reinold-et-al-current-concepts-in-the-scientific-and-clinical-rationale-behind-exercises-for-GH-and-ST-musculature.pdf",
+        "checked": "2026-10-12"
+      },
+      {
+        "url": "https://www.physio-pedia.com/Trapezius",
+        "checked": "2026-10-12"
+      },
+      {
+        "url": "https://www.12minuteathlete.com/shoulder-shrug-drills/",
+        "checked": "2026-10-12"
+      }
+    ],
+    "wall-handstand-push-up": [
+      {
+        "url": "https://blogcontent.summit-education.com/wp-content/uploads/Reinold-et-al-current-concepts-in-the-scientific-and-clinical-rationale-behind-exercises-for-GH-and-ST-musculature.pdf",
+        "checked": "2026-10-12"
+      },
+      {
+        "url": "https://www.physio-pedia.com/Trapezius",
+        "checked": "2026-10-12"
+      }
+    ],
+    "wall-slide": [
+      {
+        "url": "https://blogcontent.summit-education.com/wp-content/uploads/Reinold-et-al-current-concepts-in-the-scientific-and-clinical-rationale-behind-exercises-for-GH-and-ST-musculature.pdf",
+        "checked": "2026-10-12"
+      },
+      {
+        "url": "https://www.physio-pedia.com/Trapezius",
+        "checked": "2026-10-12"
+      }
+    ],
+    "wall-walk": [
+      {
+        "url": "https://blogcontent.summit-education.com/wp-content/uploads/Reinold-et-al-current-concepts-in-the-scientific-and-clinical-rationale-behind-exercises-for-GH-and-ST-musculature.pdf",
+        "checked": "2026-10-12"
+      },
+      {
+        "url": "https://www.physio-pedia.com/Trapezius",
+        "checked": "2026-10-12"
+      }
+    ],
+    "wide-row": [
+      {
+        "url": "https://pubmed.ncbi.nlm.nih.gov/12774999/",
+        "checked": "2026-10-12"
+      },
+      {
+        "url": "https://blogcontent.summit-education.com/wp-content/uploads/Reinold-et-al-current-concepts-in-the-scientific-and-clinical-rationale-behind-exercises-for-GH-and-ST-musculature.pdf",
+        "checked": "2026-10-12"
+      },
+      {
+        "url": "https://link.springer.com/article/10.1186/1476-5918-3-4",
+        "checked": "2026-10-12"
+      }
+    ],
+    "arnold-press": [
+      {
+        "url": "https://blogcontent.summit-education.com/wp-content/uploads/Reinold-et-al-current-concepts-in-the-scientific-and-clinical-rationale-behind-exercises-for-GH-and-ST-musculature.pdf",
+        "checked": "2026-10-12"
+      },
+      {
+        "url": "https://www.physio-pedia.com/Trapezius",
+        "checked": "2026-10-12"
+      }
+    ],
+    "band-pull-apart": [
+      {
+        "url": "https://pubmed.ncbi.nlm.nih.gov/12774999/",
+        "checked": "2026-10-12"
+      },
+      {
+        "url": "https://blogcontent.summit-education.com/wp-content/uploads/Reinold-et-al-current-concepts-in-the-scientific-and-clinical-rationale-behind-exercises-for-GH-and-ST-musculature.pdf",
+        "checked": "2026-10-12"
+      }
+    ],
+    "barbell-deadlift": [
+      {
+        "url": "https://www.physio-pedia.com/Trapezius",
+        "checked": "2026-10-12"
+      }
+    ],
+    "barbell-overhead-press": [
+      {
+        "url": "https://blogcontent.summit-education.com/wp-content/uploads/Reinold-et-al-current-concepts-in-the-scientific-and-clinical-rationale-behind-exercises-for-GH-and-ST-musculature.pdf",
+        "checked": "2026-10-12"
+      },
+      {
+        "url": "https://www.physio-pedia.com/Trapezius",
+        "checked": "2026-10-12"
+      }
+    ],
+    "barbell-overhead-shrug": [
+      {
+        "url": "https://www.physio-pedia.com/Trapezius",
+        "checked": "2026-10-12"
+      }
+    ],
+    "barbell-shrug": [
+      {
+        "url": "https://pubmed.ncbi.nlm.nih.gov/12774999/",
+        "checked": "2026-10-12"
+      }
+    ],
+    "barbell-upright-row": [
+      {
+        "url": "https://blogcontent.summit-education.com/wp-content/uploads/Reinold-et-al-current-concepts-in-the-scientific-and-clinical-rationale-behind-exercises-for-GH-and-ST-musculature.pdf",
+        "checked": "2026-10-12"
+      },
+      {
+        "url": "https://www.physio-pedia.com/Trapezius",
+        "checked": "2026-10-12"
+      }
+    ],
+    "bent-over-barbell-row": [
+      {
+        "url": "https://blogcontent.summit-education.com/wp-content/uploads/Reinold-et-al-current-concepts-in-the-scientific-and-clinical-rationale-behind-exercises-for-GH-and-ST-musculature.pdf",
+        "checked": "2026-10-12"
+      },
+      {
+        "url": "https://link.springer.com/article/10.1186/1476-5918-3-4",
+        "checked": "2026-10-12"
+      }
+    ],
+    "bent-over-reverse-dumbbell-fly": [
+      {
+        "url": "https://pubmed.ncbi.nlm.nih.gov/12774999/",
+        "checked": "2026-10-12"
+      },
+      {
+        "url": "https://blogcontent.summit-education.com/wp-content/uploads/Reinold-et-al-current-concepts-in-the-scientific-and-clinical-rationale-behind-exercises-for-GH-and-ST-musculature.pdf",
+        "checked": "2026-10-12"
+      }
+    ],
+    "cable-high-serratus-punch": [
+      {
+        "url": "https://www.physio-pedia.com/Trapezius",
+        "checked": "2026-10-12"
+      }
+    ],
+    "cuban-press": [
+      {
+        "url": "https://blogcontent.summit-education.com/wp-content/uploads/Reinold-et-al-current-concepts-in-the-scientific-and-clinical-rationale-behind-exercises-for-GH-and-ST-musculature.pdf",
+        "checked": "2026-10-12"
+      }
+    ],
+    "dumbbell-front-raise": [
+      {
+        "url": "https://blogcontent.summit-education.com/wp-content/uploads/Reinold-et-al-current-concepts-in-the-scientific-and-clinical-rationale-behind-exercises-for-GH-and-ST-musculature.pdf",
+        "checked": "2026-10-12"
+      },
+      {
+        "url": "https://www.physio-pedia.com/Trapezius",
+        "checked": "2026-10-12"
+      }
+    ],
+    "dumbbell-lateral-raise": [
+      {
+        "url": "https://blogcontent.summit-education.com/wp-content/uploads/Reinold-et-al-current-concepts-in-the-scientific-and-clinical-rationale-behind-exercises-for-GH-and-ST-musculature.pdf",
+        "checked": "2026-10-12"
+      }
+    ],
+    "dumbbell-romanian-deadlift": [
+      {
+        "url": "https://www.strengthlog.com/romanian-deadlift/",
+        "checked": "2026-10-12"
+      },
+      {
+        "url": "https://www.physio-pedia.com/Trapezius",
+        "checked": "2026-10-12"
+      }
+    ],
+    "face-pull": [
+      {
+        "url": "https://pubmed.ncbi.nlm.nih.gov/12774999/",
+        "checked": "2026-10-12"
+      },
+      {
+        "url": "https://blogcontent.summit-education.com/wp-content/uploads/Reinold-et-al-current-concepts-in-the-scientific-and-clinical-rationale-behind-exercises-for-GH-and-ST-musculature.pdf",
+        "checked": "2026-10-12"
+      }
+    ],
+    "farmers-walk": [
+      {
+        "url": "https://www.physio-pedia.com/Trapezius",
+        "checked": "2026-10-12"
+      }
+    ],
+    "kettlebell-swing": [
+      {
+        "url": "https://www.physio-pedia.com/Trapezius",
+        "checked": "2026-10-12"
+      }
+    ],
+    "lat-pulldown": [
+      {
+        "url": "https://link.springer.com/article/10.1186/1476-5918-3-4",
+        "checked": "2026-10-12"
+      },
+      {
+        "url": "https://www.physio-pedia.com/Trapezius",
+        "checked": "2026-10-12"
+      }
+    ],
+    "lying-neck-extension": [
+      {
+        "url": "https://www.kenhub.com/en/library/anatomy/splenius-capitis-muscle",
+        "checked": "2026-10-12"
+      },
+      {
+        "url": "https://www.kenhub.com/en/library/anatomy/splenius-cervicis-muscle",
+        "checked": "2026-10-12"
+      },
+      {
+        "url": "https://research.birmingham.ac.uk/en/publications/activation-of-the-semispinalis-cervicis-and-splenius-capitis-with",
+        "checked": "2026-10-12"
+      },
+      {
+        "url": "https://www.loadmuscle.com/exercises/weighted-lying-neck-extension",
+        "checked": "2026-10-12"
+      }
+    ],
+    "machine-neck-lateral-flexion": [
+      {
+        "url": "https://fitnessvolt.com/lying-weighted-lateral-neck-flexion/",
+        "checked": "2026-10-12"
+      },
+      {
+        "url": "https://www.physio-pedia.com/Trapezius",
+        "checked": "2026-10-12"
+      }
+    ],
+    "machine-shoulder-press": [
+      {
+        "url": "https://blogcontent.summit-education.com/wp-content/uploads/Reinold-et-al-current-concepts-in-the-scientific-and-clinical-rationale-behind-exercises-for-GH-and-ST-musculature.pdf",
+        "checked": "2026-10-12"
+      },
+      {
+        "url": "https://www.physio-pedia.com/Trapezius",
+        "checked": "2026-10-12"
+      }
+    ],
+    "one-arm-dumbbell-row": [
+      {
+        "url": "https://blogcontent.summit-education.com/wp-content/uploads/Reinold-et-al-current-concepts-in-the-scientific-and-clinical-rationale-behind-exercises-for-GH-and-ST-musculature.pdf",
+        "checked": "2026-10-12"
+      },
+      {
+        "url": "https://link.springer.com/article/10.1186/1476-5918-3-4",
+        "checked": "2026-10-12"
+      }
+    ],
+    "push-press": [
+      {
+        "url": "https://blogcontent.summit-education.com/wp-content/uploads/Reinold-et-al-current-concepts-in-the-scientific-and-clinical-rationale-behind-exercises-for-GH-and-ST-musculature.pdf",
+        "checked": "2026-10-12"
+      },
+      {
+        "url": "https://www.physio-pedia.com/Trapezius",
+        "checked": "2026-10-12"
+      }
+    ],
+    "reverse-machine-fly": [
+      {
+        "url": "https://pubmed.ncbi.nlm.nih.gov/12774999/",
+        "checked": "2026-10-12"
+      },
+      {
+        "url": "https://blogcontent.summit-education.com/wp-content/uploads/Reinold-et-al-current-concepts-in-the-scientific-and-clinical-rationale-behind-exercises-for-GH-and-ST-musculature.pdf",
+        "checked": "2026-10-12"
+      }
+    ],
+    "romanian-deadlift": [
+      {
+        "url": "https://www.physio-pedia.com/Trapezius",
+        "checked": "2026-10-12"
+      }
+    ],
+    "seated-cable-row": [
+      {
+        "url": "https://link.springer.com/article/10.1186/1476-5918-3-4",
+        "checked": "2026-10-12"
+      },
+      {
+        "url": "https://blogcontent.summit-education.com/wp-content/uploads/Reinold-et-al-current-concepts-in-the-scientific-and-clinical-rationale-behind-exercises-for-GH-and-ST-musculature.pdf",
+        "checked": "2026-10-12"
+      }
+    ],
+    "seated-dumbbell-shoulder-press": [
+      {
+        "url": "https://blogcontent.summit-education.com/wp-content/uploads/Reinold-et-al-current-concepts-in-the-scientific-and-clinical-rationale-behind-exercises-for-GH-and-ST-musculature.pdf",
+        "checked": "2026-10-12"
+      },
+      {
+        "url": "https://www.physio-pedia.com/Trapezius",
+        "checked": "2026-10-12"
+      }
+    ],
+    "suitcase-carry": [
+      {
+        "url": "https://www.strengthlog.com/farmers-walk/",
+        "checked": "2026-10-12"
+      },
+      {
+        "url": "https://www.physio-pedia.com/Trapezius",
+        "checked": "2026-10-12"
+      }
+    ],
+    "sumo-deadlift": [
+      {
+        "url": "https://www.strengthlog.com/deadlift/",
+        "checked": "2026-10-12"
+      },
+      {
+        "url": "https://www.physio-pedia.com/Trapezius",
+        "checked": "2026-10-12"
+      }
+    ],
+    "weighted-pull-up": [
+      {
+        "url": "https://breakingmuscle.com/pull-up-vs-chin-up-a-comparison-and-analysis/",
+        "checked": "2026-10-12"
+      }
+    ]
+  },
+  "newExercises": [
+    {
+      "id": "cable-y-raise",
+      "nameVi": "Nâng tay chữ Y với cáp (cable Y raise)",
+      "nameEn": "Cable Y Raise",
+      "type": "gym",
+      "equipment": [
+        "cáp"
+      ],
+      "primaryMuscles": [
+        "trapezius-lower"
+      ],
+      "secondaryMuscles": [
+        "trapezius-middle",
+        "deltoid-lateral",
+        "deltoid-posterior",
+        "serratus-anterior"
+      ],
+      "difficulty": 2,
+      "order": 0,
+      "difficultyBasis": "Mức 2 – Cơ bản: một khớp vai, cáp tải nhẹ chỉnh được; đứng tự do nên phải giữ thân không ưỡn và cần đủ tầm nâng tay qua đầu.",
+      "steps": [
+        "Đặt hai ròng rọc ở vị trí thấp nhất; đứng giữa hai cột cáp, tay trái nắm tay cầm bên phải và ngược lại để hai dây bắt chéo trước người.",
+        "Đứng thẳng, siết bụng, kéo nhẹ bả vai xuống và về sau.",
+        "Giữ khuỷu gần thẳng, nâng hai tay chéo lên trên đầu thành hình chữ Y, ngón cái hướng lên, tới khi cánh tay ngang tai.",
+        "Dừng ngắn ở điểm cao rồi hạ chậm về trước hông."
+      ],
+      "safety": [
+        "Dùng tạ rất nhẹ; nếu phải ưỡn lưng hoặc nhún vai mới nâng được thì giảm tạ.",
+        "Dừng nếu thấy đau nhói ở phía trước hoặc trên vai khi tay lên cao."
+      ],
+      "sources": [
+        {
+          "url": "https://www.healthline.com/health/fitness-exercise/lower-trap-exercises",
+          "checked": "2026-10-12"
+        },
+        {
+          "url": "https://blogcontent.summit-education.com/wp-content/uploads/Reinold-et-al-current-concepts-in-the-scientific-and-clinical-rationale-behind-exercises-for-GH-and-ST-musculature.pdf",
+          "checked": "2026-10-12"
+        },
+        {
+          "url": "https://pubmed.ncbi.nlm.nih.gov/12774999/",
+          "checked": "2026-10-12"
+        }
+      ]
+    },
+    {
+      "id": "prone-dumbbell-external-rotation-90",
+      "nameVi": "Xoay ngoài vai 90° nằm sấp với tạ đơn (prone 90° external rotation)",
+      "nameEn": "Prone Dumbbell External Rotation at 90°",
+      "type": "gym",
+      "equipment": [
+        "tạ đơn",
+        "ghế"
+      ],
+      "primaryMuscles": [
+        "trapezius-lower",
+        "rotator-cuff"
+      ],
+      "secondaryMuscles": [
+        "trapezius-middle",
+        "deltoid-posterior"
+      ],
+      "difficulty": 2,
+      "order": 0,
+      "difficultyBasis": "Mức 2 – Cơ bản: một khớp, tạ rất nhẹ, có ghế đỡ thân, nhưng phải giữ bả vai và tư thế dang tay 90° ổn định suốt động tác.",
+      "steps": [
+        "Nằm sấp trên ghế phẳng, một tay buông ra ngoài mép ghế cầm tạ đơn rất nhẹ.",
+        "Đưa cánh tay sang ngang tới ngang vai, khuỷu gập 90°, cẳng tay buông thẳng xuống sàn.",
+        "Kéo nhẹ bả vai xuống và về sau, rồi xoay cẳng tay ra trước và lên trên (cánh tay trên nằm yên) tới khi cẳng tay gần ngang thân hoặc hết tầm thoải mái.",
+        "Giữ 1 giây rồi hạ chậm về vị trí đầu; làm hết số lần rồi đổi tay."
+      ],
+      "safety": [
+        "Dùng tạ rất nhẹ (khoảng 0,5–2 kg); không để khuỷu tụt xuống hay vai nhún lên.",
+        "Chỉ xoay trong tầm không đau; dừng nếu đau nhói phía trước vai."
+      ],
+      "sources": [
+        {
+          "url": "https://us.physitrack.com/home-exercise-video/prone-external-rotation-%2528shoulder-at-90%2529",
+          "checked": "2026-10-12"
+        },
+        {
+          "url": "https://blogcontent.summit-education.com/wp-content/uploads/Reinold-et-al-current-concepts-in-the-scientific-and-clinical-rationale-behind-exercises-for-GH-and-ST-musculature.pdf",
+          "checked": "2026-10-12"
+        }
+      ]
+    },
+    {
+      "id": "elevated-pike-shrug",
+      "nameVi": "Nhún vai tư thế pike kê chân (elevated pike shrug)",
+      "nameEn": "Elevated Pike Shrug",
+      "type": "calisthenics",
+      "equipment": [
+        "bục"
+      ],
+      "primaryMuscles": [
+        "trapezius-upper",
+        "serratus-anterior"
+      ],
+      "secondaryMuscles": [
+        "trapezius-lower",
+        "deltoid-anterior",
+        "triceps-brachii"
+      ],
+      "difficulty": 2,
+      "order": 0,
+      "difficultyBasis": "Mức 2 – Cơ bản: tay giữ thẳng, chỉ cử động bả vai; chịu một phần trọng lượng cơ thể ở tư thế đầu thấp; là bản dễ của nhún vai trồng chuối.",
+      "steps": [
+        "Đặt hai bàn chân lên bục, đi tay về phía bục để hông gập khoảng 90°, vai nằm ngay trên tay, tay thẳng.",
+        "Siết bụng, khuỷu giữ thẳng suốt bài.",
+        "Thả cho vai chìm xuống, rời xa tai một chút.",
+        "Đẩy sàn, nhún vai về phía tai để thân nâng lên vài phân; giữ một nhịp rồi hạ có kiểm soát."
+      ],
+      "safety": [
+        "Khởi động cổ tay trước; không gập khuỷu khi nhún.",
+        "Dừng nếu chóng mặt hoặc đau vai; hạ chân xuống sàn để nghỉ."
+      ],
+      "sources": [
+        {
+          "url": "https://www.12minuteathlete.com/shoulder-shrug-drills/",
+          "checked": "2026-10-12"
+        },
+        {
+          "url": "https://www.physio-pedia.com/Trapezius",
+          "checked": "2026-10-12"
+        },
+        {
+          "url": "https://pubmed.ncbi.nlm.nih.gov/12774999/",
+          "checked": "2026-10-12"
+        },
+        {
+          "url": "https://www.physio-pedia.com/Serratus_Anterior",
+          "checked": "2026-10-12"
+        }
+      ]
+    },
+    {
+      "id": "wall-handstand-shrug",
+      "nameVi": "Nhún vai trồng chuối áp tường (wall handstand shrug)",
+      "nameEn": "Wall Handstand Shrug",
+      "type": "calisthenics",
+      "equipment": [
+        "tường"
+      ],
+      "primaryMuscles": [
+        "trapezius-upper",
+        "serratus-anterior"
+      ],
+      "secondaryMuscles": [
+        "trapezius-lower",
+        "deltoid-anterior",
+        "triceps-brachii",
+        "rectus-abdominis"
+      ],
+      "difficulty": 4,
+      "order": 0,
+      "difficultyBasis": "Mức 4 – Nâng cao: cùng mức với giữ trồng chuối áp tường (bài đứng trước, mức 4); cần giữ trồng chuối vững ~30 giây và chịu toàn bộ trọng lượng trên hai tay.",
+      "steps": [
+        "Vào tư thế trồng chuối áp tường (đi tay lên tường hoặc đá chân lên), tay thẳng rộng bằng vai.",
+        "Siết bụng và mông cho thân thẳng.",
+        "Thả cho vai chìm xuống, rời xa tai một chút, tay vẫn thẳng.",
+        "Đẩy sàn, nhún vai về phía tai để nâng người lên cao nhất có thể; lặp lại nhịp nhàng rồi xuống an toàn."
+      ],
+      "safety": [
+        "Chỉ tập khi đã giữ trồng chuối áp tường được khoảng 30 giây và biết cách thoát xuống.",
+        "Không gập khuỷu, không để thắt lưng ưỡn; tập trên thảm."
+      ],
+      "progressionOf": "wall-handstand-hold",
+      "sources": [
+        {
+          "url": "https://www.12minuteathlete.com/shoulder-shrug-drills/",
+          "checked": "2026-10-12"
+        },
+        {
+          "url": "https://www.physio-pedia.com/Trapezius",
+          "checked": "2026-10-12"
+        },
+        {
+          "url": "https://www.physio-pedia.com/Serratus_Anterior",
+          "checked": "2026-10-12"
+        },
+        {
+          "url": "https://pubmed.ncbi.nlm.nih.gov/12774999/",
+          "checked": "2026-10-12"
+        }
+      ]
+    },
+    {
+      "id": "cable-rope-hammer-curl",
+      "nameVi": "Cuốn tay búa với dây cáp (cable rope hammer curl)",
+      "nameEn": "Cable Rope Hammer Curl",
+      "type": "gym",
+      "equipment": [
+        "cáp",
+        "dây thừng cáp"
+      ],
+      "primaryMuscles": [
+        "brachialis",
+        "brachioradialis"
+      ],
+      "secondaryMuscles": [
+        "biceps-brachii",
+        "forearm-flexors"
+      ],
+      "difficulty": 1,
+      "order": 0,
+      "difficultyBasis": "Mức 1 – Nhập môn: free-exercise-db xếp 'beginner'; một khớp, cáp chỉnh tải nhỏ, đứng tại chỗ.",
+      "steps": [
+        "Gắn dây thừng vào ròng rọc thấp, nắm hai đầu dây với lòng bàn tay hướng vào nhau, lùi lại một bước.",
+        "Đứng thẳng, khuỷu sát hai bên sườn.",
+        "Gập khuỷu kéo dây lên gần vai, cổ tay giữ thẳng, cánh tay trên không đưa ra sau.",
+        "Hạ chậm tới khi tay gần duỗi hết."
+      ],
+      "safety": [
+        "Không ngả thân ra sau hay lấy đà để kéo.",
+        "Chọn tải vừa sức để giữ cổ tay trung tính suốt bài."
+      ],
+      "fedbId": "Cable_Hammer_Curls_-_Rope_Attachment",
+      "sources": [
+        {
+          "url": "https://www.strengthlog.com/cable-curl-with-rope/",
+          "checked": "2026-10-12"
+        },
+        {
+          "url": "https://www.kenhub.com/en/library/anatomy/brachialis-muscle",
+          "checked": "2026-10-12"
+        }
+      ]
+    },
+    {
+      "id": "cross-body-hammer-curl",
+      "nameVi": "Cuốn tạ búa chéo người (cross-body hammer curl)",
+      "nameEn": "Cross-Body Hammer Curl",
+      "type": "gym",
+      "equipment": [
+        "tạ đơn"
+      ],
+      "primaryMuscles": [
+        "brachialis",
+        "brachioradialis"
+      ],
+      "secondaryMuscles": [
+        "biceps-brachii",
+        "forearm-flexors"
+      ],
+      "difficulty": 2,
+      "order": 0,
+      "difficultyBasis": "Mức 2 – Cơ bản: free-exercise-db xếp 'beginner'; tạ đơn tự do một khớp, tập từng tay, cần giữ thân yên (tương đương dumbbell curl trong rubric).",
+      "steps": [
+        "Đứng thẳng, hai chân rộng bằng vai, một tay cầm tạ đơn buông bên hông, lòng bàn tay hướng vào đùi.",
+        "Giữ cổ tay thẳng như cầm búa, gập khuỷu đưa tạ chéo trước ngực về phía vai bên kia.",
+        "Dừng ngắn ở điểm cao.",
+        "Hạ chậm theo đường cũ về bên hông; làm hết số lần rồi đổi tay."
+      ],
+      "safety": [
+        "Dùng tạ nhẹ, không xoay thân hay vung tạ.",
+        "Giữ vai thả lỏng, không nhún vai khi cuốn."
+      ],
+      "fedbId": "Cross_Body_Hammer_Curl",
+      "sources": [
+        {
+          "url": "https://muscleevo.net/cross-body-hammer-curl/",
+          "checked": "2026-10-12"
+        },
+        {
+          "url": "https://www.kenhub.com/en/library/anatomy/brachialis-muscle",
+          "checked": "2026-10-12"
+        }
+      ]
+    },
+    {
+      "id": "reverse-ez-bar-preacher-curl",
+      "nameVi": "Cuốn tay úp trên ghế preacher với thanh EZ (reverse preacher curl)",
+      "nameEn": "EZ-Bar Reverse Preacher Curl",
+      "type": "gym",
+      "equipment": [
+        "thanh EZ",
+        "ghế preacher"
+      ],
+      "primaryMuscles": [
+        "brachialis",
+        "brachioradialis"
+      ],
+      "secondaryMuscles": [
+        "biceps-brachii",
+        "forearm-extensors"
+      ],
+      "difficulty": 2,
+      "order": 0,
+      "difficultyBasis": "Mức 2 – Cơ bản: free-exercise-db xếp 'intermediate' (gợi ý mức 3) nhưng hạ một mức vì ghế preacher đỡ cánh tay, chỉ một khớp, tải nhỏ; vẫn cần kiểm soát cổ tay khi nắm úp.",
+      "steps": [
+        "Ngồi vào ghế preacher, áp nách và mặt sau cánh tay lên đệm, hai chân đặt vững.",
+        "Nắm úp (lòng bàn tay hướng xuống) thanh EZ ở đoạn cong, rộng khoảng bằng vai.",
+        "Từ tư thế tay gần duỗi (không khoá khuỷu), gập khuỷu cuốn thanh lên về phía vai, cánh tay trên nằm yên trên đệm.",
+        "Hạ chậm về vị trí đầu."
+      ],
+      "safety": [
+        "Không thả rơi thanh ở cuối biên độ; khuỷu dễ bị căng khi duỗi đột ngột trên ghế preacher.",
+        "Giữ cổ tay thẳng, dùng tạ nhẹ hơn khi cuốn tay ngửa."
+      ],
+      "fedbId": "Reverse_Barbell_Preacher_Curls",
+      "sources": [
+        {
+          "url": "https://motra.com/exercises/ezBarReversePreacherCurl",
+          "checked": "2026-10-12"
+        },
+        {
+          "url": "https://www.kenhub.com/en/library/anatomy/brachialis-muscle",
+          "checked": "2026-10-12"
+        }
+      ]
+    },
+    {
+      "id": "flexed-arm-hang",
+      "nameVi": "Treo co tay giữ cằm trên xà (flexed-arm hang)",
+      "nameEn": "Flexed-Arm Hang",
+      "type": "calisthenics",
+      "equipment": [
+        "xà đơn",
+        "bục"
+      ],
+      "primaryMuscles": [
+        "brachialis",
+        "biceps-brachii"
+      ],
+      "secondaryMuscles": [
+        "brachioradialis",
+        "latissimus-dorsi",
+        "trapezius-lower",
+        "forearm-flexors"
+      ],
+      "difficulty": 2,
+      "order": 0,
+      "difficultyBasis": "Mức 2 – Cơ bản: giữ tĩnh ở vị trí cao, bước từ bục lên nên không cần sức kéo hết tầm; caliverse xếp dễ, là bước chuẩn bị cho hít xà.",
+      "steps": [
+        "Đặt bục dưới xà, nắm xà rộng bằng vai.",
+        "Bước lên bục để cằm ở trên xà, khuỷu gập hết và khép sát người.",
+        "Kéo vai xuống xa tai, siết bụng, rồi nhấc chân khỏi bục và giữ.",
+        "Giữ 10–30 giây rồi hạ người chậm hoặc bước lại xuống bục."
+      ],
+      "safety": [
+        "Không thả rơi người khi mỏi; luôn xuống có kiểm soát.",
+        "Không nín thở, không rướn cổ để giữ cằm trên xà."
+      ],
+      "sources": [
+        {
+          "url": "https://www.caliverse.app/exercises/flexed-arm-hang-530",
+          "checked": "2026-10-12"
+        },
+        {
+          "url": "https://www.kenhub.com/en/library/anatomy/brachialis-muscle",
+          "checked": "2026-10-12"
+        }
+      ]
+    },
+    {
+      "id": "negative-chin-up",
+      "nameVi": "Hít xà tay ngửa pha hạ chậm (negative chin-up)",
+      "nameEn": "Negative Chin-Up",
+      "type": "calisthenics",
+      "equipment": [
+        "xà đơn",
+        "bục"
+      ],
+      "primaryMuscles": [
+        "latissimus-dorsi",
+        "biceps-brachii",
+        "brachialis"
+      ],
+      "secondaryMuscles": [
+        "teres-major",
+        "brachioradialis",
+        "trapezius-lower",
+        "forearm-flexors"
+      ],
+      "difficulty": 2,
+      "order": 0,
+      "difficultyBasis": "Mức 2 – Cơ bản: chỉ có pha hạ (lệch tâm) sau khi bước lên vị trí cao; caliverse xếp dễ, đứng sau flexed-arm hang (mức 2) và trước chin-up (mức 3).",
+      "steps": [
+        "Đặt bục dưới xà, nắm xà tay ngửa rộng bằng vai.",
+        "Bước lên để cằm qua xà, khuỷu gập, bả vai kéo xuống.",
+        "Nhấc chân khỏi bục và hạ người thật chậm (khoảng 3–5 giây) tới khi tay duỗi thẳng.",
+        "Bước lại lên bục và lặp lại."
+      ],
+      "safety": [
+        "Không buông rơi người ở cuối pha hạ; giữ vai chủ động khi tay gần thẳng.",
+        "Tăng thời gian hạ từ từ; dừng nếu đau khuỷu hoặc cổ tay."
+      ],
+      "progressionOf": "flexed-arm-hang",
+      "sources": [
+        {
+          "url": "https://www.caliverse.app/exercises/chin-up-negative-108",
+          "checked": "2026-10-12"
+        },
+        {
+          "url": "https://www.kenhub.com/en/library/anatomy/brachialis-muscle",
+          "checked": "2026-10-12"
+        },
+        {
+          "url": "https://fitwill.app/exercise/0140/brachialis-pull-up.md",
+          "checked": "2026-10-12"
+        }
+      ]
+    },
+    {
+      "id": "commando-pull-up",
+      "nameVi": "Hít xà kiểu commando (commando pull-up)",
+      "nameEn": "Commando Pull-Up",
+      "type": "calisthenics",
+      "equipment": [
+        "xà đơn"
+      ],
+      "primaryMuscles": [
+        "latissimus-dorsi",
+        "brachialis"
+      ],
+      "secondaryMuscles": [
+        "biceps-brachii",
+        "brachioradialis",
+        "teres-major",
+        "trapezius-lower",
+        "external-oblique",
+        "forearm-flexors"
+      ],
+      "difficulty": 4,
+      "order": 0,
+      "difficultyBasis": "Mức 4 – Nâng cao: biến thể hít xà nâng cao; tay nắm so le dọc xà, kéo lệch về từng bên nên cần sức kéo của pull-up (mức 3) cộng thêm kiểm soát chống xoay thân.",
+      "steps": [
+        "Đứng dưới xà, quay người dọc theo xà; hai tay nắm sát nhau, một tay trước một tay sau, lòng bàn tay đối nhau.",
+        "Treo người, siết bụng và mông, kéo bả vai xuống.",
+        "Gập khuỷu kéo người lên, đưa đầu sang một bên xà tới khi vai gần chạm xà.",
+        "Hạ chậm tới khi tay thẳng; lần sau kéo đầu sang bên kia."
+      ],
+      "safety": [
+        "Chỉ tập khi đã làm được nhiều lần hít xà chuẩn.",
+        "Không đá chân hay xoắn người lấy đà; dừng nếu đau khuỷu."
+      ],
+      "progressionOf": "pull-up",
+      "sources": [
+        {
+          "url": "https://www.masterclass.com/articles/commando-pull-ups-guide",
+          "checked": "2026-10-12"
+        },
+        {
+          "url": "https://www.kenhub.com/en/library/anatomy/brachialis-muscle",
+          "checked": "2026-10-12"
+        },
+        {
+          "url": "https://fitwill.app/exercise/0140/brachialis-pull-up.md",
+          "checked": "2026-10-12"
+        }
+      ]
+    },
+    {
+      "id": "machine-neck-extension",
+      "nameVi": "Ngửa cổ trên máy cổ 4 hướng (machine neck extension)",
+      "nameEn": "Machine Neck Extension",
+      "type": "gym",
+      "equipment": [
+        "máy"
+      ],
+      "primaryMuscles": [
+        "splenius"
+      ],
+      "secondaryMuscles": [
+        "trapezius-upper",
+        "levator-scapulae"
+      ],
+      "difficulty": 1,
+      "order": 0,
+      "difficultyBasis": "Mức 1 – Nhập môn: máy dẫn quỹ đạo, ngồi có điểm tựa, tải chỉnh nhỏ; chỉ cử động ở cổ (cùng mức các bài máy cổ khác).",
+      "steps": [
+        "Ngồi vào máy cổ 4 hướng quay lưng về đệm đầu, chỉnh ghế để đệm chạm phần sau đầu.",
+        "Nắm tay cầm, giữ thân thẳng và cố định.",
+        "Ngửa cổ đẩy đệm ra sau tới khi đầu hơi ngửa nhẹ.",
+        "Cho đầu về chậm tới tư thế trung tính hoặc hơi cúi."
+      ],
+      "safety": [
+        "Bắt đầu với mức tải thấp nhất, tăng từ từ; chuyển động chậm (khoảng 3 giây đẩy, 3–5 giây về).",
+        "Không dùng thân người để đẩy đệm; không ngửa cổ quá mức.",
+        "Ngừng ngay nếu chóng mặt, tê hoặc đau lan xuống vai, tay."
+      ],
+      "sources": [
+        {
+          "url": "https://ctsq.qc.ca/wp-content/uploads/2018/01/Neck-Strengthening-Protocol.pdf",
+          "checked": "2026-10-12"
+        },
+        {
+          "url": "https://www.kenhub.com/en/library/anatomy/splenius-capitis-muscle",
+          "checked": "2026-10-12"
+        },
+        {
+          "url": "https://research.birmingham.ac.uk/en/publications/activation-of-the-semispinalis-cervicis-and-splenius-capitis-with",
+          "checked": "2026-10-12"
+        }
+      ]
+    },
+    {
+      "id": "seated-harness-neck-extension",
+      "nameVi": "Ngửa cổ ngồi với đai đầu treo tạ (head harness neck extension)",
+      "nameEn": "Seated Head Harness Neck Extension",
+      "type": "gym",
+      "equipment": [
+        "đai đeo đầu",
+        "đĩa tạ",
+        "ghế"
+      ],
+      "primaryMuscles": [
+        "splenius"
+      ],
+      "secondaryMuscles": [
+        "trapezius-upper",
+        "levator-scapulae"
+      ],
+      "difficulty": 3,
+      "order": 0,
+      "difficultyBasis": "Mức 3 – Trung cấp: free-exercise-db xếp 'intermediate'; tải treo trực tiếp lên đầu, không có máy dẫn quỹ đạo, sai kỹ thuật dễ chấn thương cổ.",
+      "steps": [
+        "Ngồi ở mép ghế, hai chân rộng, đeo đai đầu có móc một đĩa tạ nhẹ treo trước mặt.",
+        "Đặt hai tay lên đùi, thân hơi ngả về trước, lưng thẳng.",
+        "Để đầu cúi chậm xuống vừa phải, cằm hướng về ngực.",
+        "Ngửa cổ đưa đầu lên tới khi đầu thẳng hàng với thân hoặc hơi ngửa nhẹ, rồi hạ chậm."
+      ],
+      "safety": [
+        "Bắt đầu với tạ rất nhẹ (hoặc không tạ) và tăng từ từ; cổ là vùng nhạy cảm.",
+        "Chuyển động chậm, trong tầm không đau; không giật hay ngửa cổ quá mức.",
+        "Ngừng ngay nếu chóng mặt, tê hoặc đau lan xuống vai, tay."
+      ],
+      "fedbId": "Seated_Head_Harness_Neck_Resistance",
+      "sources": [
+        {
+          "url": "https://loadmuscle.com/exercises/weighted-seated-neck-extension-with-head-harness",
+          "checked": "2026-10-12"
+        },
+        {
+          "url": "https://research.birmingham.ac.uk/en/publications/activation-of-the-semispinalis-cervicis-and-splenius-capitis-with",
+          "checked": "2026-10-12"
+        },
+        {
+          "url": "https://www.kenhub.com/en/library/anatomy/splenius-capitis-muscle",
+          "checked": "2026-10-12"
+        }
+      ]
+    },
+    {
+      "id": "isometric-neck-extension",
+      "nameVi": "Gồng tĩnh ngửa cổ có tay cản (isometric neck extension)",
+      "nameEn": "Isometric Neck Extension",
+      "type": "calisthenics",
+      "equipment": [
+        "không cần dụng cụ"
+      ],
+      "primaryMuscles": [
+        "splenius"
+      ],
+      "secondaryMuscles": [
+        "trapezius-upper"
+      ],
+      "difficulty": 1,
+      "order": 0,
+      "difficultyBasis": "Mức 1 – Nhập môn: free-exercise-db xếp 'beginner'; gồng tĩnh, ngồi hoặc đứng, tay tự điều chỉnh lực cản.",
+      "steps": [
+        "Ngồi hoặc đứng thẳng, mắt nhìn thẳng, cổ ở tư thế trung tính.",
+        "Đan hai tay đặt sau đầu.",
+        "Ép đầu ra sau vào tay trong khi tay cản lại, đầu không di chuyển.",
+        "Giữ khoảng 6–10 giây, nghỉ ngắn, lặp 8–12 lần."
+      ],
+      "safety": [
+        "Không dùng hết sức; tăng lực từ từ, không gây đau.",
+        "Không ngửa đầu ra sau trong lúc gồng; thở đều."
+      ],
+      "fedbId": "Isometric_Neck_Exercise_-_Front_And_Back",
+      "sources": [
+        {
+          "url": "https://www.healthlinkbc.ca/healthwise/isometric-exercise-hands-head",
+          "checked": "2026-10-12"
+        },
+        {
+          "url": "https://www.kenhub.com/en/library/anatomy/splenius-capitis-muscle",
+          "checked": "2026-10-12"
+        }
+      ]
+    },
+    {
+      "id": "wrestlers-bridge",
+      "nameVi": "Cầu đô vật có tay đỡ (wrestler's bridge)",
+      "nameEn": "Wrestler's Bridge",
+      "type": "calisthenics",
+      "equipment": [
+        "thảm/đệm mềm"
+      ],
+      "primaryMuscles": [
+        "splenius"
+      ],
+      "secondaryMuscles": [
+        "trapezius-upper",
+        "erector-spinae",
+        "gluteus-maximus"
+      ],
+      "difficulty": 4,
+      "order": 0,
+      "difficultyBasis": "Mức 4 – Nâng cao (đánh giá thận trọng): đỉnh đầu tì sàn và chịu một phần trọng lượng cơ thể, rủi ro cao khi sai kỹ thuật; chỉ tập sau cầu cổ ngửa trên ghế (mức 3).",
+      "steps": [
+        "Nằm ngửa trên thảm dày, gối gập, bàn chân đặt sàn rộng hơn hông; đặt hai bàn tay cạnh đầu, khuỷu hướng lên.",
+        "Đẩy hông lên cao, dùng tay đỡ để từ từ lăn lên đỉnh đầu.",
+        "Giữ phần lớn trọng lượng trên hai bàn chân và hai tay, siết mông giữ hông cao; cổ chỉ chịu tải nhẹ.",
+        "Giữ vài giây rồi dùng tay đỡ hạ lưng xuống thảm; tăng thời gian giữ thật từ từ qua nhiều tuần."
+      ],
+      "safety": [
+        "Không tập nếu có tiền sử đau, thoát vị đĩa đệm hoặc chấn thương cổ; hỏi ý kiến chuyên gia y tế trước.",
+        "Luôn tập trên thảm hoặc đệm, giữ tay đỡ cho tới khi rất vững; không lăn đầu hay bỏ tay khi chưa có người hướng dẫn.",
+        "Ngừng ngay nếu chóng mặt, tê hoặc đau lan xuống vai, tay."
+      ],
+      "progressionOf": "supine-neck-bridge",
+      "sources": [
+        {
+          "url": "https://breakingmuscle.com/4-drills-to-strengthen-and-injury-proof-your-neck/",
+          "checked": "2026-10-12"
+        },
+        {
+          "url": "https://www.strengthlog.com/supine-neck-bridge/",
+          "checked": "2026-10-12"
+        },
+        {
+          "url": "https://www.kenhub.com/en/library/anatomy/splenius-capitis-muscle",
+          "checked": "2026-10-12"
+        }
+      ]
+    }
+  ],
+  "sourcesRegistry": {
+    "https://www.physio-pedia.com/Trapezius": {
+      "title": "Trapezius",
+      "publisher": "Physiopedia",
+      "checked": "2026-10-12",
+      "supports": "Phân chức năng ba phần cơ thang: thớ trên nâng xương vai và duỗi/xoay đầu–cổ; thớ giữa khép (kéo về sau) và xoay lên xương vai; thớ dưới hạ, khép và xoay lên xương vai."
+    },
+    "https://link.springer.com/article/10.1186/1476-5918-3-4": {
+      "title": "Variations in muscle activation levels during traditional latissimus dorsi weight training exercises: An experimental study (Lehman và cs., Dynamic Medicine 2004;3:4)",
+      "publisher": "Dynamic Medicine – SpringerLink/BMC",
+      "checked": "2026-10-12",
+      "supports": "EMG nhóm thang giữa/cơ trám khi kéo xô và chèo cáp ngồi: chèo cáp ngồi cho hoạt động thang giữa/trám cao nhất; kéo xô cũng huy động nhóm này."
+    },
+    "https://breakingmuscle.com/pull-up-vs-chin-up-a-comparison-and-analysis/": {
+      "title": "Pull-Up vs. Chin-Up: A Comparison and Analysis (tóm tắt Youdas và cs., J Strength Cond Res 2010;24(12):3404-3414)",
+      "publisher": "Breaking Muscle",
+      "checked": "2026-10-12",
+      "supports": "Theo EMG của Youdas và cs., cơ thang dưới hoạt động khoảng 45–56% MVIC khi hít xà tay sấp/tay ngửa (cao hơn ở tay sấp); nhị đầu cao hơn ở hít xà tay ngửa."
+    },
+    "https://www.kenhub.com/en/library/anatomy/splenius-capitis-muscle": {
+      "title": "Splenius capitis muscle",
+      "publisher": "Kenhub",
+      "checked": "2026-10-12",
+      "supports": "Cơ gối đầu co hai bên thì duỗi (ngửa) đầu; co một bên thì nghiêng và xoay đầu cùng bên."
+    },
+    "https://www.kenhub.com/en/library/anatomy/splenius-cervicis-muscle": {
+      "title": "Splenius cervicis muscle",
+      "publisher": "Kenhub",
+      "checked": "2026-10-12",
+      "supports": "Cơ gối cổ co hai bên giúp duỗi (ngửa) cổ cùng cơ thang; co một bên thì nghiêng và xoay cổ cùng bên."
+    },
+    "https://research.birmingham.ac.uk/en/publications/activation-of-the-semispinalis-cervicis-and-splenius-capitis-with": {
+      "title": "Activation of the semispinalis cervicis and splenius capitis with cervical pulley exercises (Rivard và cs., Musculoskelet Sci Pract 2017;30:56-63)",
+      "publisher": "University of Birmingham Research Portal",
+      "checked": "2026-10-12",
+      "supports": "EMG trong cơ cho thấy cơ gối đầu được kích hoạt khi duỗi cổ có kháng lực (ròng rọc cáp, tạ treo), mạnh nhất khi lực kéo theo phương thẳng đứng."
+    },
+    "https://loadmuscle.com/exercises/weighted-seated-neck-extension-with-head-harness": {
+      "title": "Weighted Seated Neck Extension (with Head Harness)",
+      "publisher": "LoadMuscle",
+      "checked": "2026-10-12",
+      "supports": "Kỹ thuật ngửa cổ ngồi với đai đầu treo tạ; cơ đích là cơ gối (splenius), cơ phụ gồm thang trên, nâng vai, ức đòn chũm; mức trung cấp."
+    },
+    "https://www.loadmuscle.com/exercises/weighted-lying-neck-extension": {
+      "title": "Weighted Lying Neck Extension: Exercise Guide",
+      "publisher": "LoadMuscle",
+      "checked": "2026-10-12",
+      "supports": "Ngửa cổ nằm sấp có tạ: cơ đích là nhóm duỗi cổ; cơ phụ gồm cơ thang, nâng vai."
+    },
+    "https://www.kenhub.com/en/library/anatomy/brachialis-muscle": {
+      "title": "Brachialis muscle",
+      "publisher": "Kenhub",
+      "checked": "2026-10-12",
+      "supports": "Cơ cánh tay là cơ gập khuỷu chính và là cơ gập khuỷu 'thuần' duy nhất, hoạt động ở mọi tư thế cẳng tay vì không bám vào xương quay (không bị ảnh hưởng bởi sấp/ngửa)."
+    },
+    "https://www.healthline.com/health/fitness-exercise/lower-trap-exercises": {
+      "title": "Lower trap exercises",
+      "publisher": "Healthline (Kat Miller, CPT; duyệt bởi Daniel Bubnis, M.S.)",
+      "checked": "2026-10-12",
+      "supports": "Bài cho cơ thang dưới, gồm nâng tay chữ Y đứng với hai dây cáp bắt chéo từ ròng rọc thấp và bản ngồi."
+    },
+    "https://us.physitrack.com/home-exercise-video/prone-external-rotation-%2528shoulder-at-90%2529": {
+      "title": "Prone external rotation (shoulder at 90)",
+      "publisher": "Physitrack",
+      "checked": "2026-10-12",
+      "supports": "Kỹ thuật xoay ngoài vai nằm sấp, cánh tay dang 90°, khuỷu gập 90°, cầm tạ đơn."
+    },
+    "https://www.12minuteathlete.com/shoulder-shrug-drills/": {
+      "title": "3 Shrug Drills for Stronger, Injury-Free Shoulders",
+      "publisher": "12 Minute Athlete",
+      "checked": "2026-10-12",
+      "supports": "Kỹ thuật nhún vai khi trồng chuối áp tường (đẩy vai lên cao nhất rồi hạ) và bản dễ kê chân lên cao để hông gập 90°."
+    },
+    "https://www.healthlinkbc.ca/healthwise/isometric-exercise-hands-head": {
+      "title": "Isometric Exercise: Hands on Head",
+      "publisher": "HealthLink BC (Healthwise)",
+      "checked": "2026-10-12",
+      "supports": "Kỹ thuật gồng tĩnh ngửa cổ: đặt tay sau đầu, ép đầu ra sau vào tay, đầu không di chuyển; giữ ~6 giây, 8–12 lần."
+    },
+    "https://breakingmuscle.com/4-drills-to-strengthen-and-injury-proof-your-neck/": {
+      "title": "4 Drills to Strengthen and Injury-Proof Your Neck",
+      "publisher": "Breaking Muscle (Logan Christopher)",
+      "checked": "2026-10-12",
+      "supports": "Kỹ thuật cầu đô vật có tay đỡ (tì đỉnh đầu, đẩy hông cao), tiến cấp chậm và lưu ý dùng đệm, tập từ từ để tránh chấn thương."
+    },
+    "https://www.masterclass.com/articles/commando-pull-ups-guide": {
+      "title": "Commando Pull-Ups Guide",
+      "publisher": "MasterClass",
+      "checked": "2026-10-12",
+      "supports": "Kỹ thuật hít xà commando: tay nắm so le dọc xà, kéo người lên lệch sang từng bên; là biến thể nâng cao."
+    },
+    "https://www.caliverse.app/exercises/flexed-arm-hang-530": {
+      "title": "Flexed Arm Hang",
+      "publisher": "Caliverse",
+      "checked": "2026-10-12",
+      "supports": "Kỹ thuật treo co tay giữ cằm trên xà (bước từ bục lên), mức dễ; tiến cấp lên hít xà âm và hít xà."
+    },
+    "https://www.caliverse.app/exercises/chin-up-negative-108": {
+      "title": "Chin Up Negative",
+      "publisher": "Caliverse",
+      "checked": "2026-10-12",
+      "supports": "Kỹ thuật hít xà tay ngửa chỉ pha hạ chậm ≥5 giây; mức dễ; bước trước là flexed arm hang; tác động nhị đầu, xô, cẳng tay."
+    },
+    "https://fitwill.app/exercise/0140/brachialis-pull-up.md": {
+      "title": "Brachialis Pull-Up",
+      "publisher": "Fitwill",
+      "checked": "2026-10-12",
+      "supports": "Biến thể hít xà nhấn gập khuỷu: cơ chính nhị đầu và cơ cánh tay, cơ phụ xô, cánh tay quay, cẳng tay."
+    },
+    "https://muscleevo.net/cross-body-hammer-curl/": {
+      "title": "Cross Body Hammer Curl vs Hammer Curl: Muscles Worked, Pros & Cons",
+      "publisher": "Muscle Evo (Christian Finn, MSc)",
+      "checked": "2026-10-12",
+      "supports": "Kỹ thuật cuốn tạ búa chéo người; cơ tác động: nhị đầu, cơ cánh tay (brachialis), cơ cánh tay quay."
+    },
+    "https://motra.com/exercises/ezBarReversePreacherCurl": {
+      "title": "EZ-Bar Reverse Preacher Curl",
+      "publisher": "Motra",
+      "checked": "2026-10-12",
+      "supports": "Kỹ thuật cuốn tay úp trên ghế preacher với thanh EZ; cơ tác động: nhóm cẳng tay, cơ cánh tay (brachialis), nhị đầu; mức 2/5."
+    },
+    "https://www.strengthlog.com/cable-curl-with-rope/": {
+      "title": "How to Do Cable Curl With Rope: Muscles Worked & Proper Form",
+      "publisher": "StrengthLog",
+      "checked": "2026-10-12",
+      "supports": "Kỹ thuật cuốn cáp với dây thừng nắm trung tính; nắm trung tính giảm tải nhị đầu, nhấn cơ cánh tay (brachialis) và cánh tay quay nhiều hơn."
+    }
+  },
+  "exceptions": {}
+}

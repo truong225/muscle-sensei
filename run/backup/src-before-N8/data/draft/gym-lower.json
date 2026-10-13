@@ -1,0 +1,2170 @@
+[
+  {
+    "id": "cable-crunch",
+    "nameVi": "Gập bụng với cáp (tư thế quỳ)",
+    "nameEn": "Cable Crunch",
+    "type": "gym",
+    "equipment": [
+      "cáp"
+    ],
+    "primary": [
+      "rectus-abdominis"
+    ],
+    "secondary": [
+      "external-oblique",
+      "internal-oblique"
+    ],
+    "difficulty": 1,
+    "order": 200,
+    "difficultyBasis": "Mức 1 – Nhập môn: free-exercise-db xếp 'beginner' (T = 2); cáp dẫn quỹ đạo, quỳ vững, tải nhỏ.",
+    "steps": [
+      "Gắn dây thừng vào ròng rọc ở vị trí cao, quỳ cách máy khoảng nửa mét, mặt hướng về phía máy.",
+      "Hai tay nắm hai đầu dây và kéo xuống sao cho bàn tay nằm cạnh hai bên đầu; hông giữ yên, thân hơi đổ về trước.",
+      "Thở ra và cuộn cột sống: siết bụng để đưa khuỷu tay về phía đùi, không ngồi sụp hông xuống gót.",
+      "Dừng một nhịp ở điểm thấp nhất, sau đó duỗi thân lên từ từ cho tới khi bụng hơi căng thì làm lần tiếp theo."
+    ],
+    "safety": [
+      "Lực phải đến từ việc cuộn cột sống, không kéo bằng tay hay gập hông.",
+      "Nếu thấy đau thắt lưng, giảm mức tạ và thu ngắn biên độ."
+    ],
+    "fedbId": "Cable_Crunch",
+    "image": null,
+    "sources": [
+      "https://www.strengthlog.com/cable-crunch/",
+      "https://github.com/yuhonas/free-exercise-db"
+    ]
+  },
+  {
+    "id": "machine-crunch",
+    "nameVi": "Gập bụng trên máy",
+    "nameEn": "Machine Crunch",
+    "type": "gym",
+    "equipment": [
+      "máy"
+    ],
+    "primary": [
+      "rectus-abdominis"
+    ],
+    "secondary": [
+      "external-oblique",
+      "internal-oblique"
+    ],
+    "difficulty": 2,
+    "order": 100,
+    "difficultyBasis": "Mức 2 – Cơ bản: free-exercise-db xếp 'intermediate', hạ 1 vì là bài cô lập trên máy.",
+    "steps": [
+      "Chỉnh độ cao ghế để tay cầm (hoặc đệm ngực) nằm ngang ngực, chọn mức tạ nhẹ.",
+      "Ngồi tựa lưng, móc chân dưới đệm chân nếu máy có, nắm tay cầm.",
+      "Thở ra, siết bụng để cuộn thân về phía trước, kéo xương sườn xuống gần xương chậu.",
+      "Giữ một nhịp rồi trả thân về chậm, không để khối tạ chạm nhau."
+    ],
+    "safety": [
+      "Không giật bằng tay hoặc đẩy bằng chân; giữ cổ thẳng theo thân.",
+      "Tăng tạ dần, ưu tiên cảm nhận cơ bụng co hơn là số ký."
+    ],
+    "fedbId": "Ab_Crunch_Machine",
+    "image": null,
+    "sources": [
+      "https://www.strengthlog.com/machine-crunch/",
+      "https://github.com/yuhonas/free-exercise-db"
+    ]
+  },
+  {
+    "id": "dumbbell-dead-bug",
+    "nameVi": "Dead bug cầm tạ đơn",
+    "nameEn": "Dumbbell Dead Bug",
+    "type": "gym",
+    "equipment": [
+      "tạ đơn"
+    ],
+    "primary": [
+      "transversus-abdominis",
+      "rectus-abdominis"
+    ],
+    "secondary": [
+      "external-oblique",
+      "internal-oblique",
+      "iliacus",
+      "psoas-major"
+    ],
+    "difficulty": 1,
+    "order": 1200,
+    "difficultyBasis": "Mức 1 – Nhập môn: suy theo tiêu chí (T = 2); nằm ngửa có sàn đỡ, tạ nhẹ, chủ yếu cần phối hợp tay chân.",
+    "steps": [
+      "Nằm ngửa, mỗi tay cầm một tạ đơn nhẹ đưa thẳng lên phía trên vai; nâng hai chân lên sao cho hông và gối đều gập khoảng 90°.",
+      "Ép nhẹ lưng dưới xuống sàn và siết bụng như đang gồng chuẩn bị đỡ một cú đẩy nhẹ vào bụng.",
+      "Từ từ đưa một tay ra sau đầu, đồng thời duỗi chân bên đối diện xuống gần sàn; lưng dưới vẫn áp sàn.",
+      "Đưa tay và chân về vị trí đầu rồi đổi bên; thở đều, không nín thở."
+    ],
+    "safety": [
+      "Khi lưng dưới bắt đầu cong khỏi sàn, thu ngắn biên độ hoặc bỏ bớt tạ.",
+      "Dùng tạ nhẹ và giữ tay thẳng trên vai để tạ không rơi vào mặt."
+    ],
+    "fedbId": null,
+    "image": null,
+    "sources": [
+      "https://www.strengthlog.com/dead-bugs-with-dumbbells/",
+      "https://doaj.org/article/e2daa417ef2d486e80e4a1e23b109965"
+    ]
+  },
+  {
+    "id": "weighted-plank",
+    "nameVi": "Plank đặt tạ đĩa trên lưng",
+    "nameEn": "Weighted Plank",
+    "type": "gym",
+    "equipment": [
+      "tạ đĩa"
+    ],
+    "primary": [
+      "transversus-abdominis",
+      "rectus-abdominis"
+    ],
+    "secondary": [
+      "external-oblique",
+      "internal-oblique",
+      "gluteus-maximus"
+    ],
+    "difficulty": 2,
+    "order": 1412,
+    "difficultyBasis": "Mức 2 – Cơ bản: suy theo tiêu chí (T = 4); giữ thân cứng như tấm ván, cần vững plank không tạ trước.",
+    "steps": [
+      "Nằm sấp chống hai cẳng tay, nhờ người đặt một tạ đĩa lên lưng trên, khoảng giữa hai bả vai.",
+      "Nâng người lên trên cẳng tay và mũi chân để thân thẳng một đường từ đầu tới gót.",
+      "Siết bụng và mông để hông không võng xuống cũng không chổng lên; thở đều.",
+      "Giữ đủ thời gian đặt ra, hạ gối xuống sàn trước rồi mới nhờ người nhấc tạ ra."
+    ],
+    "safety": [
+      "Không đặt tạ lên vùng thắt lưng; dừng ngay khi hông bắt đầu võng.",
+      "Chỉ thêm tạ khi đã giữ plank không tạ chắc chắn khoảng 60 giây."
+    ],
+    "fedbId": null,
+    "image": null,
+    "sources": [
+      "https://www.strengthlog.com/weighted-plank/",
+      "https://www.physio-pedia.com/Transversus_Abdominis"
+    ]
+  },
+  {
+    "id": "ab-wheel-rollout",
+    "nameVi": "Lăn bánh xe bụng (quỳ gối)",
+    "nameEn": "Kneeling Ab Wheel Rollout",
+    "type": "gym",
+    "equipment": [
+      "con lăn bụng"
+    ],
+    "primary": [
+      "rectus-abdominis"
+    ],
+    "secondary": [
+      "external-oblique",
+      "internal-oblique",
+      "transversus-abdominis",
+      "latissimus-dorsi"
+    ],
+    "difficulty": 3,
+    "order": 1912,
+    "difficultyBasis": "Mức 3 – Trung cấp: free-exercise-db xếp 'intermediate'; tay đòn dài, phải giữ lưng không võng khi lăn xa.",
+    "steps": [
+      "Quỳ trên tấm đệm, hai tay nắm tay cầm con lăn đặt trên sàn ngay dưới vai.",
+      "Siết bụng, hơi cuộn khung chậu ra sau để lưng dưới không võng.",
+      "Lăn con lăn ra trước, để hông và vai duỗi dần theo; chỉ đi xa tới mức lưng vẫn giữ được thẳng.",
+      "Dùng lực bụng kéo con lăn về lại dưới vai, giữ nhịp chậm và đều."
+    ],
+    "safety": [
+      "Mới tập thì lăn hướng vào tường để tường chặn biên độ.",
+      "Dừng nếu thấy đau thắt lưng hoặc vai; không để hông chùng xuống ở điểm xa nhất."
+    ],
+    "fedbId": "Ab_Roller",
+    "image": null,
+    "sources": [
+      "https://www.strengthlog.com/kneeling-ab-wheel-roll-out/",
+      "https://www.stmarys.ac.uk/document-library/pdfs/emg-of-trunk-exercises-and-implications.pdf",
+      "https://github.com/yuhonas/free-exercise-db"
+    ]
+  },
+  {
+    "id": "pallof-press",
+    "nameVi": "Pallof press (đẩy cáp chống xoay)",
+    "nameEn": "Pallof Press",
+    "type": "gym",
+    "equipment": [
+      "cáp",
+      "dây kháng lực"
+    ],
+    "primary": [
+      "transversus-abdominis",
+      "external-oblique",
+      "internal-oblique"
+    ],
+    "secondary": [
+      "rectus-abdominis",
+      "gluteus-medius"
+    ],
+    "difficulty": 1,
+    "order": 101,
+    "difficultyBasis": "Mức 1 – Nhập môn: free-exercise-db xếp 'beginner' (T = 1); đứng hai chân, tải nhẹ, chỉ cần giữ thân không xoay.",
+    "steps": [
+      "Đặt ròng rọc (hoặc điểm neo dây) ngang ngực, đứng nghiêng một bên so với máy, hai chân rộng bằng vai, bước ra cho dây căng.",
+      "Hai tay cùng nắm tay cầm và áp sát giữa ngực, gối hơi chùng, siết bụng và mông.",
+      "Đẩy hai tay thẳng ra trước ngực; không để thân bị kéo xoay về phía máy.",
+      "Giữ 1–2 giây rồi thu tay về ngực; làm đủ số lần rồi quay sang bên kia."
+    ],
+    "safety": [
+      "Nếu vai hoặc hông bị kéo lệch về phía máy, mức tạ đang quá nặng.",
+      "Thở đều trong lúc giữ, không nín thở lâu."
+    ],
+    "fedbId": "Pallof_Press",
+    "image": null,
+    "sources": [
+      "https://www.strengthlog.com/pallof-press/",
+      "https://www.sussex.ac.uk/sport/documents/anti-rotations-pallof-press.pdf",
+      "https://github.com/yuhonas/free-exercise-db"
+    ]
+  },
+  {
+    "id": "dumbbell-side-bend",
+    "nameVi": "Nghiêng người với tạ đơn",
+    "nameEn": "Dumbbell Side Bend",
+    "type": "gym",
+    "equipment": [
+      "tạ đơn"
+    ],
+    "primary": [
+      "external-oblique",
+      "internal-oblique"
+    ],
+    "secondary": [
+      "erector-spinae"
+    ],
+    "difficulty": 1,
+    "order": 201,
+    "difficultyBasis": "Mức 1 – Nhập môn: free-exercise-db xếp 'beginner' (T = 2); đứng hai chân, một khớp, tạ nhẹ.",
+    "steps": [
+      "Đứng thẳng, hai chân rộng bằng vai, một tay cầm tạ đơn buông sát đùi, tay kia đặt lên hông.",
+      "Từ từ nghiêng thân sang phía cầm tạ, chỉ chuyển động sang ngang, không cúi về trước hay ngả ra sau.",
+      "Dùng cơ hông bên đối diện kéo thân thẳng trở lại, có thể nghiêng nhẹ qua bên kia.",
+      "Làm đủ số lần rồi đổi tay."
+    ],
+    "safety": [
+      "Không lắc người lấy đà; đi biên độ vừa phải, có kiểm soát.",
+      "Người từng thoát vị đĩa đệm nên hỏi chuyên gia trước khi tập động tác nghiêng có tải."
+    ],
+    "fedbId": "Dumbbell_Side_Bend",
+    "image": null,
+    "sources": [
+      "https://www.strengthlog.com/dumbbell-side-bend/",
+      "https://github.com/yuhonas/free-exercise-db"
+    ]
+  },
+  {
+    "id": "cable-wood-chop",
+    "nameVi": "Chặt gỗ với cáp (từ cao xuống thấp)",
+    "nameEn": "Cable Wood Chop (High to Low)",
+    "type": "gym",
+    "equipment": [
+      "cáp"
+    ],
+    "primary": [
+      "external-oblique",
+      "internal-oblique"
+    ],
+    "secondary": [
+      "rectus-abdominis",
+      "transversus-abdominis",
+      "deltoid"
+    ],
+    "difficulty": 2,
+    "order": 401,
+    "difficultyBasis": "Mức 2 – Cơ bản: free-exercise-db xếp 'beginner' nhưng T = 4; xoay thân đa khớp, cần phối hợp hông và vai.",
+    "steps": [
+      "Đặt ròng rọc ở vị trí cao nhất, đứng nghiêng một bên so với máy, hai chân rộng hơn vai.",
+      "Hai tay nắm tay cầm ở phía trên vai gần máy, tay gần như duỗi thẳng.",
+      "Kéo tay cầm chéo qua trước thân xuống phía ngoài gối bên kia; xoay thân và xoay gót chân sau theo hướng kéo.",
+      "Trả tay về chậm theo đường cũ; làm đủ số lần rồi đổi bên."
+    ],
+    "safety": [
+      "Xoay từ hông và lồng ngực, đừng chỉ vặn thắt lưng.",
+      "Bắt đầu với tạ nhẹ, không giật cáp."
+    ],
+    "fedbId": "Standing_Cable_Wood_Chop",
+    "image": null,
+    "sources": [
+      "https://www.strengthlog.com/cable-machine-wood-chop-high-to-low/",
+      "https://github.com/yuhonas/free-exercise-db"
+    ]
+  },
+  {
+    "id": "landmine-rotation",
+    "nameVi": "Xoay thân với landmine",
+    "nameEn": "Landmine Rotation",
+    "type": "gym",
+    "equipment": [
+      "tạ đòn",
+      "giá landmine"
+    ],
+    "primary": [
+      "external-oblique",
+      "internal-oblique",
+      "rectus-abdominis"
+    ],
+    "secondary": [
+      "deltoid",
+      "transversus-abdominis",
+      "gluteus-maximus"
+    ],
+    "difficulty": 2,
+    "order": 611,
+    "difficultyBasis": "Mức 2 – Cơ bản: free-exercise-db xếp 'beginner' nhưng T = 6; xoay thân nhịp nhàng với đầu đòn ở xa.",
+    "steps": [
+      "Cắm một đầu tạ đòn vào giá landmine (hoặc góc tường có đệm), đứng đối diện, hai tay nắm đầu còn lại ngang ngực, tay duỗi.",
+      "Siết bụng, xoay thân và hông để đưa đầu đòn theo hình vòng cung xuống ngang hông một bên.",
+      "Để gót chân sau xoay theo để gối không bị vặn.",
+      "Đưa đầu đòn quay ngược qua đường giữa sang phía bên kia, giữ nhịp đều và có kiểm soát."
+    ],
+    "safety": [
+      "Không để đòn kéo người theo quán tính; bắt đầu chỉ với thanh đòn không tạ.",
+      "Giữ khuỷu gần thẳng nhưng không khóa cứng."
+    ],
+    "fedbId": "Landmine_180s",
+    "image": null,
+    "sources": [
+      "https://www.strengthlog.com/landmine-rotation/",
+      "https://github.com/yuhonas/free-exercise-db"
+    ]
+  },
+  {
+    "id": "suitcase-carry",
+    "nameVi": "Xách tạ một bên đi bộ (suitcase carry)",
+    "nameEn": "Suitcase Carry",
+    "type": "gym",
+    "equipment": [
+      "tạ đơn",
+      "tạ ấm"
+    ],
+    "primary": [
+      "external-oblique",
+      "internal-oblique"
+    ],
+    "secondary": [
+      "transversus-abdominis",
+      "erector-spinae",
+      "gluteus-medius",
+      "trapezius",
+      "finger-flexors"
+    ],
+    "difficulty": 2,
+    "order": 412,
+    "difficultyBasis": "Mức 2 – Cơ bản: suy theo tiêu chí (T = 4); tải lệch một bên khi đi, phải giữ thân thẳng đứng.",
+    "steps": [
+      "Gập hông với lưng thẳng để nhấc một tạ đơn hoặc tạ ấm nặng vừa bằng một tay.",
+      "Đứng thẳng, hạ vai, siết bụng; tay cầm tạ để hơi cách khỏi đùi.",
+      "Đi chậm từng bước đều, không để thân nghiêng về phía tạ hay nghiêng bù sang bên kia.",
+      "Hết quãng đường thì đặt tạ xuống bằng động tác gập hông, đổi tay và đi tiếp."
+    ],
+    "safety": [
+      "Không gù lưng khi nhấc và đặt tạ.",
+      "Nếu phải nghiêng người hoặc nhún vai mới giữ được thì tạ đang quá nặng."
+    ],
+    "fedbId": null,
+    "image": null,
+    "sources": [
+      "https://nfpt.com/suitcase-carries-how-to-do/"
+    ]
+  },
+  {
+    "id": "weighted-back-extension",
+    "nameVi": "Duỗi lưng trên ghế 45° ôm tạ đĩa",
+    "nameEn": "Weighted Back Extension",
+    "type": "gym",
+    "equipment": [
+      "ghế back extension",
+      "tạ đĩa"
+    ],
+    "primary": [
+      "erector-spinae",
+      "gluteus-maximus"
+    ],
+    "secondary": [
+      "biceps-femoris",
+      "semitendinosus",
+      "semimembranosus",
+      "multifidus"
+    ],
+    "difficulty": 1,
+    "order": 310,
+    "difficultyBasis": "Mức 1 – Nhập môn: free-exercise-db xếp 'beginner' (T = 3); đùi tựa đệm cố định, tạ đĩa nhẹ ôm trước ngực.",
+    "steps": [
+      "Chỉnh ghế để mép đệm nằm ngay dưới xương hông, móc gót vào dưới đệm chân.",
+      "Ôm một tạ đĩa nhẹ sát ngực (lần đầu nên tập không tạ).",
+      "Gập hông để hạ thân xuống chậm, lưng giữ thẳng tự nhiên.",
+      "Siết mông và cơ lưng để nâng thân lên cho tới khi thân thẳng hàng với chân, dừng một nhịp rồi hạ xuống."
+    ],
+    "safety": [
+      "Dừng khi thân thẳng hàng chân, không ưỡn quá mức ở điểm cao nhất.",
+      "Chuyển động chậm, không vung người lấy đà."
+    ],
+    "fedbId": "Hyperextensions_Back_Extensions",
+    "image": null,
+    "sources": [
+      "https://www.strengthlog.com/back-extension/",
+      "https://github.com/yuhonas/free-exercise-db"
+    ]
+  },
+  {
+    "id": "reverse-hyperextension",
+    "nameVi": "Reverse hyperextension (nâng chân sau trên máy)",
+    "nameEn": "Reverse Hyperextension",
+    "type": "gym",
+    "equipment": [
+      "máy"
+    ],
+    "primary": [
+      "gluteus-maximus",
+      "erector-spinae",
+      "biceps-femoris",
+      "semitendinosus",
+      "semimembranosus"
+    ],
+    "secondary": [
+      "adductor-magnus"
+    ],
+    "difficulty": 3,
+    "order": 1611,
+    "difficultyBasis": "Mức 3 – Trung cấp: free-exercise-db xếp 'intermediate'; chân vung có tải, cần kiểm soát thắt lưng ở cuối biên độ.",
+    "steps": [
+      "Nằm sấp trên đệm của máy sao cho hông nằm ở mép đệm, hai tay nắm tay cầm, móc cổ chân vào dây hoặc đòn tải.",
+      "Siết nhẹ bụng và để hai chân buông thẳng xuống dưới.",
+      "Dùng lực mông và lưng nâng hai chân duỗi ra sau cho tới khi chân gần ngang thân.",
+      "Hạ chân xuống chậm, không để quả lắc tạ giật chân về."
+    ],
+    "safety": [
+      "Không đá chân quá cao làm ưỡn gắt thắt lưng.",
+      "Dùng tải vừa phải và giữ nhịp có kiểm soát thay vì vung theo quán tính."
+    ],
+    "fedbId": "Reverse_Hyperextension",
+    "image": null,
+    "sources": [
+      "https://www.strengthlog.com/reverse-hyperextension/",
+      "https://github.com/yuhonas/free-exercise-db"
+    ]
+  },
+  {
+    "id": "barbell-good-morning",
+    "nameVi": "Good morning với tạ đòn",
+    "nameEn": "Barbell Good Morning",
+    "type": "gym",
+    "equipment": [
+      "tạ đòn"
+    ],
+    "primary": [
+      "biceps-femoris",
+      "semitendinosus",
+      "semimembranosus",
+      "erector-spinae",
+      "gluteus-maximus"
+    ],
+    "secondary": [
+      "adductor-magnus"
+    ],
+    "difficulty": 3,
+    "order": 1821,
+    "difficultyBasis": "Mức 3 – Trung cấp: free-exercise-db xếp 'intermediate'; tạ đòn trên lưng, phải giữ cột sống trung tính khi gập hông.",
+    "steps": [
+      "Đặt tạ đòn nhẹ lên cơ thang như khi squat, chân rộng bằng hông, gối hơi chùng.",
+      "Hít sâu, siết bụng, đẩy hông ra sau để thân đổ về trước trong khi lưng vẫn thẳng.",
+      "Hạ tới khi thân gần song song sàn, hoặc dừng sớm hơn khi đùi sau đã căng mà lưng sắp cong.",
+      "Đẩy hông về trước để trở lại tư thế đứng thẳng."
+    ],
+    "safety": [
+      "Tập với thanh đòn không tạ trước; dừng ngay nếu lưng bắt đầu cong.",
+      "Tập trong giá có thanh chặn an toàn."
+    ],
+    "fedbId": "Good_Morning",
+    "image": null,
+    "sources": [
+      "https://www.strengthlog.com/good-morning/",
+      "https://github.com/yuhonas/free-exercise-db"
+    ]
+  },
+  {
+    "id": "barbell-deadlift",
+    "nameVi": "Deadlift tạ đòn",
+    "nameEn": "Barbell Deadlift",
+    "type": "gym",
+    "equipment": [
+      "tạ đòn"
+    ],
+    "primary": [
+      "gluteus-maximus",
+      "erector-spinae"
+    ],
+    "secondary": [
+      "quadriceps",
+      "biceps-femoris",
+      "semitendinosus",
+      "semimembranosus",
+      "adductor-magnus",
+      "trapezius",
+      "finger-flexors"
+    ],
+    "difficulty": 3,
+    "order": 1821,
+    "difficultyBasis": "Mức 3 – Trung cấp: free-exercise-db xếp 'intermediate'; kéo tạ nặng từ sàn, sai tư thế lưng dễ chấn thương.",
+    "steps": [
+      "Đứng chân rộng bằng hông, thanh đòn nằm ngay trên giữa bàn chân.",
+      "Gập hông và gối để nắm thanh ngay bên ngoài cẳng chân; lưng thẳng, vai ở ngay trên hoặc hơi trước thanh.",
+      "Hít sâu, siết bụng, đạp sàn và đẩy hông về trước để kéo thanh sát theo chân cho tới khi đứng thẳng.",
+      "Hạ thanh theo đường cũ: đẩy hông ra sau trước, khi thanh qua gối mới gập gối."
+    ],
+    "safety": [
+      "Giữ thanh luôn sát người và không giật thanh khỏi sàn.",
+      "Không ngả người ra sau ở điểm cao nhất; đứng thẳng là đủ."
+    ],
+    "fedbId": "Barbell_Deadlift",
+    "image": null,
+    "sources": [
+      "https://www.strengthlog.com/deadlift/",
+      "https://github.com/yuhonas/free-exercise-db"
+    ]
+  },
+  {
+    "id": "sumo-deadlift",
+    "nameVi": "Deadlift kiểu sumo",
+    "nameEn": "Sumo Deadlift",
+    "type": "gym",
+    "equipment": [
+      "tạ đòn"
+    ],
+    "primary": [
+      "gluteus-maximus",
+      "erector-spinae"
+    ],
+    "secondary": [
+      "quadriceps",
+      "adductor-magnus",
+      "adductor-longus",
+      "biceps-femoris",
+      "semitendinosus",
+      "semimembranosus",
+      "trapezius",
+      "finger-flexors"
+    ],
+    "difficulty": 3,
+    "order": 1921,
+    "difficultyBasis": "Mức 3 – Trung cấp: free-exercise-db xếp 'intermediate'; tạ nặng từ sàn, cần độ mở hông và giữ lưng thẳng.",
+    "steps": [
+      "Đứng chân rộng hơn vai rõ rệt, mũi chân xoay ra ngoài, cẳng chân gần chạm thanh đòn.",
+      "Hạ hông, nắm thanh bằng hai tay đặt giữa hai chân, cánh tay thẳng, ngực mở, lưng thẳng.",
+      "Hít sâu, siết bụng, đẩy gối ra theo hướng mũi chân và đạp sàn để đứng lên, thanh đi sát người.",
+      "Hạ thanh xuống có kiểm soát theo đường cũ, giữ lưng thẳng tới khi thanh chạm sàn."
+    ],
+    "safety": [
+      "Gối luôn hướng theo mũi chân, không đổ vào trong.",
+      "Tăng độ rộng chân dần dần theo độ linh hoạt của hông."
+    ],
+    "fedbId": "Sumo_Deadlift",
+    "image": null,
+    "sources": [
+      "https://www.strengthlog.com/sumo-deadlift/",
+      "https://github.com/yuhonas/free-exercise-db"
+    ]
+  },
+  {
+    "id": "machine-glute-kickback",
+    "nameVi": "Đá chân ra sau trên máy",
+    "nameEn": "Machine Glute Kickback",
+    "type": "gym",
+    "equipment": [
+      "máy"
+    ],
+    "primary": [
+      "gluteus-maximus"
+    ],
+    "secondary": [
+      "biceps-femoris",
+      "semitendinosus",
+      "semimembranosus",
+      "adductor-magnus"
+    ],
+    "difficulty": 1,
+    "order": 100,
+    "difficultyBasis": "Mức 1 – Nhập môn: suy theo tiêu chí (T = 1); máy dẫn quỹ đạo, thân tựa đệm.",
+    "steps": [
+      "Chỉnh máy để đệm đẩy nằm sau khoeo hoặc bắp chân của chân tập.",
+      "Tựa ngực hoặc tay vào khung máy, siết bụng.",
+      "Dùng lực mông đẩy chân ra sau và lên cho tới khi hông duỗi hết, lưng không ưỡn.",
+      "Hạ chân về chậm; làm hết số lần rồi đổi chân."
+    ],
+    "safety": [
+      "Dừng ở vị trí hông duỗi hết; đừng ưỡn thắt lưng để đá cao hơn."
+    ],
+    "fedbId": null,
+    "image": null,
+    "sources": [
+      "https://www.strengthlog.com/machine-glute-kickbacks/"
+    ]
+  },
+  {
+    "id": "cable-pull-through",
+    "nameVi": "Kéo cáp qua háng (pull-through)",
+    "nameEn": "Cable Pull-Through",
+    "type": "gym",
+    "equipment": [
+      "cáp"
+    ],
+    "primary": [
+      "gluteus-maximus"
+    ],
+    "secondary": [
+      "biceps-femoris",
+      "semitendinosus",
+      "semimembranosus",
+      "erector-spinae",
+      "adductor-magnus"
+    ],
+    "difficulty": 1,
+    "order": 301,
+    "difficultyBasis": "Mức 1 – Nhập môn: free-exercise-db xếp 'beginner' (T = 3); cáp nhẹ, giúp học động tác gập hông an toàn.",
+    "steps": [
+      "Gắn dây thừng vào ròng rọc thấp, quay lưng về máy, đứng giạng chân và nắm dây giữa hai chân.",
+      "Bước lên vài bước cho dây căng, chân rộng hơn vai, gối hơi chùng.",
+      "Đẩy hông ra sau để tay đi theo dây vào giữa hai đùi, lưng giữ thẳng.",
+      "Siết mông đẩy hông về trước để đứng thẳng; tay chỉ giữ dây, không kéo."
+    ],
+    "safety": [
+      "Không kéo bằng tay và không ưỡn lưng ở điểm cao nhất.",
+      "Giữ lưng thẳng trong suốt động tác gập hông."
+    ],
+    "fedbId": "Pull_Through",
+    "image": null,
+    "sources": [
+      "https://www.strengthlog.com/cable-pull-through/",
+      "https://github.com/yuhonas/free-exercise-db"
+    ]
+  },
+  {
+    "id": "cable-glute-kickback",
+    "nameVi": "Đá chân ra sau với cáp",
+    "nameEn": "Cable Glute Kickback",
+    "type": "gym",
+    "equipment": [
+      "cáp"
+    ],
+    "primary": [
+      "gluteus-maximus"
+    ],
+    "secondary": [
+      "biceps-femoris",
+      "semitendinosus",
+      "semimembranosus"
+    ],
+    "difficulty": 2,
+    "order": 201,
+    "difficultyBasis": "Mức 2 – Cơ bản: free-exercise-db xếp 'intermediate', hạ 1 vì là bài cô lập trên cáp.",
+    "steps": [
+      "Đeo quai vào cổ chân, gắn vào ròng rọc thấp, đứng đối diện máy, tay vịn khung.",
+      "Hơi gập hông về trước, siết bụng, chân trụ gối hơi chùng.",
+      "Dùng lực mông đẩy chân đeo cáp ra sau, gối gần thẳng, tới khi hông duỗi hết.",
+      "Trả chân về chậm; làm đủ số lần rồi đổi bên."
+    ],
+    "safety": [
+      "Không xoay hông hay ưỡn lưng để đá cao hơn.",
+      "Chọn tạ nhẹ đủ để giữ thân đứng yên."
+    ],
+    "fedbId": "One-Legged_Cable_Kickback",
+    "image": null,
+    "sources": [
+      "https://www.strengthlog.com/cable-glute-kickback/",
+      "https://github.com/yuhonas/free-exercise-db"
+    ]
+  },
+  {
+    "id": "barbell-hip-thrust",
+    "nameVi": "Hip thrust với tạ đòn",
+    "nameEn": "Barbell Hip Thrust",
+    "type": "gym",
+    "equipment": [
+      "tạ đòn",
+      "ghế"
+    ],
+    "primary": [
+      "gluteus-maximus"
+    ],
+    "secondary": [
+      "biceps-femoris",
+      "semitendinosus",
+      "semimembranosus",
+      "quadriceps",
+      "adductor-magnus"
+    ],
+    "difficulty": 3,
+    "order": 1620,
+    "difficultyBasis": "Mức 3 – Trung cấp: free-exercise-db xếp 'intermediate'; tạ đòn nặng đặt trên hông, cần căn chỉnh vị trí ghế và chân.",
+    "steps": [
+      "Ngồi trên sàn, tựa lưng trên (ngay dưới bả vai) vào cạnh ghế, lăn tạ đòn có đệm vào nếp hông.",
+      "Đặt bàn chân rộng bằng hông, ở vị trí sao cho khi lên tới đỉnh thì cẳng chân gần thẳng đứng.",
+      "Siết bụng, đạp gót xuống sàn để nâng hông lên tới khi thân và đùi thành một đường thẳng, siết mông.",
+      "Hạ hông chậm xuống gần sàn rồi lặp lại."
+    ],
+    "safety": [
+      "Dùng đệm bọc thanh đòn để không đau xương chậu.",
+      "Ở điểm cao nhất, hơi thu cằm và giữ xương sườn hạ để không ưỡn thắt lưng."
+    ],
+    "fedbId": "Barbell_Hip_Thrust",
+    "image": null,
+    "sources": [
+      "https://www.strengthlog.com/hip-thrust/",
+      "https://github.com/yuhonas/free-exercise-db"
+    ]
+  },
+  {
+    "id": "kettlebell-swing",
+    "nameVi": "Swing tạ ấm",
+    "nameEn": "Kettlebell Swing",
+    "type": "gym",
+    "equipment": [
+      "tạ ấm"
+    ],
+    "primary": [
+      "gluteus-maximus",
+      "erector-spinae"
+    ],
+    "secondary": [
+      "biceps-femoris",
+      "semitendinosus",
+      "semimembranosus",
+      "adductor-magnus",
+      "trapezius",
+      "finger-flexors"
+    ],
+    "difficulty": 3,
+    "order": 1601,
+    "difficultyBasis": "Mức 3 – Trung cấp: suy theo tiêu chí (T = 6); gập hông bùng nổ, cần làm vững động tác gập hông trước.",
+    "steps": [
+      "Đặt tạ ấm trước mặt khoảng một bước, đứng chân rộng hơn vai.",
+      "Gập hông, lưng thẳng, hai tay nắm quai và kéo tạ ra sau vào giữa hai đùi.",
+      "Đẩy mạnh hông về trước và siết mông để tạ bay lên tới khoảng ngang ngực; tay chỉ dẫn hướng, không nâng tạ bằng vai.",
+      "Khi tạ rơi xuống, để nó đi vào giữa hai đùi và gập hông theo, rồi lặp lại; kết thúc bằng cách đặt tạ xuống trước mặt."
+    ],
+    "safety": [
+      "Đây là động tác gập hông, không phải squat; lưng không được cong.",
+      "Tập ở khoảng trống, không có ai đứng phía trước."
+    ],
+    "fedbId": null,
+    "image": null,
+    "sources": [
+      "https://www.strengthlog.com/kettlebell-swing/"
+    ]
+  },
+  {
+    "id": "hip-abduction-machine",
+    "nameVi": "Dạng hông trên máy",
+    "nameEn": "Hip Abduction Machine",
+    "type": "gym",
+    "equipment": [
+      "máy"
+    ],
+    "primary": [
+      "gluteus-medius",
+      "gluteus-minimus"
+    ],
+    "secondary": [
+      "gluteus-maximus"
+    ],
+    "difficulty": 1,
+    "order": 0,
+    "difficultyBasis": "Mức 1 – Nhập môn: free-exercise-db xếp 'beginner' (T = 0); máy dẫn quỹ đạo, ngồi tựa lưng.",
+    "steps": [
+      "Ngồi tựa lưng vào máy, đặt mặt ngoài gối áp vào đệm, chọn vị trí bắt đầu thoải mái.",
+      "Nắm tay cầm, siết nhẹ bụng.",
+      "Đẩy hai gối ra xa nhau hết mức có thể.",
+      "Thả về chậm, không để khối tạ đập vào nhau."
+    ],
+    "safety": [
+      "Không bật nảy ở cuối biên độ.",
+      "Giữ lưng tựa ghế, không đẩy bằng cách đung đưa thân."
+    ],
+    "fedbId": "Thigh_Abductor",
+    "image": null,
+    "sources": [
+      "https://www.strengthlog.com/hip-abduction-machine/",
+      "https://www.physio-pedia.com/Gluteus_Minimus",
+      "https://github.com/yuhonas/free-exercise-db"
+    ]
+  },
+  {
+    "id": "cable-hip-abduction",
+    "nameVi": "Dạng hông với cáp (tư thế đứng)",
+    "nameEn": "Cable Hip Abduction",
+    "type": "gym",
+    "equipment": [
+      "cáp"
+    ],
+    "primary": [
+      "gluteus-medius",
+      "gluteus-minimus"
+    ],
+    "secondary": [
+      "gluteus-maximus"
+    ],
+    "difficulty": 1,
+    "order": 101,
+    "difficultyBasis": "Mức 1 – Nhập môn: suy theo tiêu chí (T = 1); cáp dẫn lực, tay vịn khung, tải nhỏ.",
+    "steps": [
+      "Đeo quai vào cổ chân xa máy, gắn vào ròng rọc thấp, đứng nghiêng, tay gần máy vịn khung.",
+      "Đứng thẳng trên chân trụ, siết bụng.",
+      "Đưa chân đeo cáp ra ngang, mũi chân hướng về trước, thân không nghiêng theo.",
+      "Hạ chân về chậm; làm đủ số lần rồi đổi bên."
+    ],
+    "safety": [
+      "Biên độ khoảng 30–45° là đủ; nghiêng thân để nâng chân cao hơn chỉ chuyển tải khỏi cơ mông."
+    ],
+    "fedbId": null,
+    "image": null,
+    "sources": [
+      "https://www.strengthlog.com/cable-machine-hip-abduction/",
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC4595911/",
+      "https://www.physio-pedia.com/Gluteus_Minimus"
+    ]
+  },
+  {
+    "id": "lateral-band-walk",
+    "nameVi": "Bước ngang với dây kháng lực",
+    "nameEn": "Lateral Band Walk",
+    "type": "gym",
+    "equipment": [
+      "dây kháng lực"
+    ],
+    "primary": [
+      "gluteus-medius",
+      "gluteus-minimus"
+    ],
+    "secondary": [
+      "gluteus-maximus"
+    ],
+    "difficulty": 1,
+    "order": 201,
+    "difficultyBasis": "Mức 1 – Nhập môn: suy theo tiêu chí (T = 2); đứng hai chân, dây nhẹ, động tác đơn giản.",
+    "steps": [
+      "Quàng dây mini quanh cổ chân (quàng trên gối sẽ nhẹ hơn).",
+      "Đứng chân rộng bằng hông, khuỵu nhẹ gối và hông như nửa squat.",
+      "Bước ngang một bước vừa phải, giữ dây luôn căng, rồi kéo chân kia theo nhưng không để hai bàn chân chạm nhau.",
+      "Đi đủ số bước rồi đổi chiều."
+    ],
+    "safety": [
+      "Giữ thân và mũi chân hướng thẳng, không lắc người.",
+      "Không để gối đổ vào trong khi bước."
+    ],
+    "fedbId": null,
+    "image": null,
+    "sources": [
+      "https://www.strengthlog.com/lateral-walk-with-band/",
+      "https://www.physio-pedia.com/Gluteus_Minimus"
+    ]
+  },
+  {
+    "id": "banded-clamshell",
+    "nameVi": "Clamshell với dây kháng lực",
+    "nameEn": "Banded Clamshell",
+    "type": "gym",
+    "equipment": [
+      "dây kháng lực"
+    ],
+    "primary": [
+      "gluteus-medius"
+    ],
+    "secondary": [
+      "gluteus-minimus",
+      "piriformis",
+      "obturator-internus"
+    ],
+    "difficulty": 1,
+    "order": 0,
+    "difficultyBasis": "Mức 1 – Nhập môn: suy theo tiêu chí (T = 0); nằm nghiêng có sàn đỡ, biên độ ngắn, tải nhỏ.",
+    "steps": [
+      "Nằm nghiêng, quàng dây mini ngay trên gối; hông và gối gập khoảng 45–60°, hai gót chạm nhau.",
+      "Gối đầu lên tay dưới, tay trên đặt lên hông để giữ xương chậu không lăn ra sau.",
+      "Giữ hai gót chạm nhau, mở gối trên lên cao nhất có thể mà xương chậu không xoay.",
+      "Hạ gối xuống chậm; làm đủ số lần rồi đổi bên."
+    ],
+    "safety": [
+      "Nếu xương chậu lăn theo mỗi lần mở gối thì dây đang quá nặng."
+    ],
+    "fedbId": null,
+    "image": null,
+    "sources": [
+      "https://www.strengthlog.com/clamshells/",
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC4595911/",
+      "https://www.physio-pedia.com/Gluteus_Medius"
+    ]
+  },
+  {
+    "id": "side-lying-hip-abduction-ankle-weight",
+    "nameVi": "Dạng hông nằm nghiêng đeo tạ cổ chân",
+    "nameEn": "Side-Lying Hip Abduction with Ankle Weight",
+    "type": "gym",
+    "equipment": [
+      "tạ cổ chân"
+    ],
+    "primary": [
+      "gluteus-medius",
+      "gluteus-minimus"
+    ],
+    "secondary": [
+      "gluteus-maximus"
+    ],
+    "difficulty": 1,
+    "order": 101,
+    "difficultyBasis": "Mức 1 – Nhập môn: suy theo tiêu chí (T = 1); nằm nghiêng có sàn đỡ, tạ cổ chân nhẹ.",
+    "steps": [
+      "Nằm nghiêng, đeo tạ cổ chân vào chân trên; chân dưới hơi co để giữ thăng bằng.",
+      "Duỗi thẳng chân trên, đưa nó hơi lùi ra sau so với thân, mũi chân hướng ngang hoặc hơi chúc xuống.",
+      "Nâng chân lên khoảng 30–40° mà hông không lăn ra sau, giữ một nhịp.",
+      "Hạ chân chậm; làm đủ số lần rồi đổi bên."
+    ],
+    "safety": [
+      "Bắt đầu với tạ nhẹ hoặc không tạ; không lăn hông để nâng chân cao hơn."
+    ],
+    "fedbId": null,
+    "image": null,
+    "sources": [
+      "https://www.physio-pedia.com/Gluteus_Medius",
+      "https://www.physio-pedia.com/Gluteus_Minimus",
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC4595911/"
+    ]
+  },
+  {
+    "id": "cable-hip-flexion",
+    "nameVi": "Gập hông với cáp (tư thế đứng)",
+    "nameEn": "Cable Hip Flexion",
+    "type": "gym",
+    "equipment": [
+      "cáp"
+    ],
+    "primary": [
+      "iliacus",
+      "psoas-major"
+    ],
+    "secondary": [
+      "quadriceps",
+      "sartorius",
+      "rectus-abdominis"
+    ],
+    "difficulty": 1,
+    "order": 101,
+    "difficultyBasis": "Mức 1 – Nhập môn: suy theo tiêu chí (T = 1); cáp dẫn lực, tay vịn khung, tải nhỏ.",
+    "steps": [
+      "Đeo quai vào cổ chân, gắn vào ròng rọc thấp, đứng quay lưng về máy, tay vịn khung.",
+      "Đứng thẳng trên chân trụ, siết bụng.",
+      "Kéo gối của chân đeo cáp lên phía trước tới ngang hông hoặc cao hơn một chút, thân không ngả ra sau.",
+      "Hạ chân xuống chậm; làm đủ số lần rồi đổi bên."
+    ],
+    "safety": [
+      "Không ưỡn lưng hoặc ngả thân để kéo chân lên cao hơn.",
+      "Bắt đầu với tạ nhẹ, tăng dần."
+    ],
+    "fedbId": null,
+    "image": null,
+    "sources": [
+      "https://ca.physitrack.com/home-exercise-video/cable-hip-flexion",
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC11546833/"
+    ]
+  },
+  {
+    "id": "ankle-weight-straight-leg-raise",
+    "nameVi": "Nâng chân thẳng nằm ngửa đeo tạ cổ chân",
+    "nameEn": "Ankle Weight Straight Leg Raise",
+    "type": "gym",
+    "equipment": [
+      "tạ cổ chân"
+    ],
+    "primary": [
+      "iliacus",
+      "psoas-major"
+    ],
+    "secondary": [
+      "quadriceps",
+      "sartorius",
+      "rectus-abdominis"
+    ],
+    "difficulty": 1,
+    "order": 310,
+    "difficultyBasis": "Mức 1 – Nhập môn: suy theo tiêu chí (T = 3); nằm ngửa có sàn đỡ, tạ cổ chân nhẹ.",
+    "steps": [
+      "Nằm ngửa, đeo tạ cổ chân vào chân tập và duỗi thẳng chân đó; chân kia co gối, bàn chân đặt trên sàn.",
+      "Siết bụng để lưng dưới áp nhẹ xuống sàn.",
+      "Giữ gối thẳng, nâng chân tập lên tới ngang đùi chân kia (khoảng 45–60°).",
+      "Hạ chân xuống chậm, gần chạm sàn thì nâng lại; làm đủ số lần rồi đổi chân."
+    ],
+    "safety": [
+      "Nếu lưng dưới cong lên khỏi sàn thì giảm tạ.",
+      "Nâng và hạ có kiểm soát, không vung chân."
+    ],
+    "fedbId": null,
+    "image": null,
+    "sources": [
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC11546833/"
+    ]
+  },
+  {
+    "id": "kettlebell-standing-hip-flexor-raise",
+    "nameVi": "Nâng gối đứng với tạ ấm móc ở bàn chân",
+    "nameEn": "Kettlebell Standing Hip Flexor Raise",
+    "type": "gym",
+    "equipment": [
+      "tạ ấm",
+      "bục"
+    ],
+    "primary": [
+      "iliacus",
+      "psoas-major"
+    ],
+    "secondary": [
+      "quadriceps",
+      "tibialis-anterior",
+      "sartorius"
+    ],
+    "difficulty": 2,
+    "order": 1411,
+    "difficultyBasis": "Mức 2 – Cơ bản: suy theo tiêu chí (T = 4); đứng một chân trên bục, tạ treo ở đầu tay đòn chân.",
+    "steps": [
+      "Đứng trên bục hoặc chồng tạ đĩa, để chân tập buông ra ngoài mép; móc quai một tạ ấm nhẹ qua mu bàn chân và kéo mũi chân lên để giữ tạ.",
+      "Tay vịn giá hoặc tường, đứng thẳng, siết bụng.",
+      "Kéo gối lên phía ngực cao nhất có thể mà thân không ngả ra sau.",
+      "Hạ chân xuống chậm; làm đủ số lần rồi đổi chân."
+    ],
+    "safety": [
+      "Bắt đầu với tạ rất nhẹ và luôn giữ mũi chân kéo lên để tạ không tuột."
+    ],
+    "fedbId": null,
+    "image": null,
+    "sources": [
+      "https://www.strengthlog.com/standing-hip-flexor-raise/"
+    ]
+  },
+  {
+    "id": "weighted-hanging-knee-raise",
+    "nameVi": "Treo xà co gối có kẹp tạ",
+    "nameEn": "Weighted Hanging Knee Raise",
+    "type": "gym",
+    "equipment": [
+      "xà đơn",
+      "tạ đơn",
+      "tạ cổ chân"
+    ],
+    "primary": [
+      "iliacus",
+      "psoas-major",
+      "rectus-abdominis"
+    ],
+    "secondary": [
+      "external-oblique",
+      "internal-oblique",
+      "latissimus-dorsi",
+      "finger-flexors"
+    ],
+    "difficulty": 4,
+    "order": 2812,
+    "difficultyBasis": "Mức 4 – Nâng cao: suy theo tiêu chí (T = 8); treo toàn thân, phải làm sạch bản không tạ trước khi thêm tạ.",
+    "steps": [
+      "Kẹp một tạ đơn nhẹ giữa hai bàn chân (hoặc đeo tạ cổ chân), nắm xà rộng hơn vai và treo người thẳng.",
+      "Siết bụng, hơi cuộn khung chậu ra sau để thân không đung đưa.",
+      "Co gối kéo đùi lên tới ngang hông hoặc cao hơn, dừng một nhịp.",
+      "Hạ chân xuống chậm về tư thế treo, không vung."
+    ],
+    "safety": [
+      "Chỉ thêm tạ khi đã làm sạch 3×10 không tạ.",
+      "Nhờ người đưa và lấy tạ, hoặc dùng ghế kê chân, để tạ không rơi khi lên xuống xà."
+    ],
+    "fedbId": null,
+    "image": null,
+    "sources": [
+      "https://www.motra.com/exercises/weightedHangingKneeRaise",
+      "https://www.strengthlog.com/hanging-knee-raise/"
+    ]
+  },
+  {
+    "id": "hip-adduction-machine",
+    "nameVi": "Khép hông trên máy",
+    "nameEn": "Hip Adduction Machine",
+    "type": "gym",
+    "equipment": [
+      "máy"
+    ],
+    "primary": [
+      "adductor-longus",
+      "adductor-brevis",
+      "adductor-magnus",
+      "gracilis"
+    ],
+    "secondary": [],
+    "difficulty": 1,
+    "order": 0,
+    "difficultyBasis": "Mức 1 – Nhập môn: free-exercise-db xếp 'beginner' (T = 0); máy dẫn quỹ đạo, ngồi tựa lưng.",
+    "steps": [
+      "Ngồi tựa lưng, đặt mặt trong gối hoặc đùi áp vào đệm, chọn độ mở ban đầu vừa phải.",
+      "Nắm tay cầm, siết nhẹ bụng.",
+      "Ép hai đùi lại với nhau cho tới khi hai đệm gần chạm.",
+      "Mở chân ra chậm về vị trí đầu."
+    ],
+    "safety": [
+      "Bắt đầu với độ mở nhỏ để tránh căng háng đột ngột; không bật nảy ở điểm mở rộng nhất."
+    ],
+    "fedbId": "Thigh_Adductor",
+    "image": null,
+    "sources": [
+      "https://www.strengthlog.com/hip-adduction-machine/",
+      "https://www.physio-pedia.com/Gracilis",
+      "https://github.com/yuhonas/free-exercise-db"
+    ]
+  },
+  {
+    "id": "cable-hip-adduction",
+    "nameVi": "Khép hông với cáp (tư thế đứng)",
+    "nameEn": "Cable Hip Adduction",
+    "type": "gym",
+    "equipment": [
+      "cáp"
+    ],
+    "primary": [
+      "adductor-longus",
+      "adductor-brevis",
+      "adductor-magnus",
+      "gracilis"
+    ],
+    "secondary": [],
+    "difficulty": 1,
+    "order": 101,
+    "difficultyBasis": "Mức 1 – Nhập môn: free-exercise-db xếp 'beginner' (T = 1); cáp dẫn lực, tay vịn khung.",
+    "steps": [
+      "Đeo quai vào cổ chân gần máy, gắn vào ròng rọc thấp, đứng nghiêng và tay vịn khung.",
+      "Bước ra xa để dây căng; chân tập được kéo hơi dạng về phía máy.",
+      "Kéo chân tập vào trong, qua trước chân trụ một chút, thân giữ thẳng.",
+      "Trả chân về chậm; làm đủ số lần rồi đổi bên."
+    ],
+    "safety": [
+      "Không xoay hông hoặc nghiêng thân để kéo chân.",
+      "Chọn tạ nhẹ, đặc biệt nếu từng bị căng cơ háng."
+    ],
+    "fedbId": "Cable_Hip_Adduction",
+    "image": null,
+    "sources": [
+      "https://www.strengthlog.com/cable-machine-hip-adduction/",
+      "https://www.physio-pedia.com/Gracilis",
+      "https://github.com/yuhonas/free-exercise-db"
+    ]
+  },
+  {
+    "id": "band-hip-adduction",
+    "nameVi": "Khép hông với dây kháng lực",
+    "nameEn": "Band Hip Adduction",
+    "type": "gym",
+    "equipment": [
+      "dây kháng lực"
+    ],
+    "primary": [
+      "adductor-longus",
+      "adductor-brevis",
+      "adductor-magnus",
+      "gracilis"
+    ],
+    "secondary": [],
+    "difficulty": 1,
+    "order": 101,
+    "difficultyBasis": "Mức 1 – Nhập môn: free-exercise-db xếp 'beginner' (T = 1); dây nhẹ, đứng có điểm vịn.",
+    "steps": [
+      "Buộc dây kháng lực vào cột hoặc giá ở vị trí thấp, đứng nghiêng và quàng dây vào cổ chân gần điểm neo.",
+      "Siết bụng và mông; chân không quàng dây hơi chùng gối, tay có thể vịn để giữ thăng bằng.",
+      "Kéo chân quàng dây vào trong, qua trước chân trụ, thân trên đứng yên.",
+      "Trả chân về chậm; làm đủ số lần rồi đổi bên."
+    ],
+    "safety": [
+      "Kiểm tra nút buộc dây chắc chắn trước khi tập.",
+      "Giữ chuyển động chậm để dây không bật chân về."
+    ],
+    "fedbId": "Band_Hip_Adductions",
+    "image": null,
+    "sources": [
+      "https://www.strengthlog.com/hip-adduction-against-band/",
+      "https://www.physio-pedia.com/Gracilis",
+      "https://github.com/yuhonas/free-exercise-db"
+    ]
+  },
+  {
+    "id": "barbell-sumo-squat",
+    "nameVi": "Squat chân rộng (sumo) với tạ đòn",
+    "nameEn": "Barbell Sumo Squat",
+    "type": "gym",
+    "equipment": [
+      "tạ đòn"
+    ],
+    "primary": [
+      "quadriceps",
+      "gluteus-maximus",
+      "adductor-longus",
+      "adductor-magnus"
+    ],
+    "secondary": [
+      "adductor-brevis",
+      "gracilis",
+      "erector-spinae",
+      "soleus"
+    ],
+    "difficulty": 3,
+    "order": 1921,
+    "difficultyBasis": "Mức 3 – Trung cấp: free-exercise-db xếp 'intermediate'; tạ đòn trên lưng, cần độ mở hông và giữ gối theo mũi chân.",
+    "steps": [
+      "Đặt tạ đòn lên cơ thang trong giá squat, đứng chân rộng hơn vai rõ rệt, mũi chân xoay ra ngoài khoảng 30–45°.",
+      "Hít sâu, siết bụng, hạ người thẳng xuống giữa hai chân, đẩy gối ra theo hướng mũi chân.",
+      "Xuống tới khi đùi khoảng ngang sàn hoặc sâu nhất có thể mà lưng vẫn thẳng và gót không nhấc.",
+      "Đạp cả bàn chân để đứng lên, giữ ngực mở."
+    ],
+    "safety": [
+      "Gối luôn hướng theo mũi chân; đặt thanh chặn an toàn của giá ở độ cao phù hợp."
+    ],
+    "fedbId": "Wide_Stance_Barbell_Squat",
+    "image": null,
+    "sources": [
+      "https://www.strengthlog.com/sumo-squat/",
+      "https://github.com/yuhonas/free-exercise-db"
+    ]
+  },
+  {
+    "id": "leg-extension",
+    "nameVi": "Đá đùi trên máy",
+    "nameEn": "Leg Extension",
+    "type": "gym",
+    "equipment": [
+      "máy"
+    ],
+    "primary": [
+      "quadriceps"
+    ],
+    "secondary": [],
+    "difficulty": 1,
+    "order": 100,
+    "difficultyBasis": "Mức 1 – Nhập môn: free-exercise-db xếp 'beginner' (T = 1); máy dẫn quỹ đạo, ngồi tựa lưng.",
+    "steps": [
+      "Chỉnh ghế để trục quay của máy thẳng hàng với khớp gối, đệm chân nằm ở phía trước cổ chân.",
+      "Ngồi tựa lưng sát ghế, nắm tay cầm hai bên.",
+      "Duỗi gối nâng đệm lên tới khi chân gần thẳng, không khóa gối mạnh.",
+      "Hạ xuống chậm có kiểm soát."
+    ],
+    "safety": [
+      "Không đá giật; nếu đau trước gối thì giảm tạ hoặc thu hẹp biên độ."
+    ],
+    "fedbId": "Leg_Extensions",
+    "image": null,
+    "sources": [
+      "https://www.strengthlog.com/leg-extension/",
+      "https://github.com/yuhonas/free-exercise-db"
+    ]
+  },
+  {
+    "id": "leg-press",
+    "nameVi": "Đạp đùi trên máy (leg press)",
+    "nameEn": "Leg Press",
+    "type": "gym",
+    "equipment": [
+      "máy"
+    ],
+    "primary": [
+      "quadriceps",
+      "gluteus-maximus"
+    ],
+    "secondary": [
+      "adductor-magnus",
+      "biceps-femoris",
+      "semitendinosus",
+      "semimembranosus"
+    ],
+    "difficulty": 1,
+    "order": 310,
+    "difficultyBasis": "Mức 1 – Nhập môn: free-exercise-db xếp 'beginner' (T = 3); máy dẫn quỹ đạo, lưng tựa đệm.",
+    "steps": [
+      "Ngồi vào máy, lưng và mông áp sát đệm, đặt hai bàn chân rộng bằng vai giữa bàn đạp.",
+      "Đẩy bàn đạp lên và mở chốt an toàn.",
+      "Hạ bàn đạp xuống chậm bằng cách gập gối và hông, sâu tới mức mông chưa bị nhấc khỏi đệm.",
+      "Đạp bàn đạp lên lại, dừng trước khi gối khóa thẳng hoàn toàn."
+    ],
+    "safety": [
+      "Không để mông và thắt lưng cuộn khỏi đệm ở điểm thấp nhất.",
+      "Không khóa gối ở điểm cao nhất; khóa chốt an toàn khi kết thúc."
+    ],
+    "fedbId": "Leg_Press",
+    "image": null,
+    "sources": [
+      "https://www.strengthlog.com/leg-press/",
+      "https://github.com/yuhonas/free-exercise-db"
+    ]
+  },
+  {
+    "id": "goblet-squat",
+    "nameVi": "Goblet squat (ôm tạ trước ngực)",
+    "nameEn": "Goblet Squat",
+    "type": "gym",
+    "equipment": [
+      "tạ ấm",
+      "tạ đơn"
+    ],
+    "primary": [
+      "quadriceps",
+      "gluteus-maximus"
+    ],
+    "secondary": [
+      "adductor-magnus",
+      "erector-spinae",
+      "soleus"
+    ],
+    "difficulty": 2,
+    "order": 401,
+    "difficultyBasis": "Mức 2 – Cơ bản: free-exercise-db xếp 'beginner' nhưng T = 4; squat tạ tự do, cần giữ thăng bằng và thân thẳng.",
+    "steps": [
+      "Ôm một tạ ấm hoặc tạ đơn sát ngực, khuỷu tay hướng xuống, đứng chân rộng bằng vai.",
+      "Hít sâu, siết bụng, hạ người bằng cách gập đồng thời hông và gối.",
+      "Xuống sâu nhất có thể mà lưng vẫn thẳng, gót không nhấc, gối đi theo hướng mũi chân.",
+      "Đạp cả bàn chân đứng lên."
+    ],
+    "safety": [
+      "Giữ tạ sát người để thân không đổ về trước.",
+      "Không để gối sụp vào trong khi đứng lên."
+    ],
+    "fedbId": "Goblet_Squat",
+    "image": null,
+    "sources": [
+      "https://www.strengthlog.com/goblet-squat/",
+      "https://github.com/yuhonas/free-exercise-db"
+    ]
+  },
+  {
+    "id": "dumbbell-lunge",
+    "nameVi": "Lunge với tạ đơn",
+    "nameEn": "Dumbbell Lunge",
+    "type": "gym",
+    "equipment": [
+      "tạ đơn"
+    ],
+    "primary": [
+      "quadriceps",
+      "gluteus-maximus"
+    ],
+    "secondary": [
+      "adductor-magnus",
+      "gluteus-medius",
+      "finger-flexors"
+    ],
+    "difficulty": 2,
+    "order": 612,
+    "difficultyBasis": "Mức 2 – Cơ bản: free-exercise-db xếp 'beginner' nhưng T = 6; mỗi lần bước dồn tải lên một chân.",
+    "steps": [
+      "Đứng thẳng, mỗi tay cầm một tạ đơn buông hai bên.",
+      "Bước một chân về trước một bước dài, hạ người cho tới khi gối sau gần chạm sàn.",
+      "Giữ thân thẳng, gối trước đi theo hướng mũi chân.",
+      "Đạp chân trước để lùi về tư thế đứng, rồi đổi chân."
+    ],
+    "safety": [
+      "Không để gối sau đập xuống sàn.",
+      "Bước đủ dài để gót chân trước không bị nhấc."
+    ],
+    "fedbId": "Dumbbell_Lunges",
+    "image": null,
+    "sources": [
+      "https://www.strengthlog.com/dumbbell-lunge/",
+      "https://github.com/yuhonas/free-exercise-db"
+    ]
+  },
+  {
+    "id": "barbell-back-squat",
+    "nameVi": "Squat tạ đòn sau lưng",
+    "nameEn": "Barbell Back Squat",
+    "type": "gym",
+    "equipment": [
+      "tạ đòn"
+    ],
+    "primary": [
+      "quadriceps",
+      "gluteus-maximus"
+    ],
+    "secondary": [
+      "adductor-magnus",
+      "erector-spinae",
+      "soleus"
+    ],
+    "difficulty": 3,
+    "order": 1821,
+    "difficultyBasis": "Mức 3 – Trung cấp: free-exercise-db xếp 'intermediate'; tạ nặng trên cột sống, cần giữ thân vững khi xuống sâu.",
+    "steps": [
+      "Đặt tạ đòn lên cơ thang trong giá squat, nắm thanh chắc, bước lùi ra một hai bước, chân rộng khoảng bằng vai.",
+      "Hít sâu, siết bụng, gập hông và gối để hạ người, gối đi theo hướng mũi chân.",
+      "Xuống ít nhất tới khi đùi ngang sàn mà lưng vẫn thẳng và gót không nhấc.",
+      "Đạp cả bàn chân đứng lên, hông và vai lên cùng nhịp."
+    ],
+    "safety": [
+      "Luôn tập trong giá có thanh chặn an toàn hoặc có người hỗ trợ.",
+      "Không để gối sụp vào trong hoặc lưng dưới cuộn ở điểm thấp nhất."
+    ],
+    "fedbId": "Barbell_Full_Squat",
+    "image": null,
+    "sources": [
+      "https://www.strengthlog.com/squat/",
+      "https://github.com/yuhonas/free-exercise-db"
+    ]
+  },
+  {
+    "id": "dumbbell-bulgarian-split-squat",
+    "nameVi": "Bulgarian split squat với tạ đơn",
+    "nameEn": "Dumbbell Bulgarian Split Squat",
+    "type": "gym",
+    "equipment": [
+      "tạ đơn",
+      "ghế"
+    ],
+    "primary": [
+      "quadriceps",
+      "gluteus-maximus"
+    ],
+    "secondary": [
+      "adductor-magnus",
+      "gluteus-medius",
+      "biceps-femoris",
+      "semitendinosus",
+      "semimembranosus"
+    ],
+    "difficulty": 3,
+    "order": 1712,
+    "difficultyBasis": "Mức 3 – Trung cấp: suy theo tiêu chí (T = 7); một chân gánh tải, chân sau gác ghế nên cần thăng bằng.",
+    "steps": [
+      "Mỗi tay cầm một tạ đơn, đứng quay lưng về ghế cao ngang gối và gác mu bàn chân sau lên ghế.",
+      "Đặt chân trước cách ghế một bước dài, thân thẳng.",
+      "Hạ người xuống có kiểm soát cho tới khi gối sau gần chạm sàn, gối trước theo hướng mũi chân.",
+      "Đạp chân trước để đứng lên; làm đủ số lần rồi đổi chân."
+    ],
+    "safety": [
+      "Tập không tạ trước để tìm khoảng cách chân phù hợp.",
+      "Nếu mất thăng bằng, dùng một tạ và tay kia vịn giá."
+    ],
+    "fedbId": null,
+    "image": null,
+    "sources": [
+      "https://www.strengthlog.com/bulgarian-split-squat/"
+    ]
+  },
+  {
+    "id": "dumbbell-step-up",
+    "nameVi": "Bước lên bục với tạ đơn",
+    "nameEn": "Dumbbell Step-Up",
+    "type": "gym",
+    "equipment": [
+      "tạ đơn",
+      "bục"
+    ],
+    "primary": [
+      "quadriceps",
+      "gluteus-maximus"
+    ],
+    "secondary": [
+      "adductor-magnus",
+      "gluteus-medius",
+      "biceps-femoris",
+      "semitendinosus",
+      "semimembranosus"
+    ],
+    "difficulty": 3,
+    "order": 612,
+    "difficultyBasis": "Mức 3 – Trung cấp: free-exercise-db xếp 'intermediate'; một chân đẩy toàn bộ cơ thể và tạ lên bục.",
+    "steps": [
+      "Mỗi tay cầm một tạ đơn, đứng trước một bục hoặc ghế chắc chắn cao khoảng ngang gối.",
+      "Đặt cả bàn chân tập lên bục.",
+      "Đạp chân trên bục để đứng thẳng lên, hạn chế đẩy bằng chân dưới.",
+      "Hạ chân còn lại xuống sàn chậm có kiểm soát; làm đủ số lần rồi đổi chân."
+    ],
+    "safety": [
+      "Dùng bục không trượt và vừa tầm; bục quá cao dễ làm cong lưng.",
+      "Không để gối chân trên đổ vào trong."
+    ],
+    "fedbId": "Dumbbell_Step_Ups",
+    "image": null,
+    "sources": [
+      "https://www.strengthlog.com/step-up/",
+      "https://github.com/yuhonas/free-exercise-db"
+    ]
+  },
+  {
+    "id": "barbell-front-squat",
+    "nameVi": "Squat tạ đòn trước ngực (front squat)",
+    "nameEn": "Barbell Front Squat",
+    "type": "gym",
+    "equipment": [
+      "tạ đòn"
+    ],
+    "primary": [
+      "quadriceps",
+      "gluteus-maximus"
+    ],
+    "secondary": [
+      "adductor-magnus",
+      "erector-spinae",
+      "rectus-abdominis"
+    ],
+    "difficulty": 4,
+    "order": 1921,
+    "difficultyBasis": "Mức 4 – Nâng cao: free-exercise-db xếp 'expert' (T = 9); cần độ dẻo cổ tay, vai, cổ chân và thân thẳng đứng.",
+    "steps": [
+      "Đặt thanh đòn lên phần trước vai, sát cổ, các ngón tay đỡ thanh và khuỷu nâng cao hướng về trước.",
+      "Bước lùi khỏi giá, chân rộng khoảng bằng vai, hít sâu và siết bụng.",
+      "Hạ người thẳng xuống, giữ khuỷu cao và thân gần thẳng đứng, gối đi theo mũi chân.",
+      "Đạp cả bàn chân đứng lên, không để khuỷu tụt xuống."
+    ],
+    "safety": [
+      "Tập trong giá có thanh chặn; nếu mất kiểm soát, đẩy thanh ra trước và bước lùi.",
+      "Làm quen với thanh không tạ trước để cổ tay và vai thích nghi."
+    ],
+    "fedbId": "Front_Barbell_Squat",
+    "image": null,
+    "sources": [
+      "https://www.strengthlog.com/front-squat/",
+      "https://github.com/yuhonas/free-exercise-db"
+    ]
+  },
+  {
+    "id": "seated-leg-curl",
+    "nameVi": "Cuốn đùi sau ngồi trên máy",
+    "nameEn": "Seated Leg Curl",
+    "type": "gym",
+    "equipment": [
+      "máy"
+    ],
+    "primary": [
+      "biceps-femoris",
+      "semitendinosus",
+      "semimembranosus"
+    ],
+    "secondary": [
+      "gastrocnemius",
+      "sartorius",
+      "gracilis"
+    ],
+    "difficulty": 1,
+    "order": 100,
+    "difficultyBasis": "Mức 1 – Nhập môn: free-exercise-db xếp 'beginner' (T = 1); máy dẫn quỹ đạo, ngồi tựa lưng có đệm giữ đùi.",
+    "steps": [
+      "Chỉnh máy để khớp gối thẳng hàng với trục quay, đệm chân nằm sau cổ chân, hạ đệm đùi giữ chặt đùi.",
+      "Ngồi tựa lưng, nắm tay cầm.",
+      "Gập gối kéo đệm xuống và ra sau hết mức có thể.",
+      "Trả về chậm cho tới khi gối gần thẳng."
+    ],
+    "safety": [
+      "Không giật; giữ hông áp vào ghế suốt động tác."
+    ],
+    "fedbId": "Seated_Leg_Curl",
+    "image": null,
+    "sources": [
+      "https://www.strengthlog.com/seated-leg-curl/",
+      "https://github.com/yuhonas/free-exercise-db"
+    ]
+  },
+  {
+    "id": "lying-leg-curl",
+    "nameVi": "Cuốn đùi sau nằm sấp trên máy",
+    "nameEn": "Lying Leg Curl",
+    "type": "gym",
+    "equipment": [
+      "máy"
+    ],
+    "primary": [
+      "biceps-femoris",
+      "semitendinosus",
+      "semimembranosus"
+    ],
+    "secondary": [
+      "gastrocnemius",
+      "sartorius",
+      "gracilis"
+    ],
+    "difficulty": 1,
+    "order": 200,
+    "difficultyBasis": "Mức 1 – Nhập môn: free-exercise-db xếp 'beginner' (T = 2); máy dẫn quỹ đạo, nằm sấp có đệm đỡ.",
+    "steps": [
+      "Nằm sấp trên máy, gối ở ngay mép đệm và thẳng hàng với trục quay, đệm chân nằm trên gót phía sau cổ chân.",
+      "Nắm tay cầm, ép hông xuống đệm.",
+      "Gập gối kéo đệm về phía mông hết mức có thể.",
+      "Hạ xuống chậm có kiểm soát."
+    ],
+    "safety": [
+      "Không nhổm hông khỏi đệm để kéo tạ nặng hơn; việc này dồn tải lên thắt lưng."
+    ],
+    "fedbId": "Lying_Leg_Curls",
+    "image": null,
+    "sources": [
+      "https://www.strengthlog.com/lying-leg-curl/",
+      "https://github.com/yuhonas/free-exercise-db"
+    ]
+  },
+  {
+    "id": "dumbbell-romanian-deadlift",
+    "nameVi": "Romanian deadlift với tạ đơn",
+    "nameEn": "Dumbbell Romanian Deadlift",
+    "type": "gym",
+    "equipment": [
+      "tạ đơn"
+    ],
+    "primary": [
+      "biceps-femoris",
+      "semitendinosus",
+      "semimembranosus",
+      "gluteus-maximus"
+    ],
+    "secondary": [
+      "erector-spinae",
+      "adductor-magnus",
+      "trapezius",
+      "finger-flexors"
+    ],
+    "difficulty": 2,
+    "order": 401,
+    "difficultyBasis": "Mức 2 – Cơ bản: suy theo tiêu chí (T = 4); gập hông với tạ đơn vừa, phải giữ lưng thẳng.",
+    "steps": [
+      "Đứng chân rộng bằng hông, mỗi tay cầm một tạ đơn trước đùi, gối hơi chùng.",
+      "Siết bụng, đẩy hông ra sau để thân đổ về trước, tạ trượt sát theo đùi và cẳng chân.",
+      "Hạ tới khi đùi sau căng rõ, lưng vẫn thẳng (thường quanh giữa cẳng chân).",
+      "Đẩy hông về trước để đứng thẳng lại."
+    ],
+    "safety": [
+      "Không cong lưng để với tạ xuống thấp hơn.",
+      "Giữ tạ sát chân để giảm tải lên thắt lưng."
+    ],
+    "fedbId": null,
+    "image": null,
+    "sources": [
+      "https://www.strengthlog.com/dumbbell-romanian-deadlift/"
+    ]
+  },
+  {
+    "id": "romanian-deadlift",
+    "nameVi": "Romanian deadlift với tạ đòn",
+    "nameEn": "Barbell Romanian Deadlift",
+    "type": "gym",
+    "equipment": [
+      "tạ đòn"
+    ],
+    "primary": [
+      "biceps-femoris",
+      "semitendinosus",
+      "semimembranosus",
+      "gluteus-maximus"
+    ],
+    "secondary": [
+      "erector-spinae",
+      "adductor-magnus",
+      "trapezius",
+      "finger-flexors"
+    ],
+    "difficulty": 3,
+    "order": 1711,
+    "difficultyBasis": "Mức 3 – Trung cấp: free-exercise-db xếp 'intermediate'; tạ tự do, cần giữ lưng trung tính khi gập hông.",
+    "steps": [
+      "Cầm thanh đòn trước đùi, tay rộng hơn vai một chút, chân rộng bằng hông, gối hơi chùng.",
+      "Hít sâu, siết bụng, đẩy hông ra sau để hạ thanh sát theo đùi.",
+      "Hạ tới khi đùi sau căng rõ mà lưng vẫn thẳng, thường ngay dưới gối.",
+      "Đẩy hông về trước để đứng thẳng, siết mông ở điểm cao nhất."
+    ],
+    "safety": [
+      "Không để lưng cong; dừng biên độ ngay khi không giữ được lưng thẳng.",
+      "Giữ thanh sát chân trong suốt động tác."
+    ],
+    "fedbId": "Romanian_Deadlift",
+    "image": null,
+    "sources": [
+      "https://www.strengthlog.com/romanian-deadlift/",
+      "https://github.com/yuhonas/free-exercise-db"
+    ]
+  },
+  {
+    "id": "kettlebell-single-leg-romanian-deadlift",
+    "nameVi": "Romanian deadlift một chân với tạ ấm",
+    "nameEn": "Kettlebell Single-Leg Romanian Deadlift",
+    "type": "gym",
+    "equipment": [
+      "tạ ấm"
+    ],
+    "primary": [
+      "biceps-femoris",
+      "semitendinosus",
+      "semimembranosus",
+      "gluteus-maximus"
+    ],
+    "secondary": [
+      "gluteus-medius",
+      "erector-spinae",
+      "adductor-magnus",
+      "finger-flexors"
+    ],
+    "difficulty": 3,
+    "order": 1712,
+    "difficultyBasis": "Mức 3 – Trung cấp: free-exercise-db xếp 'intermediate'; đứng một chân khi gập hông nên đòi hỏi thăng bằng.",
+    "steps": [
+      "Đứng trên một chân, gối chân trụ hơi chùng, tay bên đối diện cầm tạ ấm.",
+      "Gập hông đổ thân về trước, đồng thời duỗi chân kia ra sau thành một đường thẳng với thân.",
+      "Hạ tạ về phía sàn tới khi đùi sau chân trụ căng, hông giữ ngang không xoay mở.",
+      "Đạp gót chân trụ và đẩy hông về trước để đứng thẳng; làm đủ số lần rồi đổi chân."
+    ],
+    "safety": [
+      "Mới tập có thể chạm nhẹ tay vào tường để giữ thăng bằng.",
+      "Lưng luôn thẳng; không cố hạ thấp hơn mức linh hoạt cho phép."
+    ],
+    "fedbId": "Kettlebell_One-Legged_Deadlift",
+    "image": null,
+    "sources": [
+      "https://www.strengthlog.com/single-leg-deadlift-with-kettlebell/",
+      "https://www.physio-pedia.com/Gluteus_Medius",
+      "https://github.com/yuhonas/free-exercise-db"
+    ]
+  },
+  {
+    "id": "calf-raise-in-leg-press",
+    "nameVi": "Nhón gót trên máy đạp đùi",
+    "nameEn": "Leg Press Calf Raise",
+    "type": "gym",
+    "equipment": [
+      "máy"
+    ],
+    "primary": [
+      "gastrocnemius"
+    ],
+    "secondary": [
+      "soleus"
+    ],
+    "difficulty": 1,
+    "order": 100,
+    "difficultyBasis": "Mức 1 – Nhập môn: free-exercise-db xếp 'beginner' (T = 1); máy dẫn quỹ đạo, lưng tựa đệm.",
+    "steps": [
+      "Ngồi vào máy đạp đùi, đặt phần trước bàn chân lên mép dưới bàn đạp, gót để thừa ra ngoài.",
+      "Duỗi gối gần thẳng (không khóa gối) và giữ chốt an toàn trong tầm tay.",
+      "Hạ mũi chân để gót đi về phía bạn cho tới khi bắp chân căng.",
+      "Đẩy bàn đạp bằng các ngón chân, duỗi cổ chân hết mức rồi hạ chậm."
+    ],
+    "safety": [
+      "Giữ bàn chân chắc trên bàn đạp; không để bàn chân trượt khỏi mép."
+    ],
+    "fedbId": "Calf_Press_On_The_Leg_Press_Machine",
+    "image": null,
+    "sources": [
+      "https://www.strengthlog.com/calf-raise-in-leg-press/",
+      "https://www.frontiersin.org/journals/physiology/articles/10.3389/fphys.2023.1272106/full",
+      "https://github.com/yuhonas/free-exercise-db"
+    ]
+  },
+  {
+    "id": "standing-calf-raise",
+    "nameVi": "Nhón gót đứng trên máy",
+    "nameEn": "Standing Calf Raise",
+    "type": "gym",
+    "equipment": [
+      "máy"
+    ],
+    "primary": [
+      "gastrocnemius"
+    ],
+    "secondary": [
+      "soleus"
+    ],
+    "difficulty": 1,
+    "order": 210,
+    "difficultyBasis": "Mức 1 – Nhập môn: free-exercise-db xếp 'beginner' (T = 2); máy dẫn quỹ đạo, đệm vai đỡ tải.",
+    "steps": [
+      "Đứng vào máy, đặt phần trước bàn chân lên bậc đỡ, hai vai áp dưới đệm vai.",
+      "Đứng thẳng, gối thẳng nhưng không khóa cứng.",
+      "Hạ gót xuống chậm dưới mức bậc cho tới khi bắp chân căng.",
+      "Nhón gót lên cao nhất có thể, giữ một nhịp rồi hạ."
+    ],
+    "safety": [
+      "Không nhún nảy ở điểm thấp; tốc độ đều để bảo vệ gân Achilles."
+    ],
+    "fedbId": "Standing_Calf_Raises",
+    "image": null,
+    "sources": [
+      "https://www.strengthlog.com/standing-calf-raise/",
+      "https://www.frontiersin.org/journals/physiology/articles/10.3389/fphys.2023.1272106/full",
+      "https://github.com/yuhonas/free-exercise-db"
+    ]
+  },
+  {
+    "id": "barbell-standing-calf-raise",
+    "nameVi": "Nhón gót đứng với tạ đòn",
+    "nameEn": "Barbell Standing Calf Raise",
+    "type": "gym",
+    "equipment": [
+      "tạ đòn",
+      "bục"
+    ],
+    "primary": [
+      "gastrocnemius"
+    ],
+    "secondary": [
+      "soleus"
+    ],
+    "difficulty": 2,
+    "order": 521,
+    "difficultyBasis": "Mức 2 – Cơ bản: free-exercise-db xếp 'beginner' nhưng T = 5; tạ đòn trên lưng, phải tự giữ thăng bằng.",
+    "steps": [
+      "Đặt tạ đòn lên cơ thang trong giá, bước ra và đặt phần trước bàn chân lên một bục thấp hoặc tạ đĩa.",
+      "Đứng thẳng, siết bụng, gối thẳng nhưng không khóa cứng.",
+      "Hạ gót xuống chậm cho tới khi bắp chân căng.",
+      "Nhón gót lên cao nhất có thể, giữ một nhịp rồi hạ."
+    ],
+    "safety": [
+      "Dùng bục chắc, không trượt; bắt đầu với tạ nhẹ để làm quen thăng bằng."
+    ],
+    "fedbId": "Standing_Barbell_Calf_Raise",
+    "image": null,
+    "sources": [
+      "https://www.strengthlog.com/barbell-standing-calf-raise/",
+      "https://www.frontiersin.org/journals/physiology/articles/10.3389/fphys.2023.1272106/full",
+      "https://github.com/yuhonas/free-exercise-db"
+    ]
+  },
+  {
+    "id": "single-leg-dumbbell-calf-raise",
+    "nameVi": "Nhón gót một chân cầm tạ đơn",
+    "nameEn": "Single-Leg Dumbbell Calf Raise",
+    "type": "gym",
+    "equipment": [
+      "tạ đơn",
+      "bục"
+    ],
+    "primary": [
+      "gastrocnemius"
+    ],
+    "secondary": [
+      "soleus",
+      "fibularis-longus"
+    ],
+    "difficulty": 3,
+    "order": 1521,
+    "difficultyBasis": "Mức 3 – Trung cấp: suy theo tiêu chí (T = 5); một chân gánh toàn bộ trọng lượng cơ thể cộng tạ.",
+    "steps": [
+      "Cầm một tạ đơn ở tay cùng bên với chân tập, tay kia vịn tường hoặc giá.",
+      "Đứng một chân trên mép bục bằng phần trước bàn chân, gối thẳng nhưng không khóa.",
+      "Hạ gót xuống chậm dưới mức bục cho tới khi bắp chân căng.",
+      "Nhón gót lên cao nhất có thể, giữ một nhịp rồi hạ; làm đủ số lần rồi đổi chân."
+    ],
+    "safety": [
+      "Luôn vịn tay để giữ thăng bằng; tập bản không tạ trước."
+    ],
+    "fedbId": null,
+    "image": null,
+    "sources": [
+      "https://e3rehab.com/how-to-grow-your-calves/",
+      "https://www.frontiersin.org/journals/physiology/articles/10.3389/fphys.2023.1272106/full"
+    ]
+  },
+  {
+    "id": "seated-calf-raise",
+    "nameVi": "Nhón gót ngồi trên máy",
+    "nameEn": "Seated Calf Raise",
+    "type": "gym",
+    "equipment": [
+      "máy"
+    ],
+    "primary": [
+      "soleus"
+    ],
+    "secondary": [
+      "gastrocnemius"
+    ],
+    "difficulty": 1,
+    "order": 100,
+    "difficultyBasis": "Mức 1 – Nhập môn: free-exercise-db xếp 'beginner' (T = 1); ngồi, máy dẫn quỹ đạo.",
+    "steps": [
+      "Ngồi vào máy, đặt phần trước bàn chân lên bậc đỡ, đệm máy tì lên phần dưới đùi sát gối.",
+      "Nâng nhẹ để mở chốt an toàn.",
+      "Hạ gót xuống chậm cho tới khi bắp chân căng.",
+      "Nhón gót lên cao nhất có thể, giữ một nhịp rồi hạ."
+    ],
+    "safety": [
+      "Khóa chốt an toàn trước khi rời máy; không nhún nảy ở điểm thấp."
+    ],
+    "fedbId": "Seated_Calf_Raise",
+    "image": null,
+    "sources": [
+      "https://www.strengthlog.com/seated-calf-raise/",
+      "https://www.frontiersin.org/journals/physiology/articles/10.3389/fphys.2023.1272106/full",
+      "https://github.com/yuhonas/free-exercise-db"
+    ]
+  },
+  {
+    "id": "barbell-seated-calf-raise",
+    "nameVi": "Nhón gót ngồi với tạ đòn đặt trên đùi",
+    "nameEn": "Barbell Seated Calf Raise",
+    "type": "gym",
+    "equipment": [
+      "tạ đòn",
+      "ghế",
+      "bục"
+    ],
+    "primary": [
+      "soleus"
+    ],
+    "secondary": [
+      "gastrocnemius"
+    ],
+    "difficulty": 1,
+    "order": 200,
+    "difficultyBasis": "Mức 1 – Nhập môn: free-exercise-db xếp 'beginner' (T = 2); ngồi trên ghế, tạ đặt trên đùi, biên độ ngắn.",
+    "steps": [
+      "Ngồi trên ghế, đặt phần trước bàn chân lên một bục thấp hoặc tạ đĩa, gối gập khoảng 90°.",
+      "Đặt tạ đòn có đệm lên phần dưới đùi sát gối, hai tay giữ thanh.",
+      "Hạ gót xuống chậm cho tới khi bắp chân căng.",
+      "Nhón gót lên cao nhất có thể, giữ một nhịp rồi hạ."
+    ],
+    "safety": [
+      "Dùng đệm bọc thanh đòn; giữ thanh bằng tay để không lăn khỏi đùi."
+    ],
+    "fedbId": "Barbell_Seated_Calf_Raise",
+    "image": null,
+    "sources": [
+      "https://www.strengthlog.com/barbell-seated-calf-raise/",
+      "https://e3rehab.com/how-to-grow-your-calves/",
+      "https://github.com/yuhonas/free-exercise-db"
+    ]
+  },
+  {
+    "id": "single-leg-bent-knee-calf-raise",
+    "nameVi": "Nhón gót một chân gối chùng cầm tạ đơn",
+    "nameEn": "Single-Leg Bent-Knee Calf Raise",
+    "type": "gym",
+    "equipment": [
+      "tạ đơn",
+      "bục"
+    ],
+    "primary": [
+      "soleus"
+    ],
+    "secondary": [
+      "gastrocnemius",
+      "fibularis-longus",
+      "tibialis-posterior"
+    ],
+    "difficulty": 3,
+    "order": 1521,
+    "difficultyBasis": "Mức 3 – Trung cấp: suy theo tiêu chí (T = 5); một chân gánh trọng lượng cơ thể cộng tạ, gối giữ chùng suốt bài.",
+    "steps": [
+      "Cầm tạ đơn ở tay cùng bên chân tập, tay kia vịn tường; đứng một chân trên mép bục bằng phần trước bàn chân.",
+      "Chùng gối chân trụ khoảng 20–30° và giữ nguyên góc này suốt bài.",
+      "Hạ gót xuống dưới mức bục cho tới khi bắp chân căng.",
+      "Nhón gót lên cao nhất có thể mà gối không duỗi ra; làm đủ số lần rồi đổi chân."
+    ],
+    "safety": [
+      "Vịn tay để giữ thăng bằng; tập bản không tạ cho tới khi giữ được góc gối ổn định."
+    ],
+    "fedbId": null,
+    "image": null,
+    "sources": [
+      "https://www.physitrack.com/exercise-library/how-to-perform-the-soleus-raises",
+      "https://e3rehab.com/how-to-grow-your-calves/"
+    ]
+  },
+  {
+    "id": "band-ankle-dorsiflexion",
+    "nameVi": "Kéo mũi chân với dây kháng lực",
+    "nameEn": "Band Ankle Dorsiflexion",
+    "type": "gym",
+    "equipment": [
+      "dây kháng lực"
+    ],
+    "primary": [
+      "tibialis-anterior"
+    ],
+    "secondary": [
+      "extensor-digitorum-longus"
+    ],
+    "difficulty": 1,
+    "order": 0,
+    "difficultyBasis": "Mức 1 – Nhập môn: suy theo tiêu chí (T = 0); ngồi trên sàn, một khớp, dây nhẹ.",
+    "steps": [
+      "Ngồi trên sàn, hai chân duỗi thẳng về trước.",
+      "Buộc một đầu dây vào cột chắc phía trước mặt, đầu kia quàng qua mu bàn chân tập.",
+      "Giữ cẳng chân yên, kéo mũi chân về phía ống quyển hết mức, dừng một nhịp.",
+      "Thả về chậm; làm đủ số lần rồi đổi chân."
+    ],
+    "safety": [
+      "Kiểm tra điểm neo chắc chắn để dây không bật vào người."
+    ],
+    "fedbId": null,
+    "image": null,
+    "sources": [
+      "https://www.strengthlog.com/tibialis-band-pull/"
+    ]
+  },
+  {
+    "id": "kettlebell-tibialis-raise",
+    "nameVi": "Nâng mũi chân với tạ ấm (ngồi)",
+    "nameEn": "Kettlebell Tibialis Raise",
+    "type": "gym",
+    "equipment": [
+      "tạ ấm",
+      "ghế"
+    ],
+    "primary": [
+      "tibialis-anterior"
+    ],
+    "secondary": [
+      "extensor-digitorum-longus"
+    ],
+    "difficulty": 1,
+    "order": 110,
+    "difficultyBasis": "Mức 1 – Nhập môn: suy theo tiêu chí (T = 1); ngồi trên ghế cao, một khớp, tạ ấm nhẹ.",
+    "steps": [
+      "Ngồi trên ghế hoặc hộp đủ cao để bàn chân không chạm sàn.",
+      "Móc quai một tạ ấm nhẹ qua mu bàn chân, dùng bàn chân giữ tạ.",
+      "Kéo mũi chân lên về phía ống quyển, dừng một nhịp ở điểm cao nhất.",
+      "Hạ chậm xuống; làm đủ số lần rồi đổi chân."
+    ],
+    "safety": [
+      "Bắt đầu với tạ rất nhẹ; đặt tạ xuống ngay nếu thấy tạ sắp tuột khỏi chân."
+    ],
+    "fedbId": null,
+    "image": null,
+    "sources": [
+      "https://www.strengthlog.com/kettlebell-tibialis-raise/"
+    ]
+  },
+  {
+    "id": "tib-bar-tibialis-raise",
+    "nameVi": "Nâng mũi chân với thanh tib bar",
+    "nameEn": "Tib Bar Tibialis Raise",
+    "type": "gym",
+    "equipment": [
+      "tib bar",
+      "tạ đĩa",
+      "ghế"
+    ],
+    "primary": [
+      "tibialis-anterior"
+    ],
+    "secondary": [
+      "extensor-digitorum-longus"
+    ],
+    "difficulty": 1,
+    "order": 1210,
+    "difficultyBasis": "Mức 1 – Nhập môn: suy theo tiêu chí (T = 2); ngồi trên ghế, một khớp, tải tăng được theo từng đĩa nhỏ.",
+    "steps": [
+      "Lắp một tạ đĩa nhỏ vào đầu thanh tib bar và khóa kẹp.",
+      "Ngồi trên ghế, lùi ra sau để chân duỗi thẳng và cổ chân thò ra khỏi mép ghế; luồn bàn chân vào hai thanh ngang.",
+      "Kéo mũi chân về phía ống quyển để nâng tạ khỏi sàn, dừng một nhịp.",
+      "Hạ xuống chậm có kiểm soát rồi lặp lại."
+    ],
+    "safety": [
+      "Tăng tạ từng chút; cơ chày trước nhỏ và dễ mỏi.",
+      "Ngừng nếu đau ở mặt trước cẳng chân hoặc mu bàn chân."
+    ],
+    "fedbId": null,
+    "image": null,
+    "sources": [
+      "https://www.apexfitness.com/blogs/learn/complete-guide-to-tib-bar-training"
+    ]
+  },
+  {
+    "id": "band-ankle-eversion",
+    "nameVi": "Xoay bàn chân ra ngoài với dây kháng lực",
+    "nameEn": "Band Ankle Eversion",
+    "type": "gym",
+    "equipment": [
+      "dây kháng lực"
+    ],
+    "primary": [
+      "fibularis-longus",
+      "fibularis-brevis"
+    ],
+    "secondary": [
+      "extensor-digitorum-longus"
+    ],
+    "difficulty": 1,
+    "order": 0,
+    "difficultyBasis": "Mức 1 – Nhập môn: suy theo tiêu chí (T = 0); ngồi, một khớp, dây nhẹ.",
+    "steps": [
+      "Ngồi trên sàn hoặc ghế, chân duỗi, quàng dây quanh phần trước của hai bàn chân (hoặc neo dây ở phía trong chân tập).",
+      "Giữ cẳng chân và đầu gối yên, không xoay cả chân.",
+      "Xoay lòng bàn chân hướng ra ngoài chống lại lực dây, dừng một nhịp.",
+      "Thả về chậm; làm đủ số lần, đổi bên nếu tập từng chân."
+    ],
+    "safety": [
+      "Chuyển động chỉ ở cổ chân; không xoay hông để bù.",
+      "Bài không nên gây đau tăng vào ngày hôm sau; nếu có thì giảm lực dây."
+    ],
+    "fedbId": null,
+    "image": null,
+    "sources": [
+      "https://www.webmd.com/a-to-z-guides/best-exercises-peroneus-longus",
+      "https://e3rehab.com/peroneal/"
+    ]
+  },
+  {
+    "id": "side-lying-ankle-eversion-ankle-weight",
+    "nameVi": "Xoay bàn chân ra ngoài nằm nghiêng đeo tạ cổ chân",
+    "nameEn": "Side-Lying Ankle Eversion with Ankle Weight",
+    "type": "gym",
+    "equipment": [
+      "tạ cổ chân",
+      "ghế"
+    ],
+    "primary": [
+      "fibularis-longus",
+      "fibularis-brevis"
+    ],
+    "secondary": [],
+    "difficulty": 1,
+    "order": 1100,
+    "difficultyBasis": "Mức 1 – Nhập môn: suy theo tiêu chí (T = 1); nằm nghiêng có đỡ, một khớp, tạ cổ chân nhẹ.",
+    "steps": [
+      "Đeo tạ cổ chân quanh bàn chân tập, nằm nghiêng trên ghế với chân tập ở trên và cổ chân thò ra khỏi mép ghế.",
+      "Giữ hông và cẳng chân yên.",
+      "Nâng mép ngoài bàn chân lên phía trần nhà, dừng một nhịp.",
+      "Hạ chậm xuống; làm đủ số lần rồi đổi bên."
+    ],
+    "safety": [
+      "Không xoay hông để nâng bàn chân; bắt đầu với tạ rất nhẹ."
+    ],
+    "fedbId": null,
+    "image": null,
+    "sources": [
+      "https://e3rehab.com/peroneal/"
+    ]
+  },
+  {
+    "id": "banded-complex-heel-raise",
+    "nameVi": "Nhón gót một chân có dây kéo bàn chân vào trong",
+    "nameEn": "Banded Complex Heel Raise",
+    "type": "gym",
+    "equipment": [
+      "dây kháng lực",
+      "bục"
+    ],
+    "primary": [
+      "fibularis-longus",
+      "fibularis-brevis",
+      "gastrocnemius"
+    ],
+    "secondary": [
+      "soleus"
+    ],
+    "difficulty": 3,
+    "order": 1722,
+    "difficultyBasis": "Mức 3 – Trung cấp: suy theo tiêu chí (T = 7); đứng một chân nhón gót trong khi giữ bàn chân thẳng chống lực dây.",
+    "steps": [
+      "Neo dây kháng lực thấp ở phía trong của chân tập, quàng dây quanh giữa bàn chân để dây kéo bàn chân vào trong.",
+      "Đứng một chân trên sàn hoặc mép bục, tay vịn tường.",
+      "Nhón gót lên cao nhất có thể, giữ bàn chân thẳng hướng, không để dây kéo lật vào trong.",
+      "Hạ gót chậm; làm đủ số lần rồi đổi chân."
+    ],
+    "safety": [
+      "Chỉ tập khi đã làm vững các bài xoay bàn chân ra ngoài và nhón gót một chân.",
+      "Luôn vịn tay để tránh lật cổ chân."
+    ],
+    "fedbId": null,
+    "image": null,
+    "sources": [
+      "https://e3rehab.com/peroneal/"
+    ]
+  }
+]

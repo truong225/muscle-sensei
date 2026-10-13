@@ -1,0 +1,4 @@
+node_modules
+dist
+tools/model/cache
+tools/data/cache

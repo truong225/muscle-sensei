@@ -1,0 +1,292 @@
+{
+  "sampled": 40,
+  "results": [
+    {
+      "url": "https://www.strengthlog.com/cable-crunch/",
+      "exists": "yes",
+      "supports": "yes",
+      "evidence": "Trang mô tả quỳ trước ròng rọc, dây thừng gắn trên cao; 'Primary muscles worked: Abs', 'Secondary: Obliques'.",
+      "note": ""
+    },
+    {
+      "url": "https://au.physitrack.com/home-exercise-video/elevated-side-plank",
+      "exists": "yes",
+      "supports": "yes",
+      "evidence": "Hướng dẫn 'place both your feet up onto the stool', 'prop yourself up on your elbow', 'raise your hips up off the floor'.",
+      "note": "Trang không nêu cơ; registry chỉ khẳng định kỹ thuật nên khớp. Cơ chính của citedBy (QL, chéo bụng) không được nguồn này chứng minh."
+    },
+    {
+      "url": "https://e3rehab.com/how-to-grow-your-calves/",
+      "exists": "yes",
+      "supports": "yes",
+      "evidence": "Viết 'knee-bent calf raises isolate the soleus because the knee-bent position puts the gastrocnemius on slack'; nhón gót ngồi dùng 'a barbell, or dumbbells'; 'single leg calf raises on a step with a dumbbell in your hand'.",
+      "note": "Tác giả trình bày ý cô lập cơ dép như quan điểm phổ biến và lưu ý gối thẳng có thể đủ cho cả hai cơ, nhưng không phủ nhận cơ chế chùng cơ bụng chân."
+    },
+    {
+      "url": "https://akuaku.org/Sarco+/exercise-side-plank.html",
+      "exists": "yes",
+      "supports": "yes",
+      "evidence": "Plank nghiêng: cơ chính 'External oblique', 'Internal oblique', 'Quadratus lumborum'; chuỗi Knee Side Plank → Side Plank → Side Plank with Leg Raise.",
+      "note": ""
+    },
+    {
+      "url": "https://doctoryessis.com/2013/01/01/lateral-head-raises/",
+      "exists": "yes",
+      "supports": "partial",
+      "evidence": "Nêu ức đòn chũm, phần trên cơ thang, cơ bậc thang và 'do only one movement in one plane of motion'; KHÔNG nhắc cơ nâng vai.",
+      "note": "Claim của registry đúng, nhưng bài side-lying-neck-lateral-raise ghi levator-scapulae là cơ chính, điều này nguồn không hỗ trợ."
+    },
+    {
+      "url": "https://www.strengthlog.com/leg-press/",
+      "exists": "yes",
+      "supports": "yes",
+      "evidence": "'primarily the quadriceps, glutes, and adductors'; phụ 'hamstrings'; có hướng dẫn chỉnh chốt an toàn và đặt chân trên bàn đạp máy.",
+      "note": ""
+    },
+    {
+      "url": "https://www.strengthlog.com/incline-dumbbell-curl/",
+      "exists": "yes",
+      "supports": "yes",
+      "evidence": "Primary 'Biceps', Secondary 'Forearm Flexors'; 'sit down on an inclined bench' và để tay buông thõng.",
+      "note": ""
+    },
+    {
+      "url": "https://www.strengthlog.com/straight-arm-lat-pulldown/",
+      "exists": "yes",
+      "supports": "partial",
+      "evidence": "Primary 'Lats'; Secondary 'Rear Deltoids', 'Rotator Cuffs'; kỹ thuật kéo thanh tay thẳng. Không nhắc cơ tròn lớn (teres major).",
+      "note": "Claim của registry khớp; nhưng citedBy ghi teres-major là cơ chính, nguồn không nêu. Trang cũng chỉ nói 'bar', không nói rõ cáp/ròng rọc (nhẹ)."
+    },
+    {
+      "url": "https://gmb.io/?p=102288",
+      "exists": "yes",
+      "supports": "yes",
+      "evidence": "Finger pulses: 'Pull your palms off the ground, keeping the top part of your hand and your fingers pressed into the ground'; 'Rear Facing (Palms Up) Pulses' với mu bàn tay chạm sàn.",
+      "note": "Trang không nêu cơ gấp/duỗi cụ thể (chỉ 'forearm muscles'); có treo xà passive/active hang và plank, phù hợp các bài citedBy."
+    },
+    {
+      "url": "https://www.healthline.com/health/fitness-exercise/lower-trap-exercises",
+      "exists": "yes",
+      "supports": "yes",
+      "evidence": "'Standing Y raise': 'Lower both cable pulleys down to the bottom notch. Cross the cables...'; có 'Advanced: Seated cable Y raise' cho cơ thang dưới.",
+      "note": ""
+    },
+    {
+      "url": "https://www.strengthlog.com/barbell-wrist-curl/",
+      "exists": "yes",
+      "supports": "yes",
+      "evidence": "Primary 'Forearm Flexors'; 'Grab a barbell with an underhand grip and rest your forearms against your thighs, or ... a bench'.",
+      "note": ""
+    },
+    {
+      "url": "https://theprehabguys.com/vimeo-video/prone-ts/",
+      "exists": "yes",
+      "supports": "yes",
+      "evidence": "Không dùng tạ (chỉ khăn kê trán); 'initiate the motion from the shoulder blade'; có bản một tay hoặc nằm trên bề mặt cao để giảm biên độ.",
+      "note": "Ghi chú không nêu cơ cụ thể ngoài 'cơ sau bả vai và vai'; tag trang gồm rhomboids, traps, deltoids, khớp với citedBy."
+    },
+    {
+      "url": "https://www.kenhub.com/en/library/anatomy/external-abdominal-oblique-muscle",
+      "exists": "yes",
+      "supports": "yes",
+      "evidence": "Mục Function: xoay thân sang bên đối diện, gập bên cùng bên, gập thân ra trước khi co hai bên, tăng áp lực ổ bụng.",
+      "note": ""
+    },
+    {
+      "url": "https://www.strengthlog.com/lat-pulldown-with-pronated-grip/",
+      "exists": "yes",
+      "supports": "partial",
+      "evidence": "Primary 'Lats'; Secondary 'Biceps', 'Rear Deltoids', 'Forearm Flexors', 'Rotator Cuffs'; khuyên kéo trước cổ. Không nhắc teres major.",
+      "note": "Registry khớp; citedBy ghi teres-major là cơ chính nhưng nguồn không nêu."
+    },
+    {
+      "url": "https://www.strengthlog.com/leg-extension/",
+      "exists": "yes",
+      "supports": "yes",
+      "evidence": "Primary 'Quads' (không có cơ phụ); hướng dẫn 'Extend your knees with control, until they are completely straight' trên máy.",
+      "note": "Quads bao gồm vasti và rectus femoris như citedBy."
+    },
+    {
+      "url": "https://www.kenhub.com/en/library/anatomy/levator-scapulae-muscle",
+      "exists": "yes",
+      "supports": "yes",
+      "evidence": "Cơ nâng vai 'elevate and retract the shoulder girdle'; co một bên gây 'ipsilateral flexion of the neck', co hai bên 'contributes to extension of the neck'.",
+      "note": "Trang không nói rõ điều kiện 'khi bả vai cố định' như registry diễn đạt; không ảnh hưởng ý chính."
+    },
+    {
+      "url": "https://journals.sagepub.com/doi/10.1177/03635465211025002",
+      "exists": "yes",
+      "supports": "yes",
+      "evidence": "Abstract (Berckmans và cs., AJSM 2021): 'Moderate activity ... for the LS and RM (25%-45% MVIC)' ở cả 4 bài; 'The Pm resulted in low activity during both side-lying exercises (13%-18% MVIC)'.",
+      "note": "Số 13–18% chỉ áp cho 2 bài nằm nghiêng, registry diễn đạt hơi rộng 'trong các bài phục hồi vai'. Không có citedBy. Toàn văn bị paywall, chỉ kiểm abstract."
+    },
+    {
+      "url": "https://www.strengthlog.com/pec-deck/",
+      "exists": "yes",
+      "supports": "partial",
+      "evidence": "Primary 'Chest', Secondary 'Front Deltoid'; có 3 bước kỹ thuật pec deck.",
+      "note": "Registry khớp; nhưng citedBy ghi riêng pectoralis-major-sternal (đầu ức), nguồn chỉ nói 'Chest', không chứng minh đầu cơ cụ thể."
+    },
+    {
+      "url": "https://www.strengthlog.com/kneeling-ab-wheel-roll-out/",
+      "exists": "yes",
+      "supports": "yes",
+      "evidence": "Primary 'Abs', Secondary 'Obliques'; quỳ trên bề mặt có đệm, lăn ra giữ lưng thẳng rồi trở về.",
+      "note": ""
+    },
+    {
+      "url": "https://www.strengthlog.com/single-leg-romanian-deadlift/",
+      "exists": "yes",
+      "supports": "yes",
+      "evidence": "Primary 'Glutes', 'Lower Back', 'Hamstrings'; 'Keep the back straight and start to lean forward by hinging at the hips', giữ hông ngang.",
+      "note": ""
+    },
+    {
+      "url": "https://www.physio-pedia.com/Quadratus_Lumborum",
+      "exists": "yes",
+      "supports": "yes",
+      "evidence": "QL 'Lateral flexes the vertebral column', 'Extends lumbar vertebrae', tạo sling bên để 'maintain frontal plane stability of the pelvis'; nghiêng chậu sang bên.",
+      "note": "Không mô tả trực tiếp 'hip hike', nhưng 'pelvic tilting laterally' phù hợp."
+    },
+    {
+      "url": "https://www.strengthlog.com/cossack-squat/",
+      "exists": "yes",
+      "supports": "yes",
+      "evidence": "Primary 'Hip Flexors', 'Glutes', 'Quads'; Secondary 'Hamstrings', 'Adductors'; 5 bước kỹ thuật cossack squat.",
+      "note": "Cơ khép là cơ phụ, đúng với claim 'cơ khép tham gia'."
+    },
+    {
+      "url": "https://physiorehab-com.treepl.co/rehab-exercise-library/s1-external-rotation-sidelying",
+      "exists": "yes",
+      "supports": "yes",
+      "evidence": "'strengthen your external rotator cuff muscles including teres minor and infraspinatus'; nằm nghiêng khuỷu 90°, không tạ.",
+      "note": ""
+    },
+    {
+      "url": "https://www.strengthlog.com/jackknife-sit-up/",
+      "exists": "yes",
+      "supports": "yes",
+      "evidence": "Primary 'Abs', 'Hip Flexors', Secondary 'Obliques'; nâng chân và thân trên cùng lúc thành hình chữ V.",
+      "note": ""
+    },
+    {
+      "url": "https://profiles.wustl.edu/en/publications/a-comparison-of-serratus-anterior-muscle-activation-during-a-wall/",
+      "exists": "yes",
+      "supports": "yes",
+      "evidence": "Hardwick và cs., JOSPT 2006: 'The wall slide is an effective exercise to activate the SA muscle at and above 90°'; SA khi wall slide không khác biệt đáng kể với push-up plus và scaption.",
+      "note": "Trên 90° chỉ so wall slide với scaption (push-up plus chỉ có ở 90°), registry gộp hơi rộng."
+    },
+    {
+      "url": "https://koreascience.or.kr/article/JAKO201912742274365.page?&lang=en",
+      "exists": "yes",
+      "supports": "yes",
+      "evidence": "Park và cs. 2019: 'TFL activation in HA-SL was 42.01, followed ... by 35.98 and 14.01 in BR and CL'; clamshell thấp nhất ở cả GM và TFL.",
+      "note": ""
+    },
+    {
+      "url": "https://www.reddit.com/r/bodyweightfitness/wiki/exercises/core/",
+      "exists": "blocked",
+      "supports": null,
+      "evidence": "WebFetch báo SITE_BLOCKED cho reddit.com; không truy cập được trang gốc.",
+      "note": "Registry tự ghi xác minh qua bản mirror r.datuan.dev; auditor không vượt chặn nên chưa kiểm được nội dung."
+    },
+    {
+      "url": "https://www.nasm.org/resource-center/exercise-library/decline-push-up",
+      "exists": "yes",
+      "supports": "yes",
+      "evidence": "Pectoralis Major là 'primary mover ... with emphasis on upper chest'; delta trước 'heavily involved'; phụ Triceps, Pectoralis Minor, Serratus Anterior; 'intermediate to advanced'.",
+      "note": "'Upper chest' phù hợp với đầu đòn (clavicular) của citedBy dù không ghi tên đầu cơ."
+    },
+    {
+      "url": "https://www.strengthlog.com/one-handed-bar-hang/",
+      "exists": "yes",
+      "supports": "yes",
+      "evidence": "Primary chỉ 'forearm flexors'; 'Start off by hanging with a tensed and active shoulder', 'Start with short moments of one-handed hanging'.",
+      "note": ""
+    },
+    {
+      "url": "https://www.strengthlog.com/lying-triceps-extension-ez-bar/",
+      "exists": "yes",
+      "supports": "yes",
+      "evidence": "Primary 'Triceps'; 'Try to keep the same distance between your elbows throughout the movement', cầm EZ hẹp.",
+      "note": ""
+    },
+    {
+      "url": "https://www.strengthlog.com/single-leg-deadlift-with-kettlebell/",
+      "exists": "yes",
+      "supports": "yes",
+      "evidence": "Primary 'Glutes', 'Hamstrings', 'Lower Back'; Secondary 'Abductors', 'Adductors'...; 5 bước kỹ thuật với tạ ấm.",
+      "note": ""
+    },
+    {
+      "url": "https://www.strengthlog.com/donkey-kicks/",
+      "exists": "yes",
+      "supports": "yes",
+      "evidence": "Primary 'Glutes', Secondary 'Hamstrings', 'Adductors'; 'Begin on all fours, with your hands directly under your shoulders and knees under your hips'.",
+      "note": ""
+    },
+    {
+      "url": "https://www.strengthlog.com/push-press/",
+      "exists": "yes",
+      "supports": "yes",
+      "evidence": "Primary 'Front Deltoid'; Secondary gồm 'Quads', 'Glutes', 'Lower Back', 'Trapezius', 'Triceps', 'Lateral Deltoid'; 6 bước kỹ thuật push press.",
+      "note": "Delta giữa là cơ phụ ở nguồn, trong khi citedBy xếp deltoid-lateral là cơ chính (lệch nhẹ); registry bỏ sót delta giữa trong danh sách phụ."
+    },
+    {
+      "url": "https://fitwill.app/exercise/0140/brachialis-pull-up.md",
+      "exists": "yes",
+      "supports": "partial",
+      "evidence": "'Brachialis Pull-Up': cơ đích brachialis và biceps; phụ 'Lats, upper back, brachioradialis, forearms'; nhấn gập khuỷu, hạ chậm.",
+      "note": "Claim registry khớp, nhưng đây là biến thể khác với commando pull-up và negative chin-up được trích; nguồn xếp cơ xô là cơ phụ trong khi citedBy ghi latissimus-dorsi là cơ chính."
+    },
+    {
+      "url": "https://www.physio-pedia.com/Biceps_brachii",
+      "exists": "yes",
+      "supports": "yes",
+      "evidence": "'The main functions of the biceps are the flexion and supination ... of the forearm'; góp phần gập vai.",
+      "note": ""
+    },
+    {
+      "url": "https://www.uhcw.nhs.uk/download/clientfiles/files/Patient%20Information%20Leaflets/Clinical%20Support%20Services/Therapies/Hand%20Therapy/Hand%20Therapy%20-%20Wrist%20strengthening.pdf",
+      "exists": "yes",
+      "supports": "partial",
+      "evidence": "Tờ hướng dẫn có duỗi và gập cổ tay với tạ, 'chopping' nghiêng quay/trụ, tập với 'minimal discomfort'.",
+      "note": "Registry khớp; nhưng bài rubber-band-finger-extension trích nguồn này không có trong tờ (không có bài xòe ngón chống dây chun); tờ cũng không nêu cơ."
+    },
+    {
+      "url": "https://loadmuscle.com/exercises/weighted-seated-neck-extension-with-head-harness",
+      "exists": "yes",
+      "supports": "yes",
+      "evidence": "Target/primary 'splenius'; phụ 'Sternocleidomastoid, levator scapulae, upper trapezius'; intermediate; ngồi ghế, đeo đai đầu, ngửa cổ.",
+      "note": ""
+    },
+    {
+      "url": "https://libra.unine.ch/handle/123456789/22822",
+      "exists": "yes",
+      "supports": "yes",
+      "evidence": "McGill, Juker, Kropf (Clin Biomech 1996): 'Heavy lifts ... activated the quadratus lumborum 74% of their maximum'; 'more active (54%) than other muscles during isometric side support postures'.",
+      "note": ""
+    },
+    {
+      "url": "https://www.strengthlog.com/barbell-wrist-curl-behind-the-back/",
+      "exists": "yes",
+      "supports": "yes",
+      "evidence": "Primary 'Forearm Flexors'; 'Grab a barbell behind your back and let it hang in your arms', mở tay cho thanh lăn tới đầu ngón rồi cuộn lại.",
+      "note": ""
+    },
+    {
+      "url": "https://www.strengthlog.com/dumbbell-curl/",
+      "exists": "yes",
+      "supports": "yes",
+      "evidence": "Primary 'Biceps', Secondary 'Forearm Flexors'; văn bản: 'primarily targets your biceps and brachialis'; giữ khuỷu sát người, không đánh đà.",
+      "note": ""
+    }
+  ],
+  "summary": {
+    "yes": 33,
+    "partial": 6,
+    "no": 0,
+    "blocked": 1,
+    "notFound": 0
+  }
+}

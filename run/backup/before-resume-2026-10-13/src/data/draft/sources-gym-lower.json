@@ -1,0 +1,428 @@
+{
+  "https://www.strengthlog.com/cable-crunch/": {
+    "title": "How to Do Cable Crunch: Muscles Worked & Proper Form – StrengthLog",
+    "publisher": "StrengthLog",
+    "checked": "2026-10-11",
+    "supports": "Cơ chính: bụng; phụ: cơ chéo; kỹ thuật gập bụng với cáp tư thế quỳ"
+  },
+  "https://www.strengthlog.com/machine-crunch/": {
+    "title": "How to Do Machine Crunch: Muscles Worked & Proper Form – StrengthLog",
+    "publisher": "StrengthLog",
+    "checked": "2026-10-11",
+    "supports": "Cơ chính: bụng; phụ: cơ chéo; kỹ thuật gập bụng trên máy"
+  },
+  "https://www.strengthlog.com/dead-bugs-with-dumbbells/": {
+    "title": "How to Do Dead Bugs with Dumbbells: Muscles Worked & Proper Form – StrengthLog",
+    "publisher": "StrengthLog",
+    "checked": "2026-10-11",
+    "supports": "Cơ chính: bụng; phụ: cơ chéo; kỹ thuật dead bug cầm tạ đơn"
+  },
+  "https://www.strengthlog.com/weighted-plank/": {
+    "title": "How to Do Weighted Plank: Muscles Worked & Proper Form – StrengthLog",
+    "publisher": "StrengthLog",
+    "checked": "2026-10-11",
+    "supports": "Cơ chính: bụng; phụ: cơ chéo; kỹ thuật plank đặt tạ đĩa trên lưng"
+  },
+  "https://www.strengthlog.com/kneeling-ab-wheel-roll-out/": {
+    "title": "How to Do Kneeling Ab Wheel Roll-Out: Muscles Worked & Proper Form – StrengthLog",
+    "publisher": "StrengthLog",
+    "checked": "2026-10-11",
+    "supports": "Cơ chính: bụng; phụ: cơ chéo; kỹ thuật lăn bánh xe bụng tư thế quỳ"
+  },
+  "https://www.strengthlog.com/pallof-press/": {
+    "title": "How to Do Pallof Press: Muscles Worked & Proper Form – StrengthLog",
+    "publisher": "StrengthLog",
+    "checked": "2026-10-11",
+    "supports": "Cơ chính: cơ chéo bụng và cơ bụng; kỹ thuật đẩy cáp chống xoay"
+  },
+  "https://www.strengthlog.com/dumbbell-side-bend/": {
+    "title": "How to Do Dumbbell Side Bend: Muscles Worked & Proper Form – StrengthLog",
+    "publisher": "StrengthLog",
+    "checked": "2026-10-11",
+    "supports": "Cơ chính: cơ chéo bụng; kỹ thuật nghiêng người với tạ đơn"
+  },
+  "https://www.strengthlog.com/cable-machine-wood-chop-high-to-low/": {
+    "title": "How to Do Cable Machine Wood Chop (High to Low): Muscles Worked & Proper Form – StrengthLog",
+    "publisher": "StrengthLog",
+    "checked": "2026-10-11",
+    "supports": "Cơ chính: cơ chéo bụng; phụ: bụng; kỹ thuật chặt gỗ với cáp từ cao xuống thấp"
+  },
+  "https://www.strengthlog.com/landmine-rotation/": {
+    "title": "How to Do Landmine Rotation: Muscles Worked & Proper Form – StrengthLog",
+    "publisher": "StrengthLog",
+    "checked": "2026-10-11",
+    "supports": "Cơ chính: cơ chéo và cơ bụng; phụ: delta trước; kỹ thuật xoay thân với landmine"
+  },
+  "https://www.strengthlog.com/back-extension/": {
+    "title": "How to Do Back Extensions: Muscles Worked & Proper Form – StrengthLog",
+    "publisher": "StrengthLog",
+    "checked": "2026-10-11",
+    "supports": "Cơ chính: mông, lưng dưới; phụ: đùi sau; kỹ thuật duỗi lưng trên ghế, có thể ôm tạ đĩa"
+  },
+  "https://www.strengthlog.com/reverse-hyperextension/": {
+    "title": "How to Do Reverse Hyperextension: Muscles Worked & Proper Form – StrengthLog",
+    "publisher": "StrengthLog",
+    "checked": "2026-10-11",
+    "supports": "Cơ chính: mông, đùi sau, lưng dưới; kỹ thuật reverse hyperextension trên máy"
+  },
+  "https://www.strengthlog.com/good-morning/": {
+    "title": "How to Do Good Morning: Muscles Worked & Proper Form – StrengthLog",
+    "publisher": "StrengthLog",
+    "checked": "2026-10-11",
+    "supports": "Cơ chính: mông, lưng dưới, đùi sau; phụ: cơ khép; kỹ thuật good morning tạ đòn"
+  },
+  "https://www.strengthlog.com/deadlift/": {
+    "title": "How to Do Deadlift: Muscles Worked & Proper Form – StrengthLog",
+    "publisher": "StrengthLog",
+    "checked": "2026-10-11",
+    "supports": "Cơ chính: mông, lưng dưới; phụ: đùi trước, đùi sau, cơ khép, cơ thang, cơ gấp cẳng tay; kỹ thuật deadlift"
+  },
+  "https://www.strengthlog.com/sumo-deadlift/": {
+    "title": "How to Do Sumo Deadlift: Muscles Worked & Proper Form – StrengthLog",
+    "publisher": "StrengthLog",
+    "checked": "2026-10-11",
+    "supports": "Cơ chính: mông, lưng dưới; phụ: đùi trước, đùi sau, cơ khép, cơ thang; kỹ thuật deadlift sumo"
+  },
+  "https://www.strengthlog.com/machine-glute-kickbacks/": {
+    "title": "How to Do Machine Glute Kickbacks: Muscles Worked & Proper Form – StrengthLog",
+    "publisher": "StrengthLog",
+    "checked": "2026-10-11",
+    "supports": "Cơ chính: mông; phụ: đùi sau, cơ khép; kỹ thuật đá chân sau trên máy"
+  },
+  "https://www.strengthlog.com/cable-pull-through/": {
+    "title": "How to Do Cable Pull-Through: Muscles Worked & Proper Form – StrengthLog",
+    "publisher": "StrengthLog",
+    "checked": "2026-10-11",
+    "supports": "Cơ chính: mông; phụ: lưng dưới, đùi sau, cơ khép; kỹ thuật kéo cáp qua háng"
+  },
+  "https://www.strengthlog.com/cable-glute-kickback/": {
+    "title": "How to Do Cable Glute Kickback: Muscles Worked & Proper Form – StrengthLog",
+    "publisher": "StrengthLog",
+    "checked": "2026-10-11",
+    "supports": "Cơ chính: mông; phụ: đùi sau, cơ khép; kỹ thuật đá chân sau với cáp"
+  },
+  "https://www.strengthlog.com/hip-thrust/": {
+    "title": "How to Do Hip Thrusts: Muscles Worked & Proper Form – StrengthLog",
+    "publisher": "StrengthLog",
+    "checked": "2026-10-11",
+    "supports": "Cơ chính: mông; phụ: cơ khép, đùi trước; kỹ thuật hip thrust tạ đòn"
+  },
+  "https://www.strengthlog.com/kettlebell-swing/": {
+    "title": "How to Do Kettlebell Swing: Muscles Worked & Proper Form – StrengthLog",
+    "publisher": "StrengthLog",
+    "checked": "2026-10-11",
+    "supports": "Cơ chính: mông, lưng dưới; phụ: đùi sau, cơ khép, cơ thang; kỹ thuật swing tạ ấm"
+  },
+  "https://www.strengthlog.com/hip-abduction-machine/": {
+    "title": "How to Do Hip Abduction Machine: Muscles Worked & Proper Form – StrengthLog",
+    "publisher": "StrengthLog",
+    "checked": "2026-10-11",
+    "supports": "Cơ chính: nhóm dạng hông (nêu cơ mông nhỡ); phụ: mông; kỹ thuật dạng hông trên máy"
+  },
+  "https://www.strengthlog.com/cable-machine-hip-abduction/": {
+    "title": "How to Do Cable Machine Hip Abduction: Muscles Worked & Proper Form – StrengthLog",
+    "publisher": "StrengthLog",
+    "checked": "2026-10-11",
+    "supports": "Cơ chính: nhóm dạng hông; phụ: mông; kỹ thuật dạng hông với cáp tư thế đứng"
+  },
+  "https://www.strengthlog.com/lateral-walk-with-band/": {
+    "title": "How to Do Lateral Walk With Band: Muscles Worked & Proper Form – StrengthLog",
+    "publisher": "StrengthLog",
+    "checked": "2026-10-11",
+    "supports": "Cơ chính: nhóm dạng hông (cơ mông nhỡ); phụ: mông; kỹ thuật bước ngang với dây"
+  },
+  "https://www.strengthlog.com/clamshells/": {
+    "title": "How to Do Clamshells: Muscles Worked & Proper Form – StrengthLog",
+    "publisher": "StrengthLog",
+    "checked": "2026-10-11",
+    "supports": "Cơ chính: nhóm dạng hông; phụ: mông; kỹ thuật clamshell, có thể thêm dây trên gối"
+  },
+  "https://www.strengthlog.com/standing-hip-flexor-raise/": {
+    "title": "How to Do Standing Hip Flexor Raise: Muscles Worked & Proper Form – StrengthLog",
+    "publisher": "StrengthLog",
+    "checked": "2026-10-11",
+    "supports": "Cơ chính: nhóm gấp hông; phụ: cơ chày trước; kỹ thuật nâng gối đứng với tạ ấm móc ở bàn chân"
+  },
+  "https://www.strengthlog.com/hanging-knee-raise/": {
+    "title": "How to Do Hanging Knee Raise: Muscles Worked & Proper Form – StrengthLog",
+    "publisher": "StrengthLog",
+    "checked": "2026-10-11",
+    "supports": "Cơ chính: bụng và nhóm gấp hông; phụ: cơ chéo; kỹ thuật treo xà co gối (bản không tạ)"
+  },
+  "https://www.strengthlog.com/hip-adduction-machine/": {
+    "title": "How to Do Hip Adduction Machine: Muscles Worked & Proper Form – StrengthLog",
+    "publisher": "StrengthLog",
+    "checked": "2026-10-11",
+    "supports": "Cơ chính: nhóm cơ khép; kỹ thuật khép hông trên máy"
+  },
+  "https://www.strengthlog.com/cable-machine-hip-adduction/": {
+    "title": "How to Do Cable Machine Hip Adduction: Muscles Worked & Proper Form – StrengthLog",
+    "publisher": "StrengthLog",
+    "checked": "2026-10-11",
+    "supports": "Cơ chính: nhóm cơ khép; kỹ thuật khép hông với cáp"
+  },
+  "https://www.strengthlog.com/hip-adduction-against-band/": {
+    "title": "How to Do Hip Adduction Against Band: Muscles Worked & Proper Form – StrengthLog",
+    "publisher": "StrengthLog",
+    "checked": "2026-10-11",
+    "supports": "Cơ chính: nhóm cơ khép; kỹ thuật khép hông với dây neo thấp"
+  },
+  "https://www.strengthlog.com/sumo-squat/": {
+    "title": "How to Do Sumo Squat: Muscles Worked & Proper Form – StrengthLog",
+    "publisher": "StrengthLog",
+    "checked": "2026-10-11",
+    "supports": "Cơ chính: đùi trước, mông, cơ khép, lưng dưới; kỹ thuật squat chân rộng với tạ đòn"
+  },
+  "https://www.strengthlog.com/leg-extension/": {
+    "title": "How to Do Leg Extension: Muscles Worked & Proper Form – StrengthLog",
+    "publisher": "StrengthLog",
+    "checked": "2026-10-11",
+    "supports": "Cơ chính: tứ đầu đùi; kỹ thuật đá đùi trên máy"
+  },
+  "https://www.strengthlog.com/leg-press/": {
+    "title": "How to Do Leg Press: Muscles Worked & Proper Form – StrengthLog",
+    "publisher": "StrengthLog",
+    "checked": "2026-10-11",
+    "supports": "Cơ chính: đùi trước, mông, cơ khép; phụ: đùi sau; kỹ thuật đạp đùi trên máy"
+  },
+  "https://www.strengthlog.com/goblet-squat/": {
+    "title": "How to Do Goblet Squat: Muscles Worked & Proper Form – StrengthLog",
+    "publisher": "StrengthLog",
+    "checked": "2026-10-11",
+    "supports": "Cơ chính: đùi trước, mông, cơ khép; kỹ thuật goblet squat"
+  },
+  "https://www.strengthlog.com/dumbbell-lunge/": {
+    "title": "How to Do Dumbbell Lunge: Muscles Worked & Proper Form – StrengthLog",
+    "publisher": "StrengthLog",
+    "checked": "2026-10-11",
+    "supports": "Cơ chính: đùi trước, mông, cơ khép; kỹ thuật lunge với tạ đơn"
+  },
+  "https://www.strengthlog.com/squat/": {
+    "title": "How to Do Squat: Muscles Worked & Proper Form – StrengthLog",
+    "publisher": "StrengthLog",
+    "checked": "2026-10-11",
+    "supports": "Cơ chính: đùi trước, cơ khép, mông, lưng dưới; kỹ thuật squat tạ đòn"
+  },
+  "https://www.strengthlog.com/bulgarian-split-squat/": {
+    "title": "How to Do Bulgarian Split Squat: Muscles Worked & Proper Form – StrengthLog",
+    "publisher": "StrengthLog",
+    "checked": "2026-10-11",
+    "supports": "Cơ chính: đùi trước, mông, cơ khép; kỹ thuật Bulgarian split squat, có biến thể cầm tạ đơn"
+  },
+  "https://www.strengthlog.com/step-up/": {
+    "title": "How to Do Step Up: Muscles Worked & Proper Form – StrengthLog",
+    "publisher": "StrengthLog",
+    "checked": "2026-10-11",
+    "supports": "Cơ chính: đùi trước, mông, cơ khép; phụ: đùi sau; kỹ thuật bước lên bục, có biến thể tạ đơn"
+  },
+  "https://www.strengthlog.com/front-squat/": {
+    "title": "How to Do Front Squat: Muscles Worked & Proper Form – StrengthLog",
+    "publisher": "StrengthLog",
+    "checked": "2026-10-11",
+    "supports": "Cơ chính: đùi trước, mông, cơ khép, lưng dưới; kỹ thuật front squat"
+  },
+  "https://www.strengthlog.com/seated-leg-curl/": {
+    "title": "How to Do Seated Leg Curl: Muscles Worked & Proper Form – StrengthLog",
+    "publisher": "StrengthLog",
+    "checked": "2026-10-11",
+    "supports": "Cơ chính: đùi sau; kỹ thuật cuốn đùi ngồi trên máy"
+  },
+  "https://www.strengthlog.com/lying-leg-curl/": {
+    "title": "How to Do Lying Leg Curl: Muscles Worked & Proper Form – StrengthLog",
+    "publisher": "StrengthLog",
+    "checked": "2026-10-11",
+    "supports": "Cơ chính: đùi sau; kỹ thuật cuốn đùi nằm sấp trên máy"
+  },
+  "https://www.strengthlog.com/dumbbell-romanian-deadlift/": {
+    "title": "How to Do Dumbbell Romanian Deadlift: Muscles Worked & Proper Form – StrengthLog",
+    "publisher": "StrengthLog",
+    "checked": "2026-10-11",
+    "supports": "Cơ chính: mông, lưng dưới, đùi sau; kỹ thuật RDL tạ đơn"
+  },
+  "https://www.strengthlog.com/romanian-deadlift/": {
+    "title": "How to Do Romanian Deadlift: Muscles Worked & Proper Form – StrengthLog",
+    "publisher": "StrengthLog",
+    "checked": "2026-10-11",
+    "supports": "Cơ chính: mông, lưng dưới, đùi sau; kỹ thuật RDL tạ đòn"
+  },
+  "https://www.strengthlog.com/single-leg-deadlift-with-kettlebell/": {
+    "title": "How to Do Single Leg Deadlift with Kettlebell: Muscles Worked & Proper Form – StrengthLog",
+    "publisher": "StrengthLog",
+    "checked": "2026-10-11",
+    "supports": "Cơ chính: mông, đùi sau, lưng dưới; phụ: nhóm dạng hông; kỹ thuật deadlift một chân với tạ ấm"
+  },
+  "https://www.strengthlog.com/calf-raise-in-leg-press/": {
+    "title": "How to Do Calf Raise in Leg Press: Muscles Worked & Proper Form – StrengthLog",
+    "publisher": "StrengthLog",
+    "checked": "2026-10-11",
+    "supports": "Cơ chính: bắp chân; kỹ thuật nhón gót trên máy đạp đùi"
+  },
+  "https://www.strengthlog.com/standing-calf-raise/": {
+    "title": "How to Do Standing Calf Raise: Muscles Worked & Proper Form – StrengthLog",
+    "publisher": "StrengthLog",
+    "checked": "2026-10-11",
+    "supports": "Bắp chân; bài đứng tập cả cơ bụng chân và cơ dép, bản ngồi làm cơ bụng chân chùng; kỹ thuật trên máy"
+  },
+  "https://www.strengthlog.com/barbell-standing-calf-raise/": {
+    "title": "How to Do Barbell Standing Calf Raise: Muscles Worked & Proper Form – StrengthLog",
+    "publisher": "StrengthLog",
+    "checked": "2026-10-11",
+    "supports": "Bắp chân (cơ bụng chân và cơ dép); kỹ thuật nhón gót đứng với tạ đòn"
+  },
+  "https://www.strengthlog.com/seated-calf-raise/": {
+    "title": "How to Do Seated Calf Raise: Muscles Worked & Proper Form – StrengthLog",
+    "publisher": "StrengthLog",
+    "checked": "2026-10-11",
+    "supports": "Bắp chân; bài ngồi chủ yếu tập cơ dép vì cơ bụng chân ở tư thế chùng"
+  },
+  "https://www.strengthlog.com/barbell-seated-calf-raise/": {
+    "title": "How to Do Barbell Seated Calf Raise: Muscles Worked & Proper Form – StrengthLog",
+    "publisher": "StrengthLog",
+    "checked": "2026-10-11",
+    "supports": "Bắp chân, chủ yếu cơ dép; kỹ thuật nhón gót ngồi với tạ đòn trên đùi"
+  },
+  "https://www.strengthlog.com/tibialis-band-pull/": {
+    "title": "How to Do Tibialis Band Pull: Muscles Worked & Proper Form – StrengthLog",
+    "publisher": "StrengthLog",
+    "checked": "2026-10-11",
+    "supports": "Cơ chính: cơ chày trước; kỹ thuật kéo mũi chân với dây kháng lực"
+  },
+  "https://www.strengthlog.com/kettlebell-tibialis-raise/": {
+    "title": "How to Do Kettlebell Tibialis Raise: Muscles Worked & Proper Form – StrengthLog",
+    "publisher": "StrengthLog",
+    "checked": "2026-10-11",
+    "supports": "Cơ chính: cơ chày trước; kỹ thuật nâng mũi chân với tạ ấm khi ngồi"
+  },
+  "https://github.com/yuhonas/free-exercise-db": {
+    "title": "free-exercise-db (yuhonas) – Open Public Domain Exercise Dataset",
+    "publisher": "GitHub / yuhonas (Unlicense)",
+    "checked": "2026-10-11",
+    "supports": "Nhãn level, equipment, mechanic dùng làm căn cứ chấm độ khó theo rubric; không dùng phần hướng dẫn"
+  },
+  "https://doaj.org/article/e2daa417ef2d486e80e4a1e23b109965": {
+    "title": "Transversus Abdominis Ultrasound Thickness during Popular Trunk–Pilates Exercises in Young and Middle-Aged Women (Tsartsapakis et al., J Funct Morphol Kinesiol 2023)",
+    "publisher": "DOAJ / MDPI",
+    "checked": "2026-10-11",
+    "supports": "Dead bug làm cơ ngang bụng dày lên nhiều nhất trong các bài khảo sát → cơ ngang bụng là cơ chính của dead bug"
+  },
+  "https://www.physio-pedia.com/Transversus_Abdominis": {
+    "title": "Transversus Abdominis – Physiopedia",
+    "publisher": "Physiopedia",
+    "checked": "2026-10-11",
+    "supports": "Plank và side plank là bài kích hoạt cơ ngang bụng tốt → cơ ngang bụng là cơ chính của plank có tạ"
+  },
+  "https://www.stmarys.ac.uk/document-library/pdfs/emg-of-trunk-exercises-and-implications.pdf": {
+    "title": "An Electromyographic Analysis of the Ab-Slide Exercise, Abdominal Crunch, Supine Double Leg Thrust, and Side Bridge (Youdas et al., JSCR 2008)",
+    "publisher": "St Mary's University (bản PDF bài báo JSCR)",
+    "checked": "2026-10-11",
+    "supports": "Bài lăn bụng (Ab-Slide) cho EMG cơ thẳng bụng cao nhất (~80% MVIC), cơ chéo cao, cơ thẳng đùi thấp"
+  },
+  "https://www.sussex.ac.uk/sport/documents/anti-rotations-pallof-press.pdf": {
+    "title": "Level Three: Anti Rotations and Pallof Press",
+    "publisher": "University of Sussex – Sport",
+    "checked": "2026-10-11",
+    "supports": "Pallof press: cơ chính là cơ thẳng bụng, cơ ngang bụng, cơ chéo; dùng cáp hoặc dây; kỹ thuật chống xoay"
+  },
+  "https://nfpt.com/suitcase-carries-how-to-do/": {
+    "title": "Suitcase Carries: How to do them and why you should for a great core challenge",
+    "publisher": "National Federation of Professional Trainers (NFPT)",
+    "checked": "2026-10-11",
+    "supports": "Suitcase carry tập cơ chéo bụng, cơ bụng sâu, cơ ổn định hông, cơ cầm nắm; kỹ thuật và lỗi thường gặp"
+  },
+  "https://pmc.ncbi.nlm.nih.gov/articles/PMC4595911/": {
+    "title": "An Examination of the Gluteal Muscle Activity Associated with Dynamic Hip Abduction and Hip External Rotation Exercise: A Systematic Review (Macadam, Cronin, Contreras – IJSPT 2015)",
+    "publisher": "International Journal of Sports Physical Therapy / PMC",
+    "checked": "2026-10-11",
+    "supports": "Dạng hông đứng với dây, dạng hông nằm nghiêng và clamshell kích hoạt cơ mông nhỡ ở mức cao/vừa"
+  },
+  "https://www.physio-pedia.com/Gluteus_Medius": {
+    "title": "Gluteus Medius – Physiopedia",
+    "publisher": "Physiopedia",
+    "checked": "2026-10-11",
+    "supports": "Cơ mông nhỡ là cơ dạng hông chính; EMG: dạng hông nằm nghiêng 56% MVIC, clamshell, deadlift một chân ở nhóm kích hoạt cao"
+  },
+  "https://www.physio-pedia.com/Gluteus_Minimus": {
+    "title": "Gluteus Minimus – Physiopedia",
+    "publisher": "Physiopedia",
+    "checked": "2026-10-11",
+    "supports": "Chức năng chính của cơ mông bé là dạng hông; dạng hông nằm nghiêng nằm trong các bài tăng sức cho cơ này"
+  },
+  "https://www.physio-pedia.com/Gracilis": {
+    "title": "Gracilis – Physiopedia",
+    "publisher": "Physiopedia",
+    "checked": "2026-10-11",
+    "supports": "Cơ thon khép đùi, gập gối và xoay trong cẳng chân → tham gia chính trong các bài khép hông"
+  },
+  "https://ca.physitrack.com/home-exercise-video/cable-hip-flexion": {
+    "title": "Cable machine hip flexion – exercise video",
+    "publisher": "Physitrack",
+    "checked": "2026-10-11",
+    "supports": "Kỹ thuật gập hông đứng với cáp đeo cổ chân, cảm nhận lực ở mặt trước hông"
+  },
+  "https://pmc.ncbi.nlm.nih.gov/articles/PMC11546833/": {
+    "title": "Hip Flexor Muscle Activation During Common Rehabilitation and Strength Exercises (J Clin Med 2024;13(21):6617)",
+    "publisher": "Journal of Clinical Medicine / PMC",
+    "checked": "2026-10-11",
+    "supports": "Tổng quan EMG: cơ chậu và cơ thắt lưng lớn hoạt động mạnh khi gập hông nâng chân thẳng; thêm tạ làm tăng hoạt động; đề xuất lộ trình thêm tải ngoài"
+  },
+  "https://www.motra.com/exercises/weightedHangingKneeRaise": {
+    "title": "Weighted Hanging Knee Raise – Exercise Guide",
+    "publisher": "Motra",
+    "checked": "2026-10-11",
+    "supports": "Treo xà co gối có kẹp tạ đơn hoặc đeo tạ cổ chân; cơ gấp hông (iliopsoas) và cơ bụng hoạt động mạnh; lỗi cần tránh"
+  },
+  "https://www.frontiersin.org/journals/physiology/articles/10.3389/fphys.2023.1272106/full": {
+    "title": "Triceps surae muscle hypertrophy is greater after standing versus seated calf-raise training (Kinoshita et al., Front Physiol 2023)",
+    "publisher": "Frontiers in Physiology",
+    "checked": "2026-10-11",
+    "supports": "Nhón gót đứng (gối duỗi) kéo dài và phát triển cơ bụng chân; bản ngồi gối gập làm cơ bụng chân chùng, cơ dép (một khớp) vẫn được tập"
+  },
+  "https://e3rehab.com/how-to-grow-your-calves/": {
+    "title": "How To Grow Your Calves",
+    "publisher": "E3 Rehab",
+    "checked": "2026-10-11",
+    "supports": "Gối gập làm cơ bụng chân chùng nên bài gối gập thiên về cơ dép; các biến thể nhón gót ngồi với tạ đòn/tạ đơn; nhón gót một chân cầm tạ đơn"
+  },
+  "https://www.physitrack.com/exercise-library/how-to-perform-the-soleus-raises": {
+    "title": "Step-by-Step Guide to the Soleus Raises Exercise",
+    "publisher": "Physitrack",
+    "checked": "2026-10-11",
+    "supports": "Nhón gót một chân với gối hơi chùng để nhắm vào cơ dép; dùng bục để tăng biên độ"
+  },
+  "https://www.apexfitness.com/blogs/learn/complete-guide-to-tib-bar-training": {
+    "title": "Complete Guide to Tib Bar Training",
+    "publisher": "APEX Fitness",
+    "checked": "2026-10-11",
+    "supports": "Kỹ thuật nâng mũi chân với tib bar khi ngồi; tập cơ chày trước; cách lắp tạ đĩa"
+  },
+  "https://e3rehab.com/peroneal/": {
+    "title": "Peroneal Tendinopathy",
+    "publisher": "E3 Rehab",
+    "checked": "2026-10-11",
+    "supports": "Bài cho cơ mác: xoay bàn chân ra ngoài với dây, xoay ra ngoài nằm nghiêng đeo tạ cổ chân, nhón gót phức hợp có dây; lưu ý tiến độ"
+  },
+  "https://www.webmd.com/a-to-z-guides/best-exercises-peroneus-longus": {
+    "title": "Best Exercises for the Peroneus Longus",
+    "publisher": "WebMD (duyệt chuyên môn: Ross Brakeville, DPT)",
+    "checked": "2026-10-11",
+    "supports": "Chức năng cơ mác dài; bài xoay bàn chân ra ngoài với dây kháng lực khi ngồi"
+  },
+  "https://brookbushinstitute.com/articles/sartorius": {
+    "title": "Sartorius",
+    "publisher": "Brookbush Institute",
+    "checked": "2026-10-11",
+    "supports": "Chức năng cơ may (gập, xoay ngoài, dạng nhẹ hông; gập gối); ghi rõ không có kỹ thuật kích hoạt riêng cho cơ này"
+  },
+  "https://www.physio-pedia.com/Sartorius": {
+    "title": "Sartorius – Physiopedia",
+    "publisher": "Physiopedia",
+    "checked": "2026-10-11",
+    "supports": "Cơ may gập hông, dạng yếu và xoay ngoài đùi, gập gối; trang không nêu bài tăng sức riêng nào"
+  },
+  "https://www.medicalnewstoday.com/articles/sartorius-muscle-pain": {
+    "title": "Sartorius muscle pain: Anatomy, treatment, and exercises",
+    "publisher": "Medical News Today",
+    "checked": "2026-10-11",
+    "supports": "Chỉ gợi ý bước ngang với dây và clam — các bài mà nghiên cứu xác định cơ mông nhỡ là cơ chính"
+  }
+}
