@@ -22,6 +22,14 @@ Trang chỉ dùng chữ, không có ảnh minh hoạ bài tập (lý do ở [ATT
 
 > **Lưu ý sức khoẻ.** Nội dung chỉ mang tính tham khảo, không thay thế hướng dẫn của huấn luyện viên hay bác sĩ. Dừng tập nếu thấy đau.
 
+## Bản bổ sung v2 (2026-10-14)
+
+- **Tô màu đồ thị chống bấm nhầm:** mặc định mô hình màu đất sét xám sáng (`#d9d5ce`). Rê chuột lên một cơ → cơ đó và mọi cơ chạm nó mang màu khác nhau. Đồ thị kề tính từ hình học thật của `muscles.glb` (hai cơ kề khi có ≥ 3 cặp đỉnh cách nhau ≤ 5,9 mm, cùng bên cơ thể), tô bằng DSatur → 144 cạnh, 6 màu (bảng Okabe–Ito, các màu cách nhau ΔE00 ≥ 21,7). Cơ đang chọn màu hồng tím `#d01c8b`. Trên màn hình cảm ứng, chọn một cơ sẽ tô các cơ kề nó. Dựng lại: `node tools/model/adjacency.mjs` → `src/data/muscle-colors.json`.
+- **Song ngữ VI / EN:** nút ở góc trên bên phải; nhớ lựa chọn (localStorage) và nhận `?lang=vi|en`. Nội dung tiếng Anh: `src/data/i18n/en-{meta,gym,calisthenics}.json` (dịch sát bản Việt, cùng số bước), chỉ tải khi chọn EN.
+- **Thẻ bài học tối giản:** tên, nhãn mức, các bước, video, một dòng an toàn.
+- **Video:** nhúng YouTube (youtube-nocookie, chỉ tải khi bấm). 222/299 bài có video đã xác minh qua oEmbed (tiêu đề, kênh, cho phép nhúng), từ 133 kênh. 77 bài còn lại **chưa được tìm** (hết hạn mức tìm kiếm của phiên) và tạm hiện nút "Tìm video trên YouTube"; tìm tiếp → ghi `src/data/videos/follow-up-*.json` → `node tools/data/merge-videos.mjs`.
+- **Nguồn được ẩn:** không còn trong thẻ bài/đầu bảng; một nút "Nguồn"/"Sources" nhỏ ở chân trang mở danh sách nguồn của nội dung đang xem + ghi công chung.
+
 ## Số liệu
 
 | Mục | Số lượng |
@@ -112,6 +120,9 @@ node --max-old-space-size=8192 tools/model/build-model.mjs
 node scripts/check-data.mjs       # C3 (đủ bài), C4 (dễ → khó), C5 (có nguồn https), C6 (tham chiếu nhất quán, không trùng)
 node scripts/check-model.mjs      # C6 (ánh xạ 1–1 cơ ↔ node GLB), C10 (kích thước, tam giác, draw call), ghi công trong GLB
 node scripts/check-rubric.mjs     # C4 (thang điểm): mức khớp quy tắc nguồn trong difficulty-rubric.md, lệch free-exercise-db tối đa 1 mức có lý do
+node scripts/check-colors.mjs     # v2: cơ kề khác màu; bảng màu, màu đất sét, màu chọn đủ khác nhau (ΔE00)
+node scripts/check-i18n.mjs       # v2: bản tiếng Anh đủ, đúng số bước, không còn tiếng Việt
+node scripts/check-videos.mjs     # v2: mỗi bài có video đã xác minh hoặc mục chờ/none có lý do + từ khoá
 node scripts/check-manifest.mjs   # C7 (đủ file trong run/manifest.json, không rỗng; dòng stats của README khớp dữ liệu)
 npm run check                     # chạy cả ba
 ```
@@ -171,6 +182,9 @@ ATTRIBUTION.md  ghi công và giấy phép
 
 ## Hạn chế đã biết và việc còn mở
 
+- v2: 77/299 bài chưa có video (chưa tìm, không phải không có). Việc phát video thật và ảnh thu nhỏ chưa kiểm được trong container (mạng tới YouTube bị chặn; QA giả lập hai tên miền i.ytimg.com và youtube-nocookie.com) → cần mở thử trên máy có mạng. Video chỉ được chọn theo tiêu đề + kênh (oEmbed), chưa ai xem nội dung từng video.
+- v2: JS chính 397 KB gzip (+ 3 khối tiếng Anh ~46 KB tải khi cần).
+
 - Thang độ khó: bản rubric chấm điểm "T" (6 tiêu chí) của phiên 2026-10-11 đã bị thay và không còn lưu. Ở cổng N10 (2026-10-13), cụm "T = n" được bỏ khỏi `difficultyBasis` (bản vá `src/data/draft/fix-F.json`), muscle-up hạ từ mức 5 xuống 4 theo quy tắc lệch tối đa 1 mức; `check-rubric.mjs` xác nhận 299 bài khớp rubric hiện hành. Mức độ là đánh giá tương đối, chưa qua huấn luyện viên thẩm định.
 
 Các mục unresolved trong `run/checks.md`:
@@ -213,3 +227,11 @@ Các vấn đề quan sát được khi bàn giao. Chúng chưa có dòng riêng
 
 - Mô hình 3D: CC BY-SA 2.1 JP (bản phái sinh từ BodyParts3D), xem [`public/models/LICENSE.txt`](public/models/LICENSE.txt).
 - Dữ liệu, nguồn và giấy phép thư viện: xem [ATTRIBUTION.md](ATTRIBUTION.md).
+
+## Triển khai lên Cloudflare (Workers Builds)
+
+Repo có sẵn `wrangler.jsonc` trỏ `assets.directory` vào `./dist/` (thư mục Vite build ra), bật `not_found_handling: "single-page-application"`.
+Trên dashboard: Build command `npm run build`, Deploy command `npx wrangler deploy`, Path `/`.
+Trường `name` trong `wrangler.jsonc` phải trùng tên Worker trên dashboard.
+Nếu thiếu file này, `wrangler deploy` sẽ tự đoán cấu hình và có thể phục vụ thư mục mã nguồn → trang trắng (`/src/main.jsx` không chạy được trên trình duyệt).
+Đã kiểm tra: `npx wrangler deploy --dry-run` đọc 35 file từ `dist`; `wrangler dev` hiển thị trang, tải mô hình 3D, 0 lỗi console.

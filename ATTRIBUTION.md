@@ -136,3 +136,11 @@ Bảng trên chỉ gồm các phụ thuộc trực tiếp (cộng `scheduler`). 
 Nội dung chỉ mang tính tham khảo, không thay thế hướng dẫn của huấn luyện viên hay bác sĩ. Dừng tập nếu thấy đau.
 
 Độ khó là đánh giá tương đối cho người tập khỏe mạnh bình thường, không phải chỉ định cá nhân. Người có bệnh lý, chấn thương, đang mang thai hoặc mới bắt đầu nên hỏi ý kiến chuyên gia trước khi tập.
+
+## Video hướng dẫn (v2)
+
+Video được **nhúng** từ YouTube qua trình phát chính thức (youtube-nocookie.com), không tải về hay lưu lại. Bản quyền thuộc kênh đăng tải; mỗi video ghi tên kênh kèm liên kết ngay dưới khung phát và trong hộp "Nguồn". Danh sách: `src/data/videos.json` (222 video từ 133 kênh, kiểm tra oEmbed ngày 2026-10-14). Video là tài liệu tham khảo bên ngoài; cách thực hiện trong website là phần viết riêng có nguồn.
+
+## Bản tiếng Anh (v2)
+
+`src/data/i18n/*.json` là bản dịch của chính phần mô tả tiếng Việt (tự viết, có nguồn) — không dịch hay sao chép văn bản của nguồn bên ngoài.

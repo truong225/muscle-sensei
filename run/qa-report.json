@@ -17,16 +17,61 @@
   "detail": {
    "exercise": "flexed-arm-hang",
    "stepsShown": true,
-   "chip": "brachioradialis",
-   "chipSelects": true
+   "minimalCard": {
+    "noChips": true,
+    "noBasis": true,
+    "noSourceLinks": true,
+    "safetyLine": true
+   },
+   "iframeSrc": "https://www.youtube-nocookie.com/embed/ulECys1YqvQ?autoplay=1&rel=0",
+   "videoOk": true,
+   "pendingExercise": "jackknife-sit-up",
+   "searchHref": "https://www.youtube.com/results?search_query=jackknife%20sit%20up%20how%20to%20proper%20form%20tutorial",
+   "searchOk": true
   },
   "keyboardSelected": "triceps-brachii",
   "exceptionNoteShown": true
  },
  "C9_attribution": {
   "pass": true,
+  "headerHasSourcesButton": false,
+  "currentMuscleSourcesListed": true,
   "exactSentence": true,
   "mirrorNamed": true
+ },
+ "V2_language": {
+  "pass": true,
+  "enVietnameseLeaks": [],
+  "enHtmlLang": "en",
+  "switchedLiveToVi": true,
+  "persistedAfterReload": true
+ },
+ "V2_graph_colouring": {
+  "pass": true,
+  "defaultAllClay": true,
+  "hover": {
+   "deltoid-lateral": {
+    "ok": true,
+    "lit": 8,
+    "wrong": []
+   },
+   "vasti": {
+    "ok": true,
+    "lit": 7,
+    "wrong": []
+   },
+   "erector-spinae": {
+    "ok": true,
+    "lit": 15,
+    "wrong": []
+   },
+   "external-oblique": {
+    "ok": true,
+    "lit": 11,
+    "wrong": []
+   }
+  },
+  "backToClayAfterLeave": true
  },
  "C8_mobile": {
   "pass": true,
@@ -38,12 +83,14 @@
   "glbBytes": 5017708,
   "triangles": 597453,
   "drawCalls": 83,
-  "loadMs": 270,
+  "loadMs": 376,
   "note": "đo trong container SwiftShader; FPS máy thật chưa đo"
  },
  "C1_console": {
   "pass": true,
-  "errors": []
+  "errors": [],
+  "failedRequests": [],
+  "note": "i.ytimg.com và youtube-nocookie.com được giả lập vì container bị chặn mạng; phát video thật cần kiểm trên máy có mạng"
  },
  "allPass": true
 }

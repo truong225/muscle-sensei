@@ -3,6 +3,7 @@ import musclesJson from "../data/muscles.json";
 import exercisesJson from "../data/exercises.json";
 import sourcesJson from "../data/sources.json";
 import exceptionsJson from "../data/exceptions.json";
+import videosJson from "../data/videos.json";
 import rubricMd from "../data/difficulty-rubric.md?raw";
 import { sortExercises } from "../data/sortExercises.js";
 
@@ -12,6 +13,7 @@ export const MUSCLES = musclesJson.muscles;
 export const EXERCISES = exercisesJson;
 export const SOURCES = sourcesJson;
 export const EXCEPTIONS = exceptionsJson;
+export const VIDEOS = videosJson;
 export const TABS = [
   { id: "gym", label: "Gym" },
   { id: "calisthenics", label: "Calisthenics" },
@@ -57,7 +59,70 @@ function parseRubric(md) {
   return rows.length === 5 ? rows : FALLBACK_RUBRIC;
 }
 export const RUBRIC = parseRubric(rubricMd);
-export const levelLabel = (n) => RUBRIC.find((r) => r.level === n)?.label || "";
+
+// ---------- dữ liệu tiếng Anh (tải động: người dùng tiếng Việt không phải tải)
+let EN = null;
+let enPromise = null;
+export function enReady() {
+  return !!EN;
+}
+export function loadEn() {
+  if (EN) return Promise.resolve(EN);
+  if (!enPromise) {
+    enPromise = Promise.all([
+      import("../data/i18n/en-meta.json"),
+      import("../data/i18n/en-gym.json"),
+      import("../data/i18n/en-calisthenics.json"),
+    ])
+      .then(([meta, gym, cali]) => {
+        EN = { meta: meta.default, ex: { ...gym.default, ...cali.default } };
+        return EN;
+      })
+      .catch((e) => {
+        enPromise = null;
+        throw e;
+      });
+  }
+  return enPromise;
+}
+const isEn = (lang) => lang === "en" && EN;
+
+// ---------- truy cập dữ liệu theo ngôn ngữ
+export function muscleName(m, lang) {
+  if (!m) return "";
+  return isEn(lang) ? EN.meta.muscles[m.id]?.name || m.nameEn : m.nameVi;
+}
+export function muscleFunctions(m, lang) {
+  return isEn(lang) ? EN.meta.muscles[m.id]?.function || [] : m.functionVi || [];
+}
+export function groupName(g, lang) {
+  if (!g) return "";
+  return isEn(lang) ? EN.meta.groups[g.id] || g.id : g.nameVi;
+}
+export function exName(ex, lang) {
+  return isEn(lang) ? EN.ex[ex.id]?.name || ex.nameEn : ex.nameVi;
+}
+/** Tên tiếng Anh của bài (dùng làm từ khoá tìm YouTube ở cả hai ngôn ngữ). */
+export function exNameEn(ex) {
+  return EN?.ex[ex.id]?.name || ex.nameEn;
+}
+export function exSteps(ex, lang) {
+  return isEn(lang) ? EN.ex[ex.id]?.steps || [] : ex.steps || [];
+}
+export function exSafety(ex, lang) {
+  return isEn(lang) ? EN.ex[ex.id]?.safety || [] : ex.safety || [];
+}
+export function exceptionReason(muscleId, type, lang) {
+  if (isEn(lang)) return EN.meta.exceptions[muscleId]?.[type] || "";
+  return EXCEPTIONS[muscleId]?.[type]?.reason || "";
+}
+export function levelLabel(n, lang = "vi") {
+  if (isEn(lang)) return EN.meta.levels[String(n)] || "";
+  return RUBRIC.find((r) => r.level === n)?.label || "";
+}
+export function videoFor(exId) {
+  return VIDEOS[exId] || null;
+}
 
 // ---------- nguồn
 export function hostnameOf(url) {
@@ -91,19 +156,32 @@ export function fold(s) {
     .replace(/Đ/g, "D")
     .toLowerCase();
 }
-const searchIndex = new Map(
-  MUSCLES.map((m) => [
-    m.id,
-    fold([m.nameVi, m.nameLa, m.nameEn, groupById.get(m.group)?.nameVi, m.id.replace(/-/g, " ")].join(" | ")),
-  ]),
-);
-export function searchMuscles(query) {
+const searchIndexes = {};
+function searchIndexFor(lang) {
+  const key = isEn(lang) ? "en" : "vi";
+  if (!searchIndexes[key]) {
+    searchIndexes[key] = new Map(
+      MUSCLES.map((m) => {
+        const g = groupById.get(m.group);
+        const parts =
+          key === "en"
+            ? [muscleName(m, "en"), m.nameLa, groupName(g, "en"), m.id.replace(/-/g, " ")]
+            : // tiếng Việt: tên Việt (có/không dấu), Latin, và cả tên tiếng Anh quen dùng trong phòng tập (lats, biceps…)
+              [m.nameVi, m.nameLa, m.nameEn, g?.nameVi, m.id.replace(/-/g, " ")];
+        return [m.id, fold(parts.join(" | "))];
+      }),
+    );
+  }
+  return searchIndexes[key];
+}
+export function searchMuscles(query, lang = "vi") {
   const tokens = fold(query).split(/[\s,.;:()–-]+/).filter(Boolean);
   if (!tokens.length) return MUSCLES_BY_GROUP;
+  const index = searchIndexFor(lang);
   return MUSCLES_BY_GROUP.map(({ group, muscles }) => ({
     group,
     muscles: muscles.filter((m) => {
-      const hay = searchIndex.get(m.id);
+      const hay = index.get(m.id);
       return tokens.every((t) => hay.includes(t));
     }),
   })).filter((x) => x.muscles.length);

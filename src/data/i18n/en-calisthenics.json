@@ -1,0 +1,2501 @@
+{
+  "arch-body-hold": {
+    "name": "Arch Body Hold",
+    "equipment": [
+      "no equipment"
+    ],
+    "steps": [
+      "Lie face down with arms extended overhead and legs straight and together.",
+      "Squeeze your glutes and back, lifting arms, chest and legs off the floor at the same time.",
+      "Hold an even curve like an upturned boat, eyes on the floor.",
+      "Breathe steadily, hold 10–30 seconds, then lower and rest."
+    ],
+    "safety": [
+      "Keep your neck in line with your spine; do not tilt your head back.",
+      "If you feel sharp lower-back pain, reduce the height or go back to the superman."
+    ]
+  },
+  "arch-hang": {
+    "name": "Arch Hang",
+    "equipment": [
+      "pull-up bar"
+    ],
+    "steps": [
+      "Hang from the bar with an overhand, shoulder-width grip and straight arms.",
+      "Pull your shoulder blades down and back, pushing your chest toward the bar so your upper back arches.",
+      "Hold the position with abs braced and legs still.",
+      "Build up hold time to about 20–30 seconds per set."
+    ],
+    "safety": [
+      "Keep your arms straight at all times; do not shrug.",
+      "Come down slowly; do not just let go and drop."
+    ]
+  },
+  "archer-pull-up": {
+    "name": "Archer Pull-Up",
+    "equipment": [
+      "pull-up bar"
+    ],
+    "steps": [
+      "Grip the bar overhand very wide, about twice shoulder width, and hang with straight arms.",
+      "Pull your chin toward one hand, bending only that arm; the other arm stays straight and pushes along the bar.",
+      "Lower back to the hang with control.",
+      "Switch sides; to make it easier, rest the assisting hand on top of the bar."
+    ],
+    "safety": [
+      "Do the same number of reps on both sides.",
+      "Stop if the elbow of the straight arm hurts."
+    ]
+  },
+  "archer-push-up": {
+    "name": "Archer Push-Up",
+    "equipment": [
+      "no equipment"
+    ],
+    "steps": [
+      "Place your hands very wide, about twice shoulder width, body straight.",
+      "Shift your weight to one side and bend that elbow to lower yourself, keeping the other arm straight out to the side.",
+      "Lower until your chest is close to the bending hand.",
+      "Push back to center, then switch sides on the next rep."
+    ],
+    "safety": [
+      "Only train this once you can do many clean standard push-ups.",
+      "Do not twist your torso or shift your hips to compensate."
+    ]
+  },
+  "archer-row": {
+    "name": "Archer Row",
+    "equipment": [
+      "pull-up bar",
+      "rings"
+    ],
+    "steps": [
+      "Lie under the bar and grip it very wide.",
+      "Pull yourself toward one hand, keeping the other arm straight as a support.",
+      "Pull until your chest nearly touches the bending hand, shoulder blades squeezed together.",
+      "Lower with control, then switch sides."
+    ],
+    "safety": [
+      "Keep the assisting arm straight at all times; do not turn it into a two-arm row.",
+      "Keep your torso from twisting."
+    ]
+  },
+  "assisted-knee-copenhagen-plank": {
+    "name": "Assisted Knee Copenhagen Plank",
+    "equipment": [
+      "bench/box"
+    ],
+    "steps": [
+      "Lie on your side next to a low bench, propped on your elbow (or hand) under your shoulder.",
+      "Place the inner side of your top knee on the bench; the bottom leg stays on the floor.",
+      "Lift your hips so your body is straight, with the bottom leg supporting only as much as needed.",
+      "Hold for the planned time, then lower and switch sides."
+    ],
+    "safety": [
+      "Do not let your hips sag; use as little help from the bottom leg as possible.",
+      "Stop if you feel sharp groin pain; this exercise loads the adductors heavily."
+    ]
+  },
+  "assisted-squat": {
+    "name": "Assisted Squat",
+    "equipment": [
+      "post or door frame to hold on to"
+    ],
+    "steps": [
+      "Stand facing a sturdy post, door frame or chair back and hold it with both hands.",
+      "Feet shoulder-width apart, toes turned slightly out.",
+      "Sit down as deep as you can, using your hands only as much as needed.",
+      "Drive through your feet to stand up tall; gradually use less arm help over sessions."
+    ],
+    "safety": [
+      "Knees track in the direction of your toes; do not let them cave in.",
+      "The support must be fixed and not slip."
+    ]
+  },
+  "bench-dip": {
+    "name": "Bench Dip",
+    "equipment": [
+      "bench/box"
+    ],
+    "steps": [
+      "Sit on the edge of a sturdy bench with your hands on the edge beside your hips, fingers pointing forward.",
+      "Slide your hips off the bench, legs extended in front (bend your knees to make it easier).",
+      "Bend your elbows to lower until your upper arms are nearly parallel to the floor, elbows pointing straight back.",
+      "Straighten your elbows to push yourself up."
+    ],
+    "safety": [
+      "Do not go too deep: the shoulders get pushed forward, which can easily cause shoulder joint pain.",
+      "Keep your back close to the bench edge and your chest open."
+    ]
+  },
+  "bicycle-crunch": {
+    "name": "Bicycle Crunch",
+    "equipment": [
+      "no equipment"
+    ],
+    "steps": [
+      "Lie on your back, hands lightly behind your head, legs lifted with knees bent to 90°.",
+      "Contract your abs to lift your head and shoulders off the floor.",
+      "Extend one leg while rotating your torso to bring the opposite elbow toward the bent knee.",
+      "Alternate sides in a pedaling rhythm, steady and controlled."
+    ],
+    "safety": [
+      "Rotate from your torso; do not yank your neck with your hands.",
+      "Keep a moderately slow pace; going too fast lets momentum replace the muscles."
+    ]
+  },
+  "bird-dog": {
+    "name": "Bird Dog",
+    "equipment": [
+      "no equipment"
+    ],
+    "steps": [
+      "Start on all fours: hands directly under shoulders, knees directly under hips, back flat.",
+      "Brace your abs and extend one arm forward and the opposite leg back at the same time.",
+      "Hold arm, torso and leg in a straight line for 1–2 seconds.",
+      "Return to the start, then switch sides."
+    ],
+    "safety": [
+      "Do not rotate your hips or arch your back when lifting the leg.",
+      "Raise the leg only to torso level, no higher."
+    ]
+  },
+  "bodyweight-calf-raise": {
+    "name": "Bodyweight Calf Raise",
+    "equipment": [
+      "wall"
+    ],
+    "steps": [
+      "Stand tall, feet hip-width apart, hands on a wall for balance.",
+      "Press evenly through the balls of your feet and raise your heels as high as possible.",
+      "Pause for a beat at the top.",
+      "Lower your heels slowly with control, then repeat."
+    ],
+    "safety": [
+      "Do not let your ankles roll out or in on the way up.",
+      "Lower slowly; do not bounce your heels."
+    ]
+  },
+  "bodyweight-curl": {
+    "name": "Bodyweight Curl",
+    "equipment": [
+      "rings"
+    ],
+    "steps": [
+      "Hold the rings or suspension straps facing the anchor point and lean back until the straps are taut, arms straight, palms up.",
+      "Raise your elbows to shoulder height or higher and keep them fixed.",
+      "Bend your elbows to pull yourself toward your hands, hands traveling toward your forehead.",
+      "Straighten your arms to lower slowly; walk your feet forward to make it harder."
+    ],
+    "safety": [
+      "The anchor point must be able to hold your full body weight.",
+      "Keep your body straight like a plank; do not push your hips up."
+    ]
+  },
+  "bodyweight-hammer-curl": {
+    "name": "Bodyweight Hammer Curl",
+    "equipment": [
+      "rings"
+    ],
+    "steps": [
+      "Hold the rings with palms facing each other and lean back until your arms are straight.",
+      "Raise your elbows high and keep them still.",
+      "Bend your elbows to bring your fists toward your temples.",
+      "Lower slowly back to straight arms."
+    ],
+    "safety": [
+      "Keep your wrists straight; do not curl your wrists to pull.",
+      "Start with your body nearly upright before leaning back further."
+    ]
+  },
+  "bodyweight-romanian-deadlift": {
+    "name": "Bodyweight Romanian Deadlift",
+    "equipment": [
+      "no equipment"
+    ],
+    "steps": [
+      "Stand tall, feet hip-width apart, hands on your stomach or hanging at your sides.",
+      "Brace your abs and squeeze your glutes to keep your lower back flat.",
+      "Push your hips back and tip your torso forward with only a slight knee bend, until you feel a stretch in your hamstrings.",
+      "Drive your hips forward to stand back up in one smooth movement."
+    ],
+    "safety": [
+      "Keep your back straight; you can hold a stick along your back to check yourself.",
+      "Do not try to bend lower than you can with a straight back."
+    ]
+  },
+  "bodyweight-squat": {
+    "name": "Bodyweight Squat",
+    "equipment": [
+      "no equipment"
+    ],
+    "steps": [
+      "Stand with feet shoulder-width apart, arms reaching forward for balance.",
+      "Push your hips back and bend your knees, pushing the knees out in the direction of your toes.",
+      "Sit as deep as you can while your heels stay on the floor and your back stays straight.",
+      "Drive through your whole foot to stand up until hips and knees are fully extended."
+    ],
+    "safety": [
+      "Do not let your knees cave in on the way down or up.",
+      "Heels lifting is a sign of stiff ankles: reduce the depth and work on ankle mobility."
+    ]
+  },
+  "bodyweight-triceps-extension": {
+    "name": "Bodyweight Triceps Extension",
+    "equipment": [
+      "pull-up bar"
+    ],
+    "steps": [
+      "Grip the bar overhand at shoulder width and walk your feet back so your body leans in a straight line like a standing plank; the higher the bar, the easier, the lower, the harder.",
+      "Keep your arms straight, abs and glutes tight.",
+      "Bend your elbows and let your head drop below the bar, upper arms staying nearly still.",
+      "Straighten your elbows to push back to the start."
+    ],
+    "safety": [
+      "Start with a high bar to reduce the load on your elbows.",
+      "Move slowly; do not drop at the bottom."
+    ]
+  },
+  "bulgarian-split-squat": {
+    "name": "Bulgarian Split Squat",
+    "equipment": [
+      "bench/box"
+    ],
+    "steps": [
+      "Stand with your back to a knee-height bench, about one long stride away.",
+      "Rest the top of your rear foot on the bench; keep your feet about hip-width apart side to side.",
+      "Lower yourself with control until the back knee nearly touches the floor, torso upright.",
+      "Drive through the front foot to stand up; switch legs after the set."
+    ],
+    "safety": [
+      "Do not let the front knee cave in.",
+      "The back leg is only for balance; do not push off the bench with it."
+    ]
+  },
+  "chin-up": {
+    "name": "Chin-Up",
+    "equipment": [
+      "pull-up bar"
+    ],
+    "steps": [
+      "Grip the bar underhand (palms facing you), shoulder-width apart.",
+      "Pull your shoulder blades down and lift your chest.",
+      "Bend your elbows to pull yourself up until your chin clears the bar.",
+      "Lower slowly until your arms are fully straight."
+    ],
+    "safety": [
+      "Do not jerk your body or swing your legs.",
+      "Stop if the inside of your elbow hurts; a slightly wider grip may feel better."
+    ]
+  },
+  "clamshell": {
+    "name": "Clamshell",
+    "equipment": [
+      "no equipment"
+    ],
+    "steps": [
+      "Lie on your side with hips and knees bent to about 90°, legs stacked.",
+      "Tuck your pelvis slightly and lightly brace your abs.",
+      "Keeping your feet together, open the top knee as high as you can without your hips rolling back.",
+      "Lower the knee slowly back to the start; switch sides after the set."
+    ],
+    "safety": [
+      "The top hip must stay still; do not roll your body back.",
+      "If it is too easy, switch to side-lying leg raises instead of forcing range of motion."
+    ]
+  },
+  "close-grip-push-up": {
+    "name": "Close-Grip Push-Up",
+    "equipment": [
+      "no equipment"
+    ],
+    "steps": [
+      "Get into a push-up position but with hands exactly shoulder-width apart, fingers pointing forward.",
+      "Keep your body straight with abs lightly braced.",
+      "Lower yourself with elbows tucked close to your ribs and pointing back.",
+      "Push up until your elbows are fully extended."
+    ],
+    "safety": [
+      "Do not let your elbows flare out; if your elbows hurt, widen your hands slightly.",
+      "Keep your wrists stacked under your shoulders."
+    ]
+  },
+  "commando-pull-up": {
+    "name": "Commando Pull-Up",
+    "equipment": [
+      "pull-up bar"
+    ],
+    "steps": [
+      "Stand under the bar, turned to face along it; grip with hands close together, one in front of the other, palms facing each other.",
+      "Hang, brace your abs and glutes, and pull your shoulder blades down.",
+      "Bend your elbows to pull up, moving your head to one side of the bar until your shoulder nearly touches the bar.",
+      "Lower slowly until your arms are straight; on the next rep, bring your head to the other side."
+    ],
+    "safety": [
+      "Only train this once you can do many standard pull-ups.",
+      "Do not kick your legs or twist your body for momentum; stop if your elbows hurt."
+    ]
+  },
+  "copenhagen-plank": {
+    "name": "Copenhagen Plank",
+    "equipment": [
+      "bench/box"
+    ],
+    "steps": [
+      "Lie on your side, propped on your elbow under your shoulder, with the ankle or foot of your top leg on the bench.",
+      "Brace your abs and lift your lower hip so your body is straight from shoulders to feet.",
+      "Let the bottom leg hang under the bench or only lightly touch it.",
+      "Hold for the full time, or lower your hips slowly and raise them again for the dynamic version; then switch sides."
+    ],
+    "safety": [
+      "Only progress to the long-lever version once you can solidly hold the knee version for 3×30 seconds.",
+      "If you feel knee or groin pain, go back to the knee version."
+    ]
+  },
+  "copenhagen-plank-with-movement": {
+    "name": "Copenhagen Plank with Movement",
+    "equipment": [
+      "bench/box"
+    ],
+    "steps": [
+      "Get into a long-lever Copenhagen plank with the top foot resting on the bench.",
+      "Keeping your hips high, pull the bottom knee up toward your chest.",
+      "Extend the bottom leg back to the neutral position with control.",
+      "Repeat for the planned reps, then switch sides."
+    ],
+    "safety": [
+      "Do not let your hips sag while the bottom leg moves.",
+      "The load on the adductors is very high; increase volume gradually to avoid groin pain."
+    ]
+  },
+  "cossack-squat": {
+    "name": "Cossack Squat",
+    "equipment": [
+      "no equipment"
+    ],
+    "steps": [
+      "Stand with feet wide apart, torso upright.",
+      "Bend one knee and lower yourself deep toward that leg; the other leg stays straight out to the side, toes pointing up.",
+      "Keep the foot of the bent leg flat on the floor.",
+      "Drive through the heel of the bent leg to stand up, then switch to the other side."
+    ],
+    "safety": [
+      "Only go as deep as you can with your heel on the floor and your back not rounding.",
+      "You can hold on to a post in the early stages."
+    ]
+  },
+  "crunch": {
+    "name": "Crunch",
+    "equipment": [
+      "no equipment"
+    ],
+    "steps": [
+      "Lie on your back, knees bent about 90°, feet on the floor, arms crossed over your chest.",
+      "Contract your abs and curl your head and shoulders off the floor, as if bringing your ribs toward your hips.",
+      "Curl up only while your lower back still touches the floor, then pause for a beat.",
+      "Lower slowly, keeping your abs tight, then do the next rep."
+    ],
+    "safety": [
+      "Do not pull your neck with your hands; look diagonally up at the ceiling to keep your neck straight.",
+      "Keep your lower back on the floor at all times; do not swing your whole torso up with momentum."
+    ]
+  },
+  "dead-bug": {
+    "name": "Dead Bug",
+    "equipment": [
+      "no equipment"
+    ],
+    "steps": [
+      "Lie on your back with arms straight up toward the ceiling; bend hips and knees to 90° so your shins are parallel to the floor.",
+      "Brace your abs, press your lower back lightly into the floor and keep it there for the whole set.",
+      "Slowly extend one leg out low over the floor while bringing the opposite arm back overhead.",
+      "Bring arm and leg back to the start, then switch sides; breathe steadily, do not hold your breath."
+    ],
+    "safety": [
+      "If your lower back starts lifting off the floor, shorten the range of the leg extension.",
+      "Move slowly; do not swing your arms and legs for momentum."
+    ]
+  },
+  "dead-hang": {
+    "name": "Dead Hang",
+    "equipment": [
+      "pull-up bar"
+    ],
+    "steps": [
+      "Grip the bar overhand at shoulder width, thumbs wrapped around the bar.",
+      "Lift your feet to hang fully, arms straight.",
+      "Try hanging with relaxed shoulders, then actively pull the shoulders down to feel the difference.",
+      "Hold for time, increasing it gradually each session."
+    ],
+    "safety": [
+      "Come down onto your feet; do not let go while hanging high.",
+      "Keep a box under your feet if you cannot hang for long yet."
+    ]
+  },
+  "decline-push-up": {
+    "name": "Decline Push-Up",
+    "equipment": [
+      "bench/box"
+    ],
+    "steps": [
+      "Place your toes on a bench or box and your hands on the floor slightly wider than shoulder width.",
+      "Brace your abs so your body is straight from head to heels, without piking at the hips.",
+      "Lower your chest toward the floor with control.",
+      "Push up until your arms are straight; raise the foot height gradually as you adapt."
+    ],
+    "safety": [
+      "The box under your feet must be sturdy and not slip.",
+      "The higher your feet, the more load on the shoulders; progress gradually."
+    ]
+  },
+  "deficit-tibialis-raise": {
+    "name": "Deficit Tibialis Raise",
+    "equipment": [
+      "bench/box"
+    ],
+    "steps": [
+      "Stand with your heels on the edge of a low step, the front of your feet hanging off.",
+      "Keeping your body straight, let your toes drop as low as possible.",
+      "Pull your toes up as high as you can, feeling the muscle on the front of your shin.",
+      "Hold for a beat, then lower slowly and repeat."
+    ],
+    "safety": [
+      "Stand close to a wall or handrail so you do not fall backward.",
+      "Use a low, stable step."
+    ]
+  },
+  "diamond-push-up": {
+    "name": "Diamond Push-Up",
+    "equipment": [
+      "no equipment"
+    ],
+    "steps": [
+      "Get into a push-up position with your hands under your chest, thumbs and index fingers touching to form a diamond.",
+      "Keep your body straight like a plank, shoulder blades down.",
+      "Lower your chest toward your hands, elbows tucked close to your body.",
+      "Push up until your arms are straight; if it is too hard, place your hands slightly narrower than normal and bring them closer over time."
+    ],
+    "safety": [
+      "Stop if your wrists or elbows hurt; turning your hands slightly outward may help.",
+      "Do not let your hips sag when fatigued."
+    ]
+  },
+  "donkey-kick": {
+    "name": "Donkey Kick",
+    "equipment": [
+      "no equipment"
+    ],
+    "steps": [
+      "Start on all fours, hands under shoulders, knees under hips.",
+      "Brace your abs and keep your back flat.",
+      "Keeping the knee bent at 90°, push one heel up toward the ceiling, squeezing your glutes.",
+      "Lower the leg without touching the floor, repeat, then switch sides."
+    ],
+    "safety": [
+      "Do not arch your back or rotate your hips to kick higher.",
+      "Put a pad under your knees if the floor is hard."
+    ]
+  },
+  "dragon-flag": {
+    "name": "Dragon Flag",
+    "equipment": [
+      "bench/box"
+    ],
+    "steps": [
+      "Lie on your back on a bench, hands gripping the edge of the bench firmly behind your head.",
+      "Raise your legs and torso until only your shoulders rest on the bench, body straight from shoulders to feet.",
+      "Keeping a hollow body, lower your whole body very slowly until your back is close to the bench.",
+      "Pause for a beat, then raise back to the start."
+    ],
+    "safety": [
+      "Do not pike at the hips or sag at the lower back; if you cannot hold a straight body yet, train the tucked version or negatives only.",
+      "The bench must be sturdy and not tip over."
+    ]
+  },
+  "eccentric-heel-drop": {
+    "name": "Eccentric Heel Drop",
+    "equipment": [
+      "bench/box",
+      "wall"
+    ],
+    "steps": [
+      "Stand on the balls of your feet on the edge of a step, holding a wall or handrail.",
+      "Rise onto your toes with both feet.",
+      "Lift one foot and lower the heel of the other very slowly, below the edge of the step.",
+      "Put the other foot back down, rise again with both feet and repeat."
+    ],
+    "safety": [
+      "The step must be stable and dry; always have something to hold on to.",
+      "Make the lowering phase last 2–3 seconds; do not drop your heel."
+    ]
+  },
+  "elevated-pike-push-up": {
+    "name": "Elevated Pike Push-Up",
+    "equipment": [
+      "bench/box"
+    ],
+    "steps": [
+      "Place your feet on a bench or box and walk your hands close to it so your hips are above your shoulders and your torso is nearly vertical.",
+      "Brace your abs, hands slightly wider than shoulder width.",
+      "Bend your elbows to lower your head to the floor in front of your hands, elbows tucked at an angle.",
+      "Push up until your arms are straight; raise the height gradually once you reach 3×8–12."
+    ],
+    "safety": [
+      "The box must be sturdy and not slip.",
+      "Lower slowly with control; do not let your head hit the floor."
+    ]
+  },
+  "elevated-pike-shrug": {
+    "name": "Elevated Pike Shrug",
+    "equipment": [
+      "box"
+    ],
+    "steps": [
+      "Place both feet on a box and walk your hands toward it so your hips are bent about 90°, shoulders directly over your hands, arms straight.",
+      "Brace your abs and keep your elbows straight throughout.",
+      "Let your shoulders sink down, moving slightly away from your ears.",
+      "Push the floor away, shrugging your shoulders toward your ears so your body rises a few centimeters; hold for a beat, then lower with control."
+    ],
+    "safety": [
+      "Warm up your wrists first; do not bend your elbows when shrugging.",
+      "Stop if you feel dizzy or your shoulders hurt; bring your feet down to the floor to rest."
+    ]
+  },
+  "false-grip-hang": {
+    "name": "False Grip Hang",
+    "equipment": [
+      "rings"
+    ],
+    "steps": [
+      "Set the rings at head height and wrap your hands over the rings so each ring sits under your wrist, knuckles pointing up.",
+      "Flex your wrists tightly, lift your feet to hang, arms straight and shoulder-width apart.",
+      "Brace your abs and glutes to avoid swinging, shoulders slightly depressed.",
+      "Hold for time, then bend your knees and put your feet down before letting go."
+    ],
+    "safety": [
+      "Keep your wrists on top of the rings; letting them slip down reduces the effect and makes injury more likely.",
+      "Keep sessions short at first, since the skin and wrists need time to adapt."
+    ]
+  },
+  "false-grip-ring-row": {
+    "name": "False Grip Ring Row",
+    "equipment": [
+      "rings"
+    ],
+    "steps": [
+      "Grip the rings with a false grip and lean back until your arms are straight.",
+      "Keeping your body straight, pull the rings toward your chest while keeping your wrists flexed.",
+      "Lower slowly back to straight arms.",
+      "Readjust your grip after each rep if it slips; walk your feet back to make it easier."
+    ],
+    "safety": [
+      "Increase intensity gradually, since this exercise puts heavy stress on the wrists and skin.",
+      "Use chalk or grip tape if your hands are slippery."
+    ]
+  },
+  "feet-elevated-side-plank": {
+    "name": "Feet-Elevated Side Plank",
+    "equipment": [
+      "bench/box"
+    ],
+    "steps": [
+      "Lie on your side next to a low bench or box, bottom elbow directly under your shoulder.",
+      "Rest both feet, stacked, on top of the bench.",
+      "Brace your abs and lift your hips off the floor until your body is straight from head to feet.",
+      "Hold 10–30 seconds, then lower and switch sides."
+    ],
+    "safety": [
+      "Only train this once you can hold a regular side plank for about 30 seconds.",
+      "The bench must be stable and not slip."
+    ]
+  },
+  "fingertip-push-up": {
+    "name": "Fingertip Push-Up",
+    "equipment": [
+      "no equipment"
+    ],
+    "steps": [
+      "Get into a push-up position, supported on the tips of all five spread fingers, fingers held stiff and slightly bent.",
+      "Brace your abs, body straight.",
+      "Lower your chest with control, without your fingers collapsing.",
+      "Push up; if it is too hard, do it on your knees first."
+    ],
+    "safety": [
+      "You need to be proficient at regular push-ups; progress slowly and do not train to failure.",
+      "Stop immediately if your finger joints hurt."
+    ]
+  },
+  "fire-hydrant": {
+    "name": "Fire Hydrant",
+    "equipment": [
+      "no equipment"
+    ],
+    "steps": [
+      "Start on all fours, eyes on the floor.",
+      "Lightly brace your abs and, keeping the knee bent, lift one leg out to the side using your glutes.",
+      "Lift only as high as your glutes stay contracted and your torso does not tilt.",
+      "Lower the leg slowly and repeat; then switch sides."
+    ],
+    "safety": [
+      "Do not lean to the other side to lift the leg higher.",
+      "Lower the leg with control."
+    ]
+  },
+  "flexed-arm-hang": {
+    "name": "Flexed-Arm Hang",
+    "equipment": [
+      "pull-up bar",
+      "box"
+    ],
+    "steps": [
+      "Place a box under the bar and grip the bar at shoulder width.",
+      "Step up on the box so your chin is above the bar, elbows fully bent and tucked close to your body.",
+      "Pull your shoulders down away from your ears, brace your abs, then lift your feet off the box and hold.",
+      "Hold 10–30 seconds, then lower slowly or step back down onto the box."
+    ],
+    "safety": [
+      "Do not drop when fatigued; always come down with control.",
+      "Do not hold your breath or crane your neck to keep your chin above the bar."
+    ]
+  },
+  "front-lever": {
+    "name": "Front Lever",
+    "equipment": [
+      "pull-up bar",
+      "rings"
+    ],
+    "steps": [
+      "From a tuck front lever, press your arms down hard using your lats.",
+      "Gradually extend both legs until your whole body forms a straight line parallel to the floor.",
+      "Keep your hips from piking, shoulder blades pulled down, elbows straight.",
+      "Hold a few seconds, then tuck your knees back to the tuck position before lowering."
+    ],
+    "safety": [
+      "Progress through advanced tuck and one-leg front lever first; each stage can take many months.",
+      "Avoid piking at the hips to cheat."
+    ]
+  },
+  "full-can-raise": {
+    "name": "Full Can Raise",
+    "equipment": [
+      "no equipment"
+    ],
+    "steps": [
+      "Stand tall, arms at your sides, thumbs pointing forward (like holding a full can).",
+      "Move your arms about 30° forward of straight out to the side.",
+      "Raise your straight arms to shoulder height without shrugging.",
+      "Lower slowly to the start."
+    ],
+    "safety": [
+      "Stop at shoulder height if going higher causes pain.",
+      "Do not turn your thumbs down (empty-can style) to avoid shoulder impingement."
+    ]
+  },
+  "glute-bridge": {
+    "name": "Glute Bridge",
+    "equipment": [
+      "no equipment"
+    ],
+    "steps": [
+      "Lie on your back, knees bent, feet flat on the floor hip-width apart.",
+      "Tuck your pelvis slightly to engage your glutes.",
+      "Drive your hips up with your glutes until shoulders, hips and knees form a straight line.",
+      "Squeeze your glutes at the top for a beat, then lower slowly."
+    ],
+    "safety": [
+      "Push with your glutes; do not arch your lower back to lift your hips higher.",
+      "If your hamstrings cramp, bring your feet closer to your glutes."
+    ]
+  },
+  "hamstring-slide": {
+    "name": "Hamstring Slide",
+    "equipment": [
+      "towel/sliders"
+    ],
+    "steps": [
+      "Lie on your back with your heels on a towel/sliders and lift your hips into a glute bridge.",
+      "Slide your heels away with control, keeping your hips from dropping.",
+      "Contract your hamstrings and glutes to pull your heels back toward your glutes while your hips stay up.",
+      "Repeat the extend–curl sequence for the planned reps."
+    ],
+    "safety": [
+      "If your hips drop partway, go back to the eccentric-only (extension) version.",
+      "Place your hands beside your body for stability if needed."
+    ]
+  },
+  "hanging-knee-raise": {
+    "name": "Hanging Knee Raise",
+    "equipment": [
+      "pull-up bar"
+    ],
+    "steps": [
+      "Jump up to grab the bar and hang with straight arms, feet off the ground.",
+      "Pull your shoulders down slightly and brace your abs so your body does not swing.",
+      "Bend your knees and pull your thighs up as high as possible in front of you.",
+      "Pause for a beat, then lower your legs slowly; pause briefly at the bottom before the next rep."
+    ],
+    "safety": [
+      "Do not swing for momentum; pause briefly at the top and bottom of each rep.",
+      "If your arms are tired and you are about to slip, get down immediately, landing on both feet."
+    ]
+  },
+  "hanging-leg-raise": {
+    "name": "Hanging Leg Raise",
+    "equipment": [
+      "pull-up bar"
+    ],
+    "steps": [
+      "Hang from the bar with straight arms, legs together and straight.",
+      "Hold a hollow body, keeping your legs in front of your hips at all times so you do not swing.",
+      "Raise both straight legs to at least hip height, as high as you can.",
+      "Lower your legs slowly with control, then repeat."
+    ],
+    "safety": [
+      "First train the bent-knee version and the straight-leg negatives until solid.",
+      "Do not swing your legs; if you start swinging hard, come to a full stop at the bottom before continuing."
+    ]
+  },
+  "hanging-windshield-wiper": {
+    "name": "Hanging Windshield Wiper",
+    "equipment": [
+      "pull-up bar"
+    ],
+    "steps": [
+      "Hang from the bar with straight arms, legs together.",
+      "Brace your abs and raise your straight legs to at least hip height (higher if you can).",
+      "Keeping your legs straight, rotate slowly to one side until you are close to losing control.",
+      "Bring your legs through the middle to the other side; repeat for the planned reps, then lower your legs."
+    ],
+    "safety": [
+      "Only train this once you can do clean straight-leg hanging leg raises for 3×8.",
+      "Control the range of motion; do not fling your legs for momentum; get off the bar immediately when your arms tire."
+    ]
+  },
+  "heel-walk": {
+    "name": "Heel Walk",
+    "equipment": [
+      "no equipment"
+    ],
+    "steps": [
+      "Stand tall.",
+      "Lift your toes and the balls of your feet so only your heels touch the ground.",
+      "Walk forward on your heels for a set distance or time.",
+      "Keep your toes pulled up the whole way, then rest."
+    ],
+    "safety": [
+      "Walk on a flat, non-slippery surface.",
+      "Take short steps to keep your balance."
+    ]
+  },
+  "hip-hitch": {
+    "name": "Hip Hitch",
+    "equipment": [
+      "bench/box",
+      "wall"
+    ],
+    "steps": [
+      "Stand on one leg on a step or low box, the other leg hanging off the edge; touch a wall for balance.",
+      "Keeping both knees straight, slowly lower the hip on the hanging side so that foot drops below the step.",
+      "Use the hip of the standing leg to pull your pelvis back up, slightly higher than level.",
+      "Repeat slowly; switch sides after the set."
+    ],
+    "safety": [
+      "The movement comes from the hip; do not bend the knee or lean your torso.",
+      "Use a low, stable box; always have something to hold on to."
+    ]
+  },
+  "hollow-body-hold": {
+    "name": "Hollow Body Hold",
+    "equipment": [
+      "no equipment"
+    ],
+    "steps": [
+      "Lie on your back with legs straight and arms extended overhead.",
+      "Press your lower back into the floor and brace your abs.",
+      "Lift your legs about 15–30° off the floor while raising your head, shoulders and arms so your body curves like a boat.",
+      "Hold the position, breathing steadily; only your lower back and glutes touch the floor.",
+      "When time is up, lower your legs, shoulders and head to rest."
+    ],
+    "safety": [
+      "Your lower back lifting off the floor means it is too hard: bend your knees or bring your arms closer to your body to make it easier.",
+      "Do not hold your breath during the hold."
+    ]
+  },
+  "incline-push-up": {
+    "name": "Incline Push-Up",
+    "equipment": [
+      "bench/box"
+    ],
+    "steps": [
+      "Place your hands on the edge of a sturdy bench, box or table, slightly wider than shoulder width.",
+      "Walk your feet back until your body is straight like a plank, abs lightly braced.",
+      "Lower your chest toward the edge, elbows pointing diagonally back.",
+      "Push up until your arms are straight; once you reach 3×8, lower the hand surface."
+    ],
+    "safety": [
+      "Check that the bench/box does not slip before training.",
+      "Keep your neck in line with your body; do not jut your head forward."
+    ]
+  },
+  "inverted-row": {
+    "name": "Inverted Row",
+    "equipment": [
+      "pull-up bar",
+      "rings"
+    ],
+    "steps": [
+      "Set the bar at hip height (or lower the rings), lie under the bar and grip it overhand slightly wider than shoulder width, heels on the floor.",
+      "Brace your abs and glutes so your body forms a straight line.",
+      "Squeeze your shoulder blades together, then pull your chest to the bar, elbows tucked.",
+      "Lower with control until your arms are straight."
+    ],
+    "safety": [
+      "Do not let your hips sag or thrust your hips up to cheat.",
+      "Raise the bar if you cannot yet pull your chest to it."
+    ]
+  },
+  "isometric-neck-extension": {
+    "name": "Isometric Neck Extension",
+    "equipment": [
+      "no equipment"
+    ],
+    "steps": [
+      "Sit or stand tall, looking straight ahead, neck in a neutral position.",
+      "Interlace your hands and place them behind your head.",
+      "Press your head back into your hands while your hands resist, so the head does not move.",
+      "Hold about 6–10 seconds, rest briefly, repeat 8–12 times."
+    ],
+    "safety": [
+      "Do not use maximum effort; increase force gradually without causing pain.",
+      "Do not tilt your head back while pressing; breathe steadily."
+    ]
+  },
+  "isometric-neck-flexion": {
+    "name": "Isometric Neck Flexion",
+    "equipment": [
+      "no equipment"
+    ],
+    "steps": [
+      "Sit tall with your head in a neutral position.",
+      "Place your palm on your forehead.",
+      "Push your head forward into your hand while the hand holds still, so the neck does not move.",
+      "Hold 10 seconds, relax, repeat 3 times."
+    ],
+    "safety": [
+      "Increase force gradually without causing pain.",
+      "Breathe steadily; do not hold your breath."
+    ]
+  },
+  "isometric-neck-lateral-flexion": {
+    "name": "Isometric Neck Lateral Flexion",
+    "equipment": [
+      "no equipment"
+    ],
+    "steps": [
+      "Sit tall, head neutral.",
+      "Place your palm on the temple on one side.",
+      "Push your head sideways into your hand, the hand holding still so the neck does not move.",
+      "Hold 10 seconds, switch sides, 3 times per side."
+    ],
+    "safety": [
+      "Do not rotate or drop your head while pushing.",
+      "Stop if pain radiates down into your arm."
+    ]
+  },
+  "isometric-shoulder-abduction": {
+    "name": "Isometric Shoulder Abduction",
+    "equipment": [
+      "wall"
+    ],
+    "steps": [
+      "Stand side-on to a wall, upper arm against your body, elbow bent 90°.",
+      "Press the outside of your elbow or forearm against the wall.",
+      "Push your arm out sideways into the wall without shrugging, so the joint does not move.",
+      "Hold 5–10 seconds, repeat 10 times."
+    ],
+    "safety": [
+      "Start with light force and increase gradually without pain.",
+      "Do not lean your torso to push."
+    ]
+  },
+  "isometric-shoulder-external-rotation": {
+    "name": "Isometric Shoulder External Rotation",
+    "equipment": [
+      "wall"
+    ],
+    "steps": [
+      "Stand next to a wall or door frame, elbow bent 90° and tucked against your body.",
+      "Place the back of your wrist against the wall, wrist straight.",
+      "Push the back of your hand outward into the wall as if rotating your forearm out, so the joint does not move.",
+      "Hold 5–10 seconds, starting at about 20% effort and increasing gradually."
+    ],
+    "safety": [
+      "Use moderate force without causing pain.",
+      "Keep your shoulders relaxed; do not shrug."
+    ]
+  },
+  "isometric-shoulder-internal-rotation": {
+    "name": "Isometric Shoulder Internal Rotation",
+    "equipment": [
+      "wall"
+    ],
+    "steps": [
+      "Stand in a door frame, elbow bent 90° and tucked against your body.",
+      "Place your palm on the edge of the door frame in front of your stomach.",
+      "Press your palm inward as if pulling your hand toward your stomach, so the joint does not move.",
+      "Hold 5–10 seconds, increasing force gradually from light to moderate."
+    ],
+    "safety": [
+      "It should not cause pain; reduce the force if uncomfortable.",
+      "Keep your wrist straight."
+    ]
+  },
+  "isometric-wrist-extension": {
+    "name": "Isometric Wrist Extension",
+    "equipment": [
+      "no equipment"
+    ],
+    "steps": [
+      "Sit with your forearm resting on a table or your thigh, palm down, wrist slightly extended.",
+      "Place your other hand on the back of the working hand.",
+      "Press down with the top hand while the bottom hand holds still, so the wrist does not move.",
+      "Hold for a while with moderate force, rest, then repeat; increase hold time gradually over sessions."
+    ],
+    "safety": [
+      "Use moderate force; pain should not increase after training.",
+      "Keep the elbow bent and the forearm supported."
+    ]
+  },
+  "jackknife-sit-up": {
+    "name": "Jackknife Sit-Up",
+    "equipment": [
+      "no equipment"
+    ],
+    "steps": [
+      "Lie on your back, arms extended overhead, legs straight.",
+      "Brace your abs, then lift your legs and upper body at the same time, reaching your hands toward your toes.",
+      "Come up until your body forms a V shape and pause briefly.",
+      "Lower slowly without letting your arms and legs touch the floor, then do the next rep."
+    ],
+    "safety": [
+      "Lower with control; do not drop your back onto the floor.",
+      "If your lower back feels uncomfortable, go back to lying leg raises or bend your knees as you fold up."
+    ]
+  },
+  "knee-copenhagen-plank": {
+    "name": "Knee Copenhagen Plank",
+    "equipment": [
+      "bench/box"
+    ],
+    "steps": [
+      "Lie on your side next to a low bench, propped on your elbow under your shoulder.",
+      "Place the inner side of your top knee on the bench.",
+      "Lift your hips until your body is straight, lifting the bottom leg off the floor (let it hang under the bench).",
+      "Hold for the planned time, then lower and switch sides."
+    ],
+    "safety": [
+      "Keep your hips high; do not rotate your torso forward.",
+      "You can support yourself on your hand instead of your elbow if that is more comfortable for your shoulder."
+    ]
+  },
+  "kneeling-back-of-hand-wrist-push-up": {
+    "name": "Kneeling Back-of-Hand Wrist Push-Up",
+    "equipment": [
+      "no equipment"
+    ],
+    "steps": [
+      "Start on all fours with the backs of your hands on the floor, fingers pointing toward your knees.",
+      "Let your weight rest lightly on the backs of your hands, wrists flexed.",
+      "Extend your wrists to lift your forearms, then lower slowly.",
+      "Repeat 5–10 times; shift your body back to make it easier."
+    ],
+    "safety": [
+      "Keep the load light at first; the wrists need time to adapt.",
+      "Stop if you feel sharp pain on the back of the wrist."
+    ]
+  },
+  "kneeling-palm-pulse": {
+    "name": "Kneeling Palm Pulse",
+    "equipment": [
+      "no equipment"
+    ],
+    "steps": [
+      "Start on all fours, palms flat on the floor under your shoulders, fingers spread.",
+      "Keeping your fingers pressed into the floor, lift the heels of your hands so your weight shifts onto your fingers.",
+      "Lower the heels of your hands slowly.",
+      "Repeat 5–20 times; shift your body forward to increase the load."
+    ],
+    "safety": [
+      "Stop if you feel sharp pain in the wrist or finger joints.",
+      "Warm up with wrist circles first."
+    ]
+  },
+  "kneeling-plank": {
+    "name": "Kneeling Plank",
+    "equipment": [
+      "no equipment"
+    ],
+    "steps": [
+      "Rest both forearms on the floor, elbows directly under your shoulders, both knees on the floor.",
+      "Lift your hips so your head, back and hips form a straight line.",
+      "Brace your abs and squeeze your glutes, holding the position for the planned time.",
+      "Lower your hips to rest and repeat; once you can hold 3×30 seconds, move on to the standard plank."
+    ],
+    "safety": [
+      "Do not let your hips sag or pike up.",
+      "End the set when you can no longer keep your body straight."
+    ]
+  },
+  "kneeling-side-plank": {
+    "name": "Kneeling Side Plank",
+    "equipment": [
+      "no equipment"
+    ],
+    "steps": [
+      "Lie on your side, propped on your elbow directly under your shoulder, knees bent and stacked.",
+      "Lift your hips so your head, torso and knees form a straight line.",
+      "Brace your abs and hold the position for the planned time.",
+      "Lower your hips to rest, then switch sides."
+    ],
+    "safety": [
+      "Push the floor away so your shoulder does not sink into your neck.",
+      "Do not let your hips drop or rotate forward."
+    ]
+  },
+  "l-sit": {
+    "name": "L-Sit",
+    "equipment": [
+      "no equipment"
+    ],
+    "steps": [
+      "Sit on the floor with legs straight, hands beside your hips, fingers pointing forward.",
+      "Tighten your quads, brace your abs and lock your arms straight.",
+      "Press hard into the floor to lift your hips and legs, legs parallel to the floor.",
+      "Keep your shoulders depressed and your back from rounding; when time is up, lower down."
+    ],
+    "safety": [
+      "Only raise your legs as high as you can while keeping them straight and your back from rounding.",
+      "Train on the floor first; use low parallel bars or handles if your wrists feel uncomfortable."
+    ]
+  },
+  "l-sit-pull-up": {
+    "name": "L-Sit Pull-Up",
+    "equipment": [
+      "pull-up bar"
+    ],
+    "steps": [
+      "Hang from the bar with an overhand, shoulder-width grip.",
+      "Raise both straight legs in front of you to hip height (L shape); if too hard, bend your knees.",
+      "Holding the L, pull yourself up until your chin clears the bar.",
+      "Lower with control, legs still level."
+    ],
+    "safety": [
+      "You need strict pull-ups and a hanging L hold before training this.",
+      "Do not arch your lower back or let your legs drop for momentum."
+    ]
+  },
+  "lying-leg-raise": {
+    "name": "Lying Leg Raise",
+    "equipment": [
+      "no equipment"
+    ],
+    "steps": [
+      "Lie on your back, arms along your sides, legs straight and together.",
+      "Brace your abs and raise both legs until your toes point at the ceiling.",
+      "Lower your legs very slowly, stopping just before they touch the floor.",
+      "Repeat without letting your lower back arch up."
+    ],
+    "safety": [
+      "If your lower back lifts off the floor, bend your knees slightly or only lower your legs halfway.",
+      "Do not swing your legs for momentum."
+    ]
+  },
+  "lying-neck-curl-bodyweight": {
+    "name": "Lying Neck Curl (bodyweight)",
+    "equipment": [
+      "bench/box"
+    ],
+    "steps": [
+      "Lie on your back on a bench with your head off the edge.",
+      "Tuck your chin slightly and keep it tucked throughout the set.",
+      "Flex your neck to bring your chin toward your chest, shoulders staying on the bench.",
+      "Pause for a beat, then slowly lower your head back to the start."
+    ],
+    "safety": [
+      "Lower your head with control; do not let it drop.",
+      "Do not lift your shoulders to compensate."
+    ]
+  },
+  "lying-neck-extension-bodyweight": {
+    "name": "Lying Neck Extension (bodyweight)",
+    "equipment": [
+      "bench/box"
+    ],
+    "steps": [
+      "Lie face down on a bench with your head off the edge, feet on the floor for stability.",
+      "Tuck your chin slightly, neck in a neutral position.",
+      "Raise your head by extending your neck, the back of your head moving toward the ceiling.",
+      "Pause for a beat, then lower slowly."
+    ],
+    "safety": [
+      "Do not overextend your neck at the top.",
+      "Lower with control."
+    ]
+  },
+  "lying-windshield-wiper": {
+    "name": "Lying Windshield Wiper",
+    "equipment": [
+      "no equipment"
+    ],
+    "steps": [
+      "Lie on your back with arms spread out to the sides and both straight legs raised toward the ceiling.",
+      "Brace your abs and slowly lower your legs to one side, keeping them together.",
+      "Stop when the opposite shoulder is about to lift off the floor, then pull your legs back to center.",
+      "Lower to the other side and repeat."
+    ],
+    "safety": [
+      "Do not let your legs drop freely; if you cannot control them yet, go back to the bent-knee version.",
+      "Keep both shoulders pressed to the floor at all times."
+    ]
+  },
+  "lying-windshield-wiper-bent-knees": {
+    "name": "Lying Windshield Wiper with Bent Knees",
+    "equipment": [
+      "no equipment"
+    ],
+    "steps": [
+      "Lie on your back with arms spread out to the sides to stabilize your torso, legs lifted with knees bent 90°.",
+      "Brace your abs and slowly tilt both knees to one side, shoulders staying on the floor.",
+      "Stop before the opposite shoulder lifts, then pull your knees back to center.",
+      "Continue tilting to the other side; each side counts as one rep."
+    ],
+    "safety": [
+      "Lower your legs slowly, only as far as you can still control.",
+      "People with lumbar disc problems should reduce the range of rotation."
+    ]
+  },
+  "mountain-climber": {
+    "name": "Mountain Climber",
+    "equipment": [
+      "no equipment"
+    ],
+    "steps": [
+      "Get into a push-up position, hands shoulder-width apart, back straight, abs braced.",
+      "Drive one knee toward your chest as close as you can.",
+      "Return that leg to the start while bringing the other knee up.",
+      "Keep alternating legs, keeping your hips low and your back flat."
+    ],
+    "safety": [
+      "Do not let your hips pike up or sag as you speed up.",
+      "If your wrists hurt, support yourself on your fists or push-up handles."
+    ]
+  },
+  "muscle-up": {
+    "name": "Muscle-Up",
+    "equipment": [
+      "pull-up bar"
+    ],
+    "steps": [
+      "Grip the bar with a false grip (wrists flexed, knuckles on top of the bar) and hang with straight arms.",
+      "Pull very hard, bringing the bar toward your stomach on a curved path rather than pulling straight up.",
+      "At the transition, lean your chest over the bar and drive your elbows back and up.",
+      "Press your arms straight as in a dip to get on top of the bar, then lower with control."
+    ],
+    "safety": [
+      "You need a solid base of pull-ups and dips before training this; practice with jumping from a box or negatives first.",
+      "The way down is hard to control: train over a mat and avoid free-falling."
+    ]
+  },
+  "negative-chin-up": {
+    "name": "Negative Chin-Up",
+    "equipment": [
+      "pull-up bar",
+      "box"
+    ],
+    "steps": [
+      "Place a box under the bar and grip the bar underhand at shoulder width.",
+      "Step up so your chin is over the bar, elbows bent, shoulder blades pulled down.",
+      "Lift your feet off the box and lower yourself very slowly (about 3–5 seconds) until your arms are fully straight.",
+      "Step back onto the box and repeat."
+    ],
+    "safety": [
+      "Do not drop at the end of the lowering phase; keep your shoulders active as your arms near straight.",
+      "Increase the lowering time gradually; stop if your elbows or wrists hurt."
+    ]
+  },
+  "negative-dip": {
+    "name": "Negative Dip",
+    "equipment": [
+      "parallel bars"
+    ],
+    "steps": [
+      "Use a box or jump up into a support position on the parallel bars, arms straight.",
+      "Lower yourself very slowly, counting 5–10 seconds, elbows tucked and pointing back.",
+      "Stop when your shoulders drop below your elbows or at a comfortable depth.",
+      "Put your feet down, step back up and repeat."
+    ],
+    "safety": [
+      "Control the entire lowering phase; do not drop at the end.",
+      "Increase reps gradually, since slow negatives cause a lot of muscle soreness."
+    ]
+  },
+  "negative-hamstring-slide": {
+    "name": "Negative Hamstring Slide",
+    "equipment": [
+      "towel/sliders"
+    ],
+    "steps": [
+      "Lie on your back with your heels on a towel or sliders on a smooth floor, arms along your sides.",
+      "Lift your hips into a glute bridge.",
+      "Keeping your hips high, slowly slide your heels away until your glutes touch the floor or your knees are fully straight.",
+      "Lower your hips, bring your legs back to the start in the easiest way, then repeat."
+    ],
+    "safety": [
+      "Keep your pelvis neutral; do not arch your back.",
+      "Slide slowly and evenly; stop if your hamstrings cramp."
+    ]
+  },
+  "negative-pull-up": {
+    "name": "Negative Pull-Up",
+    "equipment": [
+      "pull-up bar",
+      "bench/box"
+    ],
+    "steps": [
+      "Stand on a box, grip the bar overhand, and jump or step up so your chin is over the bar.",
+      "Hold for a beat at the top, chest toward the bar.",
+      "Lower yourself very slowly, counting 5–10 seconds, until your arms are straight.",
+      "Step back onto the box and repeat."
+    ],
+    "safety": [
+      "Do only 2–3 sets the first time, since the lowering phase causes a lot of muscle soreness.",
+      "Do not drop at the end, to avoid jerking your elbows and shoulders."
+    ]
+  },
+  "neutral-grip-pull-up": {
+    "name": "Neutral-Grip Pull-Up",
+    "equipment": [
+      "pull-up bar"
+    ],
+    "steps": [
+      "Grip two parallel handles (or both sides of an H-shaped bar) with palms facing each other, shoulder-width apart.",
+      "Pull your shoulder blades down, chest up.",
+      "Bend your elbows to pull yourself up until your chin clears the handles.",
+      "Lower slowly until your arms are straight."
+    ],
+    "safety": [
+      "Check that the handles are secure before hanging.",
+      "Do not use leg momentum."
+    ]
+  },
+  "nordic-curl": {
+    "name": "Nordic Curl",
+    "equipment": [
+      "foot anchor or a partner holding your feet"
+    ],
+    "steps": [
+      "Kneel with your ankles hooked securely under a fixed object about a fist's width above the ankle.",
+      "Squeeze your glutes to keep your hips extended, body straight.",
+      "Lower yourself slowly forward without bending at the hips.",
+      "From the lowest point, use your hamstrings to pull your torso back up to upright kneeling."
+    ],
+    "safety": [
+      "Only train this once you can do clean negatives or the band-assisted version for 3×8.",
+      "Do not bend at the hips to cheat; stop if you feel pain behind the knee."
+    ]
+  },
+  "nordic-hamstring-eccentric": {
+    "name": "Nordic Hamstring Eccentric",
+    "equipment": [
+      "foot anchor or a partner holding your feet"
+    ],
+    "steps": [
+      "Kneel on a pad with hips extended, ankles hooked under a fixed object or held by a partner.",
+      "Squeeze your glutes so your body is straight from knees to head.",
+      "Lean forward by extending your knees, using your hamstrings to brake so you go down very slowly.",
+      "When your chest is close to the floor, catch yourself with your hands and push gently back to kneeling."
+    ],
+    "safety": [
+      "Do not push your hips back; the movement must happen at the knee joint.",
+      "Always be ready to catch yourself with your hands; increase reps gradually, as this exercise causes a lot of muscle soreness."
+    ]
+  },
+  "one-arm-dead-hang": {
+    "name": "One-Arm Dead Hang",
+    "equipment": [
+      "pull-up bar"
+    ],
+    "steps": [
+      "Hang from the bar with both hands, then gradually shift your weight onto one hand.",
+      "Let go with the other hand and engage the hanging shoulder (pull it down slightly).",
+      "Hold a few seconds, limiting body rotation.",
+      "Grip with both hands again before coming down."
+    ],
+    "safety": [
+      "Start with very short hangs, shoulder active.",
+      "Only relax the shoulder once you are strong enough."
+    ]
+  },
+  "one-arm-pull-up": {
+    "name": "One-Arm Pull-Up",
+    "equipment": [
+      "pull-up bar"
+    ],
+    "steps": [
+      "Hang from the bar with one hand, the other arm relaxed or behind your back; brace your abs and glutes and keep your legs together.",
+      "Pull the shoulder blade of the hanging arm down into an active hang.",
+      "Bend your elbow to pull yourself up, keeping your body from rotating, until your chin clears the bar.",
+      "Lower slowly with control to a straight arm, then switch hands."
+    ],
+    "safety": [
+      "Only train this once you are solid at archer pull-ups and assisted one-arm pull-ups; increase reps gradually.",
+      "Do not drop at the end of the lowering phase, to avoid overloading the elbow and shoulder."
+    ]
+  },
+  "parallel-bar-dip": {
+    "name": "Parallel Bar Dip",
+    "equipment": [
+      "parallel bars"
+    ],
+    "steps": [
+      "Support yourself on the parallel bars, arms straight, shoulders depressed.",
+      "Bend your elbows to lower yourself, elbows pointing back, torso leaning slightly forward.",
+      "Lower until your shoulders are below your elbows or as far as your mobility allows.",
+      "Push up until your arms are fully straight and your shoulders pressed down."
+    ],
+    "safety": [
+      "Do not shrug your shoulders to your ears at the bottom; build training volume gradually, as this exercise stresses the shoulders and sternum.",
+      "Do not swing for momentum."
+    ]
+  },
+  "parallel-bar-support-hold": {
+    "name": "Parallel Bar Support Hold",
+    "equipment": [
+      "parallel bars"
+    ],
+    "steps": [
+      "Grip both parallel bars and jump or step up to support yourself on straight arms.",
+      "Press your shoulders down away from your ears, elbow pits facing forward.",
+      "Keep your legs together, glutes squeezed, body straight or slightly hollow.",
+      "Hold 20–60 seconds, building up to 3 sets of 1 minute."
+    ],
+    "safety": [
+      "Do not let your shoulders shrug up to your ears; if you cannot hold, lightly touch your feet down on a box.",
+      "You can use two sturdy chairs instead of parallel bars."
+    ]
+  },
+  "pike-push-up": {
+    "name": "Pike Push-Up",
+    "equipment": [
+      "no equipment"
+    ],
+    "steps": [
+      "From a push-up position, walk your feet toward your hands and push your hips up high into an inverted V.",
+      "Hands slightly wider than shoulder width, head relaxed in line with your arms.",
+      "Bend your elbows to lower the top of your head toward the floor in front of your hands, elbows at about 45° to your body.",
+      "Push back to the V position; once you reach 8–10 clean reps, move on to the feet-elevated version."
+    ],
+    "safety": [
+      "Do not let your hips drop, or the exercise turns into a regular push-up.",
+      "Do not flare your elbows straight out to the sides, to protect your shoulders."
+    ]
+  },
+  "pistol-squat": {
+    "name": "Pistol Squat",
+    "equipment": [
+      "no equipment"
+    ],
+    "steps": [
+      "Stand on one leg with the other leg straight out in front, both arms reaching forward.",
+      "Bend the knee of the standing leg and lower yourself, keeping the extended leg off the floor.",
+      "Go as deep as you can while keeping your balance and your heel on the floor.",
+      "Drive through the heel of the standing leg to stand up; switch legs after the set."
+    ],
+    "safety": [
+      "Train a partial range (sitting down onto a box) before going all the way down.",
+      "Lower slowly; do not drop into the bottom."
+    ]
+  },
+  "planche-lean": {
+    "name": "Planche Lean",
+    "equipment": [
+      "no equipment"
+    ],
+    "steps": [
+      "Place your hands shoulder-width apart, fingers turned outward, arms straight, elbow pits facing forward.",
+      "Protract your shoulder blades, squeeze your glutes and abs, in a push-up position.",
+      "Slowly lean your shoulders forward past your hands, arms still straight.",
+      "Hold for time, breathing steadily; stop when your form starts to break down."
+    ],
+    "safety": [
+      "Warm up your wrists thoroughly and increase the lean bit by bit.",
+      "Do not bend your elbows or let your hips sag."
+    ]
+  },
+  "plank": {
+    "name": "Plank",
+    "equipment": [
+      "no equipment"
+    ],
+    "steps": [
+      "Rest your forearms on the floor, elbows directly under your shoulders, legs straight and supported on your toes.",
+      "Brace your abs as if about to be punched in the stomach and squeeze your glutes so your body is straight from head to heels.",
+      "Push the floor away with your forearms so your shoulders do not sink.",
+      "Keep breathing steadily until time is up; build up gradually to 30 seconds per set."
+    ],
+    "safety": [
+      "Do not let your lower back sag, especially when fatigued.",
+      "Stop as soon as your form starts to break down instead of forcing a few more seconds."
+    ]
+  },
+  "plank-back-of-hand-wrist-push-up": {
+    "name": "Plank Back-of-Hand Wrist Push-Up",
+    "equipment": [
+      "no equipment"
+    ],
+    "steps": [
+      "Get into a straight-arm plank with the backs of your hands on the floor, fingers pointing toward your feet.",
+      "Brace your abs, body straight.",
+      "Extend your wrists to lift your forearms, pushing your body up slightly, then lower slowly.",
+      "Do only a few reps, prioritizing control."
+    ],
+    "safety": [
+      "Only train this once the wall version is easy.",
+      "Put a soft mat under your hands; stop if the back of your wrist hurts."
+    ]
+  },
+  "plank-palm-pulse": {
+    "name": "Plank Palm Pulse",
+    "equipment": [
+      "no equipment"
+    ],
+    "steps": [
+      "Get into a straight-arm push-up position, palms flat under your shoulders.",
+      "Press your fingers into the floor and lift the heels of your hands to push your body up onto your fingers.",
+      "Lower the heels of your hands slowly; you can do only the slow lowering phase at first.",
+      "Keep your body straight throughout the set."
+    ],
+    "safety": [
+      "Only move on to this version once the kneeling version feels easy.",
+      "Do not let your hips sag."
+    ]
+  },
+  "prone-neck-bridge": {
+    "name": "Prone Neck Bridge",
+    "equipment": [
+      "bench/box"
+    ],
+    "steps": [
+      "Kneel in front of a padded bench and rest your forehead on the pad.",
+      "Keep your back straight, hands on your thighs or the bench for balance.",
+      "Press your forehead lightly into the pad.",
+      "Flex and extend your neck through small, controlled ranges."
+    ],
+    "safety": [
+      "Keep the range small; do not roll your head.",
+      "Use your hands to take some of the load when starting out; stop if you feel numbness or radiating pain."
+    ]
+  },
+  "prone-t-raise-bodyweight": {
+    "name": "Prone T Raise (bodyweight)",
+    "equipment": [
+      "no equipment"
+    ],
+    "steps": [
+      "Lie face down with arms out to the sides in a T, thumbs pointing to the ceiling.",
+      "Initiate by squeezing your shoulder blades toward your spine.",
+      "Raise both arms as high as you can, arms straight.",
+      "Hold a few seconds, then lower slowly."
+    ],
+    "safety": [
+      "Do not arch your lower back to lift higher.",
+      "Easier version: work one arm at a time, or lie on the edge of a bed so the arm moves through a shorter range."
+    ]
+  },
+  "prone-w-raise": {
+    "name": "Prone W Raise",
+    "equipment": [
+      "no equipment"
+    ],
+    "steps": [
+      "Lie face down with elbows bent about 90°, upper arms close to your body, forming a W shape.",
+      "Squeeze your shoulder blades together and pull them down.",
+      "Rotate your forearms and lift your elbows and the backs of your hands off the floor, thumbs pointing up.",
+      "Hold 2 seconds, then lower slowly."
+    ],
+    "safety": [
+      "Do not shrug or tilt your neck back.",
+      "Keep your chin tucked, eyes on the floor."
+    ]
+  },
+  "prone-y-raise-bodyweight": {
+    "name": "Prone Y Raise (bodyweight)",
+    "equipment": [
+      "no equipment"
+    ],
+    "steps": [
+      "Lie face down on the floor or a bed, forehead resting on a towel, arms extended overhead in a Y, thumbs pointing up.",
+      "Tuck your chin slightly and pull your shoulder blades down and back.",
+      "Lift both arms a few centimeters off the floor, leading with your thumbs.",
+      "Hold 2 seconds, then lower slowly."
+    ],
+    "safety": [
+      "Do not shrug or tilt your neck back.",
+      "Work one arm at a time or reduce the range if your shoulder hurts."
+    ]
+  },
+  "pseudo-planche-push-up": {
+    "name": "Pseudo Planche Push-Up",
+    "equipment": [
+      "no equipment"
+    ],
+    "steps": [
+      "Get into a push-up position with your hands turned outward or fingers pointing toward your feet, hands placed beside your hips.",
+      "Lean forward until your shoulders are past your hands, keeping your body straight and your shoulder blades protracted.",
+      "Keeping the same lean, bend your elbows to lower your chest close to the floor, elbows tucked.",
+      "Push up until your arms are straight; increase the lean to make it harder."
+    ],
+    "safety": [
+      "Warm up your wrists thoroughly; increase the lean gradually.",
+      "Keep the lean constant throughout each rep and do not let your hips sag."
+    ]
+  },
+  "pull-up": {
+    "name": "Pull-Up",
+    "equipment": [
+      "pull-up bar"
+    ],
+    "steps": [
+      "Hang from the bar with an overhand grip slightly wider than shoulder width, body in a slight hollow.",
+      "Pull your shoulder blades down first, then bend your elbows to pull your chest up toward the bar.",
+      "Pull until your chin clears the bar or the bar touches your upper chest.",
+      "Lower with control until your arms are fully straight."
+    ],
+    "safety": [
+      "Do not kick your legs for momentum if you want to train the right muscles.",
+      "Your grip should not be too wide; use chalk if your hands are slippery."
+    ]
+  },
+  "push-up": {
+    "name": "Push-Up",
+    "equipment": [
+      "no equipment"
+    ],
+    "steps": [
+      "Place your hands on the floor slightly wider than shoulder width, toes on the floor, body straight from head to heels.",
+      "Brace your abs and glutes, pulling your shoulder blades down away from your ears.",
+      "Lower yourself until your chest nearly touches the floor, elbows tucked diagonally back.",
+      "Push the floor away to straighten your arms; at the top, push a little further so your shoulder blades spread apart."
+    ],
+    "safety": [
+      "Do not let your hips sag or pike up; if you cannot keep your body straight, go back to the incline version.",
+      "If your wrists hurt, support yourself on your fists or push-up handles to keep your wrists straight."
+    ]
+  },
+  "push-up-plus": {
+    "name": "Push-Up Plus",
+    "equipment": [
+      "no equipment"
+    ],
+    "steps": [
+      "Get into a standard push-up position, hands shoulder-width apart, body straight.",
+      "Lower yourself as far as is pain-free, then push up until your elbows are nearly straight.",
+      "At the top, push the floor further so your shoulder blades spread apart, upper back slightly rounded.",
+      "Let your shoulder blades return to neutral, then do the next rep."
+    ],
+    "safety": [
+      "Do not let your lower back sag or round your back excessively during the scapular push.",
+      "Do the hands-elevated version if you cannot keep your body straight yet."
+    ]
+  },
+  "reverse-grip-bodyweight-curl": {
+    "name": "Reverse-Grip Bodyweight Curl",
+    "equipment": [
+      "rings",
+      "pull-up bar"
+    ],
+    "steps": [
+      "Grip the rings or a bar set at chest height with an overhand grip (backs of the hands facing up).",
+      "Lean back until your arms are straight, elbows raised to shoulder height.",
+      "Bend your elbows to pull yourself toward your hands, keeping your wrists straight.",
+      "Lower slowly; stand more upright if you cannot keep your wrists straight."
+    ],
+    "safety": [
+      "Stand nearly upright when starting out, since the overhand grip is weaker.",
+      "Stop if the outside of your elbow hurts."
+    ]
+  },
+  "reverse-hyperextension-bodyweight": {
+    "name": "Reverse Hyperextension (bodyweight)",
+    "equipment": [
+      "bench/box"
+    ],
+    "steps": [
+      "Lie face down on a bench or sturdy table with the edge at hip level and your legs hanging down.",
+      "Hold both sides of the bench firmly, brace your abs and tuck your pelvis slightly.",
+      "Squeeze your glutes to raise both straight legs to torso level.",
+      "Pause for a beat, then lower your legs slowly."
+    ],
+    "safety": [
+      "Keep your pelvis tucked; do not fling your legs too high and arch your lower back.",
+      "The bench/table must be sturdy enough and not slip."
+    ]
+  },
+  "reverse-lunge": {
+    "name": "Reverse Lunge",
+    "equipment": [
+      "no equipment"
+    ],
+    "steps": [
+      "Stand tall, feet hip-width apart.",
+      "Take a long step back with one leg.",
+      "Lower yourself deep, the back knee coming close to but not touching the floor.",
+      "Drive through the front foot to bring the back leg back to standing; alternate legs or finish one side first."
+    ],
+    "safety": [
+      "Keep your torso upright; do not lean forward.",
+      "Do not slam your back knee into the floor."
+    ]
+  },
+  "reverse-nordic": {
+    "name": "Reverse Nordic",
+    "equipment": [
+      "no equipment"
+    ],
+    "steps": [
+      "Kneel on a pad with your torso upright and the tops of your feet flat on the floor.",
+      "Brace your abs and squeeze your glutes to keep your hips extended.",
+      "Bend at the knees and lean your whole body back as one straight unit from knees to head.",
+      "Lean back as far as you can still control, then use your quads to pull yourself back upright."
+    ],
+    "safety": [
+      "Start with a short range; this exercise is very demanding on the knees.",
+      "Do not bend at the hips or arch your back to lean further."
+    ]
+  },
+  "ring-ab-rollout": {
+    "name": "Ring Ab Rollout",
+    "equipment": [
+      "rings"
+    ],
+    "steps": [
+      "Set the rings low at hip height, grip them and walk your feet back so your body leans like a push-up.",
+      "Lock your elbows and hold a hollow body: ribs down, glutes squeezed.",
+      "Push the rings forward, gradually bringing your arms overhead so your body lowers.",
+      "Go as far as you can while keeping your body straight, then pull your arms back to the start."
+    ],
+    "safety": [
+      "The higher the rings, the easier; start high and lower them gradually.",
+      "Your lower back sagging is a sign it is too hard: shorten the range."
+    ]
+  },
+  "ring-dip": {
+    "name": "Ring Dip",
+    "equipment": [
+      "rings"
+    ],
+    "steps": [
+      "Support yourself on the rings, arms straight, rings turned out.",
+      "Bend your elbows to lower yourself, keeping the rings close to your body and your shoulders depressed.",
+      "Lower until your shoulders are below your elbows or to a comfortable depth.",
+      "Push up, turning the rings out again at the top."
+    ],
+    "safety": [
+      "Only train this once you are solid on parallel bar dips; the unstable rings greatly increase the load on the shoulders.",
+      "Increase training volume gradually so your shoulders and sternum can adapt."
+    ]
+  },
+  "ring-push-up": {
+    "name": "Ring Push-Up",
+    "equipment": [
+      "rings"
+    ],
+    "steps": [
+      "Lower the rings to a few centimeters off the floor, grip them and get into a push-up position with straight arms.",
+      "Keep the rings close to your sides, shoulder blades down, body straight.",
+      "Lower yourself until your hands are about level with your chest, elbows tucked in.",
+      "Push up; at the top, turn the rings slightly out and protract your shoulder blades."
+    ],
+    "safety": [
+      "Check that the straps and anchor point are secure before training.",
+      "Do not let the rings drift wide to the sides, which can easily overload the shoulders."
+    ]
+  },
+  "ring-reverse-fly": {
+    "name": "Ring Reverse Fly",
+    "equipment": [
+      "rings"
+    ],
+    "steps": [
+      "Set the rings at chest height and grip them with palms facing each other, arms straight out in front.",
+      "Walk your feet forward and lean back so your body forms a straight line from head to heels, abs and glutes tight.",
+      "Keeping a slight bend in the elbows, open your arms out to the sides until they are in line with your shoulders, pulling your body up.",
+      "Lower yourself slowly along the same path; stand more upright to make it easier, lean back more to make it harder."
+    ],
+    "safety": [
+      "Do not shrug or arch your back for momentum; do not let your hips sag.",
+      "Start nearly upright and only increase the lean while you can maintain technique."
+    ]
+  },
+  "ring-support-hold": {
+    "name": "Ring Support Hold",
+    "equipment": [
+      "rings"
+    ],
+    "steps": [
+      "Set the rings at hip height, grip them and jump up to a straight-arm support.",
+      "Keep the rings tight against your hips, shoulders pressed down, elbow pits facing forward.",
+      "Once stable, turn your thumbs outward so the rings turn out (RTO) as much as possible.",
+      "Hold in short sets, building up gradually to 60 continuous seconds."
+    ],
+    "safety": [
+      "You can wrap a resistance band or towel between the rings for support when starting out.",
+      "Do not rest your arms against the straps, as this hides your true strength."
+    ]
+  },
+  "scapula-dip": {
+    "name": "Scapula Dip",
+    "equipment": [
+      "parallel bars"
+    ],
+    "steps": [
+      "Support yourself on the parallel bars, arms straight, legs slightly forward, abs and glutes tight.",
+      "Relax so your shoulders shrug up toward your ears while your elbows stay straight.",
+      "Press both hands down into the bars, pulling your shoulders down away from your ears to raise your body a few centimeters.",
+      "Hold for a beat, then lower with control."
+    ],
+    "safety": [
+      "Keep your elbows straight at all times; the movement is only at the shoulder blades.",
+      "Reduce the range if you feel sharp shoulder pain."
+    ]
+  },
+  "scapular-pull-up": {
+    "name": "Scapular Pull-Up",
+    "equipment": [
+      "pull-up bar"
+    ],
+    "steps": [
+      "Hang from the bar with an overhand grip slightly wider than shoulder width, arms straight.",
+      "Pull your shoulder blades down and together so your shoulders move away from your ears and your body rises a few centimeters.",
+      "Hold for a beat, elbows still straight.",
+      "Let your shoulder blades return to the hanging position with control."
+    ],
+    "safety": [
+      "Do not bend your elbows: this is a shoulder blade exercise.",
+      "If you cannot hang for long yet, let your feet lightly touch a box."
+    ]
+  },
+  "shrimp-squat": {
+    "name": "Shrimp Squat",
+    "equipment": [
+      "no equipment"
+    ],
+    "steps": [
+      "Stand on one leg with the other knee bent behind you (you can hold that ankle with the same-side hand).",
+      "Lower yourself on the standing leg, torso leaning slightly forward for balance.",
+      "Lower until the back knee lightly touches the floor (easier version: back knee and toes touch at the same time).",
+      "Drive through the standing leg to stand up; switch legs after the set."
+    ],
+    "safety": [
+      "Place a soft pad under the back knee.",
+      "The knee of the standing leg tracks over the toes; do not let it cave in."
+    ]
+  },
+  "side-lunge": {
+    "name": "Side Lunge",
+    "equipment": [
+      "no equipment"
+    ],
+    "steps": [
+      "Stand tall with space clear to one side, abs lightly braced.",
+      "Take a wide step to one side.",
+      "Lower yourself toward the stepping leg, pushing your hips back, the other leg straight; keep the heel of the stepping foot on the floor.",
+      "Drive through the stepping foot to push back to standing; repeat or switch sides."
+    ],
+    "safety": [
+      "Prioritize control over depth.",
+      "The knee of the stepping leg tracks over the toes."
+    ]
+  },
+  "side-lying-external-rotation": {
+    "name": "Side-Lying External Rotation",
+    "equipment": [
+      "no equipment"
+    ],
+    "steps": [
+      "Lie on your side with the top elbow bent 90°, upper arm against your ribs (you can hold a rolled towel there).",
+      "Pull your shoulder blade back and down.",
+      "Rotate your forearm up toward the ceiling, elbow staying still and bent at 90°.",
+      "Lower slowly to the start."
+    ],
+    "safety": [
+      "Keep your elbow against your ribs; keep your shoulder blade still.",
+      "Do not swing your arm; lower more slowly than you lift."
+    ]
+  },
+  "side-lying-hip-abduction": {
+    "name": "Side-Lying Hip Abduction",
+    "equipment": [
+      "no equipment"
+    ],
+    "steps": [
+      "Lie on your side, bottom leg bent for stability, top leg straight in line with your body.",
+      "Brace your abs and keep your pelvis vertical (not tilting forward or back).",
+      "Raise the top leg, leading with the heel, toes pointing slightly down.",
+      "Hold for a beat at the top, then lower slowly; switch sides after the set."
+    ],
+    "safety": [
+      "Do not rotate your torso or bring the leg forward to lift higher.",
+      "Keep the top knee straight throughout."
+    ]
+  },
+  "side-lying-hip-adduction": {
+    "name": "Side-Lying Hip Adduction",
+    "equipment": [
+      "no equipment"
+    ],
+    "steps": [
+      "Lie on your side, head resting on your bottom arm, top hand on your hip.",
+      "Cross the top leg over in front and place that foot on the floor in front of the bottom leg.",
+      "Exhale and raise the bottom leg (straight) a few centimeters.",
+      "Lower slowly; switch sides after the set."
+    ],
+    "safety": [
+      "Stop if your hips tilt or you feel strain in your lower back.",
+      "A small range is enough; do not rotate the leg to lift higher."
+    ]
+  },
+  "side-lying-hip-hike": {
+    "name": "Side-Lying Hip Hike",
+    "equipment": [
+      "no equipment"
+    ],
+    "steps": [
+      "Lie on your side with both knees bent; you can squeeze a soft pillow between your knees.",
+      "Keep your lower back neutral and lightly brace your abs.",
+      "Contract the muscles along your side to pull the top hip up toward the same-side shoulder, without your torso rolling forward or back.",
+      "Slowly return to the start; do 10–15 reps, then switch sides."
+    ],
+    "safety": [
+      "Keep the movement small; do not tense your neck or shoulders.",
+      "Stop if your lower-back pain increases."
+    ]
+  },
+  "side-lying-neck-lateral-raise": {
+    "name": "Side-Lying Neck Lateral Raise",
+    "equipment": [
+      "bench/box"
+    ],
+    "steps": [
+      "Lie on your side on a bench with your shoulder at the edge so your head can move freely.",
+      "Look straight ahead; do not rotate your head.",
+      "Lower your head slowly until you feel a light stretch, then raise your ear toward your top shoulder.",
+      "Switch sides after each set."
+    ],
+    "safety": [
+      "Only tilt in a single plane; do not combine it with flexing, extending or rotating.",
+      "Move slowly; do not jerk."
+    ]
+  },
+  "side-plank": {
+    "name": "Side Plank",
+    "equipment": [
+      "no equipment"
+    ],
+    "steps": [
+      "Lie on your side, propped on your elbow directly under your shoulder, legs straight (place the top foot in front of the bottom foot for stability).",
+      "Brace your abs and lift your hips so your body is straight from head to heels.",
+      "Hold the position, breathing steadily, for the planned time.",
+      "Lower to rest, then switch sides."
+    ],
+    "safety": [
+      "Do not let your hips sag; if too fatigued, go back to the kneeling version.",
+      "If the supporting shoulder hurts, stop and recheck your elbow position."
+    ]
+  },
+  "side-plank-hip-abduction": {
+    "name": "Side Plank with Hip Abduction",
+    "equipment": [
+      "no equipment"
+    ],
+    "steps": [
+      "Get into a side plank: elbow under shoulder, legs straight and stacked, hips raised high.",
+      "Keep shoulders, hips, knees and ankles in line.",
+      "Raise the top leg slowly and lower it slowly, without the bottom hip dropping.",
+      "Do the planned reps, then switch sides."
+    ],
+    "safety": [
+      "Easier version: bend the bottom knee about 45° and support yourself on that knee.",
+      "Stop when your hips start to sag."
+    ]
+  },
+  "side-plank-lift": {
+    "name": "Side Plank Lift",
+    "equipment": [
+      "no equipment"
+    ],
+    "steps": [
+      "Lie on your side with the bottom forearm on the floor, elbow directly under your shoulder, legs straight and stacked.",
+      "Brace your abs and glutes so your body is straight.",
+      "Lift your hips into a side plank and hold for a beat.",
+      "Lower your hips until they lightly touch the floor, then lift again; do 10–15 reps, then switch sides."
+    ],
+    "safety": [
+      "Do not drop your hips; lower with control.",
+      "If your shoulder or lower back hurts, switch to the kneeling version."
+    ]
+  },
+  "single-leg-calf-raise": {
+    "name": "Single-Leg Calf Raise",
+    "equipment": [
+      "wall"
+    ],
+    "steps": [
+      "Stand on one leg on the floor with the other leg bent up, hand on a wall.",
+      "With the knee of the standing leg straight, raise your heel as high as possible.",
+      "Keep pressure even across the ball of your foot, without rolling toward the big toe or little toe.",
+      "Lower the heel slowly and repeat; switch legs after the set."
+    ],
+    "safety": [
+      "Your hand is only for balance; do not pull yourself up with it.",
+      "If your Achilles tendon hurts, reduce the reps and go back to the two-leg version."
+    ]
+  },
+  "single-leg-deficit-calf-raise": {
+    "name": "Single-Leg Deficit Calf Raise",
+    "equipment": [
+      "bench/box",
+      "wall"
+    ],
+    "steps": [
+      "Stand on the ball of one foot on the edge of a step, the other leg bent behind you, holding on to something.",
+      "Lower your heel slowly to below the level of the step and pause for a beat.",
+      "Push up as high as possible with the knee straight, pausing for a beat at the top.",
+      "Repeat; switch legs after the set."
+    ],
+    "safety": [
+      "Lower slowly so the Achilles tendon is not jerked.",
+      "Place your foot securely on the edge of the step and do not let it slip."
+    ]
+  },
+  "single-leg-glute-bridge": {
+    "name": "Single-Leg Glute Bridge",
+    "equipment": [
+      "no equipment"
+    ],
+    "steps": [
+      "Lie on your back with one knee bent and that foot on the floor, the other leg straight (or pulled up toward your chest).",
+      "Tuck your pelvis slightly and brace your abs.",
+      "Drive through the heel of the working leg to lift your hips until your body is straight.",
+      "Squeeze your glutes at the top, keeping both hips level, then lower slowly."
+    ],
+    "safety": [
+      "Do not let the hip on the straight-leg side drop.",
+      "Push with your glutes; do not arch your back."
+    ]
+  },
+  "single-leg-hamstring-slide": {
+    "name": "Single-Leg Hamstring Slide",
+    "equipment": [
+      "towel/sliders"
+    ],
+    "steps": [
+      "Lie on your back with one heel on a towel/slider, the other leg lifted or resting on the working leg.",
+      "Lift your hips using the working leg.",
+      "Slide the heel away and then pull it back toward your glutes, keeping your hips up and level at all times.",
+      "Do the planned reps, then switch legs."
+    ],
+    "safety": [
+      "Do the single-leg eccentric-only (extension) version first if you cannot pull back in yet.",
+      "Do not let your hips rotate or drop to one side."
+    ]
+  },
+  "single-leg-hip-thrust": {
+    "name": "Single-Leg Hip Thrust",
+    "equipment": [
+      "bench/box"
+    ],
+    "steps": [
+      "Sit on the floor with your upper back against the edge of a sturdy bench or sofa.",
+      "Place one foot on the floor and lift the other leg.",
+      "Drive through the heel of the working leg to push your hips up until your torso is parallel to the floor and the working knee is bent about 90°.",
+      "Squeeze your glutes at the top, then lower your hips slowly."
+    ],
+    "safety": [
+      "The bench must not slip; ideally place it against a wall.",
+      "Keep your chin slightly tucked and do not arch your lower back at the top."
+    ]
+  },
+  "single-leg-romanian-deadlift": {
+    "name": "Single-Leg Romanian Deadlift",
+    "equipment": [
+      "no equipment"
+    ],
+    "steps": [
+      "Stand on one leg, the standing knee slightly bent, abs braced.",
+      "Hinge at the hip, tipping your torso forward while the other leg extends back in line with your torso.",
+      "Lower until you feel a stretch in the hamstring of the standing leg, with both hips still level.",
+      "Drive your hips forward to stand up; do 5–8 reps, then switch legs."
+    ],
+    "safety": [
+      "If you lose balance, lightly touch the back toes to the floor or hold on to a wall.",
+      "Keep your back straight; do not rotate the hip of the lifted leg open."
+    ]
+  },
+  "soleus-raise": {
+    "name": "Soleus Raise",
+    "equipment": [
+      "wall"
+    ],
+    "steps": [
+      "Stand on one leg with a hand on a wall, the standing knee slightly bent.",
+      "Keeping the same knee bend, raise your heel as high as possible.",
+      "Pause for a beat at the top.",
+      "Lower the heel slowly, knee still bent; switch legs after the set."
+    ],
+    "safety": [
+      "Do not straighten your knee as you raise your heel, or the exercise shifts to the gastrocnemius.",
+      "Lower with control."
+    ]
+  },
+  "split-squat": {
+    "name": "Split Squat",
+    "equipment": [
+      "no equipment"
+    ],
+    "steps": [
+      "Step one foot forward a long stride, back heel raised; hold this stance for the whole set.",
+      "With your torso upright, lower straight down until the back knee nearly touches the floor.",
+      "Drive through the front foot to stand up, without bringing your feet together between reps.",
+      "Do the planned reps, then switch legs."
+    ],
+    "safety": [
+      "The front knee tracks over the toes.",
+      "Keep your feet about hip-width apart side to side for easier balance."
+    ]
+  },
+  "standing-ab-wheel-rollout": {
+    "name": "Standing Ab Wheel Rollout",
+    "equipment": [
+      "ab wheel",
+      "wall"
+    ],
+    "steps": [
+      "Stand with feet hip-width apart, bend over and place the ab wheel on the floor in front of your toes.",
+      "Brace your abs, squeeze your glutes, hold a hollow body and push the wheel away.",
+      "Roll until your body is nearly parallel to the floor (or until you touch a wall placed in front to limit the range).",
+      "Pull the wheel back using your abs and shoulders, returning to the bent-over start position."
+    ],
+    "safety": [
+      "Only train this after you can do clean kneeling rollouts; use a wall to shorten the rolling distance.",
+      "Do not let your lower back sag; if you lose position, drop to your knees immediately."
+    ]
+  },
+  "standing-hip-flexion-hold": {
+    "name": "Standing Hip Flexion Hold",
+    "equipment": [
+      "wall"
+    ],
+    "steps": [
+      "Stand tall next to a wall with one hand touching it for balance.",
+      "Lightly brace your abs and raise one thigh forward to about 30–60°, knee comfortably bent.",
+      "Hold the thigh at that height for 10–30 seconds without leaning your torso back.",
+      "Lower the leg and switch sides; when it gets easy, gradually raise the thigh higher, up to 90°."
+    ],
+    "safety": [
+      "Keep your back straight; do not arch your lower back to lift the thigh higher.",
+      "If the front of your hip hurts, reduce the lift angle."
+    ]
+  },
+  "step-up": {
+    "name": "Step-Up",
+    "equipment": [
+      "bench/box"
+    ],
+    "steps": [
+      "Stand in front of a sturdy box or bench about knee height.",
+      "Place your whole foot on the box and shift your weight onto the top leg.",
+      "Lightly brace your abs and drive through the top leg to stand up tall, minimizing push from the bottom leg.",
+      "Lower slowly with control, keeping the foot on the box, and repeat."
+    ],
+    "safety": [
+      "The box must not slip or tip over.",
+      "Start with a lower box if your knee is not yet stable."
+    ]
+  },
+  "superman": {
+    "name": "Superman",
+    "equipment": [
+      "no equipment"
+    ],
+    "steps": [
+      "Lie face down, arms extended forward, legs extended back, tops of the feet on the floor.",
+      "Look down at the floor to keep your neck straight; brace your abs and squeeze your glutes.",
+      "Exhale and lift your arms, chest and legs off the floor a few centimeters at the same time.",
+      "Pause for a beat, then lower slowly."
+    ],
+    "safety": [
+      "Do not tilt your neck back to look up.",
+      "Only lift a few centimeters; lifting too high compresses the lower back."
+    ]
+  },
+  "supine-neck-bridge": {
+    "name": "Supine Neck Bridge",
+    "equipment": [
+      "bench/box"
+    ],
+    "steps": [
+      "Lie on your back so that only the back of your head rests on the bench, feet on the floor, knees bent.",
+      "Squeeze your glutes to keep your body straight.",
+      "Press the back of your head lightly into the bench.",
+      "Nod your head through small, controlled ranges."
+    ],
+    "safety": [
+      "The bench version is easier and safer than the floor version; do not do the floor version until you are used to it.",
+      "Stop if you feel dizzy, numb or radiating pain."
+    ]
+  },
+  "supine-straight-leg-raise": {
+    "name": "Supine Straight Leg Raise",
+    "equipment": [
+      "no equipment"
+    ],
+    "steps": [
+      "Lie on your back with one knee bent and that foot on the floor, the other leg straight.",
+      "Tighten the quads of the straight leg to lock the knee.",
+      "Raise the straight leg to the height of the bent knee and hold for a beat.",
+      "Lower slowly to near the floor and repeat; after all reps, switch sides."
+    ],
+    "safety": [
+      "Keep your lower back on the floor with the help of the bent leg.",
+      "Lower the leg with control; do not let it drop."
+    ]
+  },
+  "towel-pull-up": {
+    "name": "Towel Pull-Up",
+    "equipment": [
+      "pull-up bar",
+      "towel"
+    ],
+    "steps": [
+      "Drape two strong towels over the bar and grip one tightly in each hand.",
+      "Hang with straight arms, shoulder blades down.",
+      "Pull yourself up as high as you can, keeping your hands squeezing the towels.",
+      "Lower with control until your arms are straight."
+    ],
+    "safety": [
+      "Use thick towels that are not frayed; check that the towels do not slide off the bar.",
+      "Only train this once you can do many clean regular pull-ups."
+    ]
+  },
+  "tuck-front-lever": {
+    "name": "Tuck Front Lever",
+    "equipment": [
+      "pull-up bar",
+      "rings"
+    ],
+    "steps": [
+      "Hang from the bar or rings with straight arms.",
+      "Press your arms down with your lats, lean back and tuck your knees to your chest so your torso is horizontal.",
+      "Pull your shoulder blades down and back, elbows fully straight.",
+      "Hold 10–30 seconds, then lower your legs with control."
+    ],
+    "safety": [
+      "Do not bend your elbows to compensate; bent elbows reduce the effect and make pain more likely.",
+      "Do not hang upside down for more than a second at the start or end of a set."
+    ]
+  },
+  "tuck-front-lever-row": {
+    "name": "Tuck Front Lever Row",
+    "equipment": [
+      "rings",
+      "pull-up bar"
+    ],
+    "steps": [
+      "Get into a tuck front lever on the rings or bar, arms straight.",
+      "Keeping your body horizontal, pull the rings toward your stomach, shoulder blades squeezed together.",
+      "Bring the rings to touch your lower torso if you can.",
+      "Extend your arms back to the tuck front lever with control."
+    ],
+    "safety": [
+      "Only train this once you can solidly hold a tuck front lever for 20–30 seconds.",
+      "Rings allow better range of motion than a bar; do not let your hips drop when fatigued."
+    ]
+  },
+  "tuck-l-sit": {
+    "name": "Tuck L-Sit",
+    "equipment": [
+      "no equipment"
+    ],
+    "steps": [
+      "Sit on the floor with knees bent about 90°, hands placed slightly in front of your hips.",
+      "Lock your elbows and press your shoulders down (do not shrug them to your ears).",
+      "Push the floor away to lift your hips and feet, keeping your knees tucked close to your body.",
+      "Hold 10–30 seconds, then lower down to rest."
+    ],
+    "safety": [
+      "If your wrists hurt, support yourself on your fists or on two low handles.",
+      "If you cannot lift your feet yet, go back to the support version with your feet still touching the floor."
+    ]
+  },
+  "tuck-planche": {
+    "name": "Tuck Planche",
+    "equipment": [
+      "no equipment"
+    ],
+    "steps": [
+      "Squat down and place your hands on the floor beside your hips, fingers turned outward.",
+      "Lean your shoulders forward, protract your shoulder blades and round your back slightly.",
+      "Lift your feet off the floor, knees tucked to your chest, hips at shoulder level.",
+      "Hold a few seconds with straight arms, then put your feet down."
+    ],
+    "safety": [
+      "You need a solid planche lean first; you can use low handles to reduce wrist stress.",
+      "Do not bend your elbows to hold the position, as this can easily overload the biceps tendon."
+    ]
+  },
+  "underhand-inverted-row": {
+    "name": "Underhand Inverted Row",
+    "equipment": [
+      "pull-up bar",
+      "rings"
+    ],
+    "steps": [
+      "Lie under a bar at hip height and grip it underhand at shoulder width.",
+      "Keep your body straight, heels on the floor.",
+      "Pull your chest toward the bar, elbows tucked close to your body.",
+      "Lower slowly until your arms are straight."
+    ],
+    "safety": [
+      "Do not jerk your body; keep your hips in line.",
+      "Stop if the inside of your elbow hurts."
+    ]
+  },
+  "vertical-row": {
+    "name": "Vertical Row",
+    "equipment": [
+      "pull-up bar",
+      "rings"
+    ],
+    "steps": [
+      "Grip a bar or rings at chest height, feet placed almost directly below your hands, body leaning back slightly.",
+      "Pull your shoulder blades back first, then pull your chest toward your hands.",
+      "Keep your body straight from head to heels.",
+      "Lower back to straight arms with control; walk your feet forward to make it harder."
+    ],
+    "safety": [
+      "Check that the anchor point or bar is secure.",
+      "Do not shrug as you pull."
+    ]
+  },
+  "wall-angel": {
+    "name": "Wall Angel",
+    "equipment": [
+      "wall"
+    ],
+    "steps": [
+      "Stand with your back, head and hips against the wall, feet a few centimeters from the wall; gently press your lower back toward the wall.",
+      "Raise your arms into a goalpost position: backs of the hands, wrists and elbows touching the wall, elbows bent 90°.",
+      "Slide your arms up overhead while keeping contact with the wall.",
+      "Slide down until your elbows come close to your ribs, squeezing your shoulder blades together."
+    ],
+    "safety": [
+      "Shorten the range if your arms come off the wall or your lower back arches.",
+      "Go slowly, about 3 seconds up and 3 seconds down."
+    ]
+  },
+  "wall-back-of-hand-wrist-push-up": {
+    "name": "Wall Back-of-Hand Wrist Push-Up",
+    "equipment": [
+      "wall"
+    ],
+    "steps": [
+      "Stand facing a wall with the backs of your hands on the wall, fingers pointing down.",
+      "Lean into the wall so your weight rests on the backs of your hands.",
+      "Extend your wrists to push yourself away from the wall, then lower slowly.",
+      "Move your hands gradually lower on the wall to increase the load."
+    ],
+    "safety": [
+      "Keep your elbows nearly straight; do not push with your shoulders.",
+      "Increase the difficulty a little at a time."
+    ]
+  },
+  "wall-handstand-hold": {
+    "name": "Wall Handstand Hold",
+    "equipment": [
+      "wall"
+    ],
+    "steps": [
+      "Walk up the wall (wall walk) into a handstand, facing the wall, toes lightly touching it.",
+      "Arms straight, push the floor away so your shoulders rise toward your ears.",
+      "Squeeze your abs and glutes so your body is straight, without arching your lower back.",
+      "Hold for time, then walk your hands out to come down."
+    ],
+    "safety": [
+      "Work on mobility and warm up your wrists before training.",
+      "Train on a mat and learn how to bail out safely before holding for long."
+    ]
+  },
+  "wall-handstand-push-up": {
+    "name": "Wall Handstand Push-Up",
+    "equipment": [
+      "wall"
+    ],
+    "steps": [
+      "Get into a wall handstand (facing the wall), hands shoulder-width apart.",
+      "Brace your abs and keep your body straight.",
+      "Bend your elbows to slowly lower your head close to the floor, elbows tucked diagonally forward.",
+      "Push up until your arms are fully straight."
+    ],
+    "safety": [
+      "You need a solid 30–45 second wall handstand hold before training this.",
+      "Lower slowly and have a mat under your head; do not flare your elbows out to the sides."
+    ]
+  },
+  "wall-handstand-shoulder-tap": {
+    "name": "Wall Handstand Shoulder Tap",
+    "equipment": [
+      "wall"
+    ],
+    "steps": [
+      "Walk up the wall into a handstand facing the wall, arms straight and shoulder-width apart, hands a short distance from the wall.",
+      "Squeeze your abs and glutes so your body forms a straight line, pushing the floor away to keep your shoulders high.",
+      "Gradually shift your weight onto one hand, keeping your body from shifting, then lift the other hand to lightly tap the same-side shoulder.",
+      "Put the hand back on the floor, regain balance, then switch sides; do a few reps per side, then walk your hands out to come down."
+    ],
+    "safety": [
+      "Only train this once you can hold a wall handstand for about 30 seconds and know how to bail out safely.",
+      "Do not let your hips pike or your lower back arch when shifting weight; train on a mat and stop when the supporting arm starts to bend."
+    ]
+  },
+  "wall-handstand-shrug": {
+    "name": "Wall Handstand Shrug",
+    "equipment": [
+      "wall"
+    ],
+    "steps": [
+      "Get into a wall handstand (walking up the wall or kicking up), arms straight and shoulder-width apart.",
+      "Squeeze your abs and glutes so your body is straight.",
+      "Let your shoulders sink down, moving slightly away from your ears, arms still straight.",
+      "Push the floor away, shrugging your shoulders toward your ears to raise your body as high as possible; repeat rhythmically, then come down safely."
+    ],
+    "safety": [
+      "Only train this once you can hold a wall handstand for about 30 seconds and know how to bail out.",
+      "Do not bend your elbows or let your lower back arch; train on a mat."
+    ]
+  },
+  "wall-push-up": {
+    "name": "Wall Push-Up",
+    "equipment": [
+      "wall"
+    ],
+    "steps": [
+      "Stand about an arm's length from a wall and place your palms on the wall at shoulder height, slightly wider than shoulder width.",
+      "Lightly brace your abs and glutes so your body forms a straight line from head to heels.",
+      "Bend your elbows to bring your chest close to the wall; elbows at about 45° to your body, not flared out.",
+      "Push the wall away to straighten your arms back to the start, exhaling as you push."
+    ],
+    "safety": [
+      "Do not let your hips sag or stick your butt out.",
+      "Step your feet further from the wall once 3×8 is easy, then move on to incline push-ups."
+    ]
+  },
+  "wall-push-up-plus": {
+    "name": "Wall Push-Up Plus",
+    "equipment": [
+      "wall"
+    ],
+    "steps": [
+      "Stand facing a wall with both hands on the wall at shoulder height, arms straight.",
+      "Keep your body straight from heels to the top of your head.",
+      "Without bending your elbows, let your shoulder blades slide toward your spine so your chest moves slightly toward the wall.",
+      "Push the wall away with your shoulder blades so your upper back widens and your chest moves away from the wall."
+    ],
+    "safety": [
+      "Keep your elbows straight at all times.",
+      "Do not shrug your shoulders to your ears as you push."
+    ]
+  },
+  "wall-slide": {
+    "name": "Wall Slide",
+    "equipment": [
+      "wall"
+    ],
+    "steps": [
+      "Stand facing a wall with the outer edges of both forearms on the wall, elbows bent about 90° at shoulder height.",
+      "Press your forearms lightly into the wall and gently protract your shoulder blades.",
+      "Slide your forearms up in a V shape, letting your shoulder blades rotate upward naturally.",
+      "Slide back to the start with control."
+    ],
+    "safety": [
+      "Do not shrug or arch your lower back as your arms go overhead.",
+      "Stop within a pain-free range."
+    ]
+  },
+  "wall-tibialis-raise": {
+    "name": "Wall Tibialis Raise",
+    "equipment": [
+      "wall"
+    ],
+    "steps": [
+      "Stand with your back to a wall, heels about 20–30 cm from the wall.",
+      "Lean your back and glutes against the wall, abs lightly braced, legs straight.",
+      "Pull your toes up as high as possible, heels staying on the floor.",
+      "Hold 1–2 seconds, then lower your toes slowly."
+    ],
+    "safety": [
+      "Keep your heels on the floor at all times.",
+      "Lower slowly; do not let your toes slap down."
+    ]
+  },
+  "wall-walk": {
+    "name": "Wall Walk",
+    "equipment": [
+      "wall"
+    ],
+    "steps": [
+      "Get into a push-up position with the soles of your feet against the base of the wall.",
+      "Walk your feet up the wall step by step while walking your hands back toward the wall.",
+      "Stop at a distance close to the wall that you can still control, and hold for a beat.",
+      "Reverse: hands walk forward, feet come down, back to the push-up position."
+    ],
+    "safety": [
+      "Clear the area, use a mat, and train barefoot or in grippy shoes.",
+      "Walk only a short distance at first, then increase gradually."
+    ]
+  },
+  "wide-row": {
+    "name": "Wide Row",
+    "equipment": [
+      "pull-up bar",
+      "rings"
+    ],
+    "steps": [
+      "Lie under the bar and grip it overhand about 1.5 times shoulder width (on rings, keep your elbows flared about 90°).",
+      "Keep your body straight, abs braced.",
+      "Pull your chest up to the bar, elbows flaring out to the sides, shoulder blades fully squeezed together.",
+      "Lower with control until your arms are straight."
+    ],
+    "safety": [
+      "Do not shrug your shoulders to your ears.",
+      "Lower your feet if you cannot reach the bar."
+    ]
+  },
+  "wrestlers-bridge": {
+    "name": "Wrestler's Bridge",
+    "equipment": [
+      "soft mat/pad"
+    ],
+    "steps": [
+      "Lie on your back on a thick mat, knees bent, feet on the floor wider than hip width; place both hands beside your head, elbows pointing up.",
+      "Push your hips up high and, supporting yourself with your hands, slowly roll onto the top of your head.",
+      "Keep most of your weight on your feet and hands, squeezing your glutes to keep your hips high; the neck takes only a light load.",
+      "Hold a few seconds, then use your hands to lower your back to the mat; increase hold time very gradually over many weeks."
+    ],
+    "safety": [
+      "Do not train this if you have a history of neck pain, a herniated disc or neck injury; consult a medical professional first.",
+      "Always train on a mat or pad and keep your hands supporting you until you are very stable; do not roll your head or take your hands away without a coach.",
+      "Stop immediately if you feel dizzy, numb or pain radiating into the shoulders or arms."
+    ]
+  }
+}

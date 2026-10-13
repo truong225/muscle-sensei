@@ -45,3 +45,4 @@ N10→N4 | rubric hiện hành (4 tiêu chí K/Ổ/S/R) khác bản đã qua c�
 N10 | trang Nguồn: free-exercise-db dùng cho cả nhóm cơ (điểm khởi đầu) | pass | SourcesContent.jsx sửa 1 câu cho khớp ATTRIBUTION; QA chạy lại allPass
 QA | chạy lại toàn bộ sau các bản sửa | pass | run/qa-report.json allPass: C1, C2 (40/40), C8, C8 mobile, C9, C10
 UI | hạn chế quan sát lúc bàn giao | unresolved (P3) | JS 366 KB gzip (three + dữ liệu đóng gói chung); dòng gợi ý của viewer đè chân mô hình trên mobile; kéo xoay không đồng bộ nút Mặt trước/Mặt sau
+Cloudflare | trang trắng khi deploy bằng Workers Builds (không có wrangler config) | pass sau sửa | thêm wrangler.jsonc (assets ./dist/, SPA); wrangler deploy --dry-run đọc 35 file; wrangler dev: #root có nội dung, mô hình tải (83 dc), 0 lỗi; run/screenshots/wrangler-dev.png

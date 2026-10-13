@@ -1,0 +1,476 @@
+{
+  "negative-chin-up": {
+    "youtubeId": "Dx740NIKX94",
+    "title": "Chin-Up (Negatives) - How To Do A Negative Chin up",
+    "channel": "Girls Gone Strong | Women's Health & Fitness",
+    "channelUrl": "https://www.youtube.com/@GirlsGoneStrong",
+    "checked": "2026-10-14",
+    "note": "Demonstrates the underhand-grip chin-up negative: step up to the top and lower slowly."
+  },
+  "negative-dip": {
+    "youtubeId": "Ocg8wyTciVc",
+    "title": "Eccentric Dips - Beginner",
+    "channel": "BodY-ProoF Calisthenics (Martin Kocken)",
+    "channelUrl": "https://www.youtube.com/@BodYProoFCalisthenics",
+    "checked": "2026-10-14",
+    "note": "Calisthenics coach demonstrates slow eccentric (negative) dips on parallel bars for beginners."
+  },
+  "negative-hamstring-slide": {
+    "youtubeId": "b9vlf1x3TMc",
+    "title": "Bridge Eccentric Hamstring Slide",
+    "channel": "Total Physical Therapy",
+    "channelUrl": "https://www.youtube.com/@TotalPhysicalTherapy",
+    "checked": "2026-10-14",
+    "note": "Physical therapy clinic shows the bridged eccentric hamstring slide: lift hips, slowly slide heels out."
+  },
+  "negative-pull-up": {
+    "youtubeId": "gbPURTSxQLY",
+    "title": "How To Do a Negative Pull-Up | Exercise Guide",
+    "channel": "Bodybuilding.com",
+    "channelUrl": "https://www.youtube.com/@bodybuildingcom",
+    "checked": "2026-10-14",
+    "note": "Overhand-grip pull-up negative from the top position with a slow controlled lowering."
+  },
+  "neutral-grip-pull-up": {
+    "youtubeId": "hDNy0jFYZvY",
+    "title": "Neutral-Grip Pull-Up | Olympic Weightlifting Exercise Library",
+    "channel": "Catalyst Athletics",
+    "channelUrl": "https://www.youtube.com/@CatalystAthletics",
+    "checked": "2026-10-14",
+    "note": "Short exercise-library demo of the pull-up on parallel handles with palms facing each other."
+  },
+  "nordic-curl": {
+    "youtubeId": "_e9vFU9-tkc",
+    "title": "How to Set Up, Perform, & Program Nordic Hamstring Curls (Progressions | Regressions | Alternatives)",
+    "channel": "E3 Rehab",
+    "channelUrl": "https://www.youtube.com/@E3Rehab",
+    "checked": "2026-10-14",
+    "note": "Physio-led setup and technique for the full Nordic curl with anchored ankles, plus regressions."
+  },
+  "nordic-hamstring-eccentric": {
+    "youtubeId": "3-4pKUhkzoQ",
+    "title": "Nordic Hamstring Curls for Beginners (In 1 Minute!)",
+    "channel": "Movement Project PT",
+    "channelUrl": "https://www.youtube.com/@MovementProjectPT",
+    "checked": "2026-10-14",
+    "note": "Physical therapist shows the beginner eccentric-only Nordic lowering with hands catching the fall."
+  },
+  "one-arm-dead-hang": {
+    "youtubeId": "RAJCnYBfJ18",
+    "title": "Single Arm Hang",
+    "channel": "Testosterone Nation",
+    "channelUrl": "https://www.youtube.com/@tnation",
+    "checked": "2026-10-14",
+    "note": "Short demonstration of hanging from a bar with one arm and an engaged shoulder."
+  },
+  "one-arm-pull-up": {
+    "youtubeId": "vdjWgw98EeI",
+    "title": "Master the One Arm Pull Up - One Arm Pull Up Tutorial",
+    "channel": "Calisthenicmovement",
+    "channelUrl": "https://www.youtube.com/@calimove",
+    "checked": "2026-10-14",
+    "note": "Calisthenics tutorial on one-arm pull-up technique and the progressions leading to it."
+  },
+  "parallel-bar-dip": {
+    "youtubeId": "U7HeutDqS_w",
+    "title": "How To Do Parallel Bar Dips | Exercise Demonstration Video and Guide",
+    "channel": "Live Lean TV Daily Exercises",
+    "channelUrl": "https://www.youtube.com/@LiveLean",
+    "checked": "2026-10-14",
+    "note": "Exercise guide specifically for bodyweight dips on parallel bars with slight forward lean."
+  },
+  "parallel-bar-support-hold": {
+    "youtubeId": "rHVWctHum9c",
+    "title": "P-bars support (straight-arm)",
+    "channel": "Ryan Ford",
+    "channelUrl": "https://www.youtube.com/@ryanford1",
+    "checked": "2026-10-14",
+    "note": "Gymnastics-strength coach demonstrates the straight-arm support hold on parallel bars."
+  },
+  "pike-push-up": {
+    "youtubeId": "pHR5yG6xBps",
+    "title": "Pike Push Up Tutorial For Beginners (With Progressions)",
+    "channel": "Gymless Fitness",
+    "channelUrl": "https://www.youtube.com/@GymlessOfficial",
+    "checked": "2026-10-14",
+    "note": "Bodyweight tutorial on the floor pike push-up in an inverted-V with head lowering toward the floor."
+  },
+  "pistol-squat": {
+    "youtubeId": "vq5-vdgJc0I",
+    "title": "How to Get Your First PISTOL SQUAT (Step-by-Step Progression)",
+    "channel": "Squat University",
+    "channelUrl": "https://www.youtube.com/@SquatUniversity",
+    "checked": "2026-10-14",
+    "note": "Physical therapist explains the bodyweight pistol squat with step-by-step progressions."
+  },
+  "planche-lean": {
+    "youtubeId": "_1Sfu6XqkhQ",
+    "title": "How To Planche Lean - Beginner Planche Progression Exercise",
+    "channel": "More Than Lifting",
+    "channelUrl": "https://www.youtube.com/@MorethanliftingOfficial",
+    "checked": "2026-10-14",
+    "note": "Shows the floor planche lean from push-up position with protracted scapulae and forward shoulder lean."
+  },
+  "plank": {
+    "youtubeId": "3QZlgJ40LfU",
+    "title": "Demonstration of a Forearm Plank",
+    "channel": "Hospital for Special Surgery",
+    "channelUrl": "https://www.youtube.com/@HSpecialSurgery",
+    "checked": "2026-10-14",
+    "note": "Hospital physio demo of the forearm plank with elbows under shoulders and a straight body line."
+  },
+  "plank-back-of-hand-wrist-push-up": {
+    "youtubeId": "NcTkXifgkIY",
+    "title": "Back of Hand Push Up for Wrist Strength",
+    "channel": "Dave Hedges",
+    "channelUrl": "https://www.youtube.com/@DaveHedgesWG-Fit",
+    "checked": "2026-10-14",
+    "note": "Strength coach demonstrates loading the back of the hands on the floor and extending the wrists to press up."
+  },
+  "plank-palm-pulse": {
+    "youtubeId": "V9Lw__srIbM",
+    "title": "Palm Pulses",
+    "channel": "Dani Winks Flexibility",
+    "channelUrl": "https://www.youtube.com/@DaniWinksFlexibility",
+    "checked": "2026-10-14",
+    "note": "Short wrist-prep demo lifting the heel of the hand onto the fingers under bodyweight; variant: may be shown from a lighter quadruped load rather than a full plank."
+  },
+  "prone-neck-bridge": {
+    "youtubeId": "5gHu6By2GMA",
+    "title": "Safer Neck Bridge Variations for Strength and Injury Prevention",
+    "channel": "The Red Delta Project",
+    "channelUrl": "https://www.youtube.com/@RedDeltaProject",
+    "checked": "2026-10-14",
+    "note": "Evidence-based channel shows bench-supported neck bridge variations; variant: covers several bench bridge set-ups including the forehead-on-bench front version."
+  },
+  "prone-t-raise-bodyweight": {
+    "youtubeId": "3GJoiYUYwr0",
+    "title": "Prone T Raise",
+    "channel": "Performance Course",
+    "channelUrl": "https://www.youtube.com/@PerformanceCourse",
+    "checked": "2026-10-14",
+    "note": "Short demo of the unweighted prone T raise: lying face down, arms out to the sides, squeezing shoulder blades."
+  },
+  "prone-w-raise": {
+    "youtubeId": "tl9GV1DjwYs",
+    "title": "Prone W Raises Tutorial | Strengthen Your Posture, Back, Shoulders, Improve Neck & Shoulder Pain",
+    "channel": "FitFx Training",
+    "channelUrl": "https://www.youtube.com/@fitfxtraining",
+    "checked": "2026-10-14",
+    "note": "Tutorial on the face-down W raise with elbows bent and arms rotated up off the floor; instructional coaching channel."
+  },
+  "prone-y-raise-bodyweight": {
+    "youtubeId": "w1AWGKubE5U",
+    "title": "Prone Y Raise",
+    "channel": "Performance Course",
+    "channelUrl": "https://www.youtube.com/@PerformanceCourse",
+    "checked": "2026-10-14",
+    "note": "Short demo of the unweighted prone Y raise with arms overhead in a Y and thumbs up."
+  },
+  "pseudo-planche-push-up": {
+    "youtubeId": "odcPqBOlJhI",
+    "title": "Planche Training: Pseudo Planche Done RIGHT!",
+    "channel": "FitnessFAQs",
+    "channelUrl": "https://www.youtube.com/@FitnessFAQs",
+    "checked": "2026-10-14",
+    "note": "Explains pseudo planche positioning (hands by hips, shoulders past hands) and the pseudo planche push-up."
+  },
+  "pull-up": {
+    "youtubeId": "sIvJTfGxdFo",
+    "title": "The Official Pull-Up Checklist (AVOID MISTAKES!)",
+    "channel": "ATHLEAN-X™",
+    "channelUrl": "https://www.youtube.com/@athleanx",
+    "checked": "2026-10-14",
+    "note": "Technique checklist for the standard overhand pull-up: scapular depression first, then pull chest to bar."
+  },
+  "push-up": {
+    "youtubeId": "IODxDxX7oi4",
+    "title": "The Perfect Push Up | Do it right!",
+    "channel": "Calisthenicmovement",
+    "channelUrl": "https://www.youtube.com/@calimove",
+    "checked": "2026-10-14",
+    "note": "Clear standard floor push-up tutorial covering hand position, body line and range of motion."
+  },
+  "push-up-plus": {
+    "youtubeId": "ALzFr2GT-Is",
+    "title": "Push Up Plus - Serratus Anterior Exercise for Winged Scapula",
+    "channel": "Nick Tumminello - Trainer of Trainers",
+    "channelUrl": "https://www.youtube.com/@TheTrainerOfTrainers",
+    "checked": "2026-10-14",
+    "note": "Shows the push-up with an extra scapular protraction at the top to target serratus anterior."
+  },
+  "reverse-grip-bodyweight-curl": {
+    "none": true,
+    "reason": "PENDING - not searched yet: the shared WebSearch quota for this run (200 calls) was exhausted before this exercise; re-run search for this id.",
+    "query": "bodyweight reverse grip curl rings overhand tutorial"
+  },
+  "reverse-hyperextension-bodyweight": {
+    "youtubeId": "X8tky2EUVVY",
+    "title": "Reverse Hyperextensions on a Bench (No Machine Needed) | Glutes, Hamstrings & Low Back",
+    "channel": "Syracuse Fitness Center",
+    "channelUrl": "https://www.youtube.com/@syracusefitnesscenter",
+    "checked": "2026-10-14",
+    "note": "Bodyweight reverse hyper lying prone on a flat bench with hips at the edge, lifting straight legs."
+  },
+  "reverse-lunge": {
+    "youtubeId": "94AXT7D3bKY",
+    "title": "How to Perform the Perfect Reverse Lunge",
+    "channel": "Airrosti Rehab Centers",
+    "channelUrl": "https://www.youtube.com/@airrosti",
+    "checked": "2026-10-14",
+    "note": "Rehab clinic demonstrates the bodyweight reverse lunge stepping back to a deep knee bend."
+  },
+  "reverse-nordic": {
+    "none": true,
+    "reason": "PENDING - not searched yet: the shared WebSearch quota for this run (200 calls) was exhausted before this exercise; re-run search for this id.",
+    "query": "reverse nordic curl how to tutorial"
+  },
+  "ring-ab-rollout": {
+    "none": true,
+    "reason": "PENDING - not searched yet: the shared WebSearch quota for this run (200 calls) was exhausted before this exercise; re-run search for this id.",
+    "query": "gymnastic ring ab rollout tutorial"
+  },
+  "ring-dip": {
+    "none": true,
+    "reason": "PENDING - not searched yet: the shared WebSearch quota for this run (200 calls) was exhausted before this exercise; re-run search for this id.",
+    "query": "ring dip tutorial proper form"
+  },
+  "ring-push-up": {
+    "none": true,
+    "reason": "PENDING - not searched yet: the shared WebSearch quota for this run (200 calls) was exhausted before this exercise; re-run search for this id.",
+    "query": "ring push up tutorial gymnastic rings"
+  },
+  "ring-reverse-fly": {
+    "none": true,
+    "reason": "PENDING - not searched yet: the shared WebSearch quota for this run (200 calls) was exhausted before this exercise; re-run search for this id.",
+    "query": "ring reverse fly rear delt tutorial"
+  },
+  "ring-support-hold": {
+    "none": true,
+    "reason": "PENDING - not searched yet: the shared WebSearch quota for this run (200 calls) was exhausted before this exercise; re-run search for this id.",
+    "query": "ring support hold rings turned out tutorial"
+  },
+  "scapula-dip": {
+    "youtubeId": "XHZ4l18QYKs",
+    "title": "MONKEY METHOD\nP-bars (shoulder shrugs + support hold)",
+    "channel": "PowerMonkeyFitness",
+    "channelUrl": "https://www.youtube.com/@PowerMonkeyFitness",
+    "checked": "2026-10-14",
+    "note": "Shows straight-arm shoulder shrugs (scapular depression/elevation) in support on parallel bars, i.e. the scapula dip."
+  },
+  "scapular-pull-up": {
+    "none": true,
+    "reason": "PENDING - not searched yet: the shared WebSearch quota for this run (200 calls) was exhausted before this exercise; re-run search for this id.",
+    "query": "scapular pull-up how to proper form"
+  },
+  "shrimp-squat": {
+    "none": true,
+    "reason": "PENDING - not searched yet: the shared WebSearch quota for this run (200 calls) was exhausted before this exercise; re-run search for this id.",
+    "query": "shrimp squat tutorial progression"
+  },
+  "side-lunge": {
+    "none": true,
+    "reason": "PENDING - not searched yet: the shared WebSearch quota for this run (200 calls) was exhausted before this exercise; re-run search for this id.",
+    "query": "bodyweight side lunge lateral lunge proper form"
+  },
+  "side-lying-external-rotation": {
+    "none": true,
+    "reason": "PENDING - not searched yet: the shared WebSearch quota for this run (200 calls) was exhausted before this exercise; re-run search for this id.",
+    "query": "side lying shoulder external rotation exercise physical therapy"
+  },
+  "side-lying-hip-abduction": {
+    "none": true,
+    "reason": "PENDING - not searched yet: the shared WebSearch quota for this run (200 calls) was exhausted before this exercise; re-run search for this id.",
+    "query": "side lying hip abduction exercise proper form physical therapy"
+  },
+  "side-lying-hip-adduction": {
+    "none": true,
+    "reason": "PENDING - not searched yet: the shared WebSearch quota for this run (200 calls) was exhausted before this exercise; re-run search for this id.",
+    "query": "side lying hip adduction exercise inner thigh physical therapy"
+  },
+  "side-lying-hip-hike": {
+    "none": true,
+    "reason": "PENDING - not searched yet: the shared WebSearch quota for this run (200 calls) was exhausted before this exercise; re-run search for this id.",
+    "query": "side lying hip hike quadratus lumborum exercise"
+  },
+  "side-lying-neck-lateral-raise": {
+    "none": true,
+    "reason": "PENDING - not searched yet: the shared WebSearch quota for this run (200 calls) was exhausted before this exercise; re-run search for this id.",
+    "query": "side lying neck lateral flexion on bench exercise"
+  },
+  "side-plank": {
+    "youtubeId": "0M-erHBl48U",
+    "title": "Side Plank Tutorial -  Proper Form + 5 Progressions",
+    "channel": "Heal Fit Physio",
+    "channelUrl": "https://www.youtube.com/@HealFitPhysioDeanSmith",
+    "checked": "2026-10-14",
+    "note": "Physiotherapist tutorial on forearm side plank form (elbow under shoulder, straight line) with progressions."
+  },
+  "side-plank-hip-abduction": {
+    "none": true,
+    "reason": "PENDING - not searched yet: the shared WebSearch quota for this run (200 calls) was exhausted before this exercise; re-run search for this id.",
+    "query": "side plank with hip abduction leg raise exercise"
+  },
+  "side-plank-lift": {
+    "none": true,
+    "reason": "PENDING - not searched yet: the shared WebSearch quota for this run (200 calls) was exhausted before this exercise; re-run search for this id.",
+    "query": "side plank hip lift hip dips exercise how to"
+  },
+  "single-leg-calf-raise": {
+    "none": true,
+    "reason": "PENDING - not searched yet: the shared WebSearch quota for this run (200 calls) was exhausted before this exercise; re-run search for this id.",
+    "query": "single leg calf raise proper form physical therapy"
+  },
+  "single-leg-deficit-calf-raise": {
+    "none": true,
+    "reason": "PENDING - not searched yet: the shared WebSearch quota for this run (200 calls) was exhausted before this exercise; re-run search for this id.",
+    "query": "single leg calf raise off step deficit how to"
+  },
+  "single-leg-glute-bridge": {
+    "none": true,
+    "reason": "PENDING - not searched yet: the shared WebSearch quota for this run (200 calls) was exhausted before this exercise; re-run search for this id.",
+    "query": "single leg glute bridge proper form tutorial"
+  },
+  "single-leg-hamstring-slide": {
+    "youtubeId": "D9VwLnEtaLk",
+    "title": "Single leg towel heel slide in Hamstring activation with eccentric slide out",
+    "channel": "PhysioKit",
+    "channelUrl": "https://www.youtube.com/@physiokit3736",
+    "checked": "2026-10-14",
+    "note": "Physio channel demo of the single-leg towel hamstring slide from a bridge: slide heel out and curl back in."
+  },
+  "single-leg-hip-thrust": {
+    "none": true,
+    "reason": "PENDING - not searched yet: the shared WebSearch quota for this run (200 calls) was exhausted before this exercise; re-run search for this id.",
+    "query": "single leg hip thrust bodyweight bench how to"
+  },
+  "single-leg-romanian-deadlift": {
+    "none": true,
+    "reason": "PENDING - not searched yet: the shared WebSearch quota for this run (200 calls) was exhausted before this exercise; re-run search for this id.",
+    "query": "bodyweight single leg romanian deadlift proper form"
+  },
+  "soleus-raise": {
+    "none": true,
+    "reason": "PENDING - not searched yet: the shared WebSearch quota for this run (200 calls) was exhausted before this exercise; re-run search for this id.",
+    "query": "bent knee soleus raise single leg standing how to"
+  },
+  "split-squat": {
+    "none": true,
+    "reason": "PENDING - not searched yet: the shared WebSearch quota for this run (200 calls) was exhausted before this exercise; re-run search for this id.",
+    "query": "bodyweight split squat proper form tutorial"
+  },
+  "standing-ab-wheel-rollout": {
+    "none": true,
+    "reason": "PENDING - not searched yet: the shared WebSearch quota for this run (200 calls) was exhausted before this exercise; re-run search for this id.",
+    "query": "standing ab wheel rollout tutorial wall progression"
+  },
+  "standing-hip-flexion-hold": {
+    "none": true,
+    "reason": "PENDING - not searched yet: the shared WebSearch quota for this run (200 calls) was exhausted before this exercise; re-run search for this id.",
+    "query": "standing hip flexion isometric hold exercise physical therapy"
+  },
+  "step-up": {
+    "none": true,
+    "reason": "PENDING - not searched yet: the shared WebSearch quota for this run (200 calls) was exhausted before this exercise; re-run search for this id.",
+    "query": "bodyweight step up proper form tutorial"
+  },
+  "superman": {
+    "none": true,
+    "reason": "PENDING - not searched yet: the shared WebSearch quota for this run (200 calls) was exhausted before this exercise; re-run search for this id.",
+    "query": "superman exercise proper form how to"
+  },
+  "supine-neck-bridge": {
+    "youtubeId": "mdRfwsJoPl8",
+    "title": "Neck Bridge on Bench",
+    "channel": "Kaliber Health",
+    "channelUrl": "https://www.youtube.com/@kaliberhealth",
+    "checked": "2026-10-14",
+    "note": "Short demo of a bench-supported neck bridge with the head resting on a bench; variant: verify it shows the face-up (supine) set-up."
+  },
+  "supine-straight-leg-raise": {
+    "none": true,
+    "reason": "PENDING - not searched yet: the shared WebSearch quota for this run (200 calls) was exhausted before this exercise; re-run search for this id.",
+    "query": "supine straight leg raise exercise physical therapy"
+  },
+  "towel-pull-up": {
+    "none": true,
+    "reason": "PENDING - not searched yet: the shared WebSearch quota for this run (200 calls) was exhausted before this exercise; re-run search for this id.",
+    "query": "towel pull up tutorial grip strength"
+  },
+  "tuck-front-lever": {
+    "none": true,
+    "reason": "PENDING - not searched yet: the shared WebSearch quota for this run (200 calls) was exhausted before this exercise; re-run search for this id.",
+    "query": "tuck front lever tutorial"
+  },
+  "tuck-front-lever-row": {
+    "none": true,
+    "reason": "PENDING - not searched yet: the shared WebSearch quota for this run (200 calls) was exhausted before this exercise; re-run search for this id.",
+    "query": "tuck front lever row tutorial rings"
+  },
+  "tuck-l-sit": {
+    "none": true,
+    "reason": "PENDING - not searched yet: the shared WebSearch quota for this run (200 calls) was exhausted before this exercise; re-run search for this id.",
+    "query": "tuck L-sit floor tutorial beginner"
+  },
+  "tuck-planche": {
+    "youtubeId": "2orygMFMZ1o",
+    "title": "How to Achieve a Tuck Planche Hold on Parallel Bars",
+    "channel": "Joseph Flinders",
+    "channelUrl": "https://www.youtube.com/@joeflinders",
+    "checked": "2026-10-14",
+    "note": "Calisthenics coaching on the tuck planche hold; variant: performed on parallel bars/parallettes instead of the floor, same body position."
+  },
+  "underhand-inverted-row": {
+    "none": true,
+    "reason": "PENDING - not searched yet: the shared WebSearch quota for this run (200 calls) was exhausted before this exercise; re-run search for this id.",
+    "query": "underhand inverted row supinated grip bodyweight row how to"
+  },
+  "vertical-row": {
+    "none": true,
+    "reason": "PENDING - not searched yet: the shared WebSearch quota for this run (200 calls) was exhausted before this exercise; re-run search for this id.",
+    "query": "vertical row rings bodyweight row beginner tutorial"
+  },
+  "wall-angel": {
+    "none": true,
+    "reason": "PENDING - not searched yet: the shared WebSearch quota for this run (200 calls) was exhausted before this exercise; re-run search for this id.",
+    "query": "wall angel exercise proper form physical therapy"
+  },
+  "wall-back-of-hand-wrist-push-up": {
+    "none": true,
+    "reason": "PENDING - not searched yet: the shared WebSearch quota for this run (200 calls) was exhausted before this exercise; re-run search for this id.",
+    "query": "back of hand wrist push up against wall wrist extensor"
+  },
+  "wall-handstand-hold": {
+    "none": true,
+    "reason": "PENDING - not searched yet: the shared WebSearch quota for this run (200 calls) was exhausted before this exercise; re-run search for this id.",
+    "query": "chest to wall handstand hold tutorial"
+  },
+  "wall-handstand-push-up": {
+    "none": true,
+    "reason": "PENDING - not searched yet: the shared WebSearch quota for this run (200 calls) was exhausted before this exercise; re-run search for this id.",
+    "query": "wall handstand push up tutorial chest to wall"
+  },
+  "wall-handstand-shoulder-tap": {
+    "none": true,
+    "reason": "PENDING - not searched yet: the shared WebSearch quota for this run (200 calls) was exhausted before this exercise; re-run search for this id.",
+    "query": "wall handstand shoulder taps tutorial"
+  },
+  "wall-handstand-shrug": {
+    "none": true,
+    "reason": "PENDING - not searched yet: the shared WebSearch quota for this run (200 calls) was exhausted before this exercise; re-run search for this id.",
+    "query": "wall handstand shrug scapular elevation tutorial"
+  },
+  "wall-push-up": {
+    "none": true,
+    "reason": "PENDING - not searched yet: the shared WebSearch quota for this run (200 calls) was exhausted before this exercise; re-run search for this id.",
+    "query": "wall push up proper form beginners"
+  },
+  "wall-push-up-plus": {
+    "youtubeId": "LeMk15TN0No",
+    "title": "Exercise With an Athletic Trainer: Scapular Pushups",
+    "channel": "Children's Hospital Colorado",
+    "channelUrl": "https://www.youtube.com/@childrenscolo",
+    "checked": "2026-10-14",
+    "note": "Hospital athletic trainer teaches the straight-arm scapular push-up (protraction/retraction); variant: the wall version is the lighter-load regression of the same movement."
+  }
+}

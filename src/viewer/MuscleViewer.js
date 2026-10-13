@@ -4,6 +4,7 @@
 //   new MuscleViewer(canvas, { reducedMotion = false, background = PALETTE.background })
 //   await load(url)                     model đã vào scene và đã vẽ khung đầu tiên
 //   setMuscleMeta(musclesJson)          id → { nameVi, view }
+//   setColorMeta(muscleColorsJson)      { palette:[hex], colors:{id: idx}, edges:[[a,b,n]] } (tô màu đồ thị)
 //   select(id|null, { focus = false })  tô cả hai bên của đơn vị cơ; focus xoay camera về mặt `view`
 //   onSelect(cb(id|null, info)) / onHover(cb(id|null, info))   → trả về hàm huỷ đăng ký
 //        info = { depth, side, nameVi, x, y }  (depth = thứ tự trong các cơ chọn được dọc tia bấm)
@@ -11,6 +12,7 @@
 //   setView('front'|'back'), resetView(), zoomBy(d)   (zoomBy(+1) = lại gần)
 //   screenPointOf(id, { view }) → { x, y, clicks, view } | null   (QA; có thể đổi góc nhìn ngay lập tức)
 //   getSelected(), getHovered(), isIdle(), setReducedMotion(bool), dispose()
+//   getUnitColor(id) → "#rrggbb" màu vật liệu hiện tại; getNeighbors(id) → [id…]   (QA)
 //   window.__mv = this; window.__mvStats = { drawCalls, triangles, loadMs }
 //
 // Bấm chọn:
@@ -21,6 +23,14 @@
 //   - Bấm lại gần cùng chỗ (≤ 6 px) → chọn cơ KẾ TIẾP sâu hơn dọc tia, xoay vòng (click-through).
 //   - Bấm vào nền trống (tia không trúng gì) → BỎ CHỌN (phát onSelect(null)). Bấm vào lưới ngữ cảnh
 //     (xương, cơ không chọn được) mà không có cơ chọn được ngay sau → giữ nguyên lựa chọn.
+//
+// Màu (chỉ đổi vật liệu, không dựng lại hình học):
+//   - Mặc định mọi cơ chọn được màu đất sét PALETTE.clay; cơ ngữ cảnh/xương tông trung tính khác.
+//   - Rê chuột vào X: X và mọi cơ kề X (cạnh trong muscle-colors.json) mang màu bảng của chúng
+//     (hai cơ kề nhau luôn khác màu); X sáng thêm (emissive + lớp xuyên thấu) để biết sẽ bấm trúng cơ nào.
+//   - Cơ đang chọn luôn màu PALETTE.selected (kể cả khi nằm trong vùng kề của X).
+//   - Thiết bị không rê được ((hover: none) hoặc vừa chạm bằng ngón tay): khi chọn một cơ, các cơ kề
+//     của nó cũng hiện màu bảng để lần chạm kế tiếp phân biệt được.
 import * as THREE from "three";
 import { OrbitControls } from "three/examples/jsm/controls/OrbitControls.js";
 import { GLTFLoader } from "three/examples/jsm/loaders/GLTFLoader.js";
@@ -48,6 +58,10 @@ export class MuscleViewer {
     this._selectCbs = new Set();
     this._hoverCbs = new Set();
     this._meta = new Map();
+    this._nbrs = new Map(); // muscleId → Set(muscleId) kề
+    this._unitPal = new Map(); // muscleId → THREE.Color (màu bảng)
+    this._lastPointerType = null;
+    this._noHover = false;
     this._selected = null;
     this._hovered = null;
     this._units = new Map(); // muscleId → [mesh]
@@ -69,6 +83,7 @@ export class MuscleViewer {
     const renderer = new THREE.WebGLRenderer({
       canvas,
       antialias: true,
+      stencil: true, // viền cơ đang rê: mặt nạ stencil để viền không vẽ đè lên chính cơ đó
       alpha: background == null,
       powerPreference: "high-performance",
     });
@@ -88,7 +103,7 @@ export class MuscleViewer {
     this.camera = camera;
 
     // Ánh sáng 3 điểm gắn theo camera → mặt nào đang nhìn cũng được chiếu đều, mềm.
-    scene.add(new THREE.HemisphereLight(0xfff8ef, 0xb8a897, 0.7));
+    scene.add(new THREE.HemisphereLight(0xfdfcfa, 0xa8a49e, 0.75));
     const addDir = (color, intensity, x, y, z) => {
       const l = new THREE.DirectionalLight(color, intensity);
       l.position.set(x, y, z);
@@ -98,7 +113,7 @@ export class MuscleViewer {
       return l;
     };
     this._lights = [
-      addDir(0xfff3e4, 2.6, -2.0, 2.4, 1.0), // chính: trên-trái
+      addDir(0xfff8f0, 2.6, -2.0, 2.4, 1.0), // chính: trên-trái
       addDir(0xe9f0ff, 0.55, 2.4, 0.4, 0.6), // phụ: phải, hơi lạnh
       addDir(0xffffff, 1.1, 0.8, 1.6, -4.0), // viền: phía sau
     ];
@@ -145,6 +160,16 @@ export class MuscleViewer {
     this._resizeObserver.observe(canvas);
     this._resize();
 
+    // Thiết bị không có rê chuột (màn cảm ứng): tô màu láng giềng của cơ đang chọn.
+    this._hoverMq = typeof window.matchMedia === "function" ? window.matchMedia("(hover: none)") : null;
+    this._noHover = !!this._hoverMq?.matches;
+    this._onHoverMq = (e) => {
+      this._noHover = !!e.matches;
+      this._applyMaterials();
+      this._requestFrame(true);
+    };
+    this._hoverMq?.addEventListener?.("change", this._onHoverMq);
+
     window.__mv = this;
     window.__mvStats = this._stats;
   }
@@ -160,9 +185,9 @@ export class MuscleViewer {
     this.model = model;
 
     const mat = {
-      muscle: new THREE.MeshStandardMaterial({ color: PALETTE.muscle, roughness: 0.62, metalness: 0 }),
-      context: new THREE.MeshStandardMaterial({ color: PALETTE.contextMuscle, roughness: 0.8, metalness: 0 }),
-      bone: new THREE.MeshStandardMaterial({ color: PALETTE.bone, roughness: 0.78, metalness: 0 }),
+      muscle: new THREE.MeshStandardMaterial({ color: PALETTE.clay, roughness: 0.68, metalness: 0 }),
+      context: new THREE.MeshStandardMaterial({ color: PALETTE.contextMuscle, roughness: 0.85, metalness: 0 }),
+      bone: new THREE.MeshStandardMaterial({ color: PALETTE.bone, roughness: 0.8, metalness: 0 }),
     };
     this._baseMaterials = mat;
 
@@ -201,13 +226,44 @@ export class MuscleViewer {
 
     // Lớp "xuyên thấu": vẽ phần BỊ CHE của cơ đang chọn/rê (depthFunc Greater) để cơ sâu vẫn thấy rõ.
     const ovSel = new THREE.MeshBasicMaterial({
-      color: PALETTE.selected, transparent: true, opacity: 0.42, depthWrite: false,
+      color: PALETTE.selected, transparent: true, opacity: 0.7, depthWrite: false,
       depthFunc: THREE.GreaterDepth, toneMapped: false,
     });
     const ovHov = ovSel.clone();
     ovHov.color.set(PALETTE.muscleHover);
     ovHov.opacity = 0.3;
     this._overlayMats = { sel: ovSel, hov: ovHov };
+    // Viền tối (vỏ lộn ngược, nở theo pháp tuyến trong không gian màn hình) cho cơ đang rê: biết chắc
+    // cơ nào sẽ được bấm dù nó và các cơ kề cùng đang mang màu bảng. Dùng chung hình học, chỉ hiện 1 đơn vị.
+    // Cơ đang rê ghi stencil = 1 ở phần nhìn thấy; vỏ chỉ vẽ nơi stencil ≠ 1 → chỉ còn đường bao bên ngoài.
+    const outline = new THREE.MeshBasicMaterial({
+      color: PALETTE.outline || "#24211e", side: THREE.BackSide, toneMapped: false, depthWrite: false,
+      stencilWrite: true, stencilRef: 1, stencilFunc: THREE.NotEqualStencilFunc, stencilWriteMask: 0,
+      stencilFail: THREE.KeepStencilOp, stencilZFail: THREE.KeepStencilOp, stencilZPass: THREE.KeepStencilOp,
+    });
+    const res = { value: new THREE.Vector2(1, 1) };
+    const px = { value: 2.5 };
+    outline.onBeforeCompile = (sh) => {
+      sh.uniforms.uRes = res;
+      sh.uniforms.uPx = px;
+      sh.vertexShader = sh.vertexShader
+        .replace("void main() {", "uniform vec2 uRes;\nuniform float uPx;\nvoid main() {")
+        .replace(
+          "#include <project_vertex>",
+          `#include <project_vertex>
+          {
+            vec3 nV = normalize(normalMatrix * normal);
+            vec2 cn = (projectionMatrix * vec4(nV, 0.0)).xy;
+            float l = length(cn);
+            if (l > 1e-6) gl_Position.xy += (cn / l) * (2.0 * uPx / uRes) * gl_Position.w;
+            // kéo nhẹ về phía camera để viền vẫn lộ trên các cơ kề chạm sát (cơ che phía trước vẫn che viền)
+            gl_Position.z -= 0.000012 * gl_Position.w;
+          }`
+        );
+    };
+    outline.customProgramCacheKey = () => "mv-outline";
+    this._outline = { mat: outline, res, px };
+    this._overlayMats.outline = outline;
     for (const meshes of this._units.values()) {
       for (const m of meshes) {
         const ov = new THREE.Mesh(m.geometry, ovSel);
@@ -216,6 +272,17 @@ export class MuscleViewer {
         ov.raycast = () => {};
         m.add(ov);
         m.userData.overlay = ov;
+        if (m.geometry.attributes.normal) {
+          const ol = new THREE.Mesh(m.geometry, outline);
+          ol.visible = false;
+          ol.renderOrder = 5; // sau các lưới đục (đã ghi stencil), trước lớp xuyên thấu
+          m.material.stencilRef = 1;
+          m.material.stencilFunc = THREE.AlwaysStencilFunc;
+          m.material.stencilZPass = THREE.ReplaceStencilOp;
+          ol.raycast = () => {};
+          m.add(ol);
+          m.userData.outline = ol;
+        }
       }
     }
 
@@ -245,9 +312,9 @@ export class MuscleViewer {
     cv.width = cv.height = 128;
     const g = cv.getContext("2d");
     const grad = g.createRadialGradient(64, 64, 0, 64, 64, 64);
-    grad.addColorStop(0, "rgba(60,40,30,0.30)");
-    grad.addColorStop(0.55, "rgba(60,40,30,0.12)");
-    grad.addColorStop(1, "rgba(60,40,30,0)");
+    grad.addColorStop(0, "rgba(45,42,40,0.30)");
+    grad.addColorStop(0.55, "rgba(45,42,40,0.12)");
+    grad.addColorStop(1, "rgba(45,42,40,0)");
     g.fillStyle = grad;
     g.fillRect(0, 0, 128, 128);
     const tex = new THREE.CanvasTexture(cv);
@@ -270,6 +337,38 @@ export class MuscleViewer {
     const list = Array.isArray(json) ? json : json && Array.isArray(json.muscles) ? json.muscles : null;
     if (list) for (const m of list) this._meta.set(m.id, { nameVi: m.nameVi, view: m.view || "both" });
     else if (json) for (const [id, m] of Object.entries(json)) this._meta.set(id, { nameVi: m.nameVi, view: m.view || "both" });
+  }
+
+  // Tô màu đồ thị (muscle-colors.json): bảng màu + chỉ số màu từng cơ + cạnh kề.
+  setColorMeta(json) {
+    this._nbrs.clear();
+    this._unitPal.clear();
+    if (json) {
+      const pal = Array.isArray(json.palette) ? json.palette : [];
+      for (const [id, idx] of Object.entries(json.colors || {})) {
+        if (pal[idx]) this._unitPal.set(id, new THREE.Color(pal[idx]));
+      }
+      for (const e of json.edges || []) {
+        const [a, b] = e;
+        if (!a || !b || a === b) continue;
+        if (!this._nbrs.has(a)) this._nbrs.set(a, new Set());
+        if (!this._nbrs.has(b)) this._nbrs.set(b, new Set());
+        this._nbrs.get(a).add(b);
+        this._nbrs.get(b).add(a);
+      }
+    }
+    this._applyMaterials();
+    this._requestFrame(true);
+  }
+
+  getNeighbors(id) {
+    return [...(this._nbrs.get(id) || [])];
+  }
+
+  getUnitColor(id) {
+    const meshes = this._units.get(id);
+    if (!meshes || !meshes.length) return null;
+    return "#" + meshes[0].material.color.getHexString();
   }
 
   // ---------------------------------------------------------------- chọn / rê
@@ -330,41 +429,70 @@ export class MuscleViewer {
     this.canvas.style.cursor = this._hovered ? "pointer" : "grab";
   }
 
+  // Không rê được → khi chọn thì tô luôn láng giềng của cơ đang chọn.
+  _selNeighboursVisible() {
+    return this._noHover || this._lastPointerType === "touch";
+  }
+
   _applyMaterials() {
     const C = this._colors || (this._colors = {
-      base: new THREE.Color(PALETTE.muscle),
+      clay: new THREE.Color(PALETTE.clay),
       hover: new THREE.Color(PALETTE.muscleHover),
       hoverE: new THREE.Color(PALETTE.muscleHoverEmissive),
-      dim: new THREE.Color(PALETTE.muscleDim),
       sel: new THREE.Color(PALETTE.selected),
       selE: new THREE.Color(PALETTE.selectedEmissive),
       black: new THREE.Color(0, 0, 0),
     });
     const sel = this._selected;
     const hov = this._hovered;
+    // Các cơ hiện màu bảng: cơ đang rê + láng giềng; (cảm ứng) cơ đang chọn + láng giềng.
+    const lit = new Set();
+    const addHood = (id) => {
+      lit.add(id);
+      for (const n of this._nbrs.get(id) || []) lit.add(n);
+    };
+    if (hov) addHood(hov);
+    if (sel && this._selNeighboursVisible()) addHood(sel);
+    // Lớp xuyên thấu của cơ đang rê: khi có màu bảng chỉ bật nếu cơ đó nằm sau một lớp màng mỏng
+    // (nếu không nó sẽ pha màu lên các cơ kề đang che nó); khi đó gần như đục để giữ đúng màu bảng.
+    const hovPal = hov ? this._unitPal.get(hov) : null;
+    const hovOverlay = !!hov && (!hovPal || !!this._hoverBehind);
+    if (this._overlayMats) {
+      this._overlayMats.hov.color.copy(hovPal || C.hover);
+      this._overlayMats.hov.opacity = hovPal ? 0.85 : 0.3;
+    }
     for (const [unit, meshes] of this._units) {
+      const pal = this._unitPal.get(unit);
       for (const m of meshes) {
         const mt = m.material;
         const ov = m.userData.overlay;
         if (ov) {
-          ov.visible = unit === sel || unit === hov;
+          ov.visible = unit === sel || (unit === hov && hovOverlay);
           ov.material = unit === sel ? this._overlayMats.sel : this._overlayMats.hov;
         }
+        if (m.userData.outline) m.userData.outline.visible = unit === hov;
+        mt.stencilWrite = unit === hov && !!m.userData.outline;
         if (unit === sel) {
           mt.color.copy(C.sel);
           mt.emissive.copy(C.selE);
-          mt.emissiveIntensity = unit === hov ? 0.42 : 0.3;
+          mt.emissiveIntensity = unit === hov ? 0.55 : 0.4;
           mt.roughness = 0.5;
         } else if (unit === hov) {
-          mt.color.copy(C.hover);
-          mt.emissive.copy(C.hoverE);
-          mt.emissiveIntensity = 0.5;
-          mt.roughness = 0.6;
-        } else {
-          mt.color.copy(sel ? C.dim : C.base);
+          // cơ sẽ bấm trúng: màu bảng của nó, sáng thêm bằng chính màu đó
+          mt.color.copy(pal || C.hover);
+          mt.emissive.copy(pal || C.hoverE);
+          mt.emissiveIntensity = pal ? 0.16 : 0.5;
+          mt.roughness = 0.5;
+        } else if (pal && lit.has(unit)) {
+          mt.color.copy(pal);
           mt.emissive.copy(C.black);
           mt.emissiveIntensity = 0;
-          mt.roughness = 0.62;
+          mt.roughness = 0.6;
+        } else {
+          mt.color.copy(C.clay);
+          mt.emissive.copy(C.black);
+          mt.emissiveIntensity = 0;
+          mt.roughness = 0.68;
         }
       }
     }
@@ -520,6 +648,10 @@ export class MuscleViewer {
     const h = Math.max(1, this.canvas.clientHeight);
     this.renderer.setPixelRatio(Math.min(window.devicePixelRatio || 1, 2));
     this.renderer.setSize(w, h, false);
+    if (this._outline) {
+      this._outline.res.value.set(w, h);
+      this._outline.px.value = 2.5;
+    }
     this.camera.aspect = w / h;
     this.camera.updateProjectionMatrix();
     if (this._bbox) {
@@ -533,6 +665,7 @@ export class MuscleViewer {
   // ---------------------------------------------------------------- con trỏ
   _handlePointerDown(e) {
     this._activePointers.add(e.pointerId);
+    this._lastPointerType = e.pointerType || null;
     if (e.isPrimary) this._pointerDown = { x: e.clientX, y: e.clientY, id: e.pointerId, multi: false };
     if (this._activePointers.size > 1 && this._pointerDown) this._pointerDown.multi = true;
   }
@@ -574,6 +707,10 @@ export class MuscleViewer {
 
   _handlePointerMove(e) {
     if (e.pointerType === "touch") return;
+    if (this._lastPointerType === "touch" && e.pointerType === "mouse") {
+      this._lastPointerType = "mouse";
+      this._applyMaterials();
+    }
     if (e.buttons) return; // đang kéo xoay
     this._hoverPos = { x: e.clientX, y: e.clientY };
     this._hoverPending = true;
@@ -583,14 +720,24 @@ export class MuscleViewer {
   _handlePointerLeave() {
     this._hoverPos = null;
     this._hoverPending = false;
+    this._hoverBehind = false;
     this._setHovered(null, { depth: -1 });
   }
 
   _doHover() {
     if (!this._hoverPos || !this.model) return;
     const { x, y } = this._hoverPos;
-    const { list } = this._pickAt(x, y);
+    const { list, front } = this._pickAt(x, y);
     const h = list[0];
+    // cơ được rê nằm sau một lớp màng mỏng (cơ khác) → cần lớp xuyên thấu để thấy nó
+    const behind = !!h && h.unit !== front;
+    if (behind !== !!this._hoverBehind) {
+      this._hoverBehind = behind;
+      if (h && h.unit === this._hovered) {
+        this._applyMaterials();
+        this._requestFrame(true);
+      }
+    }
     const rect = this.canvas.getBoundingClientRect();
     if (h) this._setHovered(h.unit, { depth: 0, side: h.side, nameVi: this._meta.get(h.unit)?.nameVi, x: x - rect.left, y: y - rect.top });
     else this._setHovered(null, { depth: -1 });
@@ -641,7 +788,7 @@ export class MuscleViewer {
       }
     });
     ordered.push(...buf);
-    return { list: ordered, anyHit: hits.length > 0 };
+    return { list: ordered, anyHit: hits.length > 0, front: list.length ? list[0].unit : null };
   }
 
   // BVH tự viết (không thêm phụ thuộc): toạ độ thế giới, cây nhị phân chia trung vị theo trục dài nhất.
@@ -906,6 +1053,7 @@ export class MuscleViewer {
     if (this._raf) cancelAnimationFrame(this._raf);
     this._raf = 0;
     this._resizeObserver.disconnect();
+    this._hoverMq?.removeEventListener?.("change", this._onHoverMq);
     const c = this.canvas;
     c.removeEventListener("pointerdown", this._onPointerDown);
     c.removeEventListener("pointerup", this._onPointerUp);

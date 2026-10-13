@@ -1,15 +1,17 @@
 import { useId, useMemo, useRef, useState } from "react";
-import { searchMuscles, exercisesFor } from "../lib/data.js";
+import { searchMuscles, exercisesFor, muscleName, groupName } from "../lib/data.js";
+import { useI18n } from "../i18n/lang.js";
 
 /** Ô tìm + danh sách cơ theo nhóm. Bàn phím: ↓ từ ô tìm vào danh sách, ↑/↓/Home/End di chuyển, Enter chọn. */
 export function MusclePicker({ selectedId, onPick, autoFocus = false, compact = false }) {
+  const { lang, t } = useI18n();
   const uid = useId();
   const [query, setQuery] = useState("");
   const [active, setActive] = useState(-1);
   const inputRef = useRef(null);
   const optRefs = useRef([]);
 
-  const groups = useMemo(() => searchMuscles(query), [query]);
+  const groups = useMemo(() => searchMuscles(query, lang), [query, lang]);
   const flat = useMemo(() => groups.flatMap((g) => g.muscles), [groups]);
   const total = flat.length;
   const rovingIndex = active >= 0 && active < total ? active : Math.max(0, flat.findIndex((m) => m.id === selectedId));
@@ -79,7 +81,7 @@ export function MusclePicker({ selectedId, onPick, autoFocus = false, compact = 
   return (
     <div className={"picker" + (compact ? " picker--compact" : "")}>
       <label className="picker-label" htmlFor={uid + "-q"}>
-        Tìm cơ
+        {t.searchLabel}
       </label>
       <div className="picker-search">
         <svg viewBox="0 0 20 20" aria-hidden="true">
@@ -94,7 +96,7 @@ export function MusclePicker({ selectedId, onPick, autoFocus = false, compact = 
           spellCheck="false"
           autoFocus={autoFocus}
           data-autofocus={autoFocus ? "" : undefined}
-          placeholder="Ví dụ: lưng xô, nhi dau, biceps…"
+          placeholder={t.searchPlaceholder}
           value={query}
           aria-controls={uid + "-list"}
           aria-describedby={uid + "-help"}
@@ -106,19 +108,19 @@ export function MusclePicker({ selectedId, onPick, autoFocus = false, compact = 
         />
       </div>
       <p id={uid + "-help"} className="picker-help">
-        Gõ có dấu hoặc không dấu, tên Latin hay tiếng Anh. Nhấn ↓ để vào danh sách, Enter để chọn.
+        {t.searchHelp}
       </p>
       <p className="sr-only" role="status" aria-live="polite">
-        {query ? `${total} cơ phù hợp` : ""}
+        {query ? t.matches(total) : ""}
       </p>
       {total === 0 ? (
-        <p className="picker-empty">Không tìm thấy cơ nào khớp “{query}”.</p>
+        <p className="picker-empty">{t.noMatch(query)}</p>
       ) : (
-        <div id={uid + "-list"} role="listbox" aria-label="Danh sách cơ" className="picker-list">
+        <div id={uid + "-list"} role="listbox" aria-label={t.muscleList} className="picker-list">
           {groups.map(({ group, muscles }) => (
             <div role="group" aria-labelledby={uid + "-g-" + group.id} key={group.id} className="picker-group">
               <div role="presentation" id={uid + "-g-" + group.id} className="picker-group-title">
-                {group.nameVi}
+                {groupName(group, lang)}
               </div>
               {muscles.map((m) => {
                 idx += 1;
@@ -139,9 +141,11 @@ export function MusclePicker({ selectedId, onPick, autoFocus = false, compact = 
                     onKeyDown={(e) => onOptKey(e, i)}
                     onFocus={() => setActive(i)}
                   >
-                    <span className="picker-opt-name">{m.nameVi}</span>
-                    <span className="picker-opt-en">{m.nameEn}</span>
-                    <span className="picker-opt-count" aria-label={`${n} bài`}>
+                    <span className="picker-opt-name">{muscleName(m, lang)}</span>
+                    <span className="picker-opt-la" lang="la">
+                      {m.nameLa}
+                    </span>
+                    <span className="picker-opt-count" aria-label={t.exCount(n)}>
                       {n}
                     </span>
                   </div>

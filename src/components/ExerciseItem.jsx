@@ -1,139 +1,139 @@
-import { exerciseById, levelLabel, muscleById, sourceInfo, formatDate } from "../lib/data.js";
+import { useEffect, useRef, useState } from "react";
+import { exName, exNameEn, exSteps, exSafety, levelLabel, videoFor } from "../lib/data.js";
+import { useI18n } from "../i18n/lang.js";
 
 export function DifficultyBadge({ level }) {
+  const { lang, t } = useI18n();
+  const label = levelLabel(level, lang);
   return (
-    <span className={"diff diff--" + level} aria-label={`Độ khó mức ${level} trên 5 · ${levelLabel(level)}`}>
+    <span className={"diff diff--" + level} role="img" aria-label={t.levelAria(level, label)}>
       <span className="diff-dots" aria-hidden="true">
         {[1, 2, 3, 4, 5].map((n) => (
           <i key={n} className={n <= level ? "on" : ""} />
         ))}
       </span>
       <span className="diff-text" aria-hidden="true">
-        Mức {level} · {levelLabel(level)}
+        {t.level(level, label)}
       </span>
     </span>
   );
 }
 
-function MuscleChips({ ids, current, onPickMuscle, kind }) {
-  if (!ids?.length) return <p className="muted small">—</p>;
+// Chỉ một video phát tại một thời điểm: khi một khung bắt đầu phát, các khung khác trở về ảnh xem trước.
+const PLAY_EVENT = "cobap:video-play";
+
+export const youtubeSearchUrl = (q) => "https://www.youtube.com/results?search_query=" + encodeURIComponent(q);
+
+function ExerciseVideo({ ex }) {
+  const { t } = useI18n();
+  const v = videoFor(ex.id);
+  const [playing, setPlaying] = useState(false);
+  const frameRef = useRef(null);
+
+  useEffect(() => {
+    const on = (e) => {
+      if (e.detail !== ex.id) setPlaying(false);
+    };
+    window.addEventListener(PLAY_EVENT, on);
+    return () => window.removeEventListener(PLAY_EVENT, on);
+  }, [ex.id]);
+
+  useEffect(() => {
+    if (playing) frameRef.current?.focus();
+  }, [playing]);
+
+  if (!v || v.none || !v.youtubeId) {
+    const q = (v && v.query) || exNameEn(ex);
+    return (
+      <a className="yt-search" href={youtubeSearchUrl(q)} target="_blank" rel="noopener" data-query={q}>
+        <svg viewBox="0 0 20 20" aria-hidden="true">
+          <circle cx="8.5" cy="8.5" r="5.5" />
+          <path d="M13 13l4 4" />
+        </svg>
+        {t.searchYoutube}
+        <span className="sr-only"> {t.newTab}</span>
+      </a>
+    );
+  }
+
+  const id = v.youtubeId;
   return (
-    <ul className="chips">
-      {ids.map((id) => {
-        const m = muscleById.get(id);
-        const isCur = id === current;
-        return (
-          <li key={id}>
-            <button
-              type="button"
-              className={"chip chip--" + kind + (isCur ? " is-current" : "")}
-              data-muscle={id}
-              aria-current={isCur ? "true" : undefined}
-              onClick={() => onPickMuscle(id)}
-              title={isCur ? "Cơ đang xem" : "Xem cơ này trên mô hình"}
-            >
-              {m?.nameVi || id}
-            </button>
-          </li>
-        );
-      })}
-    </ul>
+    <figure className="vid" data-video={id}>
+      <div className="vid-frame">
+        {playing ? (
+          <iframe
+            ref={frameRef}
+            src={`https://www.youtube-nocookie.com/embed/${id}?autoplay=1&rel=0`}
+            title={v.title}
+            allow="autoplay; encrypted-media; picture-in-picture"
+            allowFullScreen
+          />
+        ) : (
+          <button
+            type="button"
+            className="vid-facade"
+            aria-label={t.playVideo(v.title)}
+            onClick={() => {
+              window.dispatchEvent(new CustomEvent(PLAY_EVENT, { detail: ex.id }));
+              setPlaying(true);
+            }}
+          >
+            <img src={`https://i.ytimg.com/vi/${id}/hqdefault.jpg`} alt="" loading="lazy" decoding="async" width="480" height="360" />
+            <span className="vid-play" aria-hidden="true">
+              <svg viewBox="0 0 68 48">
+                <path className="vid-play-bg" d="M66.5 7.7A8.5 8.5 0 0 0 60.5 1.7C55.2.3 34 .3 34 .3s-21.2 0-26.5 1.4a8.5 8.5 0 0 0-6 6C.1 13 .1 24 .1 24s0 11 1.4 16.3a8.5 8.5 0 0 0 6 6c5.3 1.4 26.5 1.4 26.5 1.4s21.2 0 26.5-1.4a8.5 8.5 0 0 0 6-6C67.9 35 67.9 24 67.9 24s0-11-1.4-16.3z" />
+                <path className="vid-play-fg" d="M27 34.5 45 24 27 13.5z" />
+              </svg>
+            </span>
+          </button>
+        )}
+      </div>
+      {v.channel && (
+        <figcaption className="vid-credit">
+          {t.videoBy}{" "}
+          {v.channelUrl ? (
+            <a href={v.channelUrl} target="_blank" rel="noopener">
+              {v.channel}
+            </a>
+          ) : (
+            v.channel
+          )}
+        </figcaption>
+      )}
+    </figure>
   );
 }
 
-export function ExerciseItem({ ex, index, expanded, onToggle, onPickMuscle, currentMuscleId, inList, onJumpTo }) {
+export function ExerciseItem({ ex, expanded, onToggle }) {
+  const { lang, t } = useI18n();
   const bodyId = "ex-body-" + ex.id;
-  const base = ex.progressionOf ? exerciseById.get(ex.progressionOf) : null;
+  const steps = exSteps(ex, lang);
+  const safety = exSafety(ex, lang);
   return (
     <li className={"ex" + (expanded ? " is-open" : "")} id={"ex-" + ex.id} data-ex={ex.id}>
       <h3 className="ex-h">
         <button type="button" className="ex-head" aria-expanded={expanded} aria-controls={bodyId} onClick={() => onToggle(ex.id)}>
-          <span className="ex-num" aria-hidden="true">
-            {String(index + 1).padStart(2, "0")}
-          </span>
-          <span className="ex-titles">
-            <span className="ex-name">{ex.nameVi}</span>
-            <span className="ex-en">{ex.nameEn}</span>
-            <span className="ex-equip">
-              <span className="sr-only">Dụng cụ: </span>
-              {ex.equipment.join(" · ")}
-            </span>
-          </span>
-          <span className="ex-side">
-            <DifficultyBadge level={ex.difficulty} />
-            <svg className="ex-chev" viewBox="0 0 20 20" aria-hidden="true">
-              <path d="M5 8l5 5 5-5" />
-            </svg>
-          </span>
+          <span className="ex-name">{exName(ex, lang)}</span>
+          <DifficultyBadge level={ex.difficulty} />
+          <svg className="ex-chev" viewBox="0 0 20 20" aria-hidden="true">
+            <path d="M5 8l5 5 5-5" />
+          </svg>
         </button>
       </h3>
       {expanded && (
         <div className="ex-body" id={bodyId}>
-          <p className="ex-basis">
-            <span className="ex-label">Vì sao mức {ex.difficulty}</span>
-            {ex.difficultyBasis}
-          </p>
-
-          <div className="ex-muscles">
-            <div>
-              <h4 className="ex-label">Cơ chính</h4>
-              <MuscleChips ids={ex.primaryMuscles} current={currentMuscleId} onPickMuscle={onPickMuscle} kind="primary" />
-            </div>
-            <div>
-              <h4 className="ex-label">Cơ phụ</h4>
-              <MuscleChips ids={ex.secondaryMuscles} current={currentMuscleId} onPickMuscle={onPickMuscle} kind="secondary" />
-            </div>
-          </div>
-
-          {base && (
-            <p className="ex-prog">
-              <span className="ex-label">Bài nền trước đó</span>
-              {inList(base.id) ? (
-                <button type="button" className="linkish" onClick={() => onJumpTo(base.id)}>
-                  {base.nameVi}
-                </button>
-              ) : (
-                <span>{base.nameVi}</span>
-              )}
-            </p>
-          )}
-
-          <h4 className="ex-label">Cách thực hiện</h4>
+          <h4 className="sr-only">{t.stepsH}</h4>
           <ol className="steps">
-            {ex.steps.map((s, i) => (
+            {steps.map((s, i) => (
               <li key={i}>{s}</li>
             ))}
           </ol>
-
-          {ex.safety?.length > 0 && (
-            <div className="safety">
-              <h4 className="ex-label">Lưu ý an toàn</h4>
-              <ul>
-                {ex.safety.map((s, i) => (
-                  <li key={i}>{s}</li>
-                ))}
-              </ul>
-            </div>
+          <ExerciseVideo ex={ex} />
+          {safety.length > 0 && (
+            <p className="ex-safety">
+              <span className="ex-safety-k">{t.safety}</span> {safety.join(" · ")}
+            </p>
           )}
-
-          <h4 className="ex-label">Nguồn</h4>
-          <ul className="srcs">
-            {ex.sources.map((s) => {
-              const info = sourceInfo(s.url, s.checked);
-              return (
-                <li key={s.url}>
-                  <a href={s.url} target="_blank" rel="noreferrer">
-                    {info.title}
-                  </a>
-                  <span className="muted">
-                    {" "}
-                    — {info.publisher}
-                    {info.checked ? `, kiểm tra ngày ${formatDate(info.checked)}` : ""}
-                  </span>
-                </li>
-              );
-            })}
-          </ul>
         </div>
       )}
     </li>

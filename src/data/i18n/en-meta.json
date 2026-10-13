@@ -1,0 +1,189 @@
+{
+  "groups": {
+    "nguc": "Chest",
+    "vai": "Shoulders",
+    "lung-tren": "Upper back",
+    "lung-xo": "Lats",
+    "tay-truoc": "Front of upper arm",
+    "tay-sau": "Back of upper arm",
+    "cang-tay": "Forearms",
+    "bung": "Abdominals",
+    "lung-duoi": "Lower back",
+    "mong": "Glutes and outer hip",
+    "gap-hong": "Hip flexors",
+    "khep-dui": "Inner thigh (adductors)",
+    "dui-truoc": "Front of thigh",
+    "dui-sau": "Back of thigh",
+    "cang-chan": "Lower leg",
+    "co": "Neck"
+  },
+  "muscles": {
+    "pectoralis-major-clavicular": { "name": "Pectoralis major, clavicular head (upper chest)", "function": [
+      "Flexes the arm forward and upward (as in an incline press).",
+      "Together with the rest of the pectoralis major, adducts and internally rotates the arm."
+    ]},
+    "pectoralis-major-sternal": { "name": "Pectoralis major, sternocostal & abdominal parts (mid-lower chest)", "function": [
+      "Adducts and internally rotates the arm, pulling it across the chest.",
+      "Pulls a raised arm down and back to the anatomical position (as on parallel bars)."
+    ]},
+    "pectoralis-minor": { "name": "Pectoralis minor", "function": [
+      "Pulls the scapula forward and downward, holding it against the chest wall.",
+      "In doing so, stabilizes the scapula."
+    ]},
+    "serratus-anterior": { "name": "Serratus anterior", "function": [
+      "Protracts the scapula (brings the shoulder forward) and holds the scapula against the rib cage.",
+      "Upwardly rotates the scapula, helping raise the arm overhead."
+    ]},
+    "deltoid-anterior": { "name": "Anterior deltoid", "function": [
+      "Flexes the arm forward (front raise).",
+      "Internally rotates the arm."
+    ]},
+    "deltoid-lateral": { "name": "Lateral (middle) deltoid", "function": [
+      "Abducts the arm (raises it out to the side); the main abductor after roughly the first 15 degrees."
+    ]},
+    "deltoid-posterior": { "name": "Posterior deltoid", "function": [
+      "Extends the arm (pulls it back) and externally rotates it.",
+      "Takes part in pulling movements and in horizontal abduction (opening the arm out and back)."
+    ]},
+    "rotator-cuff": { "name": "Rotator cuff (supraspinatus, infraspinatus, teres minor, subscapularis)", "function": [
+      "Keeps the head of the humerus stable in the shoulder socket.",
+      "Supraspinatus initiates abduction; infraspinatus and teres minor externally rotate; subscapularis internally rotates the arm."
+    ]},
+    "trapezius-upper": { "name": "Upper trapezius", "function": [
+      "Elevates the scapula (shrug) and keeps the shoulders level when carrying heavy loads.",
+      "With the lower trapezius, upwardly rotates the scapula when raising the arm; extends and laterally flexes the head and neck."
+    ]},
+    "trapezius-middle": { "name": "Middle trapezius", "function": [
+      "Pulls both scapulae toward the spine (scapular retraction), as in a horizontal row."
+    ]},
+    "trapezius-lower": { "name": "Lower trapezius", "function": [
+      "Pulls the scapula downward (depression).",
+      "Works with the upper trapezius to upwardly rotate the scapula for overhead reaching."
+    ]},
+    "rhomboids": { "name": "Rhomboids (major & minor)", "function": [
+      "Retract the scapula toward the spine and rotate the scapula."
+    ]},
+    "levator-scapulae": { "name": "Levator scapulae", "function": [
+      "Elevates the scapula (together with the upper trapezius when shrugging)."
+    ]},
+    "latissimus-dorsi": { "name": "Latissimus dorsi (lats)", "function": [
+      "Extends, adducts and internally rotates the arm (as in pull-ups and cable pulldowns)."
+    ]},
+    "teres-major": { "name": "Teres major", "function": [
+      "Adducts and extends the arm at the shoulder while also internally rotating it.",
+      "Assists the lats in pulling movements."
+    ]},
+    "biceps-brachii": { "name": "Biceps brachii", "function": [
+      "Flexes the elbow and supinates the forearm (turns the palm up).",
+      "Partly assists shoulder flexion."
+    ]},
+    "brachialis": { "name": "Brachialis", "function": [
+      "Flexes the elbow."
+    ]},
+    "triceps-brachii": { "name": "Triceps brachii", "function": [
+      "Extends the elbow (as in pressing and parallel-bar dips).",
+      "The long head attaches to the scapula, so it also crosses the shoulder joint."
+    ]},
+    "brachioradialis": { "name": "Brachioradialis", "function": [
+      "Flexes the elbow.",
+      "Contributes to forearm supination."
+    ]},
+    "forearm-flexors": { "name": "Forearm flexors (wrist & finger flexors, pronator teres)", "function": [
+      "Flex the wrist and fingers (grip strength when hanging from a bar or holding weights).",
+      "Pronator teres pronates the forearm."
+    ]},
+    "forearm-extensors": { "name": "Forearm extensors (wrist & finger extensors)", "function": [
+      "Extend the wrist (lift the back of the hand) and extend the fingers.",
+      "The radial wrist extensors abduct the wrist; extensor carpi ulnaris adducts it."
+    ]},
+    "rectus-abdominis": { "name": "Rectus abdominis (six-pack)", "function": [
+      "Flexes the trunk forward (curls the spine, drawing the rib cage toward the pelvis).",
+      "Controls pelvic tilt and, with the other abdominals, compresses the abdomen."
+    ]},
+    "external-oblique": { "name": "External oblique", "function": [
+      "Rotates the trunk to the opposite side and bends it to the same side.",
+      "When both sides contract: flexes the trunk and increases intra-abdominal pressure."
+    ]},
+    "internal-oblique": { "name": "Internal oblique", "function": [
+      "Rotates and bends the trunk to the same side.",
+      "When both sides contract: flexes the trunk and compresses the abdomen."
+    ]},
+    "transversus-abdominis": { "name": "Transversus abdominis", "function": [
+      "Compresses the abdominal organs, creating intra-abdominal pressure that keeps the trunk stable (as when bracing or drawing in the belly)."
+    ]},
+    "erector-spinae": { "name": "Erector spinae", "function": [
+      "Both sides contracting: extend the spine and head.",
+      "One side contracting: bends the spine to the same side."
+    ]},
+    "quadratus-lumborum": { "name": "Quadratus lumborum", "function": [
+      "Laterally flexes the lumbar spine and stabilizes the lumbopelvic region.",
+      "Assists lumbar extension."
+    ]},
+    "gluteus-maximus": { "name": "Gluteus maximus", "function": [
+      "The main hip extensor, used heavily when high force is needed (climbing, running).",
+      "Externally rotates the thigh."
+    ]},
+    "gluteus-medius-minimus": { "name": "Gluteus medius & minimus", "function": [
+      "Abduct the thigh (move the leg out to the side) and internally rotate it.",
+      "Keep the pelvis level when standing on one leg, walking and running."
+    ]},
+    "tensor-fasciae-latae": { "name": "Tensor fasciae latae (TFL)", "function": [
+      "Assists the gluteus medius and minimus in abducting and internally rotating the thigh.",
+      "Assists the gait cycle."
+    ]},
+    "iliopsoas": { "name": "Iliopsoas (psoas major & iliacus)", "function": [
+      "The strongest hip flexor (lifts the thigh forward).",
+      "Stabilizes the hip joint and lumbar spine."
+    ]},
+    "hip-adductors": { "name": "Hip adductors", "function": [
+      "Adduct the thigh (pull the leg toward the midline).",
+      "Some parts assist hip flexion (adductor longus, pectineus) or hip extension (the hamstring part of adductor magnus); gracilis flexes the knee."
+    ]},
+    "rectus-femoris": { "name": "Rectus femoris", "function": [
+      "Extends the knee and flexes the hip; the only quadriceps muscle that crosses both the hip and the knee."
+    ]},
+    "vasti": { "name": "Vasti (vastus lateralis, medialis, intermedius)", "function": [
+      "Extend the knee (as when standing up from a squat or lunge).",
+      "Keep the kneecap stable."
+    ]},
+    "hamstrings": { "name": "Hamstrings", "function": [
+      "Flex the knee and extend the hip.",
+      "Biceps femoris externally rotates, and semitendinosus and semimembranosus internally rotate, the lower leg when the knee is bent."
+    ]},
+    "gastrocnemius": { "name": "Gastrocnemius", "function": [
+      "Plantarflexes the foot (rising onto the toes) and flexes the knee.",
+      "Crosses both the knee and the ankle."
+    ]},
+    "soleus": { "name": "Soleus", "function": [
+      "Plantarflexes the foot (rising onto the toes).",
+      "Acts only at the ankle; it does not cross the knee."
+    ]},
+    "tibialis-anterior": { "name": "Tibialis anterior", "function": [
+      "Dorsiflexes the foot (pulls the toes up) and inverts it."
+    ]},
+    "sternocleidomastoid": { "name": "Sternocleidomastoid", "function": [
+      "One side contracting: tilts the head to the same side and turns the face to the opposite side.",
+      "Both sides contracting: flex the neck and push the head forward; assist inhalation."
+    ]},
+    "splenius": { "name": "Splenius capitis & cervicis", "function": [
+      "Both sides contracting: extend the head and neck (tilt the head back).",
+      "One side contracting: rotates the head to the same side."
+    ]}
+  },
+  "exceptions": {
+    "pectoralis-minor": {
+      "gym": "The pectoralis minor is a deep muscle lying beneath the pectoralis major; it mainly pulls the scapula forward and down to stabilize it. In gym exercises (weighted dips, assisted machine dips, pullovers, serratus punches, dynamic hugs) it plays only a secondary role. Fine-wire EMG studies measured low activity (about 13-18% MVIC) in shoulder exercises, and rehabilitation literature even deliberately reduces its activity to favor the serratus anterior. Therefore no gym exercise reliably targets the pectoralis minor as a primary mover; it is listed as a secondary muscle in the exercises above.",
+      "calisthenics": "This source review found no source listing the pectoralis minor as a primary muscle or measuring strong activity in bodyweight exercises. Pages describing support holds on parallel bars or rings list only the triceps, anterior deltoid and chest as primary muscles. The page describing scapular dips names only the trapezius. SARCO+'s parallel-bar dip and negative dip pages classify the pectoralis minor as a secondary muscle that depresses the scapula under load. Fine-wire EMG research measured only low pectoralis minor activity, about 13-18% MVIC, in shoulder exercises. Therefore the pectoralis minor is listed only as a secondary muscle in support holds, scapular dips and dip variations, so no calisthenics exercise qualifies. Its role in depressing and protracting the scapula is still described on the anatomy page."
+    },
+    "pectoralis-major-clavicular": {
+      "calisthenics": "For the clavicular head (upper chest), the decline push-up (feet elevated) is the only bodyweight exercise that reputable sources explicitly say emphasizes the upper chest. Elevating the feet makes the pressing direction similar to an incline bench press, and an incline of about 30 degrees is the angle that produced the highest clavicular-head activation in EMG research. A biomechanical review of push-ups notes that isolating the clavicular head in other push-up variations has not been studied. Pike push-ups and handstand push-ups press at too steep an angle (near vertical), where the anterior deltoid takes most of the load, so the clavicular head is listed only as secondary. One page claims dips emphasize the upper chest, but another source places dips among lower-chest exercises. Because the sources conflict, dips list the clavicular head only as secondary. Therefore no exercises were added just to reach 3."
+    },
+    "tensor-fasciae-latae": {
+      "calisthenics": "No bodyweight exercise targets the tensor fasciae latae as a primary muscle. The exercises in which it is highly active (side-lying hip abduction - about 42 in Park 2019; hip hike - higher than the upper gluteus maximus according to Selkowitz 2013) are already on the list for the gluteus medius/minimus, so no duplicate exercises were added. See the hip abduction exercises under gluteus medius/minimus."
+    },
+    "levator-scapulae": {
+      "calisthenics": "After the source review, only 2 bodyweight exercises remain with a source naming the levator scapulae as a primary muscle: the isometric lateral neck flexion hold and side-lying lateral neck flexion (Fitness Volt lists Levator Scapulae under 'Primary Muscles' for lateral neck flexion). For neck extension exercises (prone neck extension, neck bridge), sources classify the levator scapulae as secondary, so it was downgraded to secondary. Bodyweight shrugs (handstand shrug, pike shrug) elevate the scapula with the arms overhead, and sources list the upper trapezius and serratus anterior as primary. Regular shrugs require weights, so they belong to Gym. No exercises were invented to reach 3."
+    }
+  },
+  "levels": { "1": "Introductory", "2": "Basic", "3": "Intermediate", "4": "Advanced", "5": "Expert" }
+}

@@ -4,6 +4,7 @@
   "package.json",
   "index.html",
   "vite.config.mjs",
+  "wrangler.jsonc",
   "src/main.jsx",
   "src/App.jsx",
   "src/styles.css",
@@ -47,6 +48,21 @@
   "run/screenshots/qa-mobile-selected.png",
   "run/screenshots/qa-sources.png",
   "ATTRIBUTION.md",
-  "README.md"
+  "README.md",
+  "src/i18n/strings.js",
+  "src/data/i18n/en-meta.json",
+  "src/data/i18n/en-gym.json",
+  "src/data/i18n/en-calisthenics.json",
+  "src/data/videos.json",
+  "src/data/muscle-colors.json",
+  "tools/model/adjacency.mjs",
+  "tools/data/merge-videos.mjs",
+  "scripts/check-colors.mjs",
+  "scripts/check-i18n.mjs",
+  "scripts/check-videos.mjs",
+  "run/harness/check_colors_hover.py",
+  "run/screenshots/qa-en.png",
+  "run/v2/graph.md",
+  "run/v2/checks.md"
  ]
 }

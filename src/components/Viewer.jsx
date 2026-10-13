@@ -1,7 +1,10 @@
 import { useEffect, useRef, useState } from "react";
 import { MuscleViewer } from "../viewer/MuscleViewer.js";
 import { PALETTE } from "../viewer/palette.js";
-import { MUSCLES_JSON } from "../lib/data.js";
+import { MUSCLES_JSON, muscleById, muscleName } from "../lib/data.js";
+import colorsJson from "../data/muscle-colors.json";
+import { useI18n } from "../i18n/lang.js";
+import { useMedia } from "../lib/useMedia.js";
 
 const MUSCLE_VIEW = new Map(MUSCLES_JSON.muscles.map((m) => [m.id, m.view]));
 const MODEL_URL = `${import.meta.env.BASE_URL}models/muscles.glb`;
@@ -18,6 +21,10 @@ function hasWebGL2() {
 const reducedQuery = () => window.matchMedia?.("(prefers-reduced-motion: reduce)");
 
 export function Viewer({ selectedId, onUserSelect, viewerRef, onStatus }) {
+  const { lang, t } = useI18n();
+  const noHover = useMedia("(hover: none)");
+  const canvasLabelRef = useRef(t.canvasLabel);
+  canvasLabelRef.current = t.canvasLabel;
   const hostRef = useRef(null);
   const tipRef = useRef(null);
   const onUserSelectRef = useRef(onUserSelect);
@@ -36,7 +43,7 @@ export function Viewer({ selectedId, onUserSelect, viewerRef, onStatus }) {
     }
     const canvas = document.createElement("canvas");
     canvas.className = "viewer-canvas";
-    canvas.setAttribute("aria-label", "Mô hình 3D cơ thể người. Bấm vào một cơ để chọn.");
+    canvas.setAttribute("aria-label", canvasLabelRef.current);
     canvas.setAttribute("role", "img");
     host.prepend(canvas);
     let mv;
@@ -51,6 +58,8 @@ export function Viewer({ selectedId, onUserSelect, viewerRef, onStatus }) {
       return undefined;
     }
     mv.setMuscleMeta(MUSCLES_JSON);
+    // Tô màu đồ thị: rê vào một cơ → cơ đó và các cơ kề mang màu bảng khác nhau.
+    mv.setColorMeta(colorsJson);
     // select() của MuscleViewer không phát onSelect (tránh vòng lặp). Để mọi lệnh gọi từ bên ngoài
     // (window.__mv.select trong QA/console) cũng cập nhật bảng thông tin, bọc phương thức trên CHÍNH thể hiện này:
     // lệnh gọi ngoài → báo cho App (nguồn sự thật) → App đổi state → hiệu ứng đồng bộ bên dưới gọi bản gốc.
@@ -66,7 +75,7 @@ export function Viewer({ selectedId, onUserSelect, viewerRef, onStatus }) {
     const offSel = mv.onSelect((id) => onUserSelectRef.current?.(id, "viewer"));
     const offHov = mv.onHover((id, info) => {
       if (id) {
-        setHover({ id, name: info?.nameVi || id });
+        setHover(id);
         if (tipRef.current && info && info.x != null) {
           tipRef.current.style.transform = `translate(${info.x + 14}px, ${info.y + 16}px)`;
         }
@@ -99,6 +108,10 @@ export function Viewer({ selectedId, onUserSelect, viewerRef, onStatus }) {
     onStatus?.(status);
   }, [status, onStatus]);
 
+  useEffect(() => {
+    hostRef.current?.querySelector(".viewer-canvas")?.setAttribute("aria-label", t.canvasLabel);
+  }, [t.canvasLabel, status]);
+
   // Đồng bộ lựa chọn từ giao diện → trình xem (không phát lại onSelect).
   useEffect(() => {
     const mv = viewerRef.current;
@@ -128,11 +141,14 @@ export function Viewer({ selectedId, onUserSelect, viewerRef, onStatus }) {
     mv()?.setView(v);
   };
 
+  const hoverName = hover ? muscleName(muscleById.get(hover), lang) || hover : "";
+  const palette = Array.isArray(colorsJson.palette) ? colorsJson.palette : [];
+
   return (
-    <section className="viewer" aria-label="Mô hình 3D">
+    <section className="viewer" aria-label={t.viewer}>
       <div className="viewer-stage" ref={hostRef} onPointerMove={onPointerMove}>
         <div ref={tipRef} className={"viewer-tip" + (hover ? " is-on" : "")} aria-hidden="true">
-          {hover?.name}
+          {hoverName}
         </div>
 
         {status === "loading" && (
@@ -140,20 +156,15 @@ export function Viewer({ selectedId, onUserSelect, viewerRef, onStatus }) {
             <div className="loader" aria-hidden="true">
               <span />
             </div>
-            <p>Đang tải mô hình 3D…</p>
-            <p className="muted small">Khoảng 5 MB, lần đầu có thể mất vài giây.</p>
+            <p>{t.loading}</p>
+            <p className="muted small">{t.loadingSize}</p>
           </div>
         )}
         {(status === "nowebgl" || status === "error") && (
           <div className="viewer-overlay viewer-overlay--msg" role="status">
-            <p className="serif viewer-msg-title">
-              {status === "nowebgl" ? "Trình duyệt không hiển thị được mô hình 3D" : "Không tải được mô hình 3D"}
-            </p>
+            <p className="serif viewer-msg-title">{status === "nowebgl" ? t.noWebglTitle : t.errorTitle}</p>
             <p className="muted">
-              {status === "nowebgl"
-                ? "Thiết bị hoặc trình duyệt này chưa bật WebGL 2."
-                : "Có lỗi khi tải tệp mô hình."}{" "}
-              Bạn vẫn có thể chọn cơ trong danh sách bên cạnh để xem bài tập.
+              {status === "nowebgl" ? t.noWebglMsg : t.errorMsg} {t.stillPick}
             </p>
             {errMsg && <p className="muted small">{errMsg}</p>}
           </div>
@@ -163,33 +174,40 @@ export function Viewer({ selectedId, onUserSelect, viewerRef, onStatus }) {
       {ready && (
         <>
           <div className="viewer-top">
-            <div className="seg" role="group" aria-label="Hướng nhìn">
+            <div className="seg" role="group" aria-label={t.viewGroup}>
               <button type="button" aria-pressed={view === "front"} onClick={() => doView("front")}>
-                Mặt trước
+                {t.front}
               </button>
               <button type="button" aria-pressed={view === "back"} onClick={() => doView("back")}>
-                Mặt sau
+                {t.back}
               </button>
             </div>
-            <ul className="legend" aria-label="Chú giải màu">
-              <li>
-                <i style={{ background: PALETTE.selected }} /> Đang chọn
-              </li>
-              <li>
-                <i style={{ background: PALETTE.muscle }} /> Chọn được
-              </li>
-              <li>
-                <i style={{ background: PALETTE.contextMuscle }} /> Ngữ cảnh
-              </li>
-            </ul>
+            <div className="legend" role="group" aria-label={t.legend}>
+              <ul className="legend-keys">
+                <li>
+                  <i style={{ background: PALETTE.clay }} /> {t.legendSelectable}
+                </li>
+                <li>
+                  <i style={{ background: PALETTE.selected }} /> {t.legendSelected}
+                </li>
+              </ul>
+              <p className="legend-hint">
+                <span className="legend-pal" aria-hidden="true">
+                  {palette.map((c) => (
+                    <i key={c} style={{ background: c }} />
+                  ))}
+                </span>
+                <span>{noHover ? t.legendTouch : t.legendHover}</span>
+              </p>
+            </div>
           </div>
-          <div className="viewer-zoom" role="group" aria-label="Điều khiển camera">
-            <button type="button" className="icon-btn" aria-label="Phóng to" title="Phóng to" onClick={() => mv()?.zoomBy(1)}>
+          <div className="viewer-zoom" role="group" aria-label={t.camera}>
+            <button type="button" className="icon-btn" aria-label={t.zoomIn} title={t.zoomIn} onClick={() => mv()?.zoomBy(1)}>
               <svg viewBox="0 0 20 20" aria-hidden="true">
                 <path d="M10 4v12M4 10h12" />
               </svg>
             </button>
-            <button type="button" className="icon-btn" aria-label="Thu nhỏ" title="Thu nhỏ" onClick={() => mv()?.zoomBy(-1)}>
+            <button type="button" className="icon-btn" aria-label={t.zoomOut} title={t.zoomOut} onClick={() => mv()?.zoomBy(-1)}>
               <svg viewBox="0 0 20 20" aria-hidden="true">
                 <path d="M4 10h12" />
               </svg>
@@ -197,6 +215,7 @@ export function Viewer({ selectedId, onUserSelect, viewerRef, onStatus }) {
             <button
               type="button"
               className="icon-btn icon-btn--text"
+              title={t.resetView}
               onClick={() => {
                 setView("front");
                 mv()?.resetView();
@@ -205,10 +224,10 @@ export function Viewer({ selectedId, onUserSelect, viewerRef, onStatus }) {
               <svg viewBox="0 0 20 20" aria-hidden="true">
                 <path d="M4.5 9.5a5.5 5.5 0 1 1 1.6 3.9M4.5 15v-4h4" />
               </svg>
-              <span>Đặt lại góc nhìn</span>
+              <span>{t.resetView}</span>
             </button>
           </div>
-          <p className="viewer-hint">Kéo để xoay · cuộn để phóng to · bấm lần nữa cùng chỗ để chọn cơ nằm sâu hơn</p>
+          <p className="viewer-hint">{noHover ? t.hintTouch : t.hintMouse}</p>
         </>
       )}
     </section>

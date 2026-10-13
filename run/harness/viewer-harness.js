@@ -1,12 +1,15 @@
-// Harness cho N7: tải GLB vào MuscleViewer, nạp muscles.json, ghi trạng thái lên window cho Playwright.
+// Harness cho N7/V4: tải GLB vào MuscleViewer, nạp muscles.json + muscle-colors.json, ghi trạng thái lên window cho Playwright.
 import { MuscleViewer } from "/src/viewer/MuscleViewer.js";
 import muscles from "/src/data/muscles.json";
+import muscleColors from "/src/data/muscle-colors.json";
 
 const params = new URLSearchParams(location.search);
 const canvas = document.getElementById("c");
 const label = document.getElementById("label");
 const mv = new MuscleViewer(canvas, { reducedMotion: params.has("reduced") });
 mv.setMuscleMeta(muscles);
+mv.setColorMeta(muscleColors);
+window.__muscleColors = muscleColors;
 window.__harness = { ready: false, events: [], hover: null };
 const name = (id) => muscles.muscles.find((m) => m.id === id)?.nameVi ?? "—";
 mv.onSelect((id, info) => {

@@ -1,30 +1,31 @@
 import { STATS } from "../lib/data.js";
+import { useI18n } from "../i18n/lang.js";
 import { MusclePicker } from "./MusclePicker.jsx";
 
 export function EmptyState({ onPick, webglOk }) {
+  const { t } = useI18n();
   return (
     <div className="empty">
-      <p className="eyebrow">Atlas tập luyện</p>
-      <h2 className="empty-title">Chọn một cơ để xem bài tập dành cho nó</h2>
-      <p className="empty-lede">
-        {STATS.muscles} cơ và nhóm cơ, {STATS.gym + STATS.calisthenics} bài Gym và Calisthenics. Mỗi danh sách xếp từ dễ đến
-        khó, kèm cách thực hiện, lưu ý an toàn và nguồn tham khảo.
-      </p>
+      <p className="eyebrow">{t.eyebrow}</p>
+      <h2 className="empty-title">{t.emptyTitle}</h2>
+      <p className="empty-lede">{t.emptyLede(STATS.muscles, STATS.gym + STATS.calisthenics)}</p>
       <ol className="howto">
         <li>
           <span>
-            <b>Bấm vào một cơ</b> trên mô hình{webglOk ? "" : " (nếu thiết bị hiển thị được 3D)"}, hoặc tìm trong danh
-            sách bên dưới.
+            <b>{t.how1b}</b>
+            {t.how1(webglOk)}
           </span>
         </li>
         <li>
           <span>
-            <b>Bấm lần nữa cùng chỗ</b> để chọn cơ nằm sâu hơn ở lớp dưới.
+            <b>{t.how2b}</b>
+            {t.how2}
           </span>
         </li>
         <li>
           <span>
-            <b>Mở một bài</b> để xem độ khó, cơ chính, cơ phụ và từng bước.
+            <b>{t.how3b}</b>
+            {t.how3}
           </span>
         </li>
       </ol>

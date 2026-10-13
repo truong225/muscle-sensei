@@ -1,7 +1,9 @@
 import { useEffect, useRef } from "react";
+import { useI18n } from "../i18n/lang.js";
 
 /** Hộp thoại dạng modal dùng <dialog> gốc (bẫy tiêu điểm, Esc để đóng). */
 export function Dialog({ open, onClose, title, labelId, className = "", children }) {
+  const { t } = useI18n();
   const ref = useRef(null);
   const onCloseRef = useRef(onClose);
   onCloseRef.current = onClose;
@@ -47,7 +49,7 @@ export function Dialog({ open, onClose, title, labelId, className = "", children
           <h2 id={labelId} className="dlg-title">
             {title}
           </h2>
-          <button type="button" className="icon-btn" aria-label="Đóng" onClick={() => ref.current?.close()}>
+          <button type="button" className="icon-btn" aria-label={t.close} onClick={() => ref.current?.close()}>
             <svg viewBox="0 0 20 20" aria-hidden="true">
               <path d="M5 5l10 10M15 5L5 15" />
             </svg>
